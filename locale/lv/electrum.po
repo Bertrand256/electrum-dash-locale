@@ -14,18 +14,17 @@ msgstr ""
 "POT-Creation-Date: 2021-09-09 19:20+0300\n"
 "PO-Revision-Date: 2018-12-09 13:08+0000\n"
 "Last-Translator: Leon White <leon.white@dash.org>, 2018\n"
-"Language-Team: Portuguese (Portugal) (https://app.transifex.com/dash/"
-"teams/37570/pt_PT/)\n"
-"Language: pt_PT\n"
+"Language-Team: Latvian (https://app.transifex.com/dash/teams/37570/lv/)\n"
+"Language: lv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % "
-"1000000 == 0 ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : "
+"2);\n"
 
 #: electrum_dash/exchange_rate.py:457
 msgid "  (No FX rate available)"
-msgstr "  (Sem a taxa FX disponível)"
+msgstr "  (valūtas kurss nav pieejams)"
 
 #: electrum_dash/gui/qt/history_list.py:345
 msgid " confirmation"
@@ -48,12 +47,12 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:938
 msgid "&About"
-msgstr "&Sobre"
+msgstr "&Par"
 
 #: electrum_dash/gui/qt/main_window.py:286
 #: electrum_dash/gui/qt/main_window.py:864
 msgid "&Addresses"
-msgstr "&Endereços"
+msgstr "&Adreses"
 
 #: electrum_dash/gui/qt/main_window.py:943
 msgid "&Automated Crash Reports"
@@ -81,31 +80,31 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:942
 msgid "&Documentation"
-msgstr "&Documentação"
+msgstr "&Dokumentācija"
 
 #: electrum_dash/gui/qt/main_window.py:951
 msgid "&Donate to server"
-msgstr "&Doar ao servidor"
+msgstr "Zie&dot serverim"
 
 #: electrum_dash/gui/qt/main_window.py:924
 msgid "&Encrypt/decrypt message"
-msgstr "&Encriptar/desencriptar mensagem"
+msgstr "&Šifrēt/atšifrēt ziņojumu"
 
 #: electrum_dash/gui/qt/main_window.py:859
 #: electrum_dash/gui/qt/main_window.py:870
 #: electrum_dash/gui/qt/main_window.py:875
 msgid "&Export"
-msgstr "&Exportar"
+msgstr "&Eksportēt"
 
 #: electrum_dash/gui/qt/main_window.py:839
 msgid "&File"
-msgstr "&Ficheiro"
+msgstr "&Fails"
 
 #: electrum_dash/gui/qt/main_window.py:865
 #: electrum_dash/gui/qt/main_window.py:867
 #: electrum_dash/gui/qt/main_window.py:872
 msgid "&Filter"
-msgstr "&Filtro"
+msgstr "&Filtrs"
 
 #: electrum_dash/gui/qt/qrreader/qtmultimedia/camera_dialog.py:138
 msgid "&Flip horizontally"
@@ -113,96 +112,96 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:933
 msgid "&From QR code"
-msgstr "&De código QR"
+msgstr "No &QR koda"
 
 #: electrum_dash/gui/qt/main_window.py:930
 msgid "&From file"
-msgstr "&De um ficheiro"
+msgstr "No &faila"
 
 #: electrum_dash/gui/qt/main_window.py:931
 msgid "&From text"
-msgstr "&De texto"
+msgstr "No &teksta"
 
 #: electrum_dash/gui/qt/main_window.py:932
 msgid "&From the blockchain"
-msgstr "&Da blockchain"
+msgstr "No &blokķēdes"
 
 #: electrum_dash/gui/qt/main_window.py:937
 msgid "&Help"
-msgstr "&Ajuda"
+msgstr "&Palīdzība"
 
 #: electrum_dash/gui/qt/main_window.py:871
 msgid "&History"
-msgstr "&Histórico"
+msgstr "&Vēsture"
 
 #: electrum_dash/gui/qt/main_window.py:855
 #: electrum_dash/gui/qt/main_window.py:869
 msgid "&Import"
-msgstr "&Importar"
+msgstr "&Importēt"
 
 #: electrum_dash/gui/qt/main_window.py:849
 msgid "&Information"
-msgstr "&Informações"
+msgstr "&Informācija"
 
 #: electrum_dash/gui/qt/main_window.py:868
 msgid "&Labels"
-msgstr "&Etiquetas"
+msgstr "&Etiķetes"
 
 #: electrum_dash/gui/qt/main_window.py:929
 msgid "&Load transaction"
-msgstr "&Carregar transação"
+msgstr "&Ielādēt transakciju"
 
 #: electrum_dash/gui/qt/main_window.py:920
 msgid "&Network"
-msgstr "&Rede"
+msgstr "&Tīkls"
 
 #: electrum_dash/gui/qt/main_window.py:877
 msgid "&New"
-msgstr "&Novo"
+msgstr "&Jauns"
 
 #: electrum_dash/gui/qt/main_window.py:842
 msgid "&New/Restore"
-msgstr "&Nova/Restaurar"
+msgstr "&Jauns/atjaunot"
 
 #: electrum_dash/gui/qt/main_window.py:940
 msgid "&Official website"
-msgstr "&Site oficial"
+msgstr "&Oficiālā tīmekļa vietne"
 
 #: electrum_dash/gui/qt/main_window.py:841
 msgid "&Open"
-msgstr "&Abrir"
+msgstr "&Atvērt"
 
 #: electrum_dash/gui/qt/main_window.py:851
 msgid "&Password"
-msgstr "&Palavra-passe"
+msgstr "&Parole"
 
 #: electrum_dash/gui/qt/main_window.py:927
 msgid "&Pay to many"
-msgstr "&Pagar a vários"
+msgstr "&Maksāt vairākiem"
 
 #: electrum_dash/gui/qt/main_window.py:874
 msgid "&Plot"
-msgstr "&Enredo"
+msgstr "&Grafiks"
 
 #: electrum_dash/gui/qt/main_window.py:921
 msgid "&Plugins"
-msgstr "&Plugins"
+msgstr "&Spraudņi"
 
 #: electrum_dash/gui/qt/main_window.py:853
 msgid "&Private keys"
-msgstr "&Chaves privadas"
+msgstr "&Privātās atslēgas"
 
 #: electrum_dash/gui/qt/main_window.py:846
 msgid "&Quit"
-msgstr "&Sair"
+msgstr "&Iziet"
 
 #: electrum_dash/gui/qt/main_window.py:840
 msgid "&Recently open"
-msgstr "&Aberto recentemente"
+msgstr "&Nesen atvērtie"
 
 #: electrum_dash/gui/qt/main_window.py:949
 msgid "&Report Bug"
-msgstr "&Relatar uma falha"
+msgstr "&Ziņot par kļūdu"
 
 #: electrum_dash/gui/qt/main_window.py:843
 msgid "&Save backup"
@@ -210,35 +209,35 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:852
 msgid "&Seed"
-msgstr "&Semente"
+msgstr "&Sēkla"
 
 #: electrum_dash/gui/qt/main_window.py:923
 msgid "&Sign/verify message"
-msgstr "&Assinar/verificar a mensagem"
+msgstr "&Parakstīt/pārbaudīt ziņojumu"
 
 #: electrum_dash/gui/qt/main_window.py:873
 msgid "&Summary"
-msgstr "&Resumo"
+msgstr "&Kopsavilkums"
 
 #: electrum_dash/gui/qt/main_window.py:854
 msgid "&Sweep"
-msgstr "&Varrimento"
+msgstr "&Izslaucīt"
 
 #: electrum_dash/gui/qt/main_window.py:909
 msgid "&Tools"
-msgstr "&Ferramentas"
+msgstr "&Rīki"
 
 #: electrum_dash/gui/qt/main_window.py:897
 msgid "&View"
-msgstr "&Ver"
+msgstr "Skats"
 
 #: electrum_dash/gui/qt/main_window.py:848
 msgid "&Wallet"
-msgstr "&Carteira"
+msgstr "&Maciņš"
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:606
 msgid "(Touch {} of {})"
-msgstr "(Touch {} of {})"
+msgstr ""
 
 #: electrum_dash/plugins/virtualkeyboard/qt.py:15
 msgid "+"
@@ -246,19 +245,19 @@ msgstr "+"
 
 #: electrum_dash/invoices.py:60
 msgid "1 day"
-msgstr "1 dia"
+msgstr "1 diena"
 
 #: electrum_dash/invoices.py:59
 msgid "1 hour"
-msgstr "1 hora"
+msgstr "1 stunda"
 
 #: electrum_dash/invoices.py:61
 msgid "1 week"
-msgstr "1 semana"
+msgstr "1 nedēļa"
 
 #: electrum_dash/plugins/revealer/qt.py:456
 msgid "1. Place this paper on a flat and well iluminated surface."
-msgstr "1. Coloque esse papel em uma superfície reta e bem iluminada."
+msgstr ""
 
 #: electrum_dash/invoices.py:58
 msgid "10 minutes"
@@ -268,8 +267,6 @@ msgstr ""
 msgid ""
 "2. Align your Revealer borderlines to the dashed lines on the top and left."
 msgstr ""
-"2. Alinhe as linhas de borda do Revealer com as linhas tracejadas na parte "
-"superior e esquerda."
 
 #: electrum_dash/gui/qt/main_window.py:1659
 msgid "2fa fee: {} (for the next batch of transactions)"
@@ -280,36 +277,35 @@ msgid ""
 "3. Press slightly the Revealer against the paper and read the numbers that "
 "best match on the opposite sides. "
 msgstr ""
-"3. Pressione levemente o Revealer contra o papel e leia os números que "
-"melhor combinam com os lados opostos. "
 
 #: electrum_dash/plugins/revealer/qt.py:460
 msgid "4. Type the numbers in the software"
-msgstr "4. Digite os números no software"
+msgstr ""
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:185
 msgid "A backup is saved automatically when generating a new wallet."
-msgstr "Um backup é salvo automaticamente quando gerado uma nova carteira."
+msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:799
 msgid "A copy of your wallet file was created in"
-msgstr "Uma cópia dos seu ficheiro de carteira foi criado em"
+msgstr "Maciņa kopija tika izveidota"
 
 #: electrum_dash/gui/qt/installwizard.py:49
 msgid "A few examples"
-msgstr ""
+msgstr "Daži piemēri"
 
 #: electrum_dash/plugin.py:518
 msgid "A library is probably missing."
-msgstr "Uma library provavelmente está faltando."
+msgstr ""
 
 #: electrum_dash/gui/qt/confirm_tx_dialog.py:152
 msgid ""
 "A suggested fee is automatically added to this field. You may override it. "
 "The suggested fee increases with the size of the transaction."
 msgstr ""
-"Uma taxa de transação sugerida será adicionada a este campo. Pode alterar a "
-"sugestão. A taxa sugerida aumenta com o tamanho da transação."
+"Ieteicamā transakcijas komisijas maksa tiek automātiski pievienota šajā "
+"lauciņā, jūs varat to pārrakstīt. Ieteicamā komisijas maksa palielinās līdz "
+"ar transakcijas izmēru."
 
 #: electrum_dash/dash_msg.py:134
 msgid "ACCEPTING_ENTRIES"
@@ -317,11 +313,11 @@ msgstr ""
 
 #: electrum_dash/gui/kivy/main.kv:496
 msgid "About"
-msgstr "Sobre"
+msgstr "Par"
 
 #: electrum_dash/gui/kivy/uix/ui_screens/about.kv:4
 msgid "About Dash Electrum"
-msgstr "Sobre a Dash Electrum"
+msgstr "Par Dash Electrum"
 
 #: electrum_dash/gui/kivy/uix/dialogs/privatesend.py:972
 #: electrum_dash/gui/qt/privatesend_dialog.py:709
@@ -330,12 +326,12 @@ msgstr ""
 
 #: electrum_dash/plugins/keepkey/qt.py:75
 msgid "Accept Word"
-msgstr "Palavra Aceita"
+msgstr ""
 
 #: electrum_dash/gui/qt/history_list.py:678
 #: electrum_dash/gui/qt/history_list.py:856
 msgid "Acquisition price"
-msgstr "Preço de aquisição"
+msgstr "Iegādes cena"
 
 #: electrum_dash/gui/kivy/uix/dialogs/dash_net.py:545
 #: electrum_dash/gui/qt/dash_net_dialog.py:131
@@ -350,7 +346,7 @@ msgstr ""
 #: electrum_dash/gui/kivy/uix/dialogs/installwizard.py:1279
 #: electrum_dash/gui/qt/installwizard.py:495
 msgid "Add Cosigner"
-msgstr "Adicionar cossignatário"
+msgstr "Pievienot papildparakstītāju"
 
 #: electrum_dash/gui/qt/protx_wizards.py:1722
 msgid "Add DIP3 Masternode - {}"
@@ -358,15 +354,15 @@ msgstr ""
 
 #: electrum_dash/base_wizard.py:219
 msgid "Add a cosigner to your multi-sig wallet"
-msgstr "Adicione um cosigner para sua carteira de multi assinatura"
+msgstr "Pievienot līdzparakstītāju savam daudzparakstu maciņam"
 
 #: electrum_dash/plugins/virtualkeyboard/__init__.py:4
 msgid "Add an optional virtual keyboard to the password dialog."
-msgstr "Adicione um teclado virtual opcional quando for digitar a senha."
+msgstr ""
 
 #: electrum_dash/base_wizard.py:207
 msgid "Add cosigner"
-msgstr "Adicione um cosigner"
+msgstr "Pievienot papildparakstītāju"
 
 #: electrum_dash/plugins/scan_over_gap/scan_over_gap.py:99
 msgid "Add found coins to wallet"
@@ -378,7 +374,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/confirm_tx_dialog.py:157
 msgid "Additional fees"
-msgstr "Taxas adicionais"
+msgstr "Papildu komisijas maksas"
 
 #: electrum_dash/gui/qt/transaction_dialog.py:879
 msgid "Additional {} duffs are going to be added."
@@ -396,7 +392,7 @@ msgstr ""
 #: electrum_dash/gui/qt/address_list.py:156 electrum_dash/gui/qt/util.py:418
 #: electrum_dash/gui/qt/utxo_list.py:92
 msgid "Address"
-msgstr "Endereço"
+msgstr "Adrese"
 
 #: electrum_dash/gui/kivy/uix/dialogs/addresses.py:238
 msgid "Address Details"
@@ -404,7 +400,7 @@ msgstr ""
 
 #: electrum_dash/gui/kivy/main.kv:154
 msgid "Address copied to clipboard"
-msgstr "O endereço foi copiado para a área de transferência"
+msgstr "Adrese iekopēta starpliktuvē"
 
 #: electrum_dash/gui/qt/utxo_list.py:200 electrum_dash/gui/qt/utxo_list.py:581
 msgid "Address is frozen"
@@ -417,19 +413,19 @@ msgstr ""
 #: electrum_dash/gui/qt/main_window.py:2910 electrum_dash/wallet.py:504
 #: electrum_dash/wallet.py:1917 electrum_dash/plugins/hw_wallet/plugin.py:132
 msgid "Address not in wallet."
-msgstr "Endereço não está na carteira."
+msgstr "Adrese nav maciņā."
 
 #: electrum_dash/gui/text.py:105 electrum_dash/gui/kivy/main.kv:511
 #: electrum_dash/plugins/scan_over_gap/scan_over_gap.py:110
 msgid "Addresses"
-msgstr "Endereços"
+msgstr ""
 
 #: electrum_dash/gui/qt/confirm_tx_dialog.py:176
 #: electrum_dash/plugins/trezor/qt.py:766
 #: electrum_dash/plugins/safe_t/qt.py:498
 #: electrum_dash/plugins/keepkey/qt.py:568
 msgid "Advanced"
-msgstr "Avançado"
+msgstr ""
 
 #: electrum_dash/gui/qt/settings_dialog.py:212
 msgid "Advanced preview"
@@ -444,11 +440,6 @@ msgid ""
 "to create a new wallet with the install wizard.  You can use this wallet "
 "again at any time by re-enabling passphrases and entering its passphrase."
 msgstr ""
-"Depois de desabilitar as passphrases você só pode emparelhar essa carteira "
-"Dash Electrum se tiver uma passphrase vazia. Se a passphrase não estiver "
-"vazia, você precisará criar uma nova carteira com o assistente de "
-"instalação. Você pode usar essa carteira novamente a qualquer momento, "
-"reativando as passphrases e digitando sua passphrase."
 
 #: electrum_dash/gui/qt/protx_qt.py:200
 msgid "Alias"
@@ -462,7 +453,7 @@ msgstr ""
 #: electrum_dash/gui/qt/address_list.py:96 electrum_dash/gui/qt/utxo_list.py:59
 #: electrum_dash/gui/qt/utxo_list.py:73
 msgid "All"
-msgstr "Tudo"
+msgstr "Viss"
 
 #: electrum_dash/dash_ps_util.py:913
 msgid "Allow spend other PS coins"
@@ -482,7 +473,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/transaction_dialog.py:822
 msgid "Also, dust is not kept as change, but added to the fee."
-msgstr "Além disso, o dust não é mantido como change, mas adicionada à taxa."
+msgstr "Sīks atlikums netiek paturēts, bet pievienots komisijas maksai."
 
 #: electrum_dash/gui/qt/installwizard.py:238
 msgid "Alternatively"
@@ -505,7 +496,7 @@ msgstr ""
 #: electrum_dash/gui/qt/history_list.py:685
 #: electrum_dash/gui/qt/request_list.py:61 electrum_dash/gui/qt/utxo_list.py:96
 msgid "Amount"
-msgstr "Quantia"
+msgstr "Summa"
 
 #: electrum_dash/gui/qt/main_window.py:1521
 msgid "Amount available for current send options"
@@ -521,47 +512,47 @@ msgstr ""
 
 #: electrum_dash/gui/qt/transaction_dialog.py:496
 msgid "Amount received:"
-msgstr "Quantia recebida:"
+msgstr "Saņemtā summa:"
 
 #: electrum_dash/gui/qt/transaction_dialog.py:498
 msgid "Amount sent:"
-msgstr "Quantia enviada:"
+msgstr "Nosūtītā summa:"
 
 #: electrum_dash/gui/qt/confirm_tx_dialog.py:147
 msgid "Amount to be sent"
-msgstr "Quantia a enviar"
+msgstr "Summa nosūtīšanai"
 
 #: electrum_dash/gui/qt/main_window.py:1538
 msgid "Amount to be sent."
-msgstr "Quantia a ser enviada."
+msgstr "Summa, cik nosūtīt."
 
 #: electrum_dash/gui/qt/exception_window.py:55
 msgid "An Error Occurred"
-msgstr "Ocorreu Um Erro"
+msgstr "Gadījās kļūda"
 
 #: electrum_dash/plugins/cosigner_pool/qt.py:224
 #: electrum_dash/plugins/cosigner_pool/qt.py:229
 #: electrum_dash/plugins/cosigner_pool/qt.py:235
 msgid "An encrypted transaction was retrieved from cosigning pool."
-msgstr "Uma transação criptografada foi recuperada do cosigning pool."
+msgstr ""
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:181
 msgid "An uninitialized Digital Bitbox is detected."
-msgstr "Um Digital Bitbox não inicializado, foi detectado."
+msgstr ""
 
 #: electrum_dash/plugin.py:671 electrum_dash/base_wizard.py:355
 msgid "An unnamed {}"
-msgstr "Um sem nome {}"
+msgstr "Nenosaukts {}"
 
 #: electrum_dash/plugins/trezor/qt.py:647
 #: electrum_dash/plugins/safe_t/qt.py:379
 #: electrum_dash/plugins/keepkey/qt.py:472
 msgid "Apply"
-msgstr "Aplicar"
+msgstr ""
 
 #: electrum_dash/i18n.py:51
 msgid "Arabic"
-msgstr "Árabe"
+msgstr "Arābu"
 
 #: electrum_dash/plugins/trezor/qt.py:590
 #: electrum_dash/plugins/safe_t/qt.py:322
@@ -583,29 +574,28 @@ msgstr ""
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:314
 msgid "Are you sure you want to erase the Digital Bitbox?"
-msgstr "Você tem certeza que deseja apagar o Digital Bitbox?"
+msgstr ""
 
 #: electrum_dash/plugins/trezor/qt.py:541
 #: electrum_dash/plugins/safe_t/qt.py:273
 #: electrum_dash/plugins/keepkey/qt.py:397
 msgid "Are you sure you want to proceed?"
-msgstr "Tem certeza que deseja prosseguir?"
+msgstr ""
 
 #: electrum_dash/gui/kivy/uix/dialogs/tx_dialog.py:234
 #: electrum_dash/gui/qt/history_list.py:1060
 msgid ""
 "Are you sure you want to remove this transaction and {} child transactions?"
-msgstr ""
-"Você tem certeza que deseja remover esta transação e {} as transações filhas?"
+msgstr "Vai tiešām vēlaties izņemt šo transakciju un {} bērnu transakcijas?"
 
 #: electrum_dash/gui/kivy/uix/dialogs/tx_dialog.py:232
 #: electrum_dash/gui/qt/history_list.py:1058
 msgid "Are you sure you want to remove this transaction?"
-msgstr "Tem certeza que deseja remover esta transação?"
+msgstr "Vai tiešām vēlaties noņemt šo transakciju?"
 
 #: electrum_dash/i18n.py:64
 msgid "Armenian"
-msgstr "Armênio"
+msgstr "Armēņu"
 
 #: electrum_dash/gui/qt/transaction_dialog.py:485
 msgid "At block height: {}"
@@ -629,11 +619,11 @@ msgstr ""
 
 #: electrum_dash/gui/qt/installwizard.py:842
 msgid "Auto connect"
-msgstr "Ligar automaticamente"
+msgstr "Savienoties automātiski"
 
 #: electrum_dash/gui/kivy/uix/ui_screens/network.kv:44
 msgid "Auto-connect"
-msgstr "Ligar automaticamente"
+msgstr "Savienoties automātiski"
 
 #: electrum_dash/gui/qt/settings_dialog.py:189
 msgid "Automatically check for software updates"
@@ -649,19 +639,23 @@ msgstr ""
 
 #: electrum_dash/gui/qt/seed_dialog.py:74
 msgid "BIP39 seed"
-msgstr "Semente BIP39"
+msgstr "BIP39 sēkla"
 
 #: electrum_dash/gui/qt/seed_dialog.py:95
 msgid ""
 "BIP39 seeds can be imported in Dash Electrum, so that users can access funds "
 "locked in other wallets."
 msgstr ""
+"Dash Electrum var importēt BIP39 sēklas, lai lietotāji varētu piekļūt citos "
+"maciņos piesaistītajiem līdzekļiem."
 
 #: electrum_dash/gui/qt/seed_dialog.py:97
 msgid ""
 "BIP39 seeds do not include a version number, which compromises compatibility "
 "with future software."
 msgstr ""
+"BIP39 sēklas neiekļauj versijas numuru, tas nākotnē var traucēt "
+"programmatūras saderībai."
 
 #: electrum_dash/gui/qt/main_window.py:2520
 msgid "BIP70 invoice saved as {}"
@@ -693,7 +687,7 @@ msgstr ""
 #: electrum_dash/gui/qt/installwizard.py:169
 #: electrum_dash/gui/qt/installwizard.py:170
 msgid "Back"
-msgstr "Voltar"
+msgstr "Atpakaļ"
 
 #: electrum_dash/gui/kivy/main_window.py:1572
 msgid "Backup NOT saved. Backup directory not configured."
@@ -720,7 +714,7 @@ msgstr ""
 #: electrum_dash/gui/qt/address_list.py:158
 #: electrum_dash/gui/qt/address_list.py:159
 msgid "Balance"
-msgstr "Saldo"
+msgstr "Bilance"
 
 #: electrum_dash/gui/qt/dash_net_dialog.py:57
 msgid "Ban"
@@ -740,15 +734,15 @@ msgstr ""
 
 #: electrum_dash/gui/text.py:105
 msgid "Banner"
-msgstr "Banner"
+msgstr ""
 
 #: electrum_dash/gui/qt/settings_dialog.py:124
 msgid "Base unit"
-msgstr "Unidade base"
+msgstr "Pamata vienība"
 
 #: electrum_dash/gui/qt/settings_dialog.py:121
 msgid "Base unit of your wallet."
-msgstr "Unidade base da sua carteira."
+msgstr "Maciņa pamata vienība."
 
 #: electrum_dash/gui/qt/invoice_list.py:155
 msgid "Batch pay invoices"
@@ -759,9 +753,9 @@ msgid ""
 "Before reporting a bug, upgrade to the most recent version of Dash Electrum "
 "(latest release or git HEAD), and include the version number in your report."
 msgstr ""
-"Antes de reportar um erro, atualize para a versão mais recente do Dash "
-"Electrum (versão mais recente ou git HEAD) e inclua o número da versão no "
-"seu relatório."
+"Pirms ziņot par problēmu, pārliecinieties vai izmantojat jaunāko Dash "
+"Electrum versiju (jaunāko laidienu vai git HEAD), un iekļaujiet versijas "
+"numuru jūsu ziņojumā."
 
 #: electrum_dash/gui/qt/history_list.py:837
 msgid "Begin"
@@ -769,7 +763,7 @@ msgstr ""
 
 #: electrum_dash/plugins/audio_modem/qt.py:58
 msgid "Bit rate [kbps]: "
-msgstr ""
+msgstr "Bitu ātrums [kbps]: "
 
 #: electrum_dash/gui/qt/locktimeedit.py:36
 msgid "Block height"
@@ -778,7 +772,7 @@ msgstr ""
 #: electrum_dash/gui/kivy/uix/ui_screens/network.kv:58
 #: electrum_dash/gui/qt/network_dialog.py:315
 msgid "Blockchain"
-msgstr "Blockchain"
+msgstr "Blokķēde"
 
 #: electrum_dash/plugins/trezor/qt.py:624
 #: electrum_dash/plugins/safe_t/qt.py:356
@@ -788,24 +782,24 @@ msgstr ""
 
 #: electrum_dash/plugins/revealer/qt.py:742
 msgid "Bottom"
-msgstr "Inferior"
+msgstr ""
 
 #: electrum_dash/i18n.py:73
 msgid "Brasilian"
-msgstr "Brasileiro"
+msgstr "Brazīliešu"
 
 #: electrum_dash/gui/kivy/uix/dialogs/tx_dialog.py:202
 #: electrum_dash/gui/qt/transaction_dialog.py:169
 msgid "Broadcast"
-msgstr "Transmitir"
+msgstr "Apraide"
 
 #: electrum_dash/gui/qt/main_window.py:2234
 msgid "Broadcasting transaction..."
-msgstr "A transmitir a transação..."
+msgstr "Apraida transakciju..."
 
 #: electrum_dash/i18n.py:52
 msgid "Bulgarian"
-msgstr "Búlgaro"
+msgstr "Bulgāru"
 
 #: electrum_dash/network.py:260
 msgid "Bypass Tor proxy for Fiat rates loading"
@@ -839,7 +833,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/history_list.py:886
 msgid "Can't plot history."
-msgstr ""
+msgstr "Nevar izveidot vēstures grafiku."
 
 #: electrum_dash/gui/kivy/main_window.py:1454
 #: electrum_dash/gui/qt/installwizard.py:103
@@ -847,7 +841,7 @@ msgstr ""
 #: electrum_dash/gui/qt/installwizard.py:845 electrum_dash/gui/qt/util.py:204
 #: electrum_dash/plugins/trezor/qt.py:71 electrum_dash/plugins/keepkey/qt.py:83
 msgid "Cancel"
-msgstr "Cancelar"
+msgstr "Atcelt"
 
 #: electrum_dash/plugins/ledger/ledger.py:391
 #: electrum_dash/plugins/ledger/ledger.py:404
@@ -857,11 +851,11 @@ msgstr ""
 
 #: electrum_dash/base_wizard.py:629
 msgid "Cannot add this cosigner:"
-msgstr ""
+msgstr "Nevar pievienot šo līdzparakstītāju:"
 
 #: electrum_dash/gui/kivy/main_window.py:1374
 msgid "Cannot broadcast transaction"
-msgstr "Não é possivel transmitir transacção"
+msgstr "Neizdevās apraidīt transakciju"
 
 #: electrum_dash/gui/qt/__init__.py:344
 msgid "Cannot create window for wallet"
@@ -875,7 +869,7 @@ msgstr ""
 #: electrum_dash/gui/qt/installwizard.py:274
 #: electrum_dash/gui/qt/installwizard.py:297
 msgid "Cannot read file"
-msgstr "Não é possível ler o ficheiro"
+msgstr "Nevar nolasīt failu"
 
 #: electrum_dash/gui/kivy/main_window.py:1578
 msgid "Cannot save backup without STORAGE permission"
@@ -883,7 +877,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:2917
 msgid "Cannot sign messages with this type of address:"
-msgstr ""
+msgstr "Nevar parakstīt ziņojumus ar šāda tipa adresi:"
 
 #: electrum_dash/gui/qt/qrreader/qtmultimedia/camera_dialog.py:335
 msgid "Cannot start QR scanner, camera is unavailable."
@@ -903,7 +897,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/history_list.py:679
 msgid "Capital Gains"
-msgstr ""
+msgstr "Kapitāla pieaugums"
 
 #: electrum_dash/gui/qt/history_list.py:877
 msgid "Cash flow"
@@ -921,7 +915,7 @@ msgstr ""
 #: electrum_dash/gui/qt/address_list.py:72
 #: electrum_dash/plugins/scan_over_gap/scan_over_gap.py:74
 msgid "Change"
-msgstr "Troco"
+msgstr "Atlikums"
 
 #: electrum_dash/gui/qt/transaction_dialog.py:145
 msgid "Change Address"
@@ -931,13 +925,13 @@ msgstr ""
 #: electrum_dash/plugins/safe_t/qt.py:231
 #: electrum_dash/plugins/keepkey/qt.py:353
 msgid "Change PIN"
-msgstr "Alterar PIN"
+msgstr ""
 
 #: electrum_dash/gui/qt/privatesend_dialog.py:847
 #: electrum_dash/gui/qt/privatesend_dialog.py:911
 #: electrum_dash/gui/qt/password_dialog.py:63
 msgid "Change Password"
-msgstr "Mudar senha"
+msgstr "Mainīt paroli"
 
 #: electrum_dash/dash_tx.py:572
 msgid "Change of Keys"
@@ -946,7 +940,7 @@ msgstr ""
 #: electrum_dash/plugins/trezor/qt.py:671
 #: electrum_dash/plugins/safe_t/qt.py:403
 msgid "Change..."
-msgstr "Trocar..."
+msgstr ""
 
 #: electrum_dash/dash_ps_util.py:984
 msgid "Check Log For Errors"
@@ -964,20 +958,20 @@ msgstr ""
 
 #: electrum_dash/i18n.py:85
 msgid "Chinese Simplified"
-msgstr "Chinês (Simplificado)"
+msgstr "Ķīniešu vienkāršotā"
 
 #: electrum_dash/i18n.py:86
 msgid "Chinese Traditional"
-msgstr "Chinês (Tradicional)"
+msgstr "Ķīniešu tradicionālā"
 
 #: electrum_dash/plugins/trezor/qt.py:549
 #: electrum_dash/plugins/safe_t/qt.py:281
 msgid "Choose Homescreen"
-msgstr "Escolha a Tela Inicial"
+msgstr ""
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:330
 msgid "Choose a backup file:"
-msgstr "Escolha o arquivo de backup:"
+msgstr ""
 
 #: electrum_dash/gui/kivy/uix/dialogs/installwizard.py:1322
 msgid "Choose a password"
@@ -985,11 +979,11 @@ msgstr ""
 
 #: electrum_dash/gui/qt/installwizard.py:42
 msgid "Choose a password to encrypt your wallet keys."
-msgstr "Escolha uma palavra-passe para encriptar as chaves da sua carteira."
+msgstr "Izvēlieties paroli, lai šifrētu maciņa atslēgas."
 
 #: electrum_dash/gui/kivy/main_window.py:170
 msgid "Choose a server"
-msgstr "Escolha um servidor"
+msgstr "Izvēlieties serveri"
 
 #: electrum_dash/gui/qt/bip39_recovery_dialog.py:60
 msgid "Choose an account to restore."
@@ -1000,17 +994,16 @@ msgid ""
 "Choose coin (UTXO) selection method.  The following are available:\n"
 "\n"
 msgstr ""
-"Escolha o método de seleção de moeda (UTXO). Estão disponíveis os "
-"seguintes:\n"
+"Izvēlieties monētu (UTXO) atlases metodi.  Šādas ir pieejamas:\n"
 "\n"
 
 #: electrum_dash/gui/kivy/uix/ui_screens/server.kv:30
 msgid "Choose from peers"
-msgstr "Escolher a partir da galeria"
+msgstr ""
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:245
 msgid "Choose how to initialize your Digital Bitbox:"
-msgstr "Escolha como inicializar o seu Digital Bitbox:"
+msgstr ""
 
 #: electrum_dash/plugins/trezor/trezor.py:214
 msgid "Choose how you want to initialize your {}."
@@ -1037,28 +1030,25 @@ msgstr ""
 #: electrum_dash/gui/qt/installwizard.py:888
 msgid "Choose the number of signatures needed to unlock funds in your wallet:"
 msgstr ""
-"Escolha o número de assinaturas necessárias para desbloquear fundos na sua "
-"carteira:"
+"Izvēlieties, cik pakrasti nepieciešami, lai atbrīvotu līdzekļus jūsu maciņā:"
 
 #: electrum_dash/base_wizard.py:413
 msgid "Choose the type of addresses in your wallet."
-msgstr ""
+msgstr "Izvēlieties adreses tipu savā maciņā."
 
 #: electrum_dash/gui/qt/settings_dialog.py:296
 msgid ""
 "Choose which online block explorer to use for functions that open a web "
 "browser"
-msgstr ""
-"Selecione qual o explorador de blocos online a usar para funções que abrem "
-"um navegador web"
+msgstr "Izvēlieties blokķēdes pārlūku, kuru atvērt tīmekļa pārlūkprogrammā"
 
 #: electrum_dash/gui/kivy/main_window.py:195
 msgid "Choose your chain"
-msgstr "Selecione a sua cadeia"
+msgstr "Izvēlieties savu ķēdi"
 
 #: electrum_dash/gui/qt/installwizard.py:221
 msgid "Choose..."
-msgstr "Selecionar..."
+msgstr "Izvēlēties..."
 
 #: electrum_dash/dash_ps_util.py:982
 msgid "Cleaning PS Data ..."
@@ -1068,7 +1058,7 @@ msgstr ""
 #: electrum_dash/gui/qt/main_window.py:1274
 #: electrum_dash/gui/qt/main_window.py:1559
 msgid "Clear"
-msgstr "Limpar"
+msgstr "Notīrīt"
 
 #: electrum_dash/gui/qt/privatesend_dialog.py:812
 msgid "Clear Log"
@@ -1101,11 +1091,11 @@ msgstr ""
 
 #: electrum_dash/gui/qt/console.py:110
 msgid "Click here to hide this message."
-msgstr ""
+msgstr "Nospiediet šeit, lai paslēptu šo ziņojumu."
 
 #: electrum_dash/gui/kivy/uix/screens.py:444
 msgid "Clipboard is empty"
-msgstr ""
+msgstr "Starpliktuve ir tukša"
 
 #: electrum_dash/gui/kivy/uix/ui_screens/about.kv:54
 #: electrum_dash/gui/kivy/uix/dialogs/qr_dialog.py:83
@@ -1119,7 +1109,7 @@ msgstr ""
 #: electrum_dash/gui/qt/privatesend_dialog.py:249
 #: electrum_dash/gui/qt/privatesend_dialog.py:280
 msgid "Close"
-msgstr "Fechar"
+msgstr "Aizvērt"
 
 #: electrum_dash/gui/qt/dash_qt.py:72
 msgid "Close wallet"
@@ -1127,7 +1117,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:287
 msgid "Co&ins"
-msgstr "Mo&edas"
+msgstr "&Monētas"
 
 #: electrum_dash/gui/qt/utxo_list.py:478
 msgid "Coin control active"
@@ -1144,7 +1134,7 @@ msgstr ""
 #: electrum_dash/gui/kivy/uix/dialogs/settings.py:169
 #: electrum_dash/gui/qt/settings_dialog.py:259
 msgid "Coin selection"
-msgstr "Seleção de moeda"
+msgstr "Monētu izvēle"
 
 #: electrum_dash/gui/qt/transaction_dialog.py:579
 msgid "Coin selection active ({} UTXOs selected)"
@@ -1177,7 +1167,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/settings_dialog.py:163
 msgid "Color theme"
-msgstr ""
+msgstr "Krāsu tēma"
 
 #: electrum_dash/gui/qt/transaction_dialog.py:204
 msgid "Combine"
@@ -1201,37 +1191,37 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:290
 msgid "Con&sole"
-msgstr "Con&sola"
+msgstr "Kon&sole"
 
 #: electrum_dash/gui/qt/main_window.py:288
 msgid "Con&tacts"
-msgstr "Con&tactos"
+msgstr "Kon&takti"
 
 #: electrum_dash/plugins/trezor/qt.py:589
 #: electrum_dash/plugins/safe_t/qt.py:321
 #: electrum_dash/plugins/keepkey/qt.py:411
 msgid "Confirm Device Wipe"
-msgstr "Confirme a limpeza do dispositivo"
+msgstr ""
 
 #: electrum_dash/gui/qt/password_dialog.py:90
 #: electrum_dash/plugins/trezor/qt.py:194
 msgid "Confirm Passphrase:"
-msgstr "Confirme Frase-passe:"
+msgstr "Apstiprināt paroles frāzi:"
 
 #: electrum_dash/gui/qt/password_dialog.py:105
 msgid "Confirm Password:"
-msgstr "Confirme Palavra-passe:"
+msgstr "Apstipriniet paroli:"
 
 #: electrum_dash/gui/kivy/uix/dialogs/installwizard.py:1248
 #: electrum_dash/gui/qt/installwizard.py:518
 #: electrum_dash/gui/qt/privatesend_dialog.py:1135
 msgid "Confirm Seed"
-msgstr "Confirme Semente"
+msgstr "Apstipriniet sēklu"
 
 #: electrum_dash/gui/qt/privatesend_dialog.py:1180
 #: electrum_dash/base_wizard.py:796
 msgid "Confirm Seed Extension"
-msgstr "Confirme a extensão da semente"
+msgstr "Apstiprināt sēklas pagarinājumu"
 
 #: electrum_dash/plugins/trezor/qt.py:527
 #: electrum_dash/plugins/safe_t/qt.py:259
@@ -1258,7 +1248,7 @@ msgstr ""
 
 #: electrum_dash/gui/kivy/uix/dialogs/password_dialog.py:300
 msgid "Confirm new PIN"
-msgstr "Confirme novo PIN"
+msgstr "Apstipriniet jauno PIN"
 
 #: electrum_dash/gui/kivy/uix/dialogs/password_dialog.py:269
 msgid "Confirm new password"
@@ -1359,7 +1349,7 @@ msgstr ""
 
 #: electrum_dash/gui/kivy/uix/ui_screens/network.kv:65
 msgid "Connected nodes are on the same chain"
-msgstr ""
+msgstr "Savienotie mezgli atrodas tajā pašā ķēdē"
 
 #: electrum_dash/gui/qt/network_dialog.py:367
 #, python-brace-format
@@ -1369,11 +1359,11 @@ msgstr ""
 #: electrum_dash/gui/qt/network_dialog.py:367
 #, python-brace-format
 msgid "Connected to {0} nodes."
-msgstr ""
+msgstr "Savienots ar {0} mezgliem."
 
 #: electrum_dash/gui/kivy/uix/ui_screens/network.kv:16
 msgid "Connections with Dash Electrum servers"
-msgstr ""
+msgstr "Savienojumi ar Dash Electrum serveriem"
 
 #: electrum_dash/network.py:203 electrum_dash/network.py:211
 #: electrum_dash/network.py:219
@@ -1383,7 +1373,7 @@ msgstr ""
 
 #: electrum_dash/gui/text.py:105 electrum_dash/gui/qt/main_window.py:876
 msgid "Contacts"
-msgstr "Contactos"
+msgstr "Kontakti"
 
 #: electrum_dash/gui/qt/installwizard.py:605
 msgid "Continue multisig wallet setup"
@@ -1401,7 +1391,7 @@ msgstr ""
 #: electrum_dash/gui/qt/address_list.py:495 electrum_dash/gui/qt/util.py:186
 #: electrum_dash/gui/qt/util.py:733 electrum_dash/gui/qt/utxo_list.py:485
 msgid "Copy"
-msgstr "Copiar"
+msgstr "Kopēt"
 
 #: electrum_dash/gui/qt/invoice_list.py:169
 #: electrum_dash/gui/qt/request_list.py:202
@@ -1422,13 +1412,15 @@ msgstr ""
 
 #: electrum_dash/gui/qt/util.py:191
 msgid "Copy and Close"
-msgstr "Copiar e Fechar"
+msgstr "Kopēt un aizvērt"
 
 #: electrum_dash/gui/kivy/uix/ui_screens/send.kv:97
 msgid ""
 "Copy and paste the recipient address using the Paste button, or use the "
 "camera to scan a QR code."
 msgstr ""
+"Kopējiet un ielīmējiet saņēmēja adresi, izmantojot pogu \"Ielīmēt\", vai "
+"izmantojiet kameru, lai noskenētu QR kodu."
 
 #: electrum_dash/gui/qt/privatesend_dialog.py:73
 msgid "Copy filtered"
@@ -1437,15 +1429,15 @@ msgstr ""
 #: electrum_dash/gui/qt/transaction_dialog.py:289
 #: electrum_dash/gui/qt/util.py:816
 msgid "Copy to clipboard"
-msgstr "Copiar para a área de transferência"
+msgstr "Kopēt uz starpliktuvi"
 
 #: electrum_dash/gui/qt/contact_list.py:84
 msgid "Copy {}"
-msgstr ""
+msgstr "Kopēt \"{}\""
 
 #: electrum_dash/base_wizard.py:225
 msgid "Cosign with hardware device"
-msgstr ""
+msgstr "Līdzparakstīt ar aparatūras ierīci"
 
 #: electrum_dash/plugins/cosigner_pool/__init__.py:2
 msgid "Cosigner Pool"
@@ -1484,7 +1476,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/exception_window.py:110
 msgid "Crash report"
-msgstr ""
+msgstr "Kļūdas ziņojums"
 
 #: electrum_dash/gui/kivy/uix/dialogs/coins_dialog.py:288
 #: electrum_dash/gui/qt/utxo_list.py:543
@@ -1507,7 +1499,7 @@ msgstr ""
 #: electrum_dash/gui/qt/privatesend_dialog.py:1036
 #: electrum_dash/base_wizard.py:212
 msgid "Create a new seed"
-msgstr ""
+msgstr "Izveidot jaunu sēklu"
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:225
 msgid "Create a wallet using the current seed"
@@ -1519,7 +1511,7 @@ msgstr ""
 
 #: electrum_dash/base_wizard.py:261
 msgid "Create keystore from a master key"
-msgstr ""
+msgstr "Izveidot atslēgu glabātavu no galvenās atslēgas"
 
 #: electrum_dash/base_wizard.py:150
 msgid "Create new wallet"
@@ -1545,15 +1537,15 @@ msgstr ""
 
 #: electrum_dash/gui/qt/util.py:244
 msgid "Critical Error"
-msgstr "Erro Crítico"
+msgstr "Kritiska kļūda"
 
 #: electrum_dash/gui/qt/password_dialog.py:107
 msgid "Current Password:"
-msgstr "Palavra-passe Atual:"
+msgstr "Pašreizējā parole:"
 
 #: electrum_dash/gui/qt/fee_slider.py:58
 msgid "Current rate"
-msgstr "Taxa atual"
+msgstr "Pašreizējais kurss"
 
 #: electrum_dash/gui/qt/update_checker.py:50
 msgid "Current version: {}"
@@ -1570,7 +1562,7 @@ msgstr ""
 #: electrum_dash/gui/qt/history_list.py:740
 #: electrum_dash/gui/qt/history_list.py:767
 msgid "Custom"
-msgstr "Personalizar"
+msgstr "Pielāgots"
 
 #: electrum_dash/gui/qt/settings_dialog.py:292
 msgid "Custom URL"
@@ -1582,7 +1574,7 @@ msgstr ""
 
 #: electrum_dash/i18n.py:53
 msgid "Czech"
-msgstr "Tcheco"
+msgstr "Čehu"
 
 #: electrum_dash/gui/qt/protx_qt.py:599 electrum_dash/gui/qt/protx_qt.py:621
 msgid "DIP3 Masternodes is currently disabled."
@@ -1590,15 +1582,15 @@ msgstr ""
 
 #: electrum_dash/i18n.py:54
 msgid "Danish"
-msgstr ""
+msgstr "Dāņu"
 
 #: electrum_dash/gui/qt/settings_dialog.py:160
 msgid "Dark"
-msgstr ""
+msgstr "Tumša"
 
 #: electrum_dash/gui/qt/__init__.py:180
 msgid "Dark/Light"
-msgstr "Escuro/Claro"
+msgstr "Tumšs/gaišs"
 
 #: electrum_dash/gui/kivy/uix/ui_screens/receive.kv:94
 msgid "Dash Address"
@@ -1614,7 +1606,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:3502
 msgid "Dash Electrum Plugins"
-msgstr "Plugins do Dash Electrum"
+msgstr "Dash Electrum spraudņi"
 
 #: electrum_dash/plugin.py:578
 msgid ""
@@ -1633,18 +1625,23 @@ msgid ""
 "pick one at random.  However if you prefer feel free to select a server "
 "manually."
 msgstr ""
+"Dash Electrum komunicē ar attālinātiem serveriem, lai saņemtu informāciju "
+"par transakcijām un adresēm. Visi serveri pilda vienu un to pašu funkciju, "
+"atšķiras tikai to aparatūra. Vairumā gadījumu pietiek ar automātisko nejauša "
+"servera izvēli, bet, ja vēlaties varat izvēlēties kādu noteiktu serveri arī "
+"manuāli."
 
 #: electrum_dash/gui/qt/network_dialog.py:286
 msgid ""
 "Dash Electrum connects to several nodes in order to download block headers "
 "and find out the longest blockchain."
 msgstr ""
-"O Dash Electrum liga-se a vários nós de forma a descarregar os cabeçalhos de "
-"blocos e descobrir qual é a blockchain mais longa."
+"Lai lejupielādētu bloku galvenes un atrastu garāko blokķēdi, Dash Electrum "
+"savienojas ar vairākiem mezgliem."
 
 #: electrum_dash/gui/qt/main_window.py:918
 msgid "Dash Electrum preferences"
-msgstr "Preferências do Dash Electrum"
+msgstr "Dash Electrum iestatījumi"
 
 #: electrum_dash/gui/kivy/uix/ui_screens/server.kv:9
 msgid ""
@@ -1652,47 +1649,48 @@ msgid ""
 "returned history is checked against blockchain headers sent by other nodes, "
 "using Simple Payment Verification (SPV)."
 msgstr ""
+"Dash Electrum pieprasa jūsu darījumu vēsturi no viena servera. Iegūtā "
+"vēsture tiek pārbaudīta pret blokķēdes galvenēm, ko sūta citi mezgli, "
+"izmantojot vienkāršoto maksājumu pārbaudi (SPV)."
 
 #: electrum_dash/gui/qt/network_dialog.py:308
 msgid ""
 "Dash Electrum sends your wallet addresses to a single server, in order to "
 "receive your transaction history."
 msgstr ""
-"O Dash Electrum envia os endereços da sua carteira para um único servidor, "
-"de forma a receber o seu histórico de transação."
+"Dash Electrum nosūta jūsu maciņa adreses vienam serverim, lai saņemtu "
+"transakciju vēsturi."
 
 #: electrum_dash/gui/qt/installwizard.py:247
 msgid "Dash Electrum wallet"
-msgstr "Carteira Dash Electrum"
+msgstr "Dash Electrum maciņš"
 
 #: electrum_dash/gui/qt/main_window.py:797
 msgid ""
 "Dash Electrum was unable to copy your wallet file to the specified location."
 msgstr ""
-"O Dash Electrum não conseguiu copiar os seu ficheiro de carteira para a "
-"localização especificada."
+"Dash Electrum neizdevās iekopēt maciņa failu norādītajā atrašanās vietā."
 
 #: electrum_dash/gui/qt/transaction_dialog.py:92
 #: electrum_dash/plugins/cosigner_pool/qt.py:254
 msgid "Dash Electrum was unable to deserialize the transaction:"
-msgstr ""
+msgstr "Dash Electrum neizdevās deserializēt transakciju:"
 
 #: electrum_dash/gui/qt/main_window.py:3110
 msgid "Dash Electrum was unable to open your transaction file"
-msgstr "O Dash Electrum não conseguiu abrir o seu ficheiro de transações"
+msgstr "Dash Electrum neizdevās atvērt transakcijas failu"
 
 #: electrum_dash/gui/qt/main_window.py:3072
 msgid "Dash Electrum was unable to parse your transaction"
-msgstr "O Dash Electrum não conseguiu analisar a sua transação"
+msgstr "Dash Electrum neizdevās izparsēt transakciju"
 
 #: electrum_dash/gui/qt/main_window.py:3246
 msgid "Dash Electrum was unable to produce a private key-export."
-msgstr ""
-"O Dash Electrum não conseguiu produzir uma exportação da chave privada."
+msgstr "Dash Electrum neizdevās izveidot privātās atslēgas eksportu."
 
 #: electrum_dash/gui/qt/history_list.py:1102
 msgid "Dash Electrum was unable to produce a transaction export."
-msgstr "O Dash Electrum não conseguiu produzir uma exportação da transação."
+msgstr "Dash Electrum neizdevās izveidot transakcijas eksportu."
 
 #: electrum_dash/gui/qt/main_window.py:3596
 msgid "Dash Electrum will now exit."
@@ -1739,11 +1737,11 @@ msgstr ""
 #: electrum_dash/gui/qt/history_list.py:840
 #: electrum_dash/gui/qt/request_list.py:59 electrum_dash/gui/qt/utxo_list.py:91
 msgid "Date"
-msgstr "Data"
+msgstr "Datums"
 
 #: electrum_dash/gui/qt/transaction_dialog.py:466
 msgid "Date: {}"
-msgstr ""
+msgstr "Datums: {}"
 
 #: electrum_dash/gui/qt/settings_dialog.py:209
 msgid ""
@@ -1752,11 +1750,11 @@ msgstr ""
 
 #: electrum_dash/base_wizard.py:346
 msgid "Debug message"
-msgstr ""
+msgstr "Atkļūdošanas ziņojums"
 
 #: electrum_dash/gui/qt/main_window.py:3050
 msgid "Decrypt"
-msgstr "Desencriptar"
+msgstr "Atšifrēt"
 
 #: electrum_dash/gui/kivy/main_window.py:1610
 msgid "Decrypt your private key?"
@@ -1765,7 +1763,7 @@ msgstr ""
 #: electrum_dash/gui/kivy/uix/dialogs/dash_net.py:723
 #: electrum_dash/gui/qt/dash_net_dialog.py:147 electrum_dash/i18n.py:50
 msgid "Default"
-msgstr "Padrão"
+msgstr "Noklusējuma"
 
 #: electrum_dash/gui/kivy/uix/ui_screens/status.kv:62
 #: electrum_dash/gui/qt/invoice_list.py:176
@@ -1773,11 +1771,11 @@ msgstr "Padrão"
 #: electrum_dash/gui/qt/contact_list.py:92
 #: electrum_dash/gui/qt/request_list.py:205
 msgid "Delete"
-msgstr "Apagar"
+msgstr "Dzēst"
 
 #: electrum_dash/gui/kivy/uix/dialogs/invoice_dialog.py:141
 msgid "Delete invoice?"
-msgstr "Apagar fatura?"
+msgstr "Dzēst rēķinu?"
 
 #: electrum_dash/gui/qt/invoice_list.py:156
 msgid "Delete invoices"
@@ -1793,11 +1791,11 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:2820
 msgid "Delete wallet file?"
-msgstr "Apagar a carteira?"
+msgstr "Dzēst maciņa failu?"
 
 #: electrum_dash/gui/kivy/main_window.py:1460
 msgid "Delete wallet?"
-msgstr "Apagar carteira?"
+msgstr "Dzēst maciņu?"
 
 #: electrum_dash/dash_ps.py:581 electrum_dash/dash_ps.py:586
 msgid "Denominate workflow: {}"
@@ -1809,7 +1807,7 @@ msgstr ""
 
 #: electrum_dash/gui/kivy/uix/dialogs/settings.py:155
 msgid "Denomination"
-msgstr "Denominação"
+msgstr "Apzīmējums"
 
 #: electrum_dash/gui/qt/privatesend_dialog.py:741
 msgid "Denoms"
@@ -1845,18 +1843,18 @@ msgstr ""
 #: electrum_dash/gui/qt/history_list.py:684
 #: electrum_dash/gui/qt/request_list.py:60
 msgid "Description"
-msgstr "Descrição"
+msgstr "Apraksts"
 
 #: electrum_dash/gui/qt/main_window.py:1511
 msgid "Description of the transaction (not mandatory)."
-msgstr "Descrição da transação (não obrigatório)."
+msgstr "Transakcijas apraksts (nav obligāts)."
 
 #: electrum_dash/gui/qt/protx_qt.py:682 electrum_dash/gui/qt/protx_qt.py:818
 #: electrum_dash/gui/qt/invoice_list.py:170
 #: electrum_dash/gui/qt/address_list.py:541
 #: electrum_dash/gui/qt/utxo_list.py:551
 msgid "Details"
-msgstr "Detalhes"
+msgstr "Sīkāka informācija"
 
 #: electrum_dash/gui/qt/installwizard.py:745
 msgid "Detect Existing Accounts"
@@ -1872,13 +1870,13 @@ msgstr ""
 
 #: electrum_dash/gui/kivy/uix/ui_screens/about.kv:35
 msgid "Developers"
-msgstr "Desenvolvedores"
+msgstr ""
 
 #: electrum_dash/plugins/trezor/qt.py:623
 #: electrum_dash/plugins/safe_t/qt.py:355
 #: electrum_dash/plugins/keepkey/qt.py:447
 msgid "Device ID"
-msgstr "ID do dispositivo"
+msgstr ""
 
 #: electrum_dash/plugins/trezor/qt.py:619
 #: electrum_dash/plugins/trezor/qt.py:643
@@ -1887,7 +1885,7 @@ msgstr "ID do dispositivo"
 #: electrum_dash/plugins/keepkey/qt.py:443
 #: electrum_dash/plugins/keepkey/qt.py:468
 msgid "Device Label"
-msgstr "Etiqueta do dispositivo"
+msgstr ""
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:128
 msgid ""
@@ -1930,7 +1928,7 @@ msgstr ""
 
 #: electrum_dash/gui/kivy/main_window.py:1090
 msgid "Disconnected"
-msgstr "Desligado"
+msgstr "Atvienots"
 
 #: electrum_dash/gui/kivy/main_window.py:1485
 msgid "Display your seed?"
@@ -1955,6 +1953,8 @@ msgid ""
 "Do not paste code here that you don't understand. Executing the wrong code "
 "could lead to your coins being irreversibly lost."
 msgstr ""
+"Nekopējiet šeit kodu, ko nesaprotat. Nepareiza koda izpildīšana var novest "
+"līdz neatgriezeniskam monētu zudumam."
 
 #: electrum_dash/gui/qt/privatesend_dialog.py:389
 msgid "Do not show this on PrivateSend dialog open."
@@ -1963,7 +1963,7 @@ msgstr ""
 #: electrum_dash/gui/kivy/uix/dialogs/installwizard.py:908
 #: electrum_dash/gui/qt/seed_dialog.py:60
 msgid "Do not store it electronically."
-msgstr "Não a guarde eletronicamente."
+msgstr "Nesaglabājiet to elektroniski."
 
 #: electrum_dash/gui/kivy/uix/ui_screens/network.kv:39
 msgid "Do not use Tor proxy for Fiat rates network calls"
@@ -1990,6 +1990,7 @@ msgid ""
 "Do you want to create a new seed, or to restore a wallet using an existing "
 "seed?"
 msgstr ""
+"Vai vēlaties izveidot jaunu sēklu, vai atjaunot maciņu no esošas sēklas?"
 
 #: electrum_dash/dash_ps_util.py:709
 msgid ""
@@ -2008,11 +2009,11 @@ msgstr ""
 
 #: electrum_dash/gui/qt/installwizard.py:397
 msgid "Do you want to delete '{}'?"
-msgstr ""
+msgstr "Vai vēlaties dzēst '{}'?"
 
 #: electrum_dash/gui/qt/installwizard.py:382
 msgid "Do you want to delete the old file"
-msgstr "Deseja apagar o ficheiro antigo"
+msgstr "Vai vēlaties dzēst veco failu"
 
 #: electrum_dash/plugins/cosigner_pool/qt.py:236
 msgid "Do you want to open it now?"
@@ -2025,11 +2026,11 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:2413
 msgid "Do you want to remove {} from your wallet?"
-msgstr ""
+msgstr "Vai vēlaties izņemt no maciņa {}?"
 
 #: electrum_dash/base_crash_reporter.py:57
 msgid "Do you want to send this report?"
-msgstr ""
+msgstr "Vai vēlaties nosūtīt šo ziņojumu?"
 
 #: electrum_dash/dash_ps.py:84
 msgid "Do you want to use other coins now?"
@@ -2037,7 +2038,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:1731
 msgid "Do you wish to continue?"
-msgstr "Deseja continuar?"
+msgstr "Vai vēlaties turpināt?"
 
 #: electrum_dash/gui/qt/main_window.py:723
 #: electrum_dash/gui/qt/main_window.py:745
@@ -2062,11 +2063,11 @@ msgstr ""
 
 #: electrum_dash/i18n.py:71
 msgid "Dutch"
-msgstr ""
+msgstr "Nīderlandiešu"
 
 #: electrum_dash/util.py:124
 msgid "Dynamic fee estimates not available"
-msgstr ""
+msgstr "Nav pieejama dinamiskā komisijas maksas aprēķināšana"
 
 #: electrum_dash/dash_msg.py:136
 msgid "ERROR"
@@ -2074,7 +2075,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/fee_slider.py:15
 msgid "ETA"
-msgstr ""
+msgstr "Aptuvenais laiks"
 
 #: electrum_dash/gui/qt/fee_slider.py:20
 msgid "ETA: fee rate is based on average confirmation time estimates"
@@ -2084,7 +2085,7 @@ msgstr ""
 #: electrum_dash/gui/qt/history_list.py:1024
 #: electrum_dash/gui/qt/address_list.py:545
 msgid "Edit {}"
-msgstr ""
+msgstr "Rediģēt \"{}\""
 
 #: electrum_dash/gui/qt/seed_dialog.py:73
 msgid "Electrum"
@@ -2108,11 +2109,11 @@ msgstr ""
 
 #: electrum_dash/plugins/email_requests/__init__.py:3
 msgid "Email"
-msgstr "Endereço de e-mail"
+msgstr "E-pasts"
 
 #: electrum_dash/plugins/email_requests/qt.py:217
 msgid "Email settings"
-msgstr "Configurações de Email"
+msgstr "E-pasta iestatījumi"
 
 #: electrum_dash/gui/qt/dash_net_dialog.py:296
 msgid "Enable Dash Network"
@@ -2122,13 +2123,13 @@ msgstr ""
 #: electrum_dash/plugins/safe_t/qt.py:124
 #: electrum_dash/plugins/keepkey/qt.py:250
 msgid "Enable PIN protection"
-msgstr "Ativar proteção com PIN"
+msgstr ""
 
 #: electrum_dash/plugins/trezor/qt.py:497
 #: electrum_dash/plugins/safe_t/qt.py:229
 #: electrum_dash/plugins/keepkey/qt.py:351
 msgid "Enable Passphrases"
-msgstr "Habilitar Passphrases"
+msgstr ""
 
 #: electrum_dash/dash_ps_util.py:978
 msgid "Enable PrivateSend"
@@ -2140,7 +2141,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/settings_dialog.py:282
 msgid "Enable output value rounding"
-msgstr ""
+msgstr "Aktivizēt izvadu vērtības noapaļošanu"
 
 #: electrum_dash/plugins/trezor/qt.py:388
 #: electrum_dash/plugins/safe_t/qt.py:158
@@ -2156,11 +2157,11 @@ msgstr ""
 #: electrum_dash/plugins/safe_t/qt.py:230
 #: electrum_dash/plugins/keepkey/qt.py:352
 msgid "Enabled"
-msgstr "Ativado"
+msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:3046
 msgid "Encrypt"
-msgstr "Encriptar"
+msgstr "Šifrēt"
 
 #: electrum_dash/gui/qt/privatesend_dialog.py:1255
 msgid "Encrypt PrivateSend Keystore"
@@ -2173,7 +2174,7 @@ msgstr ""
 #: electrum_dash/gui/qt/password_dialog.py:128
 #: electrum_dash/gui/qt/password_dialog.py:218
 msgid "Encrypt wallet file"
-msgstr "Encriptar o ficheiro da carteira"
+msgstr "Šifrēt maciņa failu"
 
 #: electrum_dash/plugins/revealer/qt.py:248
 msgid "Encrypt {}'s seed"
@@ -2181,15 +2182,15 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:3018
 msgid "Encrypt/decrypt Message"
-msgstr "Encriptar/desencriptar Mensagem"
+msgstr "Šifrēt/atšifrēt ziņojumu"
 
 #: electrum_dash/gui/qt/address_list.py:557
 msgid "Encrypt/decrypt message"
-msgstr ""
+msgstr "Šifrēt/atšifrēt ziņojumu"
 
 #: electrum_dash/gui/qt/main_window.py:3041
 msgid "Encrypted"
-msgstr "Encriptada"
+msgstr "Šifrēts"
 
 #: electrum_dash/plugins/ledger/ledger.py:371
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:455
@@ -2204,16 +2205,16 @@ msgstr ""
 
 #: electrum_dash/gui/qt/history_list.py:838
 msgid "End"
-msgstr ""
+msgstr "Beigas"
 
 #: electrum_dash/i18n.py:58
 msgid "English"
-msgstr ""
+msgstr "Angļu"
 
 #: electrum_dash/plugins/trezor/qt.py:150 electrum_dash/plugins/safe_t/qt.py:57
 #: electrum_dash/plugins/keepkey/qt.py:174
 msgid "Enter PIN"
-msgstr ""
+msgstr "Ievadiet PIN"
 
 #: electrum_dash/plugins/ledger/auth2fa.py:91
 #: electrum_dash/plugins/ledger/auth2fa.py:128
@@ -2225,7 +2226,7 @@ msgstr ""
 #: electrum_dash/plugins/trezor/qt.py:172
 #: electrum_dash/plugins/hw_wallet/qt.py:136
 msgid "Enter Passphrase"
-msgstr "Introduza a Frase-passe"
+msgstr "Ievadiet paroles frāzi"
 
 #: electrum_dash/plugins/trezor/qt.py:173
 msgid "Enter Passphrase on Device"
@@ -2235,17 +2236,17 @@ msgstr ""
 #: electrum_dash/gui/qt/password_dialog.py:63
 #: electrum_dash/gui/qt/password_dialog.py:306
 msgid "Enter Password"
-msgstr "Digite a palavra-passe"
+msgstr "Ievadiet paroli"
 
 #: electrum_dash/gui/kivy/uix/dialogs/installwizard.py:948
 #: electrum_dash/gui/qt/installwizard.py:511
 #: electrum_dash/gui/qt/privatesend_dialog.py:1208
 msgid "Enter Seed"
-msgstr "Digite a Semente"
+msgstr "Ievadiet sēklu"
 
 #: electrum_dash/gui/kivy/uix/dialogs/tx_dialog.py:254
 msgid "Enter Transaction Label"
-msgstr ""
+msgstr "Ievadiet transakcijas etiķeti"
 
 #: electrum_dash/plugins/trezor/qt.py:274 electrum_dash/plugins/safe_t/qt.py:98
 #: electrum_dash/plugins/keepkey/qt.py:222
@@ -2260,7 +2261,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:2427
 msgid "Enter a list of outputs in the 'Pay to' field."
-msgstr "Introduza uma lista de saídas no campo 'Pagar a\"."
+msgstr "Ievadiet izvadu sarakstu 'Maksāt uz' laukā."
 
 #: electrum_dash/plugins/trezor/clientbase.py:278
 #: electrum_dash/plugins/safe_t/clientbase.py:55
@@ -2283,23 +2284,23 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:3400
 msgid "Enter addresses"
-msgstr "Introduza os endereços"
+msgstr "Ievadiet adreses"
 
 #: electrum_dash/base_wizard.py:221
 msgid "Enter cosigner key"
-msgstr ""
+msgstr "Ievadiet līdzparakstītāja atslēgu"
 
 #: electrum_dash/base_wizard.py:222
 msgid "Enter cosigner seed"
-msgstr ""
+msgstr "Ievadiet līdzparakstītāja sēklu"
 
 #: electrum_dash/gui/kivy/main_window.py:1382
 msgid "Enter description"
-msgstr "Introduza a descrição"
+msgstr "Ievadiet aprakstu"
 
 #: electrum_dash/gui/kivy/uix/dialogs/password_dialog.py:299
 msgid "Enter new PIN"
-msgstr "Introduza o novo PIN"
+msgstr "Ievadiet jauno PIN"
 
 #: electrum_dash/gui/kivy/uix/dialogs/password_dialog.py:268
 msgid "Enter new password"
@@ -2322,11 +2323,11 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:3409
 msgid "Enter private keys"
-msgstr "Introduza as chaves privadas"
+msgstr "Ievadiet privātās atslēgas"
 
 #: electrum_dash/gui/qt/main_window.py:3304
 msgid "Enter private keys:"
-msgstr "Introduza as chaves privadas:"
+msgstr "Ievadiet privātās atslēgas:"
 
 #: electrum_dash/plugins/safe_t/qt.py:132
 #: electrum_dash/plugins/keepkey/qt.py:258
@@ -2355,11 +2356,11 @@ msgid ""
 "Enter their master private key (xprv) if you want to be able to sign for "
 "them."
 msgstr ""
-"Insira a chave mestra privada (xprv) se quiser poder assinar para eles."
+"Ievadiet galveno privāto atslēgu (xprv), ja vēlaties parakstīt to vietā."
 
 #: electrum_dash/gui/kivy/uix/dialogs/wallets.py:71
 msgid "Enter wallet name"
-msgstr "Introduza o nome da carteira"
+msgstr "Ievadiet maciņa nosaukumu"
 
 #: electrum_dash/plugins/safe_t/qt.py:130
 #: electrum_dash/plugins/keepkey/qt.py:256
@@ -2383,7 +2384,7 @@ msgstr ""
 
 #: electrum_dash/gui/kivy/main_window.py:1434
 msgid "Enter your PIN code to proceed"
-msgstr ""
+msgstr "Ievadiet PIN kodu, lai turpinātu"
 
 #: electrum_dash/gui/kivy/main_window.py:1006
 msgid "Enter your PIN code to sign new collateral transactions"
@@ -2405,11 +2406,11 @@ msgstr ""
 
 #: electrum_dash/gui/qt/installwizard.py:286
 msgid "Enter your password or choose another file."
-msgstr "Introduza a sua palavra-passe ou escolha outro ficheiro."
+msgstr "Ievadiet paroli vai izvēlieties citu failu."
 
 #: electrum_dash/gui/qt/confirm_tx_dialog.py:191
 msgid "Enter your password to proceed"
-msgstr "Introduza a sua palavra-passe para continuar"
+msgstr "Ievadiet paroli, lai turpinātu"
 
 #: electrum_dash/dash_msg.py:183
 msgid "Entries are full."
@@ -2433,11 +2434,11 @@ msgstr ""
 #: electrum_dash/gui/qt/installwizard.py:636 electrum_dash/gui/qt/util.py:240
 #: electrum_dash/slip39.py:350
 msgid "Error"
-msgstr "Erro"
+msgstr "Kļūda"
 
 #: electrum_dash/gui/qt/main_window.py:1423
 msgid "Error adding payment request"
-msgstr ""
+msgstr "Gadījās kļūda, pievienojot maksājuma pieprasījumu"
 
 #: electrum_dash/gui/qt/transaction_dialog.py:415
 msgid "Error combining partial transactions"
@@ -2481,7 +2482,7 @@ msgstr ""
 
 #: electrum_dash/base_wizard.py:305
 msgid "Error scanning devices"
-msgstr ""
+msgstr "Kļūda, skenējot ierīces"
 
 #: electrum_dash/plugins/ledger/ledger.py:615
 msgid "Error showing address"
@@ -2508,15 +2509,15 @@ msgstr ""
 
 #: electrum_dash/base_wizard.py:623
 msgid "Error: duplicate master public key"
-msgstr ""
+msgstr "Kļūda: dubulta galvenā publiskā atslēga"
 
 #: electrum_dash/i18n.py:57
 msgid "Esperanto"
-msgstr ""
+msgstr "Esperanto"
 
 #: electrum_dash/gui/qt/fee_slider.py:60
 msgid "Estimate"
-msgstr ""
+msgstr "Aprēķins"
 
 #: electrum_dash/gui/kivy/uix/dialogs/privatesend.py:968
 #: electrum_dash/gui/qt/privatesend_dialog.py:707
@@ -2525,7 +2526,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/__init__.py:182
 msgid "Exit Dash Electrum"
-msgstr "Sair do Dash Electrum"
+msgstr "Iziet no Dash Electrum"
 
 #: electrum_dash/gui/qt/history_list.py:1013
 msgid "Expand Tx Group"
@@ -2537,15 +2538,15 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:1259
 msgid "Expiration date of your request."
-msgstr "Data de expiração do seu pedido."
+msgstr "Pieprasījuma derīguma termiņš."
 
 #: electrum_dash/invoices.py:48
 msgid "Expired"
-msgstr "Caducou"
+msgstr "Izbeidzies"
 
 #: electrum_dash/invoices.py:88 electrum_dash/gui/qt/main_window.py:2491
 msgid "Expires"
-msgstr "Caduca"
+msgstr "Beidzas"
 
 #: electrum_dash/gui/qt/main_window.py:1266
 msgid "Expires after"
@@ -2559,7 +2560,7 @@ msgstr ""
 #: electrum_dash/gui/qt/transaction_dialog.py:191
 #: electrum_dash/gui/qt/history_list.py:1090
 msgid "Export"
-msgstr "Exportar"
+msgstr "Eksportēt"
 
 #: electrum_dash/gui/kivy/uix/ui_screens/status.kv:69
 msgid "Export Backup"
@@ -2567,7 +2568,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/history_list.py:1082
 msgid "Export History"
-msgstr "Exportar Histórico"
+msgstr "Eksportēt vēsturi"
 
 #: electrum_dash/gui/qt/privatesend_dialog.py:854
 msgid "Export Private Keys"
@@ -2579,7 +2580,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/contact_list.py:79
 msgid "Export file"
-msgstr "Exportar arquivo"
+msgstr ""
 
 #: electrum_dash/gui/qt/transaction_dialog.py:298
 msgid "Export to file"
@@ -2591,11 +2592,11 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:3176
 msgid "Exposing a single private key can compromise your entire wallet!"
-msgstr "Revelar uma só chave privada pode comprometer toda a sua carteira!"
+msgstr "Vienas privātās atslēgas atklāšana var apdraudēt visa maciņa drošību!"
 
 #: electrum_dash/gui/qt/seed_dialog.py:82
 msgid "Extend this seed with custom words"
-msgstr "Alargar esta semente com palavras personalizadas"
+msgstr "Pagarināt šo sēklu ar papildu vārdiem"
 
 #: electrum_dash/gui/qt/main_window.py:1574
 msgid "Extra payload"
@@ -2611,25 +2612,25 @@ msgstr ""
 
 #: electrum_dash/plugins/hw_wallet/plugin.py:98
 msgid "Failed to create a client for this device."
-msgstr "Falha ao criar um usuário para este dispositivo."
+msgstr ""
 
 #: electrum_dash/gui/qt/installwizard.py:346
 msgid "Failed to decrypt using this hardware device."
-msgstr "Falha ao tentar decriptar usando esse dispositivo hardware."
+msgstr "Neizdevās atšifrēt izmantojot aparatūras ierīci."
 
 #: electrum_dash/gui/kivy/main_window.py:533
 #: electrum_dash/gui/qt/transaction_dialog.py:336
 #: electrum_dash/gui/qt/transaction_dialog.py:339
 msgid "Failed to display QR code."
-msgstr ""
+msgstr "Neizdevās attēlot QR kodu."
 
 #: electrum_dash/util.py:159
 msgid "Failed to export to file."
-msgstr "Falha ao exportar para o arquivo."
+msgstr "Neizdevās eksportēt failā."
 
 #: electrum_dash/util.py:151
 msgid "Failed to import from file."
-msgstr "Falha ao importar do arquivo."
+msgstr "Neizdevās importēt failā."
 
 #: electrum_dash/gui/qt/main_window.py:1717
 msgid "Failed to parse 'Pay to' line"
@@ -2645,7 +2646,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:2690
 msgid "Failed to update password"
-msgstr "Erro ao atualizar a palavra-passe"
+msgstr "Neizdevās atjaunot paroli"
 
 #: electrum_dash/gui/qt/main_window.py:2734
 msgid "False"
@@ -2654,7 +2655,7 @@ msgstr ""
 #: electrum_dash/gui/text.py:263 electrum_dash/gui/qt/transaction_dialog.py:510
 #: electrum_dash/gui/qt/transaction_dialog.py:512
 msgid "Fee"
-msgstr "Comissão"
+msgstr "Komisija"
 
 #: electrum_dash/gui/qt/confirm_tx_dialog.py:166
 msgid "Fee rate"
@@ -2667,7 +2668,7 @@ msgstr ""
 #: electrum_dash/gui/qt/address_list.py:153
 #: electrum_dash/gui/qt/settings_dialog.py:434
 msgid "Fiat"
-msgstr "Moeda Fiduciária"
+msgstr "Valsts nauda"
 
 #: electrum_dash/gui/qt/history_list.py:852
 msgid "Fiat balance"
@@ -2675,7 +2676,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/settings_dialog.py:425
 msgid "Fiat currency"
-msgstr "Moeda Fiduciária"
+msgstr "Valsts nauda"
 
 #: electrum_dash/gui/qt/history_list.py:867
 msgid "Fiat incoming"
@@ -2688,7 +2689,7 @@ msgstr ""
 #: electrum_dash/gui/qt/protx_qt.py:691 electrum_dash/gui/qt/protx_qt.py:780
 #: electrum_dash/gui/qt/protx_qt.py:822 electrum_dash/gui/qt/util.py:458
 msgid "File"
-msgstr "Ficheiro"
+msgstr "Fails"
 
 #: electrum_dash/gui/qt/main_window.py:774
 msgid "File Backup"
@@ -2712,7 +2713,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:890
 msgid "Find"
-msgstr "Procurar"
+msgstr "Meklēt"
 
 #: electrum_dash/gui/qt/privatesend_dialog.py:788
 msgid "Find untracked PS txs"
@@ -2726,7 +2727,7 @@ msgstr ""
 #: electrum_dash/plugins/safe_t/qt.py:354
 #: electrum_dash/plugins/keepkey/qt.py:446
 msgid "Firmware Version"
-msgstr "Versão do firmware"
+msgstr ""
 
 #: electrum_dash/plugins/trezor/qt.py:427
 msgid "Firmware version too old."
@@ -2734,15 +2735,15 @@ msgstr ""
 
 #: electrum_dash/plugins/ledger/ledger.py:53
 msgid "Firmware version too old. Please update at"
-msgstr "Versão de Firmware muito antiga. Por favor atualize"
+msgstr ""
 
 #: electrum_dash/gui/qt/fee_slider.py:60
 msgid "Fixed rate"
-msgstr "Taxa fixa"
+msgstr "Fiksēts kurss"
 
 #: electrum_dash/gui/qt/network_dialog.py:125
 msgid "Follow this branch"
-msgstr "Seguir este ramo"
+msgstr "Sekot šim zaram"
 
 #: electrum_dash/gui/qt/transaction_dialog.py:182
 msgid "For CoinJoin; strip privates"
@@ -2775,15 +2776,15 @@ msgstr ""
 
 #: electrum_dash/gui/kivy/uix/ui_screens/network.kv:63
 msgid "Fork detected at block {}"
-msgstr ""
+msgstr "Atklāta atdalīšanās blokā %d"
 
 #: electrum_dash/gui/qt/util.py:428
 msgid "Format"
-msgstr "Formato"
+msgstr "Formāts"
 
 #: electrum_dash/gui/qt/main_window.py:2429
 msgid "Format: address, amount"
-msgstr "Formato: endereço, quantia"
+msgstr "Formāts: adrese, summa"
 
 #: electrum_dash/gui/qt/protx_qt.py:604
 #: electrum_dash/plugins/scan_over_gap/scan_over_gap.py:110
@@ -2792,7 +2793,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/address_list.py:571
 msgid "Freeze"
-msgstr ""
+msgstr "Iesaldēt"
 
 #: electrum_dash/gui/qt/utxo_list.py:577
 msgid "Freeze Address"
@@ -2812,16 +2813,16 @@ msgstr ""
 
 #: electrum_dash/i18n.py:62
 msgid "French"
-msgstr ""
+msgstr "Franču"
 
 #: electrum_dash/gui/qt/history_list.py:755
 msgid "From"
-msgstr "De"
+msgstr "No"
 
 #: electrum_dash/gui/qt/installwizard.py:880
 #, python-brace-format
 msgid "From {0} cosigners"
-msgstr ""
+msgstr "No {0} papildparakstītājiem"
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:239
 msgid "Full 2FA enabled. This is not supported yet."
@@ -2830,7 +2831,7 @@ msgstr ""
 #: electrum_dash/gui/kivy/uix/dialogs/addresses.py:277
 #: electrum_dash/gui/qt/address_list.py:57
 msgid "Funded"
-msgstr ""
+msgstr "Finansēts"
 
 #: electrum_dash/gui/qt/address_list.py:59
 msgid "Funded or Unused"
@@ -2854,7 +2855,7 @@ msgstr ""
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:247
 msgid "Generate a new random wallet"
-msgstr ""
+msgstr "Ģenerēt jaunu, nejaušu maciņu"
 
 #: electrum_dash/gui/qt/protx_wizards.py:624
 msgid "Generate new BLS keypair"
@@ -2862,11 +2863,11 @@ msgstr ""
 
 #: electrum_dash/i18n.py:55
 msgid "German"
-msgstr ""
+msgstr "Vācu"
 
 #: electrum_dash/i18n.py:56
 msgid "Greek"
-msgstr "Grego"
+msgstr "Grieķu"
 
 #: electrum_dash/dash_ps_util.py:745
 msgid "Group PrivateSend mixing transactions in wallet history"
@@ -2891,7 +2892,7 @@ msgstr ""
 
 #: electrum_dash/base_wizard.py:285
 msgid "Hardware Keystore"
-msgstr ""
+msgstr "Aparatūras atslēgu glabātava"
 
 #: electrum_dash/gui/kivy/uix/dialogs/installwizard.py:1086
 #: electrum_dash/gui/qt/installwizard.py:816
@@ -2901,11 +2902,11 @@ msgstr ""
 #: electrum_dash/gui/qt/network_dialog.py:104
 #: electrum_dash/gui/qt/utxo_list.py:97
 msgid "Height"
-msgstr "Altura"
+msgstr "Augstums"
 
 #: electrum_dash/gui/kivy/main_window.py:1247
 msgid "Hello World"
-msgstr "Olá Mundo"
+msgstr "Sveika, pasaule"
 
 #: electrum_dash/gui/qt/util.py:121 electrum_dash/gui/qt/util.py:149
 msgid "Help"
@@ -2921,7 +2922,7 @@ msgstr ""
 #: electrum_dash/gui/qt/installwizard.py:581
 #: electrum_dash/gui/qt/installwizard.py:820
 msgid "Here is your master public key."
-msgstr "Aqui está a sua chave pública mestra."
+msgstr "Šī ir jūsu galvenā publiskā atslēga."
 
 #: electrum_dash/gui/kivy/uix/dialogs/installwizard.py:1089
 #: electrum_dash/gui/qt/installwizard.py:819
@@ -2930,7 +2931,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:894
 msgid "Hide"
-msgstr "Esconder"
+msgstr "Slēpt"
 
 #: electrum_dash/gui/qt/main_window.py:432
 msgid "Hide {}"
@@ -2940,24 +2941,24 @@ msgstr ""
 #: electrum_dash/gui/qt/address_dialog.py:103
 #: electrum_dash/gui/qt/main_window.py:273
 msgid "History"
-msgstr "Histórico"
+msgstr "Vēsture"
 
 #: electrum_dash/gui/kivy/uix/ui_screens/about.kv:25
 msgid "Homepage"
-msgstr "Página inicial"
+msgstr "Mājas lapa"
 
 #: electrum_dash/plugins/trezor/qt.py:670
 #: electrum_dash/plugins/safe_t/qt.py:402
 msgid "Homescreen"
-msgstr "Tela inicial"
+msgstr ""
 
 #: electrum_dash/gui/kivy/uix/ui_screens/proxy.kv:19
 msgid "Host"
-msgstr "Servidor anfitrião"
+msgstr "Saimnieks"
 
 #: electrum_dash/gui/qt/installwizard.py:843
 msgid "How do you want to connect to a server? "
-msgstr "Como deseja ligar-se a um servidor? "
+msgstr "Kā jūs vēlaties savienoties ar serveri? "
 
 #: electrum_dash/plugins/cosigner_pool/qt.py:225
 msgid ""
@@ -2970,6 +2971,8 @@ msgid ""
 "However, we do not generate BIP39 seeds, because they do not meet our safety "
 "standard."
 msgstr ""
+"Tomēr, mēs neģenerējam BIP39 sēklas, jo tās neatbilst mūsu drošības "
+"standartiem."
 
 #: electrum_dash/gui/qt/seed_dialog.py:104
 msgid "However, we do not generate SLIP39 seeds."
@@ -2977,12 +2980,12 @@ msgstr ""
 
 #: electrum_dash/i18n.py:63
 msgid "Hungarian"
-msgstr "Húngaro"
+msgstr "Ungāru"
 
 #: electrum_dash/gui/qt/privatesend_dialog.py:1037
 #: electrum_dash/base_wizard.py:213
 msgid "I already have a seed"
-msgstr "Eu já tenho a semente"
+msgstr "Man jau ir sēkla"
 
 #: electrum_dash/gui/qt/protx_wizards.py:125
 msgid "I am an operator of this Masternode"
@@ -3001,8 +3004,8 @@ msgid ""
 "If auto-connect is enabled, Dash Electrum will always use a server that is "
 "on the longest blockchain."
 msgstr ""
-"Se 'ligar automaticamente' estiver ligado, o Dash Electrum tentará sempre "
-"utilizar um servidor que estiver na blockchain mais longa."
+"Ja automātiskā savienošanās ir aktivizēta, Dash Electrum vienmēr izmantos "
+"garāko blokķēdi."
 
 #: electrum_dash/gui/qt/settings_dialog.py:286
 msgid ""
@@ -3014,12 +3017,12 @@ msgid ""
 "If it is disabled, you have to choose a server you want to use. Dash "
 "Electrum will warn you if your server is lagging."
 msgstr ""
-"Se estiver desativado, terá de selecionar um servidor que queira usar. O "
-"Dash Electrum vai aviscaso o seu servidor esteja atrasado."
+"Ja atslēgts, jums būs jāizvēlas serveris kuru vēlaties izmantot. Dash "
+"Electrum brīdinās, ja jūsu serveris atpaliek."
 
 #: electrum_dash/base_wizard.py:416
 msgid "If you are not sure what this is, leave this field unchanged."
-msgstr ""
+msgstr "Ja nezināt, kas tas ir, atstājiet šo lauku nemainītu."
 
 #: electrum_dash/plugins/trezor/qt.py:727
 #: electrum_dash/plugins/safe_t/qt.py:459
@@ -3032,7 +3035,7 @@ msgstr ""
 #: electrum_dash/gui/qt/privatesend_dialog.py:1111
 #: electrum_dash/base_wizard.py:502
 msgid "If you do not know what this is, leave this field empty."
-msgstr ""
+msgstr "Ja nezināt, kas tas ir, atstājiet šo lauku tukšu."
 
 #: electrum_dash/plugins/trezor/qt.py:34 electrum_dash/plugins/safe_t/qt.py:34
 #: electrum_dash/plugins/keepkey/qt.py:34
@@ -3051,6 +3054,8 @@ msgid ""
 "If you have lost your Google Authenticator account, you can request a new "
 "secret. You will need to retype your seed."
 msgstr ""
+"Ja esat pazaudējis savu Google autentifikatora kontu, varat pieprasīt jaunu "
+"noslēpumu. Jums vajadzēs atkārtoti ierakstīt savu sēklu."
 
 #: electrum_dash/gui/qt/qrreader/qtmultimedia/camera_dialog.py:230
 msgid ""
@@ -3062,17 +3067,16 @@ msgstr ""
 #: electrum_dash/gui/qt/installwizard.py:521
 #: electrum_dash/gui/qt/privatesend_dialog.py:1138
 msgid "If you lose your seed, your money will be permanently lost."
-msgstr "Se perder a sua semente, o seu dinheiro será perdido permanentemente."
+msgstr "Ja pazaudēsiet sēklu, jūsu nauda tiks neatgriezeniski zaudēta."
 
 #: electrum_dash/gui/qt/installwizard.py:347
 msgid "If you use a passphrase, make sure it is correct."
-msgstr ""
+msgstr "Ja izmantojiet paroles frāzi, pārliecinieties, ka tā ir pareiza."
 
 #: electrum_dash/gui/qt/main_window.py:1408
 msgid ""
 "If you want to create new addresses, use a deterministic wallet instead."
-msgstr ""
-"Se quiser criar novos endereços utilize antes uma carteira determinística."
+msgstr "Ja vēlaties izveidot jaunu adresi, izmantojiet deterministisko maciņu."
 
 #: electrum_dash/base_wizard.py:340
 msgid ""
@@ -3080,10 +3084,13 @@ msgid ""
 "\"Connected devices\", and do \"Remove device\". Then, plug your device "
 "again."
 msgstr ""
+"Ja ierīce Windows sistēmā nav konstatēta, dodieties uz sadaļu "
+"\"Iestatījumi\", \"Ierīces\", \"Pievienotās ierīces\" un veiciet \"Noņemt "
+"ierīci\". Tad atkārtoti pievienojiet ierīci."
 
 #: electrum_dash/gui/qt/main_window.py:2822
 msgid "If your wallet contains funds, make sure you have saved its seed."
-msgstr ""
+msgstr "Ja maciņā ir līdzekļi, pārliecinieties, vai esat saglabājuši tā sēklu."
 
 #: electrum_dash/gui/qt/protx_wizards.py:438
 msgid "Ignore and continue."
@@ -3110,7 +3117,7 @@ msgstr ""
 #: electrum_dash/gui/qt/main_window.py:886
 #: electrum_dash/gui/qt/main_window.py:3376
 msgid "Import"
-msgstr "Importar"
+msgstr "Importēt"
 
 #: electrum_dash/base_wizard.py:232
 msgid "Import Dash Addresses"
@@ -3127,7 +3134,7 @@ msgstr ""
 #: electrum_dash/gui/qt/main_window.py:861
 #: electrum_dash/gui/qt/main_window.py:3400
 msgid "Import addresses"
-msgstr "Importar endereços"
+msgstr "Importēt adreses"
 
 #: electrum_dash/gui/qt/protx_wizards.py:105
 msgid "Import and register legacy masternode.conf as DIP3 Masternode"
@@ -3135,7 +3142,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/contact_list.py:78
 msgid "Import file"
-msgstr "Importar ficheiro"
+msgstr "Importēt failu"
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:288
 msgid "Import pairing from the Digital Bitbox desktop app"
@@ -3143,7 +3150,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:3407
 msgid "Import private keys"
-msgstr "Importar chaves privadas"
+msgstr "Importēt privātās atslēgas"
 
 #: electrum_dash/dash_ps_util.py:928
 msgid "In new mix transactions group origin coins by address"
@@ -3154,8 +3161,7 @@ msgid ""
 "In particular, DO NOT use 'redeem private key' services proposed by third "
 "parties."
 msgstr ""
-"Especialmente, NÃO UTILIZE serviços para 'resgatar as chaves privadas "
-"('redeem private key') propostas por terceiros."
+"Jo īpaši, neievadiet privāto atslēgu trešo pušu piedāvātajos pakalpojumus."
 
 #: electrum_dash/invoices.py:49
 msgid "In progress"
@@ -3174,12 +3180,12 @@ msgid ""
 "In some cases, use up to 3 change addresses in order to break up large coin "
 "amounts and obfuscate the recipient address."
 msgstr ""
-"Em alguns casos, utiliza até três endereços de troco de forma a dividir "
-"grandes quantias de ofuscar o endereço do destinatário."
+"Dažos gadījumos, tiks izmantots līdz pat 3 atlikuma adresēm, lai sadalītu "
+"lielāku summu un slēptu saņēmēja adresi."
 
 #: electrum_dash/simple_config.py:430
 msgid "In the next block"
-msgstr "No próximo bloco"
+msgstr ""
 
 #: electrum_dash/gui/qt/console.py:34
 msgid "Inactivity timeout in minutes"
@@ -3199,15 +3205,15 @@ msgstr ""
 
 #: electrum_dash/util.py:134
 msgid "Incorrect password"
-msgstr "Senha incorreta"
+msgstr "Nepareiza parole"
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:200
 msgid "Incorrect password entered."
-msgstr "Senha incorreta inserida."
+msgstr ""
 
 #: electrum_dash/i18n.py:65
 msgid "Indonesian"
-msgstr "Indonésio"
+msgstr "Indonēziešu"
 
 #: electrum_dash/gui/qt/util.py:164
 #: electrum_dash/gui/qt/privatesend_dialog.py:802
@@ -3222,7 +3228,7 @@ msgstr ""
 #: electrum_dash/plugins/safe_t/qt.py:496
 #: electrum_dash/plugins/keepkey/qt.py:566
 msgid "Information"
-msgstr "Informação"
+msgstr "Informācija"
 
 #: electrum_dash/plugins/ledger/qt.py:83
 msgid "Initialization of Ledger HW devices is currently disabled."
@@ -3238,7 +3244,7 @@ msgstr ""
 #: electrum_dash/plugins/safe_t/qt.py:358
 #: electrum_dash/plugins/keepkey/qt.py:451
 msgid "Initialized"
-msgstr "Iniciado"
+msgstr ""
 
 #: electrum_dash/dash_ps_util.py:980
 msgid "Initializing ..."
@@ -3251,11 +3257,11 @@ msgstr ""
 #: electrum_dash/gui/qt/main_window.py:3118
 #: electrum_dash/gui/qt/transaction_dialog.py:402
 msgid "Input raw transaction"
-msgstr "Introduza uma transação em bruto"
+msgstr "Ievadiet jēlu transakciju"
 
 #: electrum_dash/gui/qt/transaction_dialog.py:575
 msgid "Inputs"
-msgstr "Entradas"
+msgstr "Ievadi"
 
 #: electrum_dash/dash_msg.py:206
 msgid "Inputs vs outputs size mismatch."
@@ -3263,11 +3269,11 @@ msgstr ""
 
 #: electrum_dash/gui/qt/installwizard.py:159
 msgid "Install Wizard"
-msgstr "Assistente de Instalação"
+msgstr "Instalācijas vednis"
 
 #: electrum_dash/gui/qt/settings_dialog.py:146
 msgid "Install the zbar package to enable this."
-msgstr "Instale o pacote zbar para ativar esta função."
+msgstr "Instalējiet zbar pakotni, lai aktivizētu šo funkciju."
 
 #: electrum_dash/wallet.py:554 electrum_dash/wallet.py:562
 msgid "InstantSend"
@@ -3275,11 +3281,11 @@ msgstr ""
 
 #: electrum_dash/plugins/revealer/qt.py:453
 msgid "Instructions:"
-msgstr "Instruções:"
+msgstr ""
 
 #: electrum_dash/util.py:119
 msgid "Insufficient funds"
-msgstr "Fundos insuficientes"
+msgstr "Nav pietiekoši daudz līdzekļu"
 
 #: electrum_dash/dash_ps_wallet.py:78
 msgid ""
@@ -3289,12 +3295,12 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:2447
 msgid "Invalid Address"
-msgstr "Endereço Inválido"
+msgstr "Nederīga adrese"
 
 #: electrum_dash/gui/stdio.py:248 electrum_dash/gui/text.py:430
 #: electrum_dash/gui/qt/main_window.py:1697
 msgid "Invalid Amount"
-msgstr "Quantia Inválida"
+msgstr "Nederīga summa"
 
 #: electrum_dash/gui/kivy/uix/screens.py:480
 #: electrum_dash/plugins/hw_wallet/plugin.py:129
@@ -3312,28 +3318,28 @@ msgstr ""
 
 #: electrum_dash/gui/stdio.py:253 electrum_dash/gui/text.py:435
 msgid "Invalid Fee"
-msgstr "Taxa Inválida"
+msgstr "Nederīga komisijas maksa"
 
 #: electrum_dash/util.py:1049
 msgid "Invalid JSON code."
-msgstr "Código JSON inválido."
+msgstr "Nederīgs JSON kods."
 
 #: electrum_dash/gui/qt/main_window.py:1721
 msgid "Invalid Lines found:"
-msgstr "Linhas inválidas encontradas:"
+msgstr "Atrastas nederīgas līnijas:"
 
 #: electrum_dash/gui/kivy/main_window.py:1317
 #: electrum_dash/gui/kivy/uix/dialogs/tx_dialog.py:218
 msgid "Invalid PIN"
-msgstr "PIN inválido"
+msgstr "Nederīgs PIN"
 
 #: electrum_dash/gui/qt/main_window.py:3012
 msgid "Invalid Public key"
-msgstr ""
+msgstr "Nederīga publiskā atslēga"
 
 #: electrum_dash/gui/kivy/uix/screens.py:472
 msgid "Invalid amount"
-msgstr "Quantia inválida"
+msgstr "Nederīga summa"
 
 #: electrum_dash/dash_net.py:266 electrum_dash/dash_net.py:268
 msgid "Invalid hostname: \"{}\""
@@ -3374,7 +3380,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:880
 msgid "Invoices"
-msgstr "Faturas"
+msgstr "Rēķini"
 
 #: electrum_dash/gui/qt/main_window.py:573
 msgid "Is Idle"
@@ -3392,14 +3398,17 @@ msgstr ""
 msgid ""
 "It also contains your master public key that allows watching your addresses."
 msgstr ""
+"Tas satur arī jūsu galveno publisko atslēgu, kura ļauj skatīt jūsu adreses."
 
 #: electrum_dash/gui/qt/main_window.py:3169
 msgid "It cannot be \"backed up\" by simply exporting these private keys."
 msgstr ""
+"Tam nevar izveidot \"rezerves kopiju\" vienkārši eksportējot šīs privātās "
+"atslēgas."
 
 #: electrum_dash/gui/qt/main_window.py:3575
 msgid "It conflicts with current history."
-msgstr ""
+msgstr "Tas ir pretrunā ar pašreizējo vēsturi."
 
 #: electrum_dash/gui/qt/main_window.py:1873
 msgid ""
@@ -3415,11 +3424,11 @@ msgstr ""
 
 #: electrum_dash/i18n.py:66
 msgid "Italian"
-msgstr ""
+msgstr "Itāļu"
 
 #: electrum_dash/i18n.py:67
 msgid "Japanese"
-msgstr ""
+msgstr "Japāņu"
 
 #: electrum_dash/plugins/keepkey/qt.py:59
 msgid "KeepKey Seed Recovery"
@@ -3431,7 +3440,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:1541
 msgid "Keyboard shortcut: type \"!\" to send all your coins."
-msgstr "Atalho do teclado: pressione \"!\" para enviar todas as suas moedas."
+msgstr "Tastatūras saīsne: \"!\", lai nosūtītu visu summu."
 
 #: electrum_dash/dash_ps_util.py:842
 msgid "Keypairs cache timeout"
@@ -3444,7 +3453,7 @@ msgstr ""
 #: electrum_dash/gui/qt/address_list.py:162
 #: electrum_dash/gui/qt/utxo_list.py:95 electrum_dash/base_wizard.py:207
 msgid "Keystore"
-msgstr ""
+msgstr "Atslēgu glabātava"
 
 #: electrum_dash/gui/qt/main_window.py:2752
 msgid "Keystore type"
@@ -3457,7 +3466,7 @@ msgstr ""
 
 #: electrum_dash/i18n.py:68
 msgid "Kyrgyz"
-msgstr ""
+msgstr "Kirgīzu"
 
 #: electrum_dash/dash_ps.py:58
 msgid "LLMQ quorums data is not fully loaded."
@@ -3466,15 +3475,15 @@ msgstr ""
 #: electrum_dash/gui/qt/address_list.py:157
 #: electrum_dash/gui/qt/utxo_list.py:93
 msgid "Label"
-msgstr ""
+msgstr "Etiķete"
 
 #: electrum_dash/plugins/labels/qt.py:44
 msgid "Label Settings"
-msgstr "Definições de Etiquetas"
+msgstr "Etiķešu iestatījumi"
 
 #: electrum_dash/plugins/labels/__init__.py:3
 msgid "LabelSync"
-msgstr ""
+msgstr "Etiķešu sinhronizācija"
 
 #: electrum_dash/plugins/labels/__init__.py:6
 msgid ""
@@ -3488,7 +3497,7 @@ msgstr ""
 #: electrum_dash/plugins/safe_t/qt.py:357
 #: electrum_dash/plugins/keepkey/qt.py:450
 msgid "Language"
-msgstr "Língua"
+msgstr "Valoda"
 
 #: electrum_dash/dash_msg.py:198
 msgid "Last PrivateSend was too recent."
@@ -3501,11 +3510,11 @@ msgstr ""
 
 #: electrum_dash/i18n.py:69
 msgid "Latvian"
-msgstr ""
+msgstr "Latviešu"
 
 #: electrum_dash/gui/qt/installwizard.py:43
 msgid "Leave this field empty if you want to disable encryption."
-msgstr "Deixe este campo em branco se quiser desativar a encriptação."
+msgstr "Atstājiet šo lauciņu tukšu, ja vēlaties atslēgt šifrēšanu."
 
 #: electrum_dash/plugins/ledger/qt.py:53
 msgid "Ledger Status"
@@ -3531,15 +3540,15 @@ msgstr ""
 
 #: electrum_dash/gui/kivy/uix/ui_screens/about.kv:19
 msgid "Licence"
-msgstr ""
+msgstr "Licenze"
 
 #: electrum_dash/gui/qt/settings_dialog.py:159
 msgid "Light"
-msgstr ""
+msgstr "Gaiša"
 
 #: electrum_dash/gui/qt/main_window.py:1722
 msgid "Line #"
-msgstr "Linha #"
+msgstr "Līnija #"
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:248
 msgid "Load a wallet from the micro SD card"
@@ -3556,7 +3565,7 @@ msgstr ""
 #: electrum_dash/gui/qt/main_window.py:3120
 #: electrum_dash/gui/qt/transaction_dialog.py:404
 msgid "Load transaction"
-msgstr "Carregar uma transação"
+msgstr "Ielādēt transakciju"
 
 #: electrum_dash/gui/qt/protx_qt.py:164 electrum_dash/gui/qt/protx_qt.py:604
 msgid "Loading"
@@ -3573,7 +3582,7 @@ msgstr ""
 
 #: electrum_dash/wallet.py:99 electrum_dash/wallet.py:573
 msgid "Local"
-msgstr ""
+msgstr "Vietēja"
 
 #: electrum_dash/gui/qt/privatesend_dialog.py:819
 msgid "Log"
@@ -3581,11 +3590,11 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:3136
 msgid "Lookup transaction"
-msgstr "Consultar transação"
+msgstr "Apsekot transakciju"
 
 #: electrum_dash/simple_config.py:428
 msgid "Low fee"
-msgstr ""
+msgstr "Zema komisijas maksa"
 
 #: electrum_dash/gui/qt/address_list.py:98
 #: electrum_dash/gui/qt/address_list.py:249
@@ -3628,7 +3637,7 @@ msgstr ""
 #: electrum_dash/gui/qt/installwizard.py:817
 #: electrum_dash/gui/qt/privatesend_dialog.py:829
 msgid "Master Public Key"
-msgstr "Chave Pública Mestra"
+msgstr "Galvenā publiskā atslēga"
 
 #: electrum_dash/gui/qt/protx_qt.py:613
 msgid "Masternode"
@@ -3657,7 +3666,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:1553
 msgid "Max"
-msgstr "Máx"
+msgstr "Maks."
 
 #: electrum_dash/gui/qt/dash_net_dialog.py:356
 msgid "Max Peers:"
@@ -3669,7 +3678,7 @@ msgstr ""
 
 #: electrum_dash/gui/kivy/uix/dialogs/tx_dialog.py:163
 msgid "Mempool depth"
-msgstr ""
+msgstr "Atmiņas pūla dziļums"
 
 #: electrum_dash/gui/qt/transaction_dialog.py:199
 msgid "Merge signatures from"
@@ -3679,7 +3688,7 @@ msgstr ""
 #: electrum_dash/gui/qt/main_window.py:3025
 #: electrum_dash/gui/qt/dash_net_dialog.py:164
 msgid "Message"
-msgstr "Mensagem"
+msgstr "Ziņojums"
 
 #: electrum_dash/plugins/ledger/auth2fa.py:70
 msgid "Method:"
@@ -3691,7 +3700,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/confirm_tx_dialog.py:154
 msgid "Mining fee"
-msgstr "Taxa de mineração"
+msgstr "Komisijas maksa"
 
 #: electrum_dash/gui/qt/main_window.py:1656
 msgid "Mining fee: {} (can be adjusted on next screen)"
@@ -3717,7 +3726,7 @@ msgstr ""
 
 #: electrum_dash/base_crash_reporter.py:68
 msgid "Missing report URL."
-msgstr ""
+msgstr "Trūkst ziņojuma URL."
 
 #: electrum_dash/gui/kivy/uix/spinbox.py:70
 msgid "Missing value"
@@ -3759,11 +3768,11 @@ msgstr ""
 
 #: electrum_dash/gui/qt/installwizard.py:897
 msgid "Multi-Signature Wallet"
-msgstr "Carteira Multi-assinaturas"
+msgstr "Daudzparakstu maciņš"
 
 #: electrum_dash/base_wizard.py:156
 msgid "Multi-signature wallet"
-msgstr ""
+msgstr "Daudzparakstu maciņš"
 
 #: electrum_dash/plugins/ledger/auth2fa.py:93
 #: electrum_dash/plugins/ledger/auth2fa.py:134
@@ -3774,7 +3783,7 @@ msgstr ""
 #: electrum_dash/gui/qt/main_window.py:2720
 #: electrum_dash/gui/qt/contact_list.py:47
 msgid "Name"
-msgstr "Nome"
+msgstr "Nosaukums"
 
 #: electrum_dash/plugins/trezor/qt.py:639
 #: electrum_dash/plugins/safe_t/qt.py:371
@@ -3786,7 +3795,7 @@ msgstr ""
 
 #: electrum_dash/gui/text.py:233 electrum_dash/gui/qt/__init__.py:174
 msgid "Network"
-msgstr "Rede"
+msgstr "Tīkls"
 
 #: electrum_dash/dash_ps.py:75
 msgid "Network is not available"
@@ -3798,17 +3807,17 @@ msgstr ""
 
 #: electrum_dash/invoices.py:57 electrum_dash/gui/qt/exception_window.py:92
 msgid "Never"
-msgstr "Nunca"
+msgstr "Nekad"
 
 #: electrum_dash/gui/kivy/uix/dialogs/installwizard.py:906
 #: electrum_dash/gui/qt/seed_dialog.py:58
 msgid "Never disclose your seed."
-msgstr "Nunca revele a sua semente."
+msgstr "Nekad neizpaudiet sēklu."
 
 #: electrum_dash/gui/kivy/uix/dialogs/installwizard.py:907
 #: electrum_dash/gui/qt/seed_dialog.py:59
 msgid "Never type it on a website."
-msgstr "Nunca a escreva num website."
+msgstr "Nekad neievadiet to tīmekļa vietnēs."
 
 #: electrum_dash/gui/qt/main_window.py:1276
 msgid "New Address"
@@ -3821,11 +3830,11 @@ msgstr ""
 #: electrum_dash/gui/qt/main_window.py:2710
 #: electrum_dash/gui/qt/main_window.py:2712
 msgid "New Contact"
-msgstr "Novo Contacto"
+msgstr "Jauns kontakts"
 
 #: electrum_dash/gui/qt/password_dialog.py:104
 msgid "New Password:"
-msgstr "Nova palavra-passe:"
+msgstr "Jaunā parole:"
 
 #: electrum_dash/dash_ps.py:517
 msgid "New collateral workflow: {}"
@@ -3833,7 +3842,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/contact_list.py:77
 msgid "New contact"
-msgstr "Novo contacto"
+msgstr "Jauns kontakts"
 
 #: electrum_dash/dash_ps.py:552
 msgid "New denoms workflow: {}"
@@ -3846,7 +3855,7 @@ msgstr ""
 #: electrum_dash/gui/qt/installwizard.py:171
 #: electrum_dash/plugins/revealer/qt.py:127
 msgid "Next"
-msgstr "Próximo"
+msgstr "Nākamais"
 
 #: electrum_dash/gui/qt/seed_dialog.py:202
 msgid "Next share"
@@ -3857,21 +3866,21 @@ msgstr ""
 #: electrum_dash/plugins/safe_t/qt.py:228
 #: electrum_dash/plugins/keepkey/qt.py:350
 msgid "No"
-msgstr "Não"
+msgstr ""
 
 #: electrum_dash/util.py:232 electrum_dash/util.py:238
 msgid "No Data"
-msgstr ""
+msgstr "Nav datu"
 
 #: electrum_dash/gui/kivy/uix/ui_screens/send.kv:147
 #: electrum_dash/gui/kivy/uix/screens.py:417
 #: electrum_dash/gui/kivy/uix/screens.py:664
 msgid "No Description"
-msgstr ""
+msgstr "Nav apraksta"
 
 #: electrum_dash/gui/kivy/main_window.py:292
 msgid "No Wallet"
-msgstr "Sem Carteira"
+msgstr "Nav maciņa"
 
 #: electrum_dash/gui/kivy/uix/screens.py:638
 msgid "No address available. Please remove some of your pending requests."
@@ -3879,11 +3888,11 @@ msgstr ""
 
 #: electrum_dash/exchange_rate.py:468
 msgid "No data"
-msgstr ""
+msgstr "Nav datu"
 
 #: electrum_dash/gui/qt/main_window.py:965
 msgid "No donation address for this server"
-msgstr "Não há endereço de doação para este servidor"
+msgstr "Šim serverim nav ziedojumu adreses"
 
 #: electrum_dash/dash_msg.py:203
 msgid "No errors detected."
@@ -3891,7 +3900,7 @@ msgstr ""
 
 #: electrum_dash/base_wizard.py:335
 msgid "No exceptions encountered."
-msgstr ""
+msgstr "Kļūdas netika konstatētas."
 
 #: electrum_dash/gui/qt/bip39_recovery_dialog.py:58
 msgid "No existing accounts found."
@@ -3899,11 +3908,11 @@ msgstr ""
 
 #: electrum_dash/gui/kivy/uix/ui_screens/network.kv:63
 msgid "No fork detected"
-msgstr ""
+msgstr "Dalīšanās nav atklāta"
 
 #: electrum_dash/base_wizard.py:337
 msgid "No hardware device detected."
-msgstr ""
+msgstr "Aparatūras ierīce netika atrasta."
 
 #: electrum_dash/wallet.py:166
 msgid "No inputs found."
@@ -3919,11 +3928,11 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:1406
 msgid "No more addresses in your wallet."
-msgstr "Não há mais endereços na sua carteira."
+msgstr "Maciņā vairs nav adrešu."
 
 #: electrum_dash/gui/qt/main_window.py:1689
 msgid "No outputs"
-msgstr "Não há saídas"
+msgstr "Nav izvadu"
 
 #: electrum_dash/gui/kivy/uix/ui_screens/status.kv:48
 msgid "No seed stored for wallet"
@@ -3935,7 +3944,7 @@ msgstr ""
 
 #: electrum_dash/gui/kivy/main_window.py:421
 msgid "No wallet loaded."
-msgstr ""
+msgstr "Nav ielādēts maciņš."
 
 #: electrum_dash/dash_msg.py:194
 msgid "Non-standard public key detected."
@@ -3951,15 +3960,15 @@ msgstr ""
 #: electrum_dash/gui/qt/history_list.py:736
 #: electrum_dash/gui/qt/settings_dialog.py:343
 msgid "None"
-msgstr "Nenhum"
+msgstr "Nekas"
 
 #: electrum_dash/i18n.py:70
 msgid "Norwegian Bokmal"
-msgstr ""
+msgstr "Norvēģu būkmols"
 
 #: electrum_dash/gui/qt/exception_window.py:96
 msgid "Not Now"
-msgstr "Agora Não"
+msgstr "Ne tagad"
 
 #: electrum_dash/dash_tx.py:566
 msgid "Not Specified"
@@ -3967,7 +3976,7 @@ msgstr ""
 
 #: electrum_dash/wallet.py:98
 msgid "Not Verified"
-msgstr "Não Verificado"
+msgstr "Nepārbaudīts"
 
 #: electrum_dash/dash_msg.py:184
 msgid "Not compatible with existing transactions."
@@ -3977,16 +3986,16 @@ msgstr ""
 #: electrum_dash/gui/kivy/uix/ui_screens/network.kv:14
 #: electrum_dash/gui/qt/network_dialog.py:367
 msgid "Not connected"
-msgstr "Não está ligado"
+msgstr "Nav savienots"
 
 #: electrum_dash/gui/kivy/uix/dialogs/confirm_tx_dialog.py:131
 #: electrum_dash/gui/qt/main_window.py:1980
 msgid "Not enough funds"
-msgstr "Não há fundos suficientes"
+msgstr "Nav pietiekami daudz līdzekļu"
 
 #: electrum_dash/wallet.py:189 electrum_dash/wallet.py:191
 msgid "Not enough funds on address."
-msgstr ""
+msgstr "Adresē nav pietiekami daudz līdzekļu."
 
 #: electrum_dash/dash_msg.py:192
 msgid "Not in the Masternode list."
@@ -3994,20 +4003,20 @@ msgstr ""
 
 #: electrum_dash/wallet.py:559
 msgid "Not verified"
-msgstr ""
+msgstr "Nepārbaudīts"
 
 #: electrum_dash/gui/qt/main_window.py:1540
 msgid ""
 "Note that if you have frozen some of your addresses, the available funds "
 "will be lower than your total balance."
 msgstr ""
-"Note que se tiver congelado alguns dos seus endereços, os fundos disponíveis "
-"serão mais baixos que o seu saldo total."
+"Ievērojiet, ja ir iesaldētas kādas adreses, pieejamo līdzekļu būs mazāk nekā "
+"kopējā bilance."
 
 #: electrum_dash/gui/qt/privatesend_dialog.py:1110
 #: electrum_dash/base_wizard.py:501
 msgid "Note that this is NOT your encryption password."
-msgstr ""
+msgstr "Ņemiet vērā, ka šī NAV jūsu šifrēšanas parole."
 
 #: electrum_dash/gui/qt/installwizard.py:47
 #: electrum_dash/gui/qt/password_dialog.py:292
@@ -4015,6 +4024,8 @@ msgid ""
 "Note: If you enable this setting, you will need your hardware device to open "
 "your wallet."
 msgstr ""
+"Piezīme: Ja aktivizēsiet šo iestatījumu, jums būs nepieciešama aparatūras "
+"ierīce, lai atvērtu savu maciņu."
 
 #: electrum_dash/gui/qt/qrreader/qtmultimedia/camera_dialog.py:123
 msgid ""
@@ -4027,18 +4038,19 @@ msgid ""
 "Note: this is an offline transaction, if you want the network to see it, you "
 "need to broadcast it."
 msgstr ""
+"Piezīme: Šī ir bezsaistes transakcija, lai tīkls to redzētu tā ir jāpārraida."
 
 #: electrum_dash/gui/kivy/uix/dialogs/__init__.py:97
 msgid "Nothing set !"
-msgstr "Nada estabelecido !"
+msgstr "Nekas nav iestatīts !"
 
 #: electrum_dash/plot.py:15
 msgid "Nothing to plot."
-msgstr ""
+msgstr "Nav no kā izveidot grafiku."
 
 #: electrum_dash/gui/qt/history_list.py:821
 msgid "Nothing to summarize."
-msgstr ""
+msgstr "Nav ko apkopot."
 
 #: electrum_dash/dash_ps_util.py:768
 msgid "Notify on PrivateSend transactions"
@@ -4053,8 +4065,8 @@ msgid ""
 "Number of zeros displayed after the decimal point. For example, if this is "
 "set to 2, \"1.\" will be displayed as \"1.00\""
 msgstr ""
-"Número de zeros apresentados a seguir ao ponto decimal. Por exemplo, se isto "
-"estiver definido como 2, \"1.\" será apresentado como \"1.00\""
+"Nulles pēc decimālā atdalītāja. Piemēram, ja šis iestatījums ir 2, \"1.\" "
+"tiks attēlots kā \"1.00\""
 
 #: electrum_dash/gui/kivy/main_window.py:1453
 #: electrum_dash/gui/kivy/uix/ui_screens/proxy.kv:64
@@ -4063,7 +4075,7 @@ msgstr ""
 #: electrum_dash/gui/qt/dash_qt.py:76 electrum_dash/gui/qt/util.py:198
 #: electrum_dash/plugins/audio_modem/qt.py:71
 msgid "OK"
-msgstr "OK"
+msgstr "Labi"
 
 #: electrum_dash/plugins/hw_wallet/plugin.py:347
 msgid "OP_RETURN payload too large.\n"
@@ -4077,11 +4089,12 @@ msgstr ""
 #: electrum_dash/gui/qt/protx_qt.py:595
 #: electrum_dash/gui/qt/main_window.py:1131
 msgid "Offline"
-msgstr "Offline"
+msgstr "Nesaistē"
 
 #: electrum_dash/base_wizard.py:344
 msgid "On Linux, you might have to add a new permission to your udev rules."
 msgstr ""
+"Uz Linux, iespējams, būs jāpievieno jauna atļauja jūsu udev noteikumos."
 
 #: electrum_dash/gui/qt/main_window.py:2469
 msgid "Onchain Invoice"
@@ -4089,7 +4102,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:2428
 msgid "One output per line."
-msgstr "Uma saída por linha."
+msgstr "Viens izvads katrā līnijā."
 
 #: electrum_dash/gui/kivy/uix/ui_screens/network.kv:50
 msgid "One-server mode"
@@ -4097,7 +4110,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/settings_dialog.py:297
 msgid "Online Block Explorer"
-msgstr "Explorador de Blocos Online"
+msgstr "Tiešsaites blokķēdes pārlūks"
 
 #: electrum_dash/plugins/hw_wallet/plugin.py:345
 msgid "Only OP_RETURN scripts are supported."
@@ -4141,7 +4154,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/util.py:1022
 msgid "Open {} file"
-msgstr ""
+msgstr "Atvērt {} failu"
 
 #: electrum_dash/gui/qt/settings_dialog.py:112
 #: electrum_dash/gui/qt/settings_dialog.py:435
@@ -4151,6 +4164,8 @@ msgstr "OpenAlias"
 #: electrum_dash/gui/qt/settings_dialog.py:108
 msgid "OpenAlias record, used to receive coins and to sign payment requests."
 msgstr ""
+"OpenAlias ieraksts, izmantots, lai saņemtu monētas un, lai parakstītu "
+"maksājumu pieprasījumus."
 
 #: electrum_dash/gui/qt/protx_wizards.py:102
 msgid "Operation type"
@@ -4183,7 +4198,7 @@ msgstr ""
 #: electrum_dash/gui/kivy/uix/actiondropdown.py:32
 #: electrum_dash/gui/qt/seed_dialog.py:180
 msgid "Options"
-msgstr "Opções"
+msgstr "Opcijas"
 
 #: electrum_dash/gui/qt/installwizard.py:756
 msgid "Or"
@@ -4218,16 +4233,16 @@ msgstr ""
 
 #: electrum_dash/gui/qt/utxo_list.py:98
 msgid "Output point"
-msgstr ""
+msgstr "Izvada punkts"
 
 #: electrum_dash/gui/qt/main_window.py:2486
 #: electrum_dash/gui/qt/transaction_dialog.py:619
 msgid "Outputs"
-msgstr "Saídas"
+msgstr "Izvadi"
 
 #: electrum_dash/gui/qt/network_dialog.py:215
 msgid "Overview"
-msgstr "Visão Geral"
+msgstr "Pārskats"
 
 #: electrum_dash/gui/qt/protx_wizards.py:394
 msgid "Owner Address (P2PKH):"
@@ -4326,20 +4341,20 @@ msgstr ""
 
 #: electrum_dash/invoices.py:46
 msgid "Paid"
-msgstr "Pago"
+msgstr "Samaksāts"
 
 #: electrum_dash/wallet.py:581
 msgid "Partially signed"
-msgstr ""
+msgstr "Daļēji parakstīts"
 
 #: electrum_dash/gui/kivy/main_window.py:1495
 msgid "Passphrase"
-msgstr "Frase-passe"
+msgstr "Paroles frāze"
 
 #: electrum_dash/gui/qt/password_dialog.py:90
 #: electrum_dash/plugins/trezor/qt.py:190
 msgid "Passphrase:"
-msgstr "Frase-passe:"
+msgstr "Paroles frāze:"
 
 #: electrum_dash/plugins/trezor/qt.py:621
 #: electrum_dash/plugins/safe_t/qt.py:353
@@ -4363,16 +4378,16 @@ msgstr ""
 #: electrum_dash/gui/qt/network_dialog.py:240
 #: electrum_dash/gui/qt/password_dialog.py:312
 msgid "Password"
-msgstr "Palavra-passe"
+msgstr "Parole"
 
 #: electrum_dash/gui/qt/password_dialog.py:159
 msgid "Password Strength"
-msgstr "Segurança da palavra-passe"
+msgstr "Paroles stiprums"
 
 #: electrum_dash/gui/qt/main_window.py:2692
 #: electrum_dash/gui/qt/privatesend_dialog.py:913
 msgid "Password is disabled, this wallet is not protected"
-msgstr "A palavra-passe está desativada, esta carteira não está protegida"
+msgstr "Parole ir atslēgta, šis maciņš nav aizsargāts"
 
 #: electrum_dash/gui/kivy/uix/dialogs/password_dialog.py:290
 msgid "Password is too short (min {} characters)"
@@ -4411,11 +4426,11 @@ msgstr ""
 #: electrum_dash/gui/qt/main_window.py:2692
 #: electrum_dash/gui/qt/privatesend_dialog.py:910
 msgid "Password was updated successfully"
-msgstr "A palavra-passe foi atualizada com sucesso"
+msgstr "Parole veiksmīgi atjaunināta"
 
 #: electrum_dash/gui/qt/password_dialog.py:104
 msgid "Password:"
-msgstr "Palavra-passe:"
+msgstr "Parole:"
 
 #: electrum_dash/gui/qt/util.py:824
 msgid "Paste from clipboard"
@@ -4425,16 +4440,16 @@ msgstr ""
 #: electrum_dash/gui/qt/invoice_list.py:173
 #: electrum_dash/gui/qt/main_window.py:1558
 msgid "Pay"
-msgstr ""
+msgstr "Maksāt"
 
 #: electrum_dash/gui/text.py:260 electrum_dash/gui/qt/main_window.py:1502
 #: electrum_dash/gui/qt/contact_list.py:91
 msgid "Pay to"
-msgstr "Pagar a"
+msgstr "Maksāt uz"
 
 #: electrum_dash/gui/qt/main_window.py:2432
 msgid "Pay to many"
-msgstr "Pagar a vários"
+msgstr "Maksāt vairākiem"
 
 #: electrum_dash/gui/kivy/main_window.py:259
 msgid "Payment Received"
@@ -4442,7 +4457,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/qrwindow.py:39
 msgid "Payment Request"
-msgstr "Pedido de Pagamento"
+msgstr "Maksājuma pieprasījums"
 
 #: electrum_dash/gui/kivy/main_window.py:282
 #: electrum_dash/gui/qt/main_window.py:1767
@@ -4456,18 +4471,18 @@ msgstr ""
 #: electrum_dash/gui/kivy/uix/screens.py:612
 #: electrum_dash/gui/qt/main_window.py:1744
 msgid "Payment received"
-msgstr ""
+msgstr "Maksājums saņemts"
 
 #: electrum_dash/gui/kivy/main_window.py:430
 #: electrum_dash/gui/qt/main_window.py:1709
 msgid "Payment request has expired"
-msgstr "O pedido de pagamento caducou"
+msgstr "Maksājuma pieprasījums ir izbeidzies"
 
 #: electrum_dash/gui/stdio.py:290 electrum_dash/gui/text.py:466
 #: electrum_dash/gui/kivy/main_window.py:1363
 #: electrum_dash/gui/qt/main_window.py:2228
 msgid "Payment sent."
-msgstr "Pagamento enviado."
+msgstr "Maksājums nosūtīts."
 
 #: electrum_dash/gui/kivy/main_window.py:278
 #: electrum_dash/gui/qt/main_window.py:1763
@@ -4492,11 +4507,11 @@ msgstr ""
 
 #: electrum_dash/gui/qt/history_list.py:887
 msgid "Perhaps some dependencies are missing..."
-msgstr ""
+msgstr "Iespējams, kādas atkarības nav apmierinātas..."
 
 #: electrum_dash/i18n.py:60
 msgid "Persian"
-msgstr ""
+msgstr "Persiešu"
 
 #: electrum_dash/gui/qt/dash_net_dialog.py:36
 msgid "Ping time (ms)"
@@ -4504,15 +4519,15 @@ msgstr ""
 
 #: electrum_dash/base_crash_reporter.py:56
 msgid "Please briefly describe what led to the error (optional):"
-msgstr ""
+msgstr "Lūdzu, īsi aprakstiet darbības kuras izraisīja kļūdu (nav obligāti):"
 
 #: electrum_dash/plugins/email_requests/qt.py:260
 msgid "Please check your connection and credentials."
-msgstr ""
+msgstr "Lūdzu, pārbaudiet savu savienojumu un savienojuma datus."
 
 #: electrum_dash/gui/kivy/uix/dialogs/crash_reporter.py:128
 msgid "Please check your network connection."
-msgstr ""
+msgstr "Lūdzu, pārbaudiet savu tīkla savienojumu."
 
 #: electrum_dash/plugins/hw_wallet/qt.py:173
 msgid "Please check your {} device"
@@ -4520,7 +4535,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/history_list.py:1063
 msgid "Please confirm"
-msgstr ""
+msgstr "Lūdzu, apstipriniet"
 
 #: electrum_dash/gui/kivy/uix/screens.py:464
 msgid "Please enter an amount"
@@ -4528,8 +4543,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/installwizard.py:497
 msgid "Please enter the master public key (xpub) of your cosigner."
-msgstr ""
-"Por favor introduza a chave pública mestra (xpub) do seu cossignatário."
+msgstr "Lūdzu, ievadiet līdzparakstītāja publisko atslēgu (xpub)."
 
 #: electrum_dash/gui/kivy/uix/dialogs/installwizard.py:1297
 #: electrum_dash/gui/qt/installwizard.py:611
@@ -4543,7 +4557,7 @@ msgstr ""
 #: electrum_dash/gui/qt/main_window.py:1362 electrum_dash/gui/qt/console.py:28
 #: electrum_dash/gui/qt/password_dialog.py:305
 msgid "Please enter your password"
-msgstr "Por favor, digite a sua palavra-passe"
+msgstr "Lūdzu, ievadiet paroli"
 
 #: electrum_dash/plugins/cosigner_pool/qt.py:230
 msgid "Please enter your password to decrypt it."
@@ -4552,7 +4566,7 @@ msgstr ""
 #: electrum_dash/gui/qt/installwizard.py:512
 #: electrum_dash/gui/qt/privatesend_dialog.py:1209
 msgid "Please enter your seed phrase in order to restore your wallet."
-msgstr "Por favor introduza a sua frase semente para restaurar a sua carteira."
+msgstr "Lūdzu, ievadiet sēklas frāzi, lai atjaunotu maciņu."
 
 #: electrum_dash/plugin.py:633
 msgid "Please insert your {}"
@@ -4563,12 +4577,12 @@ msgid ""
 "Please paste your cosigners master public key, or scan it using the camera "
 "button."
 msgstr ""
-"Por favor introduza a chave pública mestra dos cossignatários, ou leia-a "
-"usando o botão da câmara."
+"Lūdzu, ielīmējiet papildparakstītāja galveno publisko atslēgu, vai "
+"noskenējiet to izmantojot kameras pogu."
 
 #: electrum_dash/gui/qt/main_window.py:994
 msgid "Please report any bugs as issues on github:<br/>"
-msgstr "Por favor relate qualquer bug ou problema no github:<br/>"
+msgstr "Lūdzu, ziņojiet par kļūdām uz github:<br/>"
 
 #: electrum_dash/gui/qt/exception_window.py:120
 msgid "Please report this issue manually"
@@ -4581,18 +4595,19 @@ msgstr ""
 #: electrum_dash/gui/qt/main_window.py:3432
 msgid "Please restart Dash Electrum to activate the new GUI settings"
 msgstr ""
-"Por favor reinicie o Dash Electrum para ativar as novas definições de GUI"
+"Lūdzu, pārstartējiet Dash Electrum, lai aktivizētu jaunos saskarnes "
+"iestatījumus"
 
 #: electrum_dash/gui/kivy/uix/dialogs/installwizard.py:1249
 msgid "Please retype your seed phrase, to confirm that you properly saved it"
 msgstr ""
-"Por favor reescreva a sua frase semente, para confirmar que a guardou "
-"adequadamente"
+"Lūdzu, atkārtoti ierakstiet sēklas frāzi, lai apstiprinātu, ka tā ir pareizi "
+"pierakstīta"
 
 #: electrum_dash/gui/qt/seed_dialog.py:52
 #, python-brace-format
 msgid "Please save these {0} words on paper (order is important). "
-msgstr ""
+msgstr "Lūdzu, pierakstiet šos {0} vārdus uz papīra (kārtība ir svarīga). "
 
 #: electrum_dash/gui/kivy/uix/screens.py:461
 msgid "Please scan a Dash address or a payment request"
@@ -4611,24 +4626,24 @@ msgstr ""
 #: electrum_dash/gui/qt/installwizard.py:582
 #: electrum_dash/gui/qt/installwizard.py:821
 msgid "Please share it with your cosigners."
-msgstr "Por favor partilhe com os seus cossignatários."
+msgstr "Lūdzu, dalieties ar šo ar jūsu papildparakstītājiem."
 
 #: electrum_dash/base_wizard.py:374
 msgid "Please try again."
-msgstr ""
+msgstr "Lūdzu, mēģiniet vēlreiz."
 
 #: electrum_dash/gui/qt/privatesend_dialog.py:1183
 #: electrum_dash/base_wizard.py:799
 msgid "Please type it here."
-msgstr ""
+msgstr "Lūdzu, ievadiet to šeit."
 
 #: electrum_dash/gui/kivy/uix/dialogs/installwizard.py:947
 msgid "Please type your seed phrase using the virtual keyboard."
-msgstr "Por favor escreva a sua frase semente usando o teclado virtual."
+msgstr "Lūdzu, izmantojiet virtuālo tastatūru, lai ievadītu sēklas frāzi."
 
 #: electrum_dash/gui/qt/util.py:306
 msgid "Please wait"
-msgstr "Por favor aguarde"
+msgstr "Lūdzu, uzgaidiet"
 
 #: electrum_dash/gui/qt/update_checker.py:94
 msgid "Please wait while Dash Electrum checks for available updates."
@@ -4640,7 +4655,7 @@ msgstr ""
 #: electrum_dash/gui/qt/installwizard.py:174
 #: electrum_dash/gui/qt/installwizard.py:690
 msgid "Please wait..."
-msgstr "Aguarde, por favor..."
+msgstr "Lūdzu, uzgaidiet..."
 
 #: electrum_dash/gui/kivy/main.kv:521
 msgid "Plugins"
@@ -4652,26 +4667,26 @@ msgstr ""
 
 #: electrum_dash/i18n.py:72
 msgid "Polish"
-msgstr ""
+msgstr "Poļu"
 
 #: electrum_dash/gui/kivy/uix/ui_screens/proxy.kv:28
 msgid "Port"
-msgstr "Porta"
+msgstr "Ports"
 
 #: electrum_dash/i18n.py:74
 msgid "Portuguese"
-msgstr ""
+msgstr "Portugāļu"
 
 #: electrum_dash/gui/qt/transaction_dialog.py:470
 msgid "Position in mempool: {} from tip"
-msgstr ""
+msgstr "Pozīcija atmiņas pūlā: {} no galotnes"
 
 #: electrum_dash/gui/qt/main_window.py:910
 #: electrum_dash/gui/qt/main_window.py:2595
 #: electrum_dash/gui/qt/transaction_dialog.py:821
 #: electrum_dash/gui/qt/settings_dialog.py:54
 msgid "Preferences"
-msgstr "Preferências"
+msgstr "Iestatījumi"
 
 #: electrum_dash/gui/qt/main_window.py:3366
 msgid "Preparing sweep transaction..."
@@ -4685,16 +4700,16 @@ msgstr ""
 
 #: electrum_dash/gui/qt/installwizard.py:290
 msgid "Press 'Next' to choose device to decrypt."
-msgstr ""
+msgstr "Nospiediet \"Nākamais\", lai izvēlētos atšifrēšanas ierīci."
 
 #: electrum_dash/gui/qt/installwizard.py:282
 msgid "Press 'Next' to create this wallet, or choose another file."
 msgstr ""
-"Clique em \"Próximo\" para criar esta carteira, ou selecione outro ficheiro."
+"Nospiediet 'Nākamais', lai izveidotu šo maciņu vai izvēlētos citu failu."
 
 #: electrum_dash/gui/qt/installwizard.py:295
 msgid "Press 'Next' to create/focus window."
-msgstr ""
+msgstr "Nospiediet \"Nākamais\", lai izveidotu/fokusētu logu."
 
 #: electrum_dash/gui/kivy/uix/dialogs/installwizard.py:1124
 #: electrum_dash/gui/qt/installwizard.py:562
@@ -4703,7 +4718,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/installwizard.py:292
 msgid "Press 'Next' to open this wallet."
-msgstr "Clique em \"Próximo\" para abrir esta carteira."
+msgstr "Nospiediet 'Nākamais', lai atvērtu šo maciņu."
 
 #: electrum_dash/plugins/ledger/auth2fa.py:124
 msgid "Press Enter"
@@ -4720,7 +4735,7 @@ msgstr ""
 #: electrum_dash/gui/kivy/main_window.py:756
 #: electrum_dash/gui/kivy/uix/dialogs/installwizard.py:682
 msgid "Press again to exit"
-msgstr "Pressione novamente para sair"
+msgstr "Lai izietu, nospiediet vēlreiz"
 
 #: electrum_dash/gui/qt/seed_dialog.py:199
 msgid "Previous share"
@@ -4745,15 +4760,15 @@ msgstr ""
 #: electrum_dash/gui/qt/main_window.py:2884
 #: electrum_dash/gui/qt/address_list.py:552
 msgid "Private key"
-msgstr "Chave privada"
+msgstr "Privātā atslēga"
 
 #: electrum_dash/gui/qt/main_window.py:3171
 msgid "Private keys"
-msgstr "Chaves privadas"
+msgstr "Privātās atslēgas"
 
 #: electrum_dash/gui/qt/main_window.py:3255
 msgid "Private keys exported."
-msgstr "Chaves privadas exportadas ."
+msgstr "Privātās atslēgas eksportētas."
 
 #: electrum_dash/gui/kivy/main_window.py:942
 #: electrum_dash/gui/kivy/uix/dialogs/invoice_dialog.py:104
@@ -4903,25 +4918,27 @@ msgstr ""
 #: electrum_dash/gui/kivy/uix/ui_screens/proxy.kv:3
 #: electrum_dash/gui/qt/network_dialog.py:216
 msgid "Proxy"
-msgstr "Proxy"
+msgstr "Starpniekserveris"
 
 #: electrum_dash/gui/kivy/uix/ui_screens/network.kv:27
 msgid "Proxy configuration"
-msgstr ""
+msgstr "Starpniekservera konfigurācija"
 
 #: electrum_dash/gui/kivy/uix/ui_screens/proxy.kv:11
 msgid "Proxy mode"
-msgstr ""
+msgstr "Starpniekservera režīms"
 
 #: electrum_dash/gui/qt/network_dialog.py:272
 msgid ""
 "Proxy settings apply to all connections: with Dash Electrum servers, but "
 "also with third-party services."
 msgstr ""
+"Starpniekservera iestatījumi tiek izmantoti visiem savienojumiem: Dash "
+"Electrum serveriem un trešo pušu pakalpojumiem."
 
 #: electrum_dash/gui/qt/network_dialog.py:238
 msgid "Proxy user"
-msgstr "Utilizador do Proxy"
+msgstr "Starpniekservera lietotājs"
 
 #: electrum_dash/gui/qt/protx_wizards.py:838
 msgid "PubKeyOperator:"
@@ -4929,11 +4946,11 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:3036
 msgid "Public key"
-msgstr "Chave pública"
+msgstr "Publiskā atslēga"
 
 #: electrum_dash/gui/qt/address_dialog.py:79
 msgid "Public keys"
-msgstr "Chaves públicas"
+msgstr "Publiskās atslēgas"
 
 #: electrum_dash/gui/qt/main_window.py:1316
 msgid "QR Code"
@@ -4945,15 +4962,15 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:2853
 msgid "QR code"
-msgstr "Código QR"
+msgstr "QR kods"
 
 #: electrum_dash/gui/qt/qrcodewidget.py:144
 msgid "QR code copied to clipboard"
-msgstr "Código QR copiado para a área de transferência"
+msgstr "QR kods iekopēts starpliktuvē"
 
 #: electrum_dash/gui/qt/qrcodewidget.py:139
 msgid "QR code saved to file"
-msgstr "Código QR guardado para ficheiro"
+msgstr "QR kods saglabāts failā"
 
 #: electrum_dash/gui/qt/qrreader/qtmultimedia/video_surface.py:59
 msgid "QR code scanner failed to map video frame"
@@ -4975,7 +4992,7 @@ msgstr ""
 
 #: electrum_dash/gui/kivy/uix/dialogs/question.py:55
 msgid "Question"
-msgstr ""
+msgstr "Jautājums"
 
 #: electrum_dash/gui/text.py:233
 msgid "Quit"
@@ -4991,7 +5008,7 @@ msgstr ""
 
 #: electrum_dash/gui/kivy/uix/dialogs/tx_dialog.py:227
 msgid "Raw Transaction"
-msgstr ""
+msgstr "Jēla transakcija"
 
 #: electrum_dash/plugins/trezor/clientbase.py:280
 #: electrum_dash/plugins/safe_t/clientbase.py:57
@@ -5004,11 +5021,11 @@ msgstr ""
 
 #: electrum_dash/gui/qt/qrtextedit.py:52 electrum_dash/gui/qt/qrtextedit.py:96
 msgid "Read QR code"
-msgstr "Ler código QR"
+msgstr "Lasīt QR kodu"
 
 #: electrum_dash/gui/qt/qrtextedit.py:50
 msgid "Read file"
-msgstr "Ler ficheiro"
+msgstr "Lasīt failu"
 
 #: electrum_dash/plugins/audio_modem/qt.py:91
 msgid "Read from microphone"
@@ -5025,7 +5042,7 @@ msgstr ""
 #: electrum_dash/gui/text.py:105 electrum_dash/gui/kivy/main.kv:440
 #: electrum_dash/gui/qt/main_window.py:275
 msgid "Receive"
-msgstr "Receber"
+msgstr "Saņemt"
 
 #: electrum_dash/gui/qt/main_window.py:1308
 msgid "Receive queue"
@@ -5033,7 +5050,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/dash_net_dialog.py:417
 msgid "Received"
-msgstr ""
+msgstr "Saņemts"
 
 #: electrum_dash/gui/qt/dash_net_dialog.py:37
 msgid "Received KiB"
@@ -5041,7 +5058,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/address_list.py:71
 msgid "Receiving"
-msgstr ""
+msgstr "Saņemšana"
 
 #: electrum_dash/gui/qt/transaction_dialog.py:143
 msgid "Receiving Address"
@@ -5049,19 +5066,19 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:1304
 msgid "Receiving address"
-msgstr "Endereço de recebimento"
+msgstr "Saņemšanas adrese"
 
 #: electrum_dash/gui/kivy/uix/ui_screens/send.kv:95
 msgid "Recipient"
-msgstr ""
+msgstr "Saņēmējs"
 
 #: electrum_dash/gui/kivy/uix/screens.py:461
 msgid "Recipient not specified."
-msgstr ""
+msgstr "Nav norādīts saņēmējs."
 
 #: electrum_dash/gui/qt/main_window.py:1500
 msgid "Recipient of the funds."
-msgstr "Destinatário dos fundos."
+msgstr "Līdzekļu saņēmējs."
 
 #: electrum_dash/plugins/trezor/trezor.py:218
 #: electrum_dash/plugins/safe_t/safe_t.py:176
@@ -5071,7 +5088,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/address_dialog.py:88
 msgid "Redeem Script"
-msgstr "Resgatar Script"
+msgstr "Izpirkšanas skripts"
 
 #: electrum_dash/gui/qt/protx_wizards.py:716
 msgid "Regenerate BLS keypair, setup dashd"
@@ -5109,15 +5126,15 @@ msgstr ""
 #: electrum_dash/gui/qt/history_list.py:1015
 #: electrum_dash/gui/qt/dash_net_dialog.py:180
 msgid "Remove"
-msgstr "Remover"
+msgstr "Izņemt"
 
 #: electrum_dash/gui/qt/address_list.py:560
 msgid "Remove from wallet"
-msgstr ""
+msgstr "Izņemt no maciņa"
 
 #: electrum_dash/gui/qt/main_window.py:2457
 msgid "Remove {} from your list of contacts?"
-msgstr ""
+msgstr "Izņemt {} no kontaktu saraksta?"
 
 #: electrum_dash/gui/qt/protx_qt.py:169
 msgid "Removed"
@@ -5129,45 +5146,45 @@ msgstr ""
 
 #: electrum_dash/gui/qt/exception_window.py:71
 msgid "Report contents"
-msgstr ""
+msgstr "Ziņojuma saturs"
 
 #: electrum_dash/gui/kivy/uix/dialogs/crash_reporter.py:130
 msgid "Report sent"
-msgstr ""
+msgstr "Ziņojums nosūtīts"
 
 #: electrum_dash/gui/qt/main_window.py:999
 msgid "Reporting Bugs"
-msgstr "A relatar Bugs"
+msgstr "Ziņot kļūdas"
 
 #: electrum_dash/gui/kivy/uix/ui_screens/receive.kv:147
 #: electrum_dash/gui/qt/main_window.py:1315
 msgid "Request"
-msgstr ""
+msgstr "Pieprasījums"
 
 #: electrum_dash/gui/kivy/uix/screens.py:626
 msgid "Request copied to clipboard"
-msgstr ""
+msgstr "Pieprasījums iekopēts starpliktuvē"
 
 #: electrum_dash/plugins/email_requests/qt.py:208
 msgid "Request sent."
-msgstr ""
+msgstr "Pieprasījums nosūtīts."
 
 #: electrum_dash/gui/qt/main_window.py:1232
 msgid "Requested amount"
-msgstr "Quantia pedida"
+msgstr "Pieprasītā summa"
 
 #: electrum_dash/gui/qt/main_window.py:2502
 msgid "Requestor"
-msgstr "Requerente"
+msgstr "Pieprasītājs"
 
 #: electrum_dash/gui/qt/main_window.py:885
 msgid "Requests"
-msgstr "Pedidos"
+msgstr "Pieprasījumi"
 
 #: electrum_dash/gui/qt/installwizard.py:876
 #, python-brace-format
 msgid "Require {0} signatures"
-msgstr ""
+msgstr "Pieprasa {0} parakstus"
 
 #: electrum_dash/plugins/trezor/qt.py:679
 msgid ""
@@ -5182,7 +5199,7 @@ msgstr ""
 #: electrum_dash/gui/kivy/uix/dialogs/plugins.py:154
 #: electrum_dash/gui/qt/main_window.py:3562
 msgid "Requires"
-msgstr "Requer"
+msgstr "Pieprasa"
 
 #: electrum_dash/gui/qt/main_window.py:2634
 #: electrum_dash/plugins/trezor/qt.py:672
@@ -5237,11 +5254,11 @@ msgstr ""
 
 #: electrum_dash/i18n.py:75
 msgid "Romanian"
-msgstr ""
+msgstr "Rumāņu"
 
 #: electrum_dash/i18n.py:76
 msgid "Russian"
-msgstr ""
+msgstr "Krievu"
 
 #: electrum_dash/dash_msg.py:135
 msgid "SIGNING"
@@ -5269,7 +5286,7 @@ msgstr ""
 #: electrum_dash/gui/qt/transaction_dialog.py:172
 #: electrum_dash/gui/qt/qrcodewidget.py:159
 msgid "Save"
-msgstr "Guardar"
+msgstr "Saglabāt"
 
 #: electrum_dash/gui/qt/installwizard.py:167
 msgid "Save and exit"
@@ -5277,11 +5294,11 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:2511
 msgid "Save invoice to file"
-msgstr "Guardar fatura para ficheiro"
+msgstr "Saglabāt rēķinu failā"
 
 #: electrum_dash/gui/qt/transaction_dialog.py:552
 msgid "Save transaction offline"
-msgstr ""
+msgstr "Saglabāt transakciju bezsaistē"
 
 #: electrum_dash/plugins/labels/__init__.py:5
 msgid ""
@@ -5336,11 +5353,11 @@ msgstr ""
 #: electrum_dash/gui/qt/main_window.py:2747
 #: electrum_dash/gui/qt/main_window.py:2883
 msgid "Script type"
-msgstr ""
+msgstr "Skripta tips"
 
 #: electrum_dash/base_wizard.py:445
 msgid "Script type and Derivation path"
-msgstr ""
+msgstr "Skripta tips un atvasinājuma ceļš"
 
 #: electrum_dash/gui/qt/protx_qt.py:639
 msgid "Search"
@@ -5357,7 +5374,7 @@ msgstr ""
 #: electrum_dash/gui/qt/privatesend_dialog.py:190
 #: electrum_dash/gui/qt/privatesend_dialog.py:1322
 msgid "Seed"
-msgstr "Semente"
+msgstr "Sēkla"
 
 #: electrum_dash/plugins/keepkey/qt.py:82
 msgid "Seed Entered"
@@ -5369,7 +5386,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/seed_dialog.py:285
 msgid "Seed Type"
-msgstr "Tipo de Semente"
+msgstr "Sēklas tips"
 
 #: electrum_dash/gui/qt/main_window.py:2749
 msgid "Seed available"
@@ -5378,7 +5395,7 @@ msgstr ""
 #: electrum_dash/gui/qt/privatesend_dialog.py:1101
 #: electrum_dash/base_wizard.py:495
 msgid "Seed extension"
-msgstr ""
+msgstr "Sēklas pagarinājums"
 
 #: electrum_dash/gui/qt/seed_dialog.py:114
 msgid "Seed type"
@@ -5394,7 +5411,7 @@ msgstr ""
 
 #: electrum_dash/base_wizard.py:360
 msgid "Select a device"
-msgstr ""
+msgstr "Izvēlieties ierīci"
 
 #: electrum_dash/plugins/trezor/qt.py:287
 msgid "Select backup type:"
@@ -5402,19 +5419,19 @@ msgstr ""
 
 #: electrum_dash/gui/qt/history_list.py:790
 msgid "Select date"
-msgstr ""
+msgstr "Izvēlieties datumu"
 
 #: electrum_dash/gui/qt/main_window.py:3185
 msgid "Select file to export your private keys to"
-msgstr "Selecione um ficheiro para onde sexportar as suas chaves privadas"
+msgstr "Izvēlieties failu, lai eksportētu privātās atslēgas"
 
 #: electrum_dash/gui/qt/history_list.py:1086
 msgid "Select file to export your wallet transactions to"
-msgstr "Selecione um ficheiro para onde exportar as transações da sua carteira"
+msgstr "Izvēlieties failu, lai eksportētu maciņa transakcijas"
 
 #: electrum_dash/gui/qt/util.py:1041
 msgid "Select file to save your {}"
-msgstr ""
+msgstr "Izvēlieties failu, lai saglabātu {}"
 
 #: electrum_dash/gui/qt/main_window.py:2778
 msgid "Select keystore"
@@ -5451,11 +5468,11 @@ msgstr ""
 
 #: electrum_dash/gui/qt/network_dialog.py:294
 msgid "Select server automatically"
-msgstr "Selecionar servidor automaticamente"
+msgstr "Izvēlēties serveri automātiski"
 
 #: electrum_dash/gui/qt/installwizard.py:842
 msgid "Select server manually"
-msgstr "Selecionar servidor manualmente"
+msgstr "Izvēlēties serveri manuāli"
 
 #: electrum_dash/plugins/trezor/qt.py:348
 msgid "Select share length:"
@@ -5472,7 +5489,7 @@ msgstr ""
 #: electrum_dash/gui/qt/settings_dialog.py:69
 msgid "Select which language is used in the GUI (after restart)."
 msgstr ""
-"Selecione qual o idioma que é usado na interface gráfica (após reiniciar)."
+"Izvēlieties, kura valoda tiek izmantota saskarnei (pēc pārstartēšanas)."
 
 #: electrum_dash/plugins/safe_t/qt.py:115
 #: electrum_dash/plugins/keepkey/qt.py:241
@@ -5481,21 +5498,21 @@ msgstr ""
 
 #: electrum_dash/gui/kivy/uix/ui_screens/network.kv:45
 msgid "Select your server automatically"
-msgstr ""
+msgstr "Izvēlēties serveri automātiski"
 
 #: electrum_dash/gui/qt/main_window.py:3100
 msgid "Select your transaction file"
-msgstr "Selecione o seu ficheiro de transação"
+msgstr "Izvēlieties transakcijas failu"
 
 #: electrum_dash/gui/text.py:105 electrum_dash/gui/kivy/main.kv:432
 #: electrum_dash/gui/qt/main_window.py:274
 #: electrum_dash/gui/qt/confirm_tx_dialog.py:179
 msgid "Send"
-msgstr "Enviar"
+msgstr "Sūtīt"
 
 #: electrum_dash/gui/qt/exception_window.py:87
 msgid "Send Bug Report"
-msgstr ""
+msgstr "Sūtīt kļūdas ziņojumu"
 
 #: electrum_dash/gui/qt/main_window.py:3445
 #: electrum_dash/gui/qt/privatesend_dialog.py:864
@@ -5508,11 +5525,11 @@ msgstr ""
 
 #: electrum_dash/plugins/email_requests/__init__.py:4
 msgid "Send and receive payment request with an email account"
-msgstr ""
+msgstr "Sūtīt un saņemt maksājuma pieprasījumu ar e-pasta kontu"
 
 #: electrum_dash/plugins/email_requests/qt.py:142
 msgid "Send and receive payment requests via email"
-msgstr ""
+msgstr "Sūtīt un saņemt maksājuma pieprasījumus ar e-pasta kontu"
 
 #: electrum_dash/gui/kivy/uix/screens.py:579
 msgid "Send coins as a PrivateSend transaction"
@@ -5544,11 +5561,11 @@ msgstr ""
 
 #: electrum_dash/plugins/email_requests/qt.py:180
 msgid "Send via e-mail"
-msgstr ""
+msgstr "Sūtīt pa e-pastu"
 
 #: electrum_dash/gui/kivy/main_window.py:1371
 msgid "Sending"
-msgstr "A enviar"
+msgstr "Sūta"
 
 #: electrum_dash/gui/qt/exception_window.py:126
 msgid "Sending crash report..."
@@ -5560,7 +5577,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/dash_net_dialog.py:418
 msgid "Sent"
-msgstr ""
+msgstr "Nosūtīts"
 
 #: electrum_dash/gui/qt/dash_net_dialog.py:37
 msgid "Sent KiB"
@@ -5572,16 +5589,16 @@ msgstr ""
 #: electrum_dash/gui/qt/network_dialog.py:104
 #: electrum_dash/gui/qt/network_dialog.py:309
 msgid "Server"
-msgstr "Servidor"
+msgstr "Serveris"
 
 #: electrum_dash/plugins/email_requests/qt.py:221
 msgid "Server hosting your email account"
-msgstr ""
+msgstr "Serveris, kurā mitināts jūsu e-pasta konts"
 
 #: electrum_dash/gui/kivy/main_window.py:1086
 #: electrum_dash/gui/qt/main_window.py:1147
 msgid "Server is lagging ({} blocks)"
-msgstr ""
+msgstr "Serveris atpaliek ({} blokus)"
 
 #: electrum_dash/network.py:900
 msgid "Server returned unexpected transaction ID."
@@ -5589,7 +5606,7 @@ msgstr ""
 
 #: electrum_dash/gui/kivy/uix/ui_screens/network.kv:21
 msgid "Server used to query your history."
-msgstr ""
+msgstr "Serveris vēstures pieprasījumam."
 
 #: electrum_dash/gui/qt/protx_qt.py:83 electrum_dash/gui/qt/protx_qt.py:203
 msgid "Service"
@@ -5637,11 +5654,11 @@ msgstr ""
 msgid ""
 "Set the value of the change output so that it has similar precision to the "
 "other outputs."
-msgstr ""
+msgstr "Noapaļot atlikuma vērtību, lai tā būtu līdzīgāka citiem izvadiem."
 
 #: electrum_dash/gui/qt/installwizard.py:44
 msgid "Set wallet file encryption."
-msgstr ""
+msgstr "Iestatīt maciņa faila šifrēšanu."
 
 #: electrum_dash/gui/text.py:233 electrum_dash/gui/kivy/main.kv:514
 #: electrum_dash/plugins/trezor/qt.py:765
@@ -5650,7 +5667,7 @@ msgstr ""
 #: electrum_dash/plugins/keepkey/qt.py:567
 #: electrum_dash/plugins/email_requests/qt.py:214
 msgid "Settings"
-msgstr "Definições"
+msgstr "Iestatījumi"
 
 #: electrum_dash/plugins/trezor/qt.py:298
 msgid "Shamir"
@@ -5670,15 +5687,15 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:894
 msgid "Show"
-msgstr "Mostrar"
+msgstr "Rādīt"
 
 #: electrum_dash/gui/qt/settings_dialog.py:429
 msgid "Show Fiat balance for addresses"
-msgstr ""
+msgstr "Rādīt valsts naudas bilanci katrai adresei"
 
 #: electrum_dash/gui/qt/address_dialog.py:67
 msgid "Show QR Code"
-msgstr "Mostrar Código QR"
+msgstr "Rādīt QR kodu"
 
 #: electrum_dash/gui/qt/privatesend_dialog.py:838
 msgid "Show Seed"
@@ -5693,11 +5710,11 @@ msgstr ""
 #: electrum_dash/gui/qt/transaction_dialog.py:129
 #: electrum_dash/gui/qt/transaction_dialog.py:294
 msgid "Show as QR code"
-msgstr "Mostrar como Código QR"
+msgstr "Rādīt kā QR kodu"
 
 #: electrum_dash/gui/qt/settings_dialog.py:428
 msgid "Show capital gains in history"
-msgstr ""
+msgstr "Rādīt kapitāla pieaugumu vēsturē"
 
 #: electrum_dash/plugins/trezor/qt.py:375
 msgid "Show expert settings"
@@ -5705,7 +5722,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/settings_dialog.py:427
 msgid "Show history rates"
-msgstr "Mostrar histórico de preços"
+msgstr "Rādīt vēsturiskās cenas"
 
 #: electrum_dash/plugins/ledger/qt.py:32
 msgid "Show on Ledger"
@@ -5724,7 +5741,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/exception_window.py:68
 msgid "Show report contents"
-msgstr ""
+msgstr "Radīt ziņojuma saturu"
 
 #: electrum_dash/gui/qt/settings_dialog.py:170
 msgid "Show transaction type in wallet history"
@@ -5744,7 +5761,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/__init__.py:178
 msgid "Show/Hide"
-msgstr "Mostrar/Esconder"
+msgstr "Rādīt/slēpt"
 
 #: electrum_dash/plugins/ledger/ledger.py:605
 msgid "Showing address ..."
@@ -5754,7 +5771,7 @@ msgstr ""
 #: electrum_dash/gui/qt/main_window.py:2973
 #: electrum_dash/gui/qt/transaction_dialog.py:166
 msgid "Sign"
-msgstr "Assinar"
+msgstr "Parakstīt"
 
 #: electrum_dash/gui/kivy/uix/dialogs/tx_dialog.py:208
 msgid "Sign this transaction?"
@@ -5766,28 +5783,28 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:2949
 msgid "Sign/verify Message"
-msgstr "Assinar/verificar Mensagem"
+msgstr "Parakstīt/pārbaudīt ziņojumu"
 
 #: electrum_dash/gui/qt/address_list.py:555
 msgid "Sign/verify message"
-msgstr ""
+msgstr "Parakstīt/pārbaudīt ziņojumu"
 
 #: electrum_dash/gui/qt/main_window.py:2504
 #: electrum_dash/gui/qt/main_window.py:2967
 msgid "Signature"
-msgstr "Assinatura"
+msgstr "Paraksts"
 
 #: electrum_dash/gui/qt/main_window.py:2944
 msgid "Signature verified"
-msgstr "Assinatura verificada"
+msgstr "Paraksts pārbaudīts"
 
 #: electrum_dash/wallet.py:576
 msgid "Signed"
-msgstr ""
+msgstr "Parakstīts"
 
 #: electrum_dash/gui/kivy/uix/dialogs/tx_dialog.py:211
 msgid "Signing"
-msgstr ""
+msgstr "Parakstīšana"
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:604
 msgid "Signing large transaction. Please be patient ..."
@@ -5800,7 +5817,7 @@ msgstr ""
 #: electrum_dash/gui/qt/main_window.py:2184
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:609
 msgid "Signing transaction..."
-msgstr "A assinar transação..."
+msgstr "Paraksta transakciju..."
 
 #: electrum_dash/gui/qt/main_window.py:2892
 msgid ""
@@ -5816,15 +5833,15 @@ msgstr ""
 
 #: electrum_dash/gui/qt/transaction_dialog.py:508
 msgid "Size:"
-msgstr "Tamanho:"
+msgstr "Izmērs:"
 
 #: electrum_dash/i18n.py:77
 msgid "Slovak"
-msgstr ""
+msgstr "Slovāku"
 
 #: electrum_dash/i18n.py:78
 msgid "Slovenian"
-msgstr ""
+msgstr "Slovēņu"
 
 #: electrum_dash/gui/qt/main_window.py:1662
 msgid ""
@@ -5852,11 +5869,11 @@ msgstr ""
 
 #: electrum_dash/base_crash_reporter.py:52
 msgid "Something went wrong while executing Dash Electrum."
-msgstr ""
+msgstr "Gadījās kļūda, palaižot Dash Electrum."
 
 #: electrum_dash/base_crash_reporter.py:53
 msgid "Sorry!"
-msgstr ""
+msgstr "Atvainojiet!"
 
 #: electrum_dash/gui/qt/update_checker.py:73
 msgid "Sorry, but we were unable to check for updates. Please try again later."
@@ -5864,15 +5881,15 @@ msgstr ""
 
 #: electrum_dash/gui/qt/settings_dialog.py:426
 msgid "Source"
-msgstr "Fonte"
+msgstr "Avots"
 
 #: electrum_dash/i18n.py:59
 msgid "Spanish"
-msgstr ""
+msgstr "Spāņu"
 
 #: electrum_dash/gui/qt/utxo_list.py:519
 msgid "Spend"
-msgstr ""
+msgstr "Tērēt"
 
 #: electrum_dash/gui/qt/utxo_list.py:516
 msgid "Spend (select none)"
@@ -5880,15 +5897,15 @@ msgstr ""
 
 #: electrum_dash/gui/qt/address_list.py:579
 msgid "Spend from"
-msgstr ""
+msgstr "Tērēt no"
 
 #: electrum_dash/gui/qt/settings_dialog.py:273
 msgid "Spend only confirmed coins"
-msgstr "Gastar apenas moedas confirmadas"
+msgstr "Tērēt tikai apstiprinātās monētas"
 
 #: electrum_dash/gui/qt/settings_dialog.py:274
 msgid "Spend only confirmed inputs."
-msgstr "Gastar apenas entradas confirmadas."
+msgstr "Tērēt tikai apstiprinātos ievadus."
 
 #: electrum_dash/gui/qt/dash_net_dialog.py:131
 msgid "Spork"
@@ -5900,7 +5917,7 @@ msgstr ""
 
 #: electrum_dash/base_wizard.py:155
 msgid "Standard wallet"
-msgstr ""
+msgstr "Standarta maciņš"
 
 #: electrum_dash/dash_ps_util.py:968
 msgid "Start Mixing"
@@ -5927,7 +5944,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/fee_slider.py:15
 msgid "Static"
-msgstr ""
+msgstr "Statiska"
 
 #: electrum_dash/gui/qt/dash_net_dialog.py:312
 msgid "Static Peers:"
@@ -5942,11 +5959,11 @@ msgstr ""
 #: electrum_dash/gui/qt/network_dialog.py:290
 #: electrum_dash/gui/qt/request_list.py:62
 msgid "Status"
-msgstr "Estado"
+msgstr "Statuss"
 
 #: electrum_dash/gui/qt/transaction_dialog.py:457
 msgid "Status:"
-msgstr "Estado:"
+msgstr "Statuss:"
 
 #: electrum_dash/plugins/trezor/clientbase.py:333
 #: electrum_dash/plugins/safe_t/clientbase.py:98
@@ -5980,11 +5997,11 @@ msgstr ""
 #: electrum_dash/gui/qt/exception_window.py:194
 #: electrum_dash/gui/qt/privatesend_dialog.py:915
 msgid "Success"
-msgstr "Concluído"
+msgstr "Veiksme"
 
 #: electrum_dash/gui/qt/history_list.py:831
 msgid "Summary"
-msgstr ""
+msgstr "Kopsavilkums"
 
 #: electrum_dash/plugins/ledger/auth2fa.py:145
 msgid "Summary Text PIN (requires dongle replugging)"
@@ -6004,25 +6021,25 @@ msgstr ""
 
 #: electrum_dash/i18n.py:79
 msgid "Swedish"
-msgstr ""
+msgstr "Zviedru"
 
 #: electrum_dash/gui/qt/main_window.py:3321
 msgid "Sweep"
-msgstr "Varrer"
+msgstr "Izslaucīt"
 
 #: electrum_dash/gui/qt/main_window.py:3300
 msgid "Sweep private keys"
-msgstr "Varrer chaves privadas"
+msgstr "Izslaucīt privātās atslēgas"
 
 #: electrum_dash/gui/stdio.py:185 electrum_dash/gui/text.py:217
 #: electrum_dash/gui/kivy/main_window.py:1084
 #: electrum_dash/gui/qt/main_window.py:1144
 msgid "Synchronizing..."
-msgstr "A sincronizar..."
+msgstr "Sinhronizējas..."
 
 #: electrum_dash/i18n.py:80
 msgid "Tamil"
-msgstr ""
+msgstr "Tamilu"
 
 #: electrum_dash/gui/kivy/main.kv:192
 msgid "Tap to show"
@@ -6030,7 +6047,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/fee_slider.py:58
 msgid "Target"
-msgstr ""
+msgstr "Mērķis"
 
 #: electrum_dash/gui/qt/transaction_dialog.py:835
 msgid "Target fee:"
@@ -6055,18 +6072,18 @@ msgstr ""
 #: electrum_dash/gui/qt/main_window.py:1431
 #: electrum_dash/gui/qt/qrcodewidget.py:148 electrum_dash/gui/qt/util.py:820
 msgid "Text copied to clipboard"
-msgstr ""
+msgstr "Teksts iekopēts starpliktuvē"
 
 #: electrum_dash/gui/kivy/main_window.py:535
 #: electrum_dash/gui/kivy/uix/dialogs/qr_dialog.py:91
 #: electrum_dash/gui/kivy/uix/dialogs/invoice_dialog.py:121
 #: electrum_dash/gui/kivy/uix/dialogs/request_dialog.py:121
 msgid "Text copied to clipboard."
-msgstr ""
+msgstr "Teksts iekopēts starpliktuvē."
 
 #: electrum_dash/i18n.py:81
 msgid "Thai"
-msgstr ""
+msgstr "Taju"
 
 #: electrum_dash/gui/qt/main_window.py:1263
 msgid ""
@@ -6095,24 +6112,24 @@ msgid ""
 "The amount of fee can be decided freely by the sender. However, transactions "
 "with low fees take more time to be processed."
 msgstr ""
-"O valor da taxa pode ser decidido livremente pelo remetente. Contudo, "
-"transações com taxas baixas podem demorar mais tempo a ser processadas."
+"Komisijas maksas lielumu var brīvi izvēlēties pats sūtītājs. Tomēr ir jāņem "
+"vērā tas, ka transakcijas ar zemu komisijas maksu var tikt apstrādātas daudz "
+"ilgāk."
 
 #: electrum_dash/gui/qt/main_window.py:1539
 msgid ""
 "The amount will be displayed in red if you do not have enough funds in your "
 "wallet."
 msgstr ""
-"O valor será mostrado a vermelho se não tiver fundos suficientes na sua "
-"carteira."
+"Ja maciņā nav pietiekami daudz līdzekļu, summa tiks rādīta sarkanā krāsā."
 
 #: electrum_dash/gui/qt/main_window.py:1512
 msgid ""
 "The description is not sent to the recipient of the funds. It is stored in "
 "your wallet file, and displayed in the 'History' tab."
 msgstr ""
-"A descrição não é enviada para o destinatário dos fundos. É guardada no "
-"ficheiro da sua carteira, e apresentada no separador \"Histórico\"."
+"Apraksts netiks nosūtīts līdzekļu saņēmējam. Tas tiks saglabāts maciņa failā "
+"un parādīts cilnē 'Vēsture'."
 
 #: electrum_dash/plugins/trezor/qt.py:267
 #: electrum_dash/plugins/trezor/trezor.py:261
@@ -6130,18 +6147,20 @@ msgstr ""
 
 #: electrum_dash/wallet.py:2224 electrum_dash/wallet.py:2229
 msgid "The fee for this transaction seems unusually high."
-msgstr "A taxa para esta transação parece extraordinariamente alta."
+msgstr "Šīs transakcijas komisijas maksa šķiet neparasti augsta."
 
 #: electrum_dash/gui/qt/installwizard.py:394
 msgid ""
 "The file '{}' contains an incompletely created wallet.\n"
 "Do you want to complete its creation now?"
 msgstr ""
+"Fails \"{}\" satur nepilnīgi izveidotu maciņu.\n"
+"Vai vēlaties pabeigt tā izveidi tagad?"
 
 #: electrum_dash/gui/qt/installwizard.py:385
 #: electrum_dash/gui/qt/installwizard.py:399
 msgid "The file was removed"
-msgstr "O ficheiro foi removido"
+msgstr "Fails tika izņemts"
 
 #: electrum_dash/plugins/hw_wallet/plugin.py:389
 msgid ""
@@ -6152,15 +6171,15 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:3387
 msgid "The following addresses were added"
-msgstr "Os seguintes endereços foram adicionados"
+msgstr "Šādas adreses tika pievienotas"
 
 #: electrum_dash/gui/qt/settings_dialog.py:109
 msgid "The following alias providers are available:"
-msgstr "Estão disponíveis os seguintes fornecedores de pseudónimos:"
+msgstr "Ir pieejami šādi aizstājvārdu nodrošinātāji:"
 
 #: electrum_dash/gui/qt/main_window.py:3392
 msgid "The following inputs could not be imported"
-msgstr "Não foi possível importar as seguintes entradas"
+msgstr "Šādus ievadus neizdevās importēt"
 
 #: electrum_dash/wallet.py:2197
 msgid ""
@@ -6171,7 +6190,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:2896
 msgid "The operation is undefined. Not just in Dash Electrum, but in general."
-msgstr ""
+msgstr "Šī darbība nav definēta. Ne tikai Dash Electrum, bet vispārīgi."
 
 #: electrum_dash/gui/qt/qrreader/qtmultimedia/camera_dialog.py:101
 msgid "The platform QR detection library is not available."
@@ -6217,10 +6236,14 @@ msgid ""
 "\n"
 "Do you want to split your wallet into multiple files?"
 msgstr ""
+"Maciņš \"{}\" satur vairākus kontus, kuri vairs netiek atbalstīti kopš Dash "
+"Electrum 2.7.\n"
+"\n"
+"Vai vēlaties sadalīt savu maciņu vairākos failos?"
 
 #: electrum_dash/gui/kivy/uix/dialogs/installwizard.py:773
 msgid "Then, enter your Google Authenticator code:"
-msgstr ""
+msgstr "Tad ievadiet savu Google autentifikatora kodu:"
 
 #: electrum_dash/gui/qt/main_window.py:3444
 msgid "There are funds left on PrivateSend keystore"
@@ -6246,7 +6269,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/exception_window.py:118
 msgid "There was a problem with the automatic reporting:"
-msgstr ""
+msgstr "Gadījās kļūda, ar automātisko ziņošanu:"
 
 #: electrum_dash/gui/qt/main_window.py:1477
 msgid ""
@@ -6275,24 +6298,24 @@ msgid ""
 "This blockchain is used to verify the transactions sent by your transaction "
 "server."
 msgstr ""
-"Esta blockchain é utilizada para verificar as transações enviadas pelo seu "
-"servidor de transações."
+"Šī blokķēde tiek izmantota, lai pārbaudītu transakcijas, kuras nosūta "
+"transakciju serveris."
 
 #: electrum_dash/gui/qt/installwizard.py:281
 msgid "This file does not exist."
-msgstr "Este ficheiro não existe."
+msgstr "Šis fails neeksistē."
 
 #: electrum_dash/gui/qt/installwizard.py:294
 msgid "This file is already open in memory."
-msgstr ""
+msgstr "Šis fails atmiņā ir jau atvērts."
 
 #: electrum_dash/gui/qt/installwizard.py:289
 msgid "This file is encrypted using a hardware device."
-msgstr ""
+msgstr "Šis fails ir šifrēts ar aparatūras ierīci."
 
 #: electrum_dash/gui/qt/installwizard.py:285
 msgid "This file is encrypted with a password."
-msgstr ""
+msgstr "Šis fails ir šifrēts ar paroli."
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:755
 msgid ""
@@ -6302,6 +6325,7 @@ msgstr ""
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:758
 msgid "This function is only available for p2pkh keystores when using {}."
 msgstr ""
+"Šī funkcija ir pieejama tikai p2pkh atslēgu glabātavām, kad izmanto {}."
 
 #: electrum_dash/plugins/ledger/ledger.py:776
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:752
@@ -6313,21 +6337,21 @@ msgid ""
 "This information is seen by the recipient if you send them a signed payment "
 "request."
 msgstr ""
-"Esta informação é vista pelo destinatário se lhe enviar um pedido de "
-"pagamento assinado."
+"Ja nosūtīsiet parakstītu maksājuma pieprasījumu, šī informācija būs redzama "
+"saņēmējam."
 
 #: electrum_dash/gui/qt/main_window.py:3164 electrum_dash/wallet.py:500
 msgid "This is a watching-only wallet"
-msgstr "Esta é uma carteira de apenas-visualização"
+msgstr "Šis maciņš ir tikai skatīšanai"
 
 #: electrum_dash/gui/qt/main_window.py:2907
 #: electrum_dash/gui/qt/main_window.py:2991
 msgid "This is a watching-only wallet."
-msgstr ""
+msgstr "Šis maciņš ir tikai skatīšanai."
 
 #: electrum_dash/gui/kivy/main_window.py:1597
 msgid "This is a watching-only wallet. It does not contain private keys."
-msgstr ""
+msgstr "Šis maciņš ir tikai skatīšanai. Tas nesatur privātās atslēgas."
 
 #: electrum_dash/dash_ps.py:50
 msgid "This is a watching-only wallet. Mixing can not be run."
@@ -6335,7 +6359,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/installwizard.py:55
 msgid "This is discouraged."
-msgstr ""
+msgstr "Tas nav ieteicams."
 
 #: electrum_dash/dash_msg.py:196
 msgid "This is not a Masternode."
@@ -6343,11 +6367,11 @@ msgstr ""
 
 #: electrum_dash/gui/qt/network_dialog.py:314
 msgid "This is the height of your local copy of the blockchain."
-msgstr "Esta é a altura da sua cópia local do blockchain."
+msgstr "Šis ir lokālās blokķēdes kopijas augstums."
 
 #: electrum_dash/gui/qt/settings_dialog.py:244
 msgid "This may result in higher transactions fees."
-msgstr "Isto poderá resultar em taxas de transação mais altas."
+msgstr "Šī opcija var palielināt transakciju komisijas maksu."
 
 #: electrum_dash/gui/qt/main_window.py:720
 msgid "This means you will not be able to spend Dash coins with it."
@@ -6355,7 +6379,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/settings_dialog.py:285
 msgid "This might improve your privacy somewhat."
-msgstr ""
+msgstr "Šis var nedaudz uzlabot jūsu privātumu."
 
 #: electrum_dash/dash_ps_util.py:903
 msgid ""
@@ -6365,7 +6389,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:1362
 msgid "This payment request will be signed."
-msgstr "Este pedido de pagamento será assinado."
+msgstr "Tiks parakstīts šis maksājuma pieprasījums."
 
 #: electrum_dash/plugins/revealer/__init__.py:6
 msgid ""
@@ -6384,13 +6408,13 @@ msgstr ""
 #: electrum_dash/gui/qt/seed_dialog.py:53
 msgid ""
 "This seed will allow you to recover your wallet in case of computer failure."
-msgstr ""
-"Esta semente vai permitir-lhe recuperar a sua carteira em caso de falha do "
-"computador."
+msgstr "Ar šo sēklu ir iespējams atjaunot maciņu, datora bojājuma gadījumā."
 
 #: electrum_dash/gui/qt/settings_dialog.py:123
 msgid "This setting affects the Send tab, and all balance related fields."
 msgstr ""
+"Šis iestatījums iespaido sūtīšanas cilni un visus ar bilanci saistītos "
+"laukus."
 
 #: electrum_dash/dash_ps_util.py:698
 msgid ""
@@ -6401,7 +6425,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/transaction_dialog.py:272
 msgid "This transaction is not saved. Close anyway?"
-msgstr "Esta transação não foi guardada. Fechar na mesma?"
+msgstr "Šī transakcija nav saglabāta. Aizvērt tik un tā?"
 
 #: electrum_dash/gui/qt/history_list.py:341
 msgid ""
@@ -6431,13 +6455,15 @@ msgstr ""
 #: electrum_dash/gui/qt/main_window.py:2840
 #: electrum_dash/plugins/revealer/qt.py:291
 msgid "This wallet has no seed"
-msgstr "Esta carteira não tem semente"
+msgstr "Maciņam nav sēklas"
 
 #: electrum_dash/gui/kivy/uix/dialogs/installwizard.py:749
 msgid ""
 "This wallet is already registered with TrustedCoin. To finalize wallet "
 "creation, please enter your Google Authenticator Code."
 msgstr ""
+"Šis maciņš jau ir reģistrēts pakalpojumā TrustedCoin. Lai pabeigtu maciņa "
+"izveidi, lūdzu, ievadiet savu Google autentifikācijas kodu."
 
 #: electrum_dash/gui/qt/protx_wizards.py:924
 msgid "This wallet is owns and operates on the Masternode"
@@ -6460,11 +6486,11 @@ msgstr ""
 
 #: electrum_dash/gui/kivy/uix/ui_screens/status.kv:48
 msgid "This wallet is watching-only"
-msgstr ""
+msgstr "Šis maciņš ir tikai skatīšanai"
 
 #: electrum_dash/gui/qt/main_window.py:719
 msgid "This wallet is watching-only."
-msgstr "Esta carteira é apenas-visualização."
+msgstr "Šis maciņš ir tikai skatīšanai."
 
 #: electrum_dash/plugins/ledger/ledger.py:499
 msgid "This {} device can only send to base58 addresses."
@@ -6478,7 +6504,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/history_list.py:756
 msgid "To"
-msgstr ""
+msgstr "Līdz"
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:479
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:607
@@ -6534,28 +6560,32 @@ msgid ""
 "To help us diagnose and fix the problem, you can send us a bug report that "
 "contains useful debug information:"
 msgstr ""
+"Lai palīdzētu mums diagnosticēt un salabot šo kļūdu, jūs varat nosūtīt mums "
+"ziņojumu, kurš satur noderīgu atkļūdošanas informāciju:"
 
 #: electrum_dash/gui/qt/installwizard.py:522
 #: electrum_dash/gui/qt/privatesend_dialog.py:1139
 msgid ""
 "To make sure that you have properly saved your seed, please retype it here."
 msgstr ""
-"Para garantir que guardou corretamente a sua semente, por favor volte a "
-"introduzi-la aqui."
+"Lai pārliecinātos, ka sēkla ir pareizi saglabāta, lūdzu, ierakstiet to "
+"atkārtoti."
 
 #: electrum_dash/gui/qt/transaction_dialog.py:819
 msgid ""
 "To somewhat protect your privacy, Dash Electrum tries to create change with "
 "similar precision to other outputs."
 msgstr ""
+"Lai pasargātu jūsu privātumu, Dash Electrum mēģina izveidot atlikumu līdzīgu "
+"citiem izvadiem."
 
 #: electrum_dash/base_wizard.py:338
 msgid "To trigger a rescan, press 'Next'."
-msgstr ""
+msgstr "Nospiediet 'Tālāk', lai aktivizētu pārskenēšanu."
 
 #: electrum_dash/base_wizard.py:373
 msgid "To try to fix this, we will now re-pair with your device."
-msgstr ""
+msgstr "Lai salabotu šo, savienojums ar ierīci tiks atkārtots."
 
 #: electrum_dash/gui/qt/password_dialog.py:224
 msgid "Toggle Encryption"
@@ -6608,21 +6638,21 @@ msgstr ""
 #: electrum_dash/gui/qt/transaction_dialog.py:327
 #: electrum_dash/gui/qt/transaction_dialog.py:710
 msgid "Transaction"
-msgstr "Transação"
+msgstr "Transakcija"
 
 #: electrum_dash/gui/qt/main_window.py:3136
 #: electrum_dash/gui/qt/history_list.py:1017
 msgid "Transaction ID"
-msgstr "ID da transação"
+msgstr "Transakcijas ID"
 
 #: electrum_dash/gui/qt/transaction_dialog.py:124
 #: electrum_dash/gui/qt/transaction_dialog.py:570
 msgid "Transaction ID:"
-msgstr "ID da Transação:"
+msgstr "Transakcijas ID:"
 
 #: electrum_dash/gui/qt/main_window.py:3584
 msgid "Transaction added to wallet history."
-msgstr ""
+msgstr "Transakcija pievienota maciņa vēsturei."
 
 #: electrum_dash/gui/qt/transaction_dialog.py:554
 msgid "Transaction already saved or not yet signed."
@@ -6638,7 +6668,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:3574
 msgid "Transaction could not be saved."
-msgstr ""
+msgstr "Neizdevās saglabāt transakciju."
 
 #: electrum_dash/dash_msg.py:204
 msgid "Transaction created successfully."
@@ -6646,7 +6676,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/transaction_dialog.py:394
 msgid "Transaction exported successfully"
-msgstr ""
+msgstr "Transakcija veiksmīgi eksportēta"
 
 #: electrum_dash/dash_msg.py:186
 msgid "Transaction fees are too high."
@@ -6654,7 +6684,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/transaction_dialog.py:337
 msgid "Transaction is too large in size."
-msgstr ""
+msgstr "Transakcijas izmērs ir pārāk liels."
 
 #: electrum_dash/util.py:143
 msgid "Transaction is unrelated to this wallet."
@@ -6671,7 +6701,7 @@ msgstr ""
 #: electrum_dash/gui/kivy/uix/dialogs/tx_dialog.py:171
 #: electrum_dash/gui/qt/transaction_dialog.py:491
 msgid "Transaction unrelated to your wallet"
-msgstr "Transação não relacionada com a sua carteira"
+msgstr "Transakcija nesaistīta ar jūsu maciņu"
 
 #: electrum_dash/network.py:920
 msgid "Transaction uses non-standard version."
@@ -6679,11 +6709,11 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:3119
 msgid "Transaction:"
-msgstr "Transação:"
+msgstr "Transakcija:"
 
 #: electrum_dash/gui/qt/settings_dialog.py:433
 msgid "Transactions"
-msgstr "Transações"
+msgstr "Transakcijas"
 
 #: electrum_dash/plugins/cosigner_pool/__init__.py:6
 msgid "Transactions are encrypted and stored on a remote server."
@@ -6711,20 +6741,22 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:997
 msgid "Try to explain not only what the bug is, but how it occurs."
-msgstr "Tente explicar não só qual é o bug, mas também como ocorre."
+msgstr "Mēģiniet paskaidrot, kad notiek kļūda un kā to iespējams atkārtot."
 
 #: electrum_dash/wallet.py:2219
 msgid ""
 "Try to raise your transaction fee, or use a server with a lower relay fee."
 msgstr ""
+"Mēģiniet paaugstināt komisijas maksu vai izmantojiet serveri ar zemāku "
+"komisijas maksas pārraides slieksni."
 
 #: electrum_dash/i18n.py:82
 msgid "Turkish"
-msgstr ""
+msgstr "Turku"
 
 #: electrum_dash/gui/qt/address_list.py:160
 msgid "Tx"
-msgstr ""
+msgstr "Transakcijas"
 
 #: electrum_dash/gui/qt/invoice_list.py:62
 #: electrum_dash/gui/qt/main_window.py:2479
@@ -6732,7 +6764,7 @@ msgstr ""
 #: electrum_dash/gui/qt/history_list.py:683
 #: electrum_dash/gui/qt/address_list.py:155
 msgid "Type"
-msgstr ""
+msgstr "Tips"
 
 #: electrum_dash/gui/qt/protx_wizards.py:824
 msgid "Type:"
@@ -6744,42 +6776,44 @@ msgstr ""
 
 #: electrum_dash/i18n.py:83
 msgid "Ukrainian"
-msgstr ""
+msgstr "Ukraiņu"
 
 #: electrum_dash/plugins/email_requests/qt.py:259
 msgid ""
 "Unable to connect to mail server:\n"
 " {}"
 msgstr ""
+"Neizdevās savienoties ar pasta serveri:\n"
+" {}"
 
 #: electrum_dash/gui/qt/main_window.py:797
 msgid "Unable to create backup"
-msgstr "Incapaz de criar cópia de segurança"
+msgstr "Neizdevās izveidot rezerves kopiju"
 
 #: electrum_dash/gui/qt/main_window.py:3249
 msgid "Unable to create csv"
-msgstr "Incapaz de criar csv"
+msgstr "Neizdevās izveidot csv"
 
 #: electrum_dash/gui/qt/history_list.py:1103
 msgid "Unable to export history"
-msgstr "Incapaz de exportar histórico"
+msgstr "Vēstures eksportēšana neizdevās"
 
 #: electrum_dash/gui/qt/main_window.py:3111
 msgid "Unable to read file or no transaction found"
-msgstr "Incapaz de ler ficheiro ou nenhuma transação encontrada"
+msgstr "Neizdevās nolasīt failu vai arī netika atrasta neviena transakcija"
 
 #: electrum_dash/gui/kivy/uix/dialogs/crash_reporter.py:128
 msgid "Unable to send report"
-msgstr ""
+msgstr "Neizdevās nosūtīt ziņojumu"
 
 #: electrum_dash/invoices.py:52 electrum_dash/wallet.py:96
 #: electrum_dash/wallet.py:565
 msgid "Unconfirmed"
-msgstr ""
+msgstr "Neapstiprināta"
 
 #: electrum_dash/wallet.py:97
 msgid "Unconfirmed parent"
-msgstr ""
+msgstr "Neapstiprināts vecāks"
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:205
 msgid "Unexpected error occurred."
@@ -6791,7 +6825,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/address_list.py:574
 msgid "Unfreeze"
-msgstr ""
+msgstr "Atsaldēt"
 
 #: electrum_dash/gui/qt/utxo_list.py:583
 msgid "Unfreeze Address"
@@ -6813,7 +6847,7 @@ msgstr ""
 #: electrum_dash/gui/qt/transaction_dialog.py:451
 #: electrum_dash/dash_ps_util.py:145 electrum_dash/util.py:734
 msgid "Unknown"
-msgstr "Desconhecido"
+msgstr "Nezināms"
 
 #: electrum_dash/network.py:1166
 msgid "Unknown error"
@@ -6845,7 +6879,7 @@ msgstr ""
 
 #: electrum_dash/wallet.py:581
 msgid "Unsigned"
-msgstr ""
+msgstr "Neparakstīts"
 
 #: electrum_dash/crypto.py:199
 msgid "Unsupported password hash version"
@@ -6854,7 +6888,7 @@ msgstr ""
 #: electrum_dash/gui/kivy/uix/dialogs/addresses.py:277
 #: electrum_dash/gui/qt/address_list.py:56
 msgid "Unused"
-msgstr ""
+msgstr "Neizmantots"
 
 #: electrum_dash/gui/qt/update_checker.py:32
 msgid "Update Check"
@@ -6890,7 +6924,7 @@ msgstr ""
 
 #: electrum_dash/base_wizard.py:177
 msgid "Upgrading wallet format..."
-msgstr ""
+msgstr "Atjaunina maciņa formātu..."
 
 #: electrum_dash/plugins/safe_t/safe_t.py:177
 #: electrum_dash/plugins/keepkey/keepkey.py:219
@@ -6912,15 +6946,15 @@ msgstr ""
 
 #: electrum_dash/gui/qt/network_dialog.py:255
 msgid "Use Tor Proxy"
-msgstr "Usar Proxy TOR"
+msgstr "Izmantot Tor starpniekserveri"
 
 #: electrum_dash/base_wizard.py:217
 msgid "Use a hardware device"
-msgstr ""
+msgstr "Izmantot aparatūras ierīci"
 
 #: electrum_dash/base_wizard.py:214
 msgid "Use a master key"
-msgstr ""
+msgstr "Izmantot galveno atslēgu"
 
 #: electrum_dash/dash_ps_util.py:599
 msgid "Use absolute denoms count"
@@ -6929,11 +6963,11 @@ msgstr ""
 #: electrum_dash/gui/qt/network_dialog.py:116
 #: electrum_dash/gui/qt/network_dialog.py:122
 msgid "Use as server"
-msgstr "Usar como servidor"
+msgstr "Izmantot kā serveri"
 
 #: electrum_dash/gui/qt/settings_dialog.py:220
 msgid "Use change addresses"
-msgstr "Utilizar endereços de troco"
+msgstr "Izmantot atlikuma adreses"
 
 #: electrum_dash/dash_ps_util.py:598
 msgid "Use default denoms count"
@@ -6941,15 +6975,15 @@ msgstr ""
 
 #: electrum_dash/gui/qt/settings_dialog.py:239
 msgid "Use multiple change addresses"
-msgstr "Utilizar múltiplos endereços de troco"
+msgstr "Izmantot vairākas atlikuma adreses"
 
 #: electrum_dash/gui/qt/network_dialog.py:226
 msgid "Use proxy"
-msgstr ""
+msgstr "Izmantot starpniekserveri"
 
 #: electrum_dash/gui/kivy/uix/dialogs/installwizard.py:1275
 msgid "Use the camera button to scan a QR code."
-msgstr "Use o botão da câmara para ler um código QR."
+msgstr "Lai noskanētu QR kodu, izmantojiet kameras pogu."
 
 #: electrum_dash/gui/qt/privatesend_dialog.py:208
 msgid "Use this dialog to add a password to it."
@@ -6957,7 +6991,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/password_dialog.py:260
 msgid "Use this dialog to add a password to your wallet."
-msgstr "Use este diálogo para adicionar uma palavra-passe à sua carteira."
+msgstr "Izmantojiet šo dialoglodziņu, lai pievienotu paroli savam maciņam."
 
 #: electrum_dash/gui/qt/privatesend_dialog.py:212
 msgid "Use this dialog to change password on it."
@@ -6965,7 +6999,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/password_dialog.py:266
 msgid "Use this dialog to change your password."
-msgstr "Use este diálogo para alterar a sua palavra-passe."
+msgstr "Izmantojiet šo dialoglodziņu, lai mainītu savu paroli."
 
 #: electrum_dash/gui/qt/password_dialog.py:293
 msgid "Use this dialog to toggle encryption."
@@ -6974,7 +7008,7 @@ msgstr ""
 #: electrum_dash/gui/kivy/uix/dialogs/addresses.py:277
 #: electrum_dash/gui/qt/address_list.py:58
 msgid "Used"
-msgstr ""
+msgstr "Izmantots"
 
 #: electrum_dash/gui/kivy/uix/dialogs/dash_net.py:460
 #: electrum_dash/gui/kivy/uix/dialogs/dash_net.py:594
@@ -6985,19 +7019,19 @@ msgstr ""
 
 #: electrum_dash/gui/kivy/uix/ui_screens/proxy.kv:38
 msgid "Username"
-msgstr ""
+msgstr "Lietotājvārds"
 
 #: electrum_dash/gui/qt/main_window.py:975
 msgid "Uses icons from the Icons8 icon pack (icons8.com)."
-msgstr "Usa ícones do conjunto Icons8 (icons8.com)."
+msgstr "Izmanto ikonas no Icons8 pakas (icons8.com)."
 
 #: electrum_dash/gui/qt/settings_dialog.py:230
 msgid ""
 "Using change addresses makes it more difficult for other people to track "
 "your transactions."
 msgstr ""
-"Utilizar endereços de troco faz com que seja mais difícil para outras "
-"pessoas rastrear as suas transações."
+"Izmantojot atlikuma adreses, citiem cilvēkiem ir grūtāk izsekot jūsu "
+"transakcijas."
 
 #: electrum_dash/gui/qt/protx_qt.py:140 electrum_dash/gui/qt/protx_qt.py:167
 msgid "Valid"
@@ -7011,7 +7045,7 @@ msgstr ""
 #: electrum_dash/gui/qt/history_list.py:677
 #: electrum_dash/gui/qt/dash_net_dialog.py:131
 msgid "Value"
-msgstr ""
+msgstr "vērtība"
 
 #: electrum_dash/gui/kivy/uix/dialogs/privatesend.py:814
 #: electrum_dash/gui/kivy/uix/dialogs/privatesend.py:1075
@@ -7028,11 +7062,11 @@ msgstr ""
 
 #: electrum_dash/gui/kivy/uix/ui_screens/network.kv:59
 msgid "Verified block headers"
-msgstr ""
+msgstr "Pārbaudītās bloku galvenes"
 
 #: electrum_dash/gui/qt/main_window.py:2977
 msgid "Verify"
-msgstr "Verificar"
+msgstr "Pārbaudīt"
 
 #: electrum_dash/plugins/ledger/auth2fa.py:30
 msgid ""
@@ -7048,15 +7082,15 @@ msgstr ""
 #: electrum_dash/gui/kivy/uix/ui_screens/about.kv:13
 #: electrum_dash/gui/qt/main_window.py:969
 msgid "Version"
-msgstr "Versão"
+msgstr "Versija"
 
 #: electrum_dash/gui/qt/settings_dialog.py:147
 msgid "Video Device"
-msgstr "Dispositivo de Vídeo"
+msgstr "Video ierīce"
 
 #: electrum_dash/i18n.py:84
 msgid "Vietnamese"
-msgstr ""
+msgstr "Vjetnamiešu"
 
 #: electrum_dash/gui/qt/history_list.py:1025
 msgid "View Transaction"
@@ -7065,13 +7099,13 @@ msgstr ""
 #: electrum_dash/gui/qt/history_list.py:1029
 #: electrum_dash/gui/qt/history_list.py:1033
 msgid "View invoice"
-msgstr "Ver Fatura"
+msgstr "Skatīt rēķinu"
 
 #: electrum_dash/gui/qt/contact_list.py:95
 #: electrum_dash/gui/qt/history_list.py:1035
 #: electrum_dash/gui/qt/address_list.py:564
 msgid "View on block explorer"
-msgstr "Ver no explorador de blocos"
+msgstr "Skatīt blokķēdes pārlūkā"
 
 #: electrum_dash/plugins/revealer/qt.py:65
 msgid "Visual Cryptography Plugin"
@@ -7089,15 +7123,15 @@ msgstr ""
 #: electrum_dash/gui/kivy/uix/dialogs/installwizard.py:905
 #: electrum_dash/gui/qt/seed_dialog.py:56
 msgid "WARNING"
-msgstr "AVISO"
+msgstr "BRĪDINĀJUMS"
 
 #: electrum_dash/gui/qt/main_window.py:3175
 msgid "WARNING: ALL your private keys are secret."
-msgstr "AVISO: TODAS as suas chaves privadas são secretas."
+msgstr "BRĪDINĀJUMS: VISAS privātās atslēgas ir slepenas."
 
 #: electrum_dash/gui/qt/main_window.py:3168
 msgid "WARNING: This is a multi-signature wallet."
-msgstr ""
+msgstr "BRĪDINĀJUMS: šis ir daudzparakstu maciņš."
 
 #: electrum_dash/dash_ps.py:78
 msgid ""
@@ -7109,6 +7143,8 @@ msgid ""
 "WARNING: the alias \"{}\" could not be validated via an additional security "
 "check, DNSSEC, and thus may not be correct."
 msgstr ""
+"BRĪDINĀJUMS: aizstājējvārda \"{}\" pārbaude neizdevās izmantojot papildu "
+"drošības pārbaudes, DNSSEC, un iespējams, aizstājējvārds nav pareizs."
 
 #: electrum_dash/gui/qt/installwizard.py:48
 msgid "WIF keys are typed in Dash Electrum, based on script type."
@@ -7117,11 +7153,11 @@ msgstr ""
 #: electrum_dash/gui/qt/protx_qt.py:1174
 #: electrum_dash/gui/qt/installwizard.py:218
 msgid "Wallet"
-msgstr "Carteira"
+msgstr "Maciņš"
 
 #: electrum_dash/gui/qt/main_window.py:2728
 msgid "Wallet Information"
-msgstr ""
+msgstr "Maciņa informācija"
 
 #: electrum_dash/gui/qt/protx_qt.py:746
 msgid "Wallet MNs"
@@ -7134,15 +7170,15 @@ msgstr ""
 
 #: electrum_dash/gui/kivy/uix/ui_screens/status.kv:27
 msgid "Wallet Name"
-msgstr ""
+msgstr "Maciņa nosaukums"
 
 #: electrum_dash/gui/qt/main_window.py:800
 msgid "Wallet backup created"
-msgstr "Cópia de segurança da carteira criada"
+msgstr "Izveidota maciņa kopija"
 
 #: electrum_dash/gui/qt/transaction_dialog.py:145
 msgid "Wallet change address"
-msgstr "Endereço de troco da carteira"
+msgstr "Maciņa atlikuma adrese"
 
 #: electrum_dash/gui/qt/protx_qt.py:614
 #, python-format
@@ -7165,7 +7201,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:2743
 msgid "Wallet name"
-msgstr ""
+msgstr "Maciņa nosaukums"
 
 #: electrum_dash/gui/kivy/uix/dialogs/password_dialog.py:375
 msgid "Wallet not encrypted"
@@ -7178,24 +7214,24 @@ msgstr ""
 
 #: electrum_dash/gui/qt/transaction_dialog.py:143
 msgid "Wallet receive address"
-msgstr "Endereço de recebimento da carteira"
+msgstr "Maciņa saņemšanas adrese"
 
 #: electrum_dash/gui/kivy/main_window.py:1480
 #: electrum_dash/gui/qt/main_window.py:2833
 msgid "Wallet removed: {}"
-msgstr ""
+msgstr "Maciņš izņemts: {}"
 
 #: electrum_dash/gui/qt/main_window.py:2745
 msgid "Wallet type"
-msgstr ""
+msgstr "Maciņa tips"
 
 #: electrum_dash/gui/kivy/uix/ui_screens/status.kv:30
 msgid "Wallet type:"
-msgstr ""
+msgstr "Maciņa tips:"
 
 #: electrum_dash/gui/kivy/main.kv:499
 msgid "Wallets"
-msgstr ""
+msgstr "Maciņi"
 
 #: electrum_dash/gui/kivy/uix/dialogs/request_dialog.py:114
 #: electrum_dash/gui/qt/installwizard.py:52
@@ -7208,7 +7244,7 @@ msgstr ""
 #: electrum_dash/wallet.py:2229 electrum_dash/plugins/revealer/qt.py:184
 #: electrum_dash/plugins/revealer/qt.py:217
 msgid "Warning"
-msgstr "Aviso"
+msgstr "Brīdinājums"
 
 #: electrum_dash/plugins/revealer/qt.py:274
 msgid "Warning "
@@ -7216,7 +7252,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/console.py:107
 msgid "Warning!"
-msgstr ""
+msgstr "Brīdinājums!"
 
 #: electrum_dash/gui/qt/main_window.py:1415
 msgid ""
@@ -7228,13 +7264,13 @@ msgid ""
 "\n"
 "Create anyway?"
 msgstr ""
-"Aviso: O endereço seguinte não será recuperado automaticamente se restaurar "
-"a sua carteira a partir da semente; pode ter que o adicionar manualmente.\n"
+"Brīdinājums: Nākamā adrese netiks atgūta automātiski, ja atjaunosiet maciņu "
+"no sēklas. Jums tā būs jāpievieno manuāli.\n"
 "\n"
-"Isto ocorre porque você tem demasiados endereços não usados na sua carteira. "
-"Para evitar esta situação, use primeiro os endereços existentes.\n"
+"Tas notiek tāpēc, ka maciņā ir pārāk daudz neizmantotas adreses. Lai "
+"izvairītos no šādas situācijas, vispirms izmantot jau esošos adreses.\n"
 "\n"
-"Ainda assim criar?"
+"Izveidot tik un tā?"
 
 #: electrum_dash/network.py:239
 msgid "Warning: Tor proxy is not detected, to enable it read the docs:"
@@ -7258,17 +7294,15 @@ msgstr ""
 msgid ""
 "We do not guarantee that BIP39 imports will always be supported in Dash "
 "Electrum."
-msgstr ""
-"Não garantimos que importações BIP39 sejam sempre suportados no Dash "
-"Electrum."
+msgstr "Mēs negarantējam, ka Dash Electrum vienmēr atbalstīs BIP39."
 
 #: electrum_dash/base_wizard.py:371
 msgid "We encountered an error while connecting to your device:"
-msgstr ""
+msgstr "Gadījās kļūda, savienojoties ar ierīci:"
 
 #: electrum_dash/base_wizard.py:152
 msgid "What kind of wallet do you want to create?"
-msgstr ""
+msgstr "Kādu maciņu jūs vēlaties izveidot?"
 
 #: electrum_dash/base_wizard.py:342
 msgid ""
@@ -7315,7 +7349,7 @@ msgstr ""
 
 #: electrum_dash/gui/kivy/uix/dialogs/password_dialog.py:301
 msgid "Wrong PIN"
-msgstr ""
+msgstr "Nepareizs PIN"
 
 #: electrum_dash/gui/qt/protx_wizards.py:767
 msgid "Wrong format of BLS public key"
@@ -7323,7 +7357,7 @@ msgstr ""
 
 #: electrum_dash/base_wizard.py:611 electrum_dash/base_wizard.py:619
 msgid "Wrong key type"
-msgstr ""
+msgstr "Nepareizs atslēgas tips"
 
 #: electrum_dash/gui/qt/protx_wizards.py:764
 msgid "Wrong length of BLS public key"
@@ -7335,7 +7369,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:2946
 msgid "Wrong signature"
-msgstr "Assinatura errada"
+msgstr "Nepareizs paraksts"
 
 #: electrum_dash/gui/kivy/uix/dialogs/question.py:53
 #: electrum_dash/plugins/trezor/qt.py:496
@@ -7351,7 +7385,7 @@ msgstr ""
 #: electrum_dash/gui/kivy/uix/ui_screens/network.kv:64
 #: electrum_dash/gui/qt/network_dialog.py:375
 msgid "You are following branch"
-msgstr "Está a seguir ramo"
+msgstr "Jūs sekojat zaram"
 
 #: electrum_dash/gui/qt/main_window.py:741
 msgid "You are in testnet mode."
@@ -7373,8 +7407,8 @@ msgstr ""
 msgid ""
 "You are using a non-deterministic wallet, which cannot create new addresses."
 msgstr ""
-"Está a usar uma carteira não-determinística, que não permite a criação de "
-"novos endereços."
+"Jūs izmantojat maciņu, kurš nav deterministisks un nevar izveidot jaunas "
+"adreses."
 
 #: electrum_dash/dash_ps_util.py:896
 msgid ""
@@ -7391,7 +7425,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/transaction_dialog.py:821
 msgid "You can disable this setting in '{}'."
-msgstr ""
+msgstr "Jūs varat atslēgt šo iestatījumu \"{}\"."
 
 #: electrum_dash/gui/qt/update_checker.py:88
 msgid "You can download the new version from {}."
@@ -7399,7 +7433,7 @@ msgstr ""
 
 #: electrum_dash/base_wizard.py:415
 msgid "You can override the suggested derivation path."
-msgstr ""
+msgstr "Jūs varat pārrakstīt ieteikto atvasinājuma ceļu."
 
 #: electrum_dash/gui/qt/main_window.py:1264
 msgid ""
@@ -7431,7 +7465,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:2096
 msgid "You can't broadcast a transaction without a live network connection."
-msgstr ""
+msgstr "Jūs nevarat pārraidīt transakciju bez tīkla savienojuma."
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:184
 msgid "You cannot access your coins or a backup without the password."
@@ -7442,12 +7476,16 @@ msgid ""
 "You do not need to perform regular backups, because your wallet can be "
 "recovered from a secret phrase that you can memorize or write on paper."
 msgstr ""
+"Jums nav jāveic regulāra rezerves kopiju veidošana, jo maciņu var atjaunot "
+"no slepenas frāzes, kuru var iegaumēt vai pierakstīt uz papīra."
 
 #: electrum_dash/gui/qt/installwizard.py:53
 msgid ""
 "You have multiple consecutive whitespaces or leading/trailing whitespaces in "
 "your passphrase."
 msgstr ""
+"Jūsu paroles frāzē ir vairākas secīgas atstarpes vai atstarpes sākumā un "
+"beigās."
 
 #: electrum_dash/gui/qt/main_window.py:1501
 msgid ""
@@ -7459,11 +7497,11 @@ msgstr ""
 #: electrum_dash/gui/qt/privatesend_dialog.py:1103
 #: electrum_dash/base_wizard.py:497
 msgid "You may extend your seed with custom words."
-msgstr ""
+msgstr "Jūs varat pagarināt sēklu ar papildu vārdiem."
 
 #: electrum_dash/gui/qt/main_window.py:2430
 msgid "You may load a CSV file using the file icon."
-msgstr "Pode carregar um ficheiro CSV usando o ícone de ficheiro."
+msgstr "Varat izmantot faila ikonu, lai ielādētu CSV failu."
 
 #: electrum_dash/network.py:1049
 msgid ""
@@ -7535,7 +7573,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/installwizard.py:382
 msgid "Your accounts have been moved to"
-msgstr "As suas contas foram movidas para"
+msgstr "Jūsu konti tika pārvietoti uz"
 
 #: electrum_dash/plugins/trezor/qt.py:537
 #: electrum_dash/plugins/safe_t/qt.py:269
@@ -7561,27 +7599,27 @@ msgstr ""
 
 #: electrum_dash/plugins/labels/qt.py:69
 msgid "Your labels have been synchronised."
-msgstr "As suas etiquetas foram sincronizadas."
+msgstr "Etiķetes ir sinhronizētas."
 
 #: electrum_dash/gui/qt/seed_dialog.py:188
 msgid "Your seed extension is"
-msgstr "A extensão da sua semente é"
+msgstr "Jūsu sēklas pagarinājums ir"
 
 #: electrum_dash/gui/qt/privatesend_dialog.py:1104
 #: electrum_dash/gui/qt/privatesend_dialog.py:1182
 #: electrum_dash/base_wizard.py:498 electrum_dash/base_wizard.py:798
 msgid "Your seed extension must be saved together with your seed."
-msgstr ""
+msgstr "Sēklas pagarinājums ir jāsaglabā kopā ar jūsu sēklu."
 
 #: electrum_dash/gui/qt/installwizard.py:520
 #: electrum_dash/gui/qt/privatesend_dialog.py:1137
 msgid "Your seed is important!"
-msgstr "A sua semente é importante!"
+msgstr "Sēkla ir svarīga!"
 
 #: electrum_dash/gui/kivy/uix/ui_screens/network.kv:64
 #: electrum_dash/gui/qt/network_dialog.py:375
 msgid "Your server is on branch"
-msgstr "O seu servidor está no ramo"
+msgstr "Jūsu serveris ir uz zara"
 
 #: electrum_dash/network.py:992
 msgid ""
@@ -7602,7 +7640,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/installwizard.py:45
 msgid "Your wallet file does not contain secrets, mostly just metadata. "
-msgstr ""
+msgstr "Jūsu maciņa fails nesatur noslēpumus, pārsvarā tikai metadatus. "
 
 #: electrum_dash/gui/qt/password_dialog.py:289
 msgid "Your wallet file is NOT encrypted."
@@ -7617,32 +7655,32 @@ msgstr ""
 #: electrum_dash/gui/qt/privatesend_dialog.py:193
 #: electrum_dash/gui/qt/privatesend_dialog.py:1065
 msgid "Your wallet generation seed is:"
-msgstr "A semente de geração da sua carteira é:"
+msgstr "Maciņa atjaunošanas sēkla ir:"
 
 #: electrum_dash/gui/qt/history_list.py:1105
 msgid "Your wallet history has been successfully exported."
-msgstr "O histórico da sua carteira foi exportado com sucesso."
+msgstr "Maciņa vēsture ir veiksmīgi eksportēta."
 
 #: electrum_dash/gui/qt/password_dialog.py:259
 msgid "Your wallet is not protected."
-msgstr "A sua carteira não está protegida."
+msgstr "Jūsu maciņš nav aizsargāts."
 
 #: electrum_dash/gui/qt/password_dialog.py:265
 msgid "Your wallet is password protected and encrypted."
-msgstr "A sua carteira está encriptada e protegida com palavra-passe."
+msgstr "Jūsu maciņš ir aizsargāts ar paroli un šifrēts."
 
 #: electrum_dash/gui/qt/util.py:1053
 #, python-brace-format
 msgid "Your {0} were exported to '{1}'"
-msgstr ""
+msgstr "Jūsu {0} tika eksportēts uz \"{1}\""
 
 #: electrum_dash/gui/qt/util.py:1033
 msgid "Your {} were successfully imported"
-msgstr ""
+msgstr "Jūsu {} tika veiksmīgi importēts"
 
 #: electrum_dash/gui/qt/settings_dialog.py:91
 msgid "Zeros after decimal point"
-msgstr "Zeros depois do ponto decimal"
+msgstr "Nulles pēc decimālā atdalītāja"
 
 #: electrum_dash/gui/text.py:265
 msgid "[Clear]"
@@ -7710,7 +7748,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:1984
 msgid "are frozen"
-msgstr "estão congelados"
+msgstr "ir iesaldēti"
 
 #: electrum_dash/wallet.py:2220
 msgid "below relay fee"
@@ -7719,11 +7757,11 @@ msgstr ""
 #: electrum_dash/gui/qt/network_dialog.py:364
 #: electrum_dash/gui/qt/network_dialog.py:376
 msgid "blocks"
-msgstr "blocos"
+msgstr "bloki"
 
 #: electrum_dash/gui/qt/address_list.py:235
 msgid "change"
-msgstr ""
+msgstr "atlikums"
 
 #: electrum_dash/gui/qt/main_window.py:3293
 #: electrum_dash/gui/qt/main_window.py:3296
@@ -7752,7 +7790,7 @@ msgstr ""
 
 #: electrum_dash/plugin.py:672 electrum_dash/base_wizard.py:354
 msgid "initialized"
-msgstr ""
+msgstr "inicializēts"
 
 #: electrum_dash/wallet.py:2327
 msgid "invalid address"
@@ -7765,7 +7803,7 @@ msgstr ""
 #: electrum_dash/gui/qt/main_window.py:3277
 #: electrum_dash/gui/qt/main_window.py:3280
 msgid "invoices"
-msgstr ""
+msgstr "rēķini"
 
 #: electrum_dash/gui/qt/main_window.py:3283
 msgid "invoices_with_ext"
@@ -7790,7 +7828,7 @@ msgstr ""
 #: electrum_dash/gui/qt/main_window.py:3271
 #: electrum_dash/gui/qt/main_window.py:3274
 msgid "labels"
-msgstr ""
+msgstr "etiķetes"
 
 #: electrum_dash/gui/qt/qrreader/qtmultimedia/camera_dialog.py:282
 msgid "loaded"
@@ -7814,7 +7852,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:2258
 msgid "please wait..."
-msgstr "Por favor, aguarde…"
+msgstr "lūdzu, uzgaidiet..."
 
 #: electrum_dash/plugins/revealer/qt.py:726
 msgid "print the calibration pdf and follow the instructions "
@@ -7830,7 +7868,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:1167
 msgid "proxy enabled"
-msgstr ""
+msgstr "starpniekserveris aktivizēts"
 
 #: electrum_dash/gui/qt/protx_wizards.py:1800
 msgid "pubKeyOperator used by registered masternodes"
@@ -7842,7 +7880,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/address_list.py:235
 msgid "receiving"
-msgstr ""
+msgstr "saņemšana"
 
 #: electrum_dash/gui/qt/main_window.py:3287
 #: electrum_dash/gui/qt/main_window.py:3290
@@ -7888,7 +7926,7 @@ msgstr ""
 #: electrum_dash/gui/qt/transaction_dialog.py:510
 #: electrum_dash/gui/qt/utxo_list.py:184 electrum_dash/wallet.py:1205
 msgid "unknown"
-msgstr "desconhecido"
+msgstr "nezināms"
 
 #: electrum_dash/commands.py:1154
 msgid "unknown parser {!r} (choices: {})"
@@ -7904,7 +7942,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:707
 msgid "watching only"
-msgstr "apenas visualização"
+msgstr "tikai skatīšanai"
 
 #: electrum_dash/gui/qt/main_window.py:2733
 msgid "watching-only"
@@ -7912,7 +7950,7 @@ msgstr ""
 
 #: electrum_dash/plugin.py:672 electrum_dash/base_wizard.py:354
 msgid "wiped"
-msgstr ""
+msgstr "izslaucīts"
 
 #: electrum_dash/plugins/revealer/qt.py:185
 msgid ""
@@ -7948,16 +7986,16 @@ msgstr ""
 #: electrum_dash/plugins/safe_t/qt.py:195
 #: electrum_dash/plugins/keepkey/qt.py:321
 msgid "{} Settings"
-msgstr ""
+msgstr "{} iestatījumi"
 
 #: electrum_dash/wallet.py:555 electrum_dash/wallet.py:557
 #: electrum_dash/wallet.py:563
 msgid "{} confirmations"
-msgstr ""
+msgstr "{} apstiprinājumi"
 
 #: electrum_dash/gui/kivy/uix/ui_screens/network.kv:14
 msgid "{} connections."
-msgstr ""
+msgstr "{} savienojumi."
 
 #: electrum_dash/gui/qt/main_window.py:1433
 msgid "{} copied to clipboard"
@@ -7969,7 +8007,7 @@ msgstr ""
 
 #: electrum_dash/gui/kivy/uix/dialogs/tx_dialog.py:164
 msgid "{} from tip"
-msgstr ""
+msgstr "{} no galotnes"
 
 #: electrum_dash/gui/qt/main_window.py:1026
 msgid "{} new transactions: Total amount received in the new transactions {}"

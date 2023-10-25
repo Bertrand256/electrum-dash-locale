@@ -14,18 +14,16 @@ msgstr ""
 "POT-Creation-Date: 2021-09-09 19:20+0300\n"
 "PO-Revision-Date: 2018-12-09 13:08+0000\n"
 "Last-Translator: Leon White <leon.white@dash.org>, 2018\n"
-"Language-Team: Portuguese (Portugal) (https://app.transifex.com/dash/"
-"teams/37570/pt_PT/)\n"
-"Language: pt_PT\n"
+"Language-Team: Hungarian (https://app.transifex.com/dash/teams/37570/hu/)\n"
+"Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % "
-"1000000 == 0 ? 1 : 2;\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: electrum_dash/exchange_rate.py:457
 msgid "  (No FX rate available)"
-msgstr "  (Sem a taxa FX disponível)"
+msgstr "  (ismeretlen árfolyam)"
 
 #: electrum_dash/gui/qt/history_list.py:345
 msgid " confirmation"
@@ -48,12 +46,12 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:938
 msgid "&About"
-msgstr "&Sobre"
+msgstr "&Névjegy"
 
 #: electrum_dash/gui/qt/main_window.py:286
 #: electrum_dash/gui/qt/main_window.py:864
 msgid "&Addresses"
-msgstr "&Endereços"
+msgstr "Címek"
 
 #: electrum_dash/gui/qt/main_window.py:943
 msgid "&Automated Crash Reports"
@@ -81,31 +79,31 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:942
 msgid "&Documentation"
-msgstr "&Documentação"
+msgstr "&Dokumentáció"
 
 #: electrum_dash/gui/qt/main_window.py:951
 msgid "&Donate to server"
-msgstr "&Doar ao servidor"
+msgstr "Adomány a szervernek"
 
 #: electrum_dash/gui/qt/main_window.py:924
 msgid "&Encrypt/decrypt message"
-msgstr "&Encriptar/desencriptar mensagem"
+msgstr "Üzenet titkosítása/visszafejtése"
 
 #: electrum_dash/gui/qt/main_window.py:859
 #: electrum_dash/gui/qt/main_window.py:870
 #: electrum_dash/gui/qt/main_window.py:875
 msgid "&Export"
-msgstr "&Exportar"
+msgstr "&Export"
 
 #: electrum_dash/gui/qt/main_window.py:839
 msgid "&File"
-msgstr "&Ficheiro"
+msgstr "&File"
 
 #: electrum_dash/gui/qt/main_window.py:865
 #: electrum_dash/gui/qt/main_window.py:867
 #: electrum_dash/gui/qt/main_window.py:872
 msgid "&Filter"
-msgstr "&Filtro"
+msgstr "Szűrés"
 
 #: electrum_dash/gui/qt/qrreader/qtmultimedia/camera_dialog.py:138
 msgid "&Flip horizontally"
@@ -113,96 +111,96 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:933
 msgid "&From QR code"
-msgstr "&De código QR"
+msgstr "QR kódból"
 
 #: electrum_dash/gui/qt/main_window.py:930
 msgid "&From file"
-msgstr "&De um ficheiro"
+msgstr "Állományból"
 
 #: electrum_dash/gui/qt/main_window.py:931
 msgid "&From text"
-msgstr "&De texto"
+msgstr "Szövegből"
 
 #: electrum_dash/gui/qt/main_window.py:932
 msgid "&From the blockchain"
-msgstr "&Da blockchain"
+msgstr "A blokkláncból"
 
 #: electrum_dash/gui/qt/main_window.py:937
 msgid "&Help"
-msgstr "&Ajuda"
+msgstr "&Segítség"
 
 #: electrum_dash/gui/qt/main_window.py:871
 msgid "&History"
-msgstr "&Histórico"
+msgstr "Számlatörténet"
 
 #: electrum_dash/gui/qt/main_window.py:855
 #: electrum_dash/gui/qt/main_window.py:869
 msgid "&Import"
-msgstr "&Importar"
+msgstr "Importálás"
 
 #: electrum_dash/gui/qt/main_window.py:849
 msgid "&Information"
-msgstr "&Informações"
+msgstr "Info"
 
 #: electrum_dash/gui/qt/main_window.py:868
 msgid "&Labels"
-msgstr "&Etiquetas"
+msgstr "Cimkék"
 
 #: electrum_dash/gui/qt/main_window.py:929
 msgid "&Load transaction"
-msgstr "&Carregar transação"
+msgstr "&Tranzakció betöltése"
 
 #: electrum_dash/gui/qt/main_window.py:920
 msgid "&Network"
-msgstr "&Rede"
+msgstr "&Hálózat"
 
 #: electrum_dash/gui/qt/main_window.py:877
 msgid "&New"
-msgstr "&Novo"
+msgstr "Új"
 
 #: electrum_dash/gui/qt/main_window.py:842
 msgid "&New/Restore"
-msgstr "&Nova/Restaurar"
+msgstr "Új/visszaállítás"
 
 #: electrum_dash/gui/qt/main_window.py:940
 msgid "&Official website"
-msgstr "&Site oficial"
+msgstr "Hivatalos weboldal"
 
 #: electrum_dash/gui/qt/main_window.py:841
 msgid "&Open"
-msgstr "&Abrir"
+msgstr "Megnyitás"
 
 #: electrum_dash/gui/qt/main_window.py:851
 msgid "&Password"
-msgstr "&Palavra-passe"
+msgstr "Jelszó"
 
 #: electrum_dash/gui/qt/main_window.py:927
 msgid "&Pay to many"
-msgstr "&Pagar a vários"
+msgstr "Küldés több címzettnek"
 
 #: electrum_dash/gui/qt/main_window.py:874
 msgid "&Plot"
-msgstr "&Enredo"
+msgstr "Grafikon"
 
 #: electrum_dash/gui/qt/main_window.py:921
 msgid "&Plugins"
-msgstr "&Plugins"
+msgstr "Bővítések"
 
 #: electrum_dash/gui/qt/main_window.py:853
 msgid "&Private keys"
-msgstr "&Chaves privadas"
+msgstr "Privát kulcsok"
 
 #: electrum_dash/gui/qt/main_window.py:846
 msgid "&Quit"
-msgstr "&Sair"
+msgstr "Kilépés"
 
 #: electrum_dash/gui/qt/main_window.py:840
 msgid "&Recently open"
-msgstr "&Aberto recentemente"
+msgstr "Legutóbb megnyitott"
 
 #: electrum_dash/gui/qt/main_window.py:949
 msgid "&Report Bug"
-msgstr "&Relatar uma falha"
+msgstr "&Hibajelentés"
 
 #: electrum_dash/gui/qt/main_window.py:843
 msgid "&Save backup"
@@ -210,35 +208,35 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:852
 msgid "&Seed"
-msgstr "&Semente"
+msgstr "Seed (mag)"
 
 #: electrum_dash/gui/qt/main_window.py:923
 msgid "&Sign/verify message"
-msgstr "&Assinar/verificar a mensagem"
+msgstr "Üzenet aláírása/aláírás ellenőrzése"
 
 #: electrum_dash/gui/qt/main_window.py:873
 msgid "&Summary"
-msgstr "&Resumo"
+msgstr "Összefoglaló"
 
 #: electrum_dash/gui/qt/main_window.py:854
 msgid "&Sweep"
-msgstr "&Varrimento"
+msgstr "Besöprés másik címről"
 
 #: electrum_dash/gui/qt/main_window.py:909
 msgid "&Tools"
-msgstr "&Ferramentas"
+msgstr "Eszközök"
 
 #: electrum_dash/gui/qt/main_window.py:897
 msgid "&View"
-msgstr "&Ver"
+msgstr "Nézet"
 
 #: electrum_dash/gui/qt/main_window.py:848
 msgid "&Wallet"
-msgstr "&Carteira"
+msgstr "Pénztárca"
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:606
 msgid "(Touch {} of {})"
-msgstr "(Touch {} of {})"
+msgstr "(Érintes {}/{})"
 
 #: electrum_dash/plugins/virtualkeyboard/qt.py:15
 msgid "+"
@@ -246,19 +244,19 @@ msgstr "+"
 
 #: electrum_dash/invoices.py:60
 msgid "1 day"
-msgstr "1 dia"
+msgstr "1 nap"
 
 #: electrum_dash/invoices.py:59
 msgid "1 hour"
-msgstr "1 hora"
+msgstr "1 óra"
 
 #: electrum_dash/invoices.py:61
 msgid "1 week"
-msgstr "1 semana"
+msgstr "1 hét"
 
 #: electrum_dash/plugins/revealer/qt.py:456
 msgid "1. Place this paper on a flat and well iluminated surface."
-msgstr "1. Coloque esse papel em uma superfície reta e bem iluminada."
+msgstr ""
 
 #: electrum_dash/invoices.py:58
 msgid "10 minutes"
@@ -268,8 +266,6 @@ msgstr ""
 msgid ""
 "2. Align your Revealer borderlines to the dashed lines on the top and left."
 msgstr ""
-"2. Alinhe as linhas de borda do Revealer com as linhas tracejadas na parte "
-"superior e esquerda."
 
 #: electrum_dash/gui/qt/main_window.py:1659
 msgid "2fa fee: {} (for the next batch of transactions)"
@@ -280,36 +276,35 @@ msgid ""
 "3. Press slightly the Revealer against the paper and read the numbers that "
 "best match on the opposite sides. "
 msgstr ""
-"3. Pressione levemente o Revealer contra o papel e leia os números que "
-"melhor combinam com os lados opostos. "
 
 #: electrum_dash/plugins/revealer/qt.py:460
 msgid "4. Type the numbers in the software"
-msgstr "4. Digite os números no software"
+msgstr ""
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:185
 msgid "A backup is saved automatically when generating a new wallet."
-msgstr "Um backup é salvo automaticamente quando gerado uma nova carteira."
+msgstr "A mentés automatikusan mentésre kerül, amikor új tárcát készít."
 
 #: electrum_dash/gui/qt/main_window.py:799
 msgid "A copy of your wallet file was created in"
-msgstr "Uma cópia dos seu ficheiro de carteira foi criado em"
+msgstr "A tárcafájlod másolata létrejött itt"
 
 #: electrum_dash/gui/qt/installwizard.py:49
 msgid "A few examples"
-msgstr ""
+msgstr "Néhány példa"
 
 #: electrum_dash/plugin.py:518
 msgid "A library is probably missing."
-msgstr "Uma library provavelmente está faltando."
+msgstr "Valószínűleg hiányzik egy könyvtár."
 
 #: electrum_dash/gui/qt/confirm_tx_dialog.py:152
 msgid ""
 "A suggested fee is automatically added to this field. You may override it. "
 "The suggested fee increases with the size of the transaction."
 msgstr ""
-"Uma taxa de transação sugerida será adicionada a este campo. Pode alterar a "
-"sugestão. A taxa sugerida aumenta com o tamanho da transação."
+"Az ajánlott tranzakciós díj automatikusan hozzáadódik ehhez a mezőhöz. "
+"Felülírhatod. A javasolt tranzakciós díj a tranzakció összegével arányosan "
+"növekszik."
 
 #: electrum_dash/dash_msg.py:134
 msgid "ACCEPTING_ENTRIES"
@@ -317,11 +312,11 @@ msgstr ""
 
 #: electrum_dash/gui/kivy/main.kv:496
 msgid "About"
-msgstr "Sobre"
+msgstr "Névjegy"
 
 #: electrum_dash/gui/kivy/uix/ui_screens/about.kv:4
 msgid "About Dash Electrum"
-msgstr "Sobre a Dash Electrum"
+msgstr "Az Dash Electrumról"
 
 #: electrum_dash/gui/kivy/uix/dialogs/privatesend.py:972
 #: electrum_dash/gui/qt/privatesend_dialog.py:709
@@ -330,12 +325,12 @@ msgstr ""
 
 #: electrum_dash/plugins/keepkey/qt.py:75
 msgid "Accept Word"
-msgstr "Palavra Aceita"
+msgstr "Fogadja el a szót"
 
 #: electrum_dash/gui/qt/history_list.py:678
 #: electrum_dash/gui/qt/history_list.py:856
 msgid "Acquisition price"
-msgstr "Preço de aquisição"
+msgstr "A beszerzési ár"
 
 #: electrum_dash/gui/kivy/uix/dialogs/dash_net.py:545
 #: electrum_dash/gui/qt/dash_net_dialog.py:131
@@ -350,7 +345,7 @@ msgstr ""
 #: electrum_dash/gui/kivy/uix/dialogs/installwizard.py:1279
 #: electrum_dash/gui/qt/installwizard.py:495
 msgid "Add Cosigner"
-msgstr "Adicionar cossignatário"
+msgstr "Társ-aláíró hozzáadása"
 
 #: electrum_dash/gui/qt/protx_wizards.py:1722
 msgid "Add DIP3 Masternode - {}"
@@ -358,15 +353,16 @@ msgstr ""
 
 #: electrum_dash/base_wizard.py:219
 msgid "Add a cosigner to your multi-sig wallet"
-msgstr "Adicione um cosigner para sua carteira de multi assinatura"
+msgstr "Társ-aláíró hozzáadása a pénztárcához"
 
 #: electrum_dash/plugins/virtualkeyboard/__init__.py:4
 msgid "Add an optional virtual keyboard to the password dialog."
-msgstr "Adicione um teclado virtual opcional quando for digitar a senha."
+msgstr ""
+"Opcionális virtuális billentyűzet hozzáadása a jelszó párbeszédablakához."
 
 #: electrum_dash/base_wizard.py:207
 msgid "Add cosigner"
-msgstr "Adicione um cosigner"
+msgstr "Társ-aláíró hozzáadása"
 
 #: electrum_dash/plugins/scan_over_gap/scan_over_gap.py:99
 msgid "Add found coins to wallet"
@@ -378,7 +374,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/confirm_tx_dialog.py:157
 msgid "Additional fees"
-msgstr "Taxas adicionais"
+msgstr "További költségek"
 
 #: electrum_dash/gui/qt/transaction_dialog.py:879
 msgid "Additional {} duffs are going to be added."
@@ -396,7 +392,7 @@ msgstr ""
 #: electrum_dash/gui/qt/address_list.py:156 electrum_dash/gui/qt/util.py:418
 #: electrum_dash/gui/qt/utxo_list.py:92
 msgid "Address"
-msgstr "Endereço"
+msgstr "Cím"
 
 #: electrum_dash/gui/kivy/uix/dialogs/addresses.py:238
 msgid "Address Details"
@@ -404,7 +400,7 @@ msgstr ""
 
 #: electrum_dash/gui/kivy/main.kv:154
 msgid "Address copied to clipboard"
-msgstr "O endereço foi copiado para a área de transferência"
+msgstr "Cím vágólapra másolva"
 
 #: electrum_dash/gui/qt/utxo_list.py:200 electrum_dash/gui/qt/utxo_list.py:581
 msgid "Address is frozen"
@@ -417,19 +413,19 @@ msgstr ""
 #: electrum_dash/gui/qt/main_window.py:2910 electrum_dash/wallet.py:504
 #: electrum_dash/wallet.py:1917 electrum_dash/plugins/hw_wallet/plugin.py:132
 msgid "Address not in wallet."
-msgstr "Endereço não está na carteira."
+msgstr "A cím nincs bent a mobiltárcában."
 
 #: electrum_dash/gui/text.py:105 electrum_dash/gui/kivy/main.kv:511
 #: electrum_dash/plugins/scan_over_gap/scan_over_gap.py:110
 msgid "Addresses"
-msgstr "Endereços"
+msgstr "Címek"
 
 #: electrum_dash/gui/qt/confirm_tx_dialog.py:176
 #: electrum_dash/plugins/trezor/qt.py:766
 #: electrum_dash/plugins/safe_t/qt.py:498
 #: electrum_dash/plugins/keepkey/qt.py:568
 msgid "Advanced"
-msgstr "Avançado"
+msgstr "Haladó"
 
 #: electrum_dash/gui/qt/settings_dialog.py:212
 msgid "Advanced preview"
@@ -444,11 +440,10 @@ msgid ""
 "to create a new wallet with the install wizard.  You can use this wallet "
 "again at any time by re-enabling passphrases and entering its passphrase."
 msgstr ""
-"Depois de desabilitar as passphrases você só pode emparelhar essa carteira "
-"Dash Electrum se tiver uma passphrase vazia. Se a passphrase não estiver "
-"vazia, você precisará criar uma nova carteira com o assistente de "
-"instalação. Você pode usar essa carteira novamente a qualquer momento, "
-"reativando as passphrases e digitando sua passphrase."
+"A jelszavak letiltása után csak az Dash Electrum tárcáját párosíthatja, ha "
+"üres jelszóval rendelkezik. Ha a jelszó nem volt üres, új telepítőt kell "
+"létrehoznia a telepítő varázslóval. Ezt a tárcát bármikor újra "
+"felhasználhatja a jelszavak újbóli engedélyezésével és a jelszó beírásával."
 
 #: electrum_dash/gui/qt/protx_qt.py:200
 msgid "Alias"
@@ -462,7 +457,7 @@ msgstr ""
 #: electrum_dash/gui/qt/address_list.py:96 electrum_dash/gui/qt/utxo_list.py:59
 #: electrum_dash/gui/qt/utxo_list.py:73
 msgid "All"
-msgstr "Tudo"
+msgstr "Összes"
 
 #: electrum_dash/dash_ps_util.py:913
 msgid "Allow spend other PS coins"
@@ -482,7 +477,9 @@ msgstr ""
 
 #: electrum_dash/gui/qt/transaction_dialog.py:822
 msgid "Also, dust is not kept as change, but added to the fee."
-msgstr "Além disso, o dust não é mantido como change, mas adicionada à taxa."
+msgstr ""
+"Továbbá, por nem lesz megtartva visszajáróként, hanem a kezelési költségbe "
+"lesz beleszámolva."
 
 #: electrum_dash/gui/qt/installwizard.py:238
 msgid "Alternatively"
@@ -505,7 +502,7 @@ msgstr ""
 #: electrum_dash/gui/qt/history_list.py:685
 #: electrum_dash/gui/qt/request_list.py:61 electrum_dash/gui/qt/utxo_list.py:96
 msgid "Amount"
-msgstr "Quantia"
+msgstr "Összeg"
 
 #: electrum_dash/gui/qt/main_window.py:1521
 msgid "Amount available for current send options"
@@ -521,47 +518,47 @@ msgstr ""
 
 #: electrum_dash/gui/qt/transaction_dialog.py:496
 msgid "Amount received:"
-msgstr "Quantia recebida:"
+msgstr "Beérkezett összeg:"
 
 #: electrum_dash/gui/qt/transaction_dialog.py:498
 msgid "Amount sent:"
-msgstr "Quantia enviada:"
+msgstr "Küldött összeg:"
 
 #: electrum_dash/gui/qt/confirm_tx_dialog.py:147
 msgid "Amount to be sent"
-msgstr "Quantia a enviar"
+msgstr "Küldendő összeg"
 
 #: electrum_dash/gui/qt/main_window.py:1538
 msgid "Amount to be sent."
-msgstr "Quantia a ser enviada."
+msgstr "Küldendő összeg."
 
 #: electrum_dash/gui/qt/exception_window.py:55
 msgid "An Error Occurred"
-msgstr "Ocorreu Um Erro"
+msgstr "Hiba történt"
 
 #: electrum_dash/plugins/cosigner_pool/qt.py:224
 #: electrum_dash/plugins/cosigner_pool/qt.py:229
 #: electrum_dash/plugins/cosigner_pool/qt.py:235
 msgid "An encrypted transaction was retrieved from cosigning pool."
-msgstr "Uma transação criptografada foi recuperada do cosigning pool."
+msgstr "Egy titkosított tranzakció lett letöltve a több-aláírós szerverről."
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:181
 msgid "An uninitialized Digital Bitbox is detected."
-msgstr "Um Digital Bitbox não inicializado, foi detectado."
+msgstr "Egy nem inicializált digitális Bitbox észlelhető."
 
 #: electrum_dash/plugin.py:671 electrum_dash/base_wizard.py:355
 msgid "An unnamed {}"
-msgstr "Um sem nome {}"
+msgstr "Egy meg nem nevezett {}"
 
 #: electrum_dash/plugins/trezor/qt.py:647
 #: electrum_dash/plugins/safe_t/qt.py:379
 #: electrum_dash/plugins/keepkey/qt.py:472
 msgid "Apply"
-msgstr "Aplicar"
+msgstr "Alkamaz"
 
 #: electrum_dash/i18n.py:51
 msgid "Arabic"
-msgstr "Árabe"
+msgstr "arab"
 
 #: electrum_dash/plugins/trezor/qt.py:590
 #: electrum_dash/plugins/safe_t/qt.py:322
@@ -583,29 +580,28 @@ msgstr ""
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:314
 msgid "Are you sure you want to erase the Digital Bitbox?"
-msgstr "Você tem certeza que deseja apagar o Digital Bitbox?"
+msgstr "Biztosan törli a Digital Bitbox-ot?"
 
 #: electrum_dash/plugins/trezor/qt.py:541
 #: electrum_dash/plugins/safe_t/qt.py:273
 #: electrum_dash/plugins/keepkey/qt.py:397
 msgid "Are you sure you want to proceed?"
-msgstr "Tem certeza que deseja prosseguir?"
+msgstr "Biztosan folytatod?"
 
 #: electrum_dash/gui/kivy/uix/dialogs/tx_dialog.py:234
 #: electrum_dash/gui/qt/history_list.py:1060
 msgid ""
 "Are you sure you want to remove this transaction and {} child transactions?"
-msgstr ""
-"Você tem certeza que deseja remover esta transação e {} as transações filhas?"
+msgstr "Biztosan törlöd ezt, és további {} ettől függő tranzakciót?"
 
 #: electrum_dash/gui/kivy/uix/dialogs/tx_dialog.py:232
 #: electrum_dash/gui/qt/history_list.py:1058
 msgid "Are you sure you want to remove this transaction?"
-msgstr "Tem certeza que deseja remover esta transação?"
+msgstr "Biztos benne, hogy el szeretné távolítani ezt a tranzakciót?"
 
 #: electrum_dash/i18n.py:64
 msgid "Armenian"
-msgstr "Armênio"
+msgstr "örmény"
 
 #: electrum_dash/gui/qt/transaction_dialog.py:485
 msgid "At block height: {}"
@@ -621,19 +617,19 @@ msgstr ""
 
 #: electrum_dash/plugins/audio_modem/__init__.py:3
 msgid "Audio MODEM"
-msgstr ""
+msgstr "Audio MODEM"
 
 #: electrum_dash/plugins/audio_modem/qt.py:55
 msgid "Audio Modem Settings"
-msgstr ""
+msgstr "Hang beállítása"
 
 #: electrum_dash/gui/qt/installwizard.py:842
 msgid "Auto connect"
-msgstr "Ligar automaticamente"
+msgstr "Automatikus csatlakozás"
 
 #: electrum_dash/gui/kivy/uix/ui_screens/network.kv:44
 msgid "Auto-connect"
-msgstr "Ligar automaticamente"
+msgstr "Automatikus csatlakozás"
 
 #: electrum_dash/gui/qt/settings_dialog.py:189
 msgid "Automatically check for software updates"
@@ -649,7 +645,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/seed_dialog.py:74
 msgid "BIP39 seed"
-msgstr "Semente BIP39"
+msgstr ""
 
 #: electrum_dash/gui/qt/seed_dialog.py:95
 msgid ""
@@ -693,7 +689,7 @@ msgstr ""
 #: electrum_dash/gui/qt/installwizard.py:169
 #: electrum_dash/gui/qt/installwizard.py:170
 msgid "Back"
-msgstr "Voltar"
+msgstr "Vissza"
 
 #: electrum_dash/gui/kivy/main_window.py:1572
 msgid "Backup NOT saved. Backup directory not configured."
@@ -720,7 +716,7 @@ msgstr ""
 #: electrum_dash/gui/qt/address_list.py:158
 #: electrum_dash/gui/qt/address_list.py:159
 msgid "Balance"
-msgstr "Saldo"
+msgstr "Egyenleg"
 
 #: electrum_dash/gui/qt/dash_net_dialog.py:57
 msgid "Ban"
@@ -744,11 +740,11 @@ msgstr "Banner"
 
 #: electrum_dash/gui/qt/settings_dialog.py:124
 msgid "Base unit"
-msgstr "Unidade base"
+msgstr "Egység"
 
 #: electrum_dash/gui/qt/settings_dialog.py:121
 msgid "Base unit of your wallet."
-msgstr "Unidade base da sua carteira."
+msgstr "A pénztárca alapértelmezett egysége."
 
 #: electrum_dash/gui/qt/invoice_list.py:155
 msgid "Batch pay invoices"
@@ -759,9 +755,8 @@ msgid ""
 "Before reporting a bug, upgrade to the most recent version of Dash Electrum "
 "(latest release or git HEAD), and include the version number in your report."
 msgstr ""
-"Antes de reportar um erro, atualize para a versão mais recente do Dash "
-"Electrum (versão mais recente ou git HEAD) e inclua o número da versão no "
-"seu relatório."
+"A hibajelentés előtt frissítse az Dash Electrum legfrissebb verzióját "
+"(legújabb kiadás vagy git HEAD), és vegye fel a verziószámot a jelentésbe."
 
 #: electrum_dash/gui/qt/history_list.py:837
 msgid "Begin"
@@ -769,7 +764,7 @@ msgstr ""
 
 #: electrum_dash/plugins/audio_modem/qt.py:58
 msgid "Bit rate [kbps]: "
-msgstr ""
+msgstr "Bitráta [kbps]: "
 
 #: electrum_dash/gui/qt/locktimeedit.py:36
 msgid "Block height"
@@ -788,24 +783,24 @@ msgstr ""
 
 #: electrum_dash/plugins/revealer/qt.py:742
 msgid "Bottom"
-msgstr "Inferior"
+msgstr "Alul"
 
 #: electrum_dash/i18n.py:73
 msgid "Brasilian"
-msgstr "Brasileiro"
+msgstr "Brazil"
 
 #: electrum_dash/gui/kivy/uix/dialogs/tx_dialog.py:202
 #: electrum_dash/gui/qt/transaction_dialog.py:169
 msgid "Broadcast"
-msgstr "Transmitir"
+msgstr "Szétküldés"
 
 #: electrum_dash/gui/qt/main_window.py:2234
 msgid "Broadcasting transaction..."
-msgstr "A transmitir a transação..."
+msgstr "Tranzakció kiküldése folyamatban..."
 
 #: electrum_dash/i18n.py:52
 msgid "Bulgarian"
-msgstr "Búlgaro"
+msgstr "bulgár"
 
 #: electrum_dash/network.py:260
 msgid "Bypass Tor proxy for Fiat rates loading"
@@ -847,7 +842,7 @@ msgstr ""
 #: electrum_dash/gui/qt/installwizard.py:845 electrum_dash/gui/qt/util.py:204
 #: electrum_dash/plugins/trezor/qt.py:71 electrum_dash/plugins/keepkey/qt.py:83
 msgid "Cancel"
-msgstr "Cancelar"
+msgstr "Mégse"
 
 #: electrum_dash/plugins/ledger/ledger.py:391
 #: electrum_dash/plugins/ledger/ledger.py:404
@@ -857,11 +852,11 @@ msgstr ""
 
 #: electrum_dash/base_wizard.py:629
 msgid "Cannot add this cosigner:"
-msgstr ""
+msgstr "Nem adható hozzá ez a megbízó:"
 
 #: electrum_dash/gui/kivy/main_window.py:1374
 msgid "Cannot broadcast transaction"
-msgstr "Não é possivel transmitir transacção"
+msgstr "Nem sikerült kiküldeni a tranzakciót"
 
 #: electrum_dash/gui/qt/__init__.py:344
 msgid "Cannot create window for wallet"
@@ -875,7 +870,7 @@ msgstr ""
 #: electrum_dash/gui/qt/installwizard.py:274
 #: electrum_dash/gui/qt/installwizard.py:297
 msgid "Cannot read file"
-msgstr "Não é possível ler o ficheiro"
+msgstr "A fájl nem olvasható"
 
 #: electrum_dash/gui/kivy/main_window.py:1578
 msgid "Cannot save backup without STORAGE permission"
@@ -883,7 +878,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:2917
 msgid "Cannot sign messages with this type of address:"
-msgstr ""
+msgstr "Nem lehet aláírni az ilyen típusú címeket tartalmazó üzeneteket:"
 
 #: electrum_dash/gui/qt/qrreader/qtmultimedia/camera_dialog.py:335
 msgid "Cannot start QR scanner, camera is unavailable."
@@ -903,7 +898,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/history_list.py:679
 msgid "Capital Gains"
-msgstr ""
+msgstr "Tőkenyereség"
 
 #: electrum_dash/gui/qt/history_list.py:877
 msgid "Cash flow"
@@ -916,12 +911,12 @@ msgstr ""
 #: electrum_dash/gui/qt/network_dialog.py:374
 #, python-brace-format
 msgid "Chain split detected at block {0}"
-msgstr ""
+msgstr "A blokkban lánctérés észlelhető {0}"
 
 #: electrum_dash/gui/qt/address_list.py:72
 #: electrum_dash/plugins/scan_over_gap/scan_over_gap.py:74
 msgid "Change"
-msgstr "Troco"
+msgstr "Váltó"
 
 #: electrum_dash/gui/qt/transaction_dialog.py:145
 msgid "Change Address"
@@ -931,13 +926,13 @@ msgstr ""
 #: electrum_dash/plugins/safe_t/qt.py:231
 #: electrum_dash/plugins/keepkey/qt.py:353
 msgid "Change PIN"
-msgstr "Alterar PIN"
+msgstr ""
 
 #: electrum_dash/gui/qt/privatesend_dialog.py:847
 #: electrum_dash/gui/qt/privatesend_dialog.py:911
 #: electrum_dash/gui/qt/password_dialog.py:63
 msgid "Change Password"
-msgstr "Mudar senha"
+msgstr ""
 
 #: electrum_dash/dash_tx.py:572
 msgid "Change of Keys"
@@ -946,7 +941,7 @@ msgstr ""
 #: electrum_dash/plugins/trezor/qt.py:671
 #: electrum_dash/plugins/safe_t/qt.py:403
 msgid "Change..."
-msgstr "Trocar..."
+msgstr ""
 
 #: electrum_dash/dash_ps_util.py:984
 msgid "Check Log For Errors"
@@ -956,7 +951,7 @@ msgstr ""
 #: electrum_dash/plugins/safe_t/clientbase.py:30
 #: electrum_dash/plugins/keepkey/clientbase.py:28
 msgid "Check your {} device to continue"
-msgstr ""
+msgstr "A folytatáshoz ellenőrizze {} eszközét"
 
 #: electrum_dash/gui/qt/update_checker.py:93
 msgid "Checking for updates..."
@@ -964,20 +959,20 @@ msgstr ""
 
 #: electrum_dash/i18n.py:85
 msgid "Chinese Simplified"
-msgstr "Chinês (Simplificado)"
+msgstr ""
 
 #: electrum_dash/i18n.py:86
 msgid "Chinese Traditional"
-msgstr "Chinês (Tradicional)"
+msgstr ""
 
 #: electrum_dash/plugins/trezor/qt.py:549
 #: electrum_dash/plugins/safe_t/qt.py:281
 msgid "Choose Homescreen"
-msgstr "Escolha a Tela Inicial"
+msgstr "Vissza a kezdőképernyőre"
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:330
 msgid "Choose a backup file:"
-msgstr "Escolha o arquivo de backup:"
+msgstr "Válasszon biztonsági másolatot:"
 
 #: electrum_dash/gui/kivy/uix/dialogs/installwizard.py:1322
 msgid "Choose a password"
@@ -985,11 +980,11 @@ msgstr ""
 
 #: electrum_dash/gui/qt/installwizard.py:42
 msgid "Choose a password to encrypt your wallet keys."
-msgstr "Escolha uma palavra-passe para encriptar as chaves da sua carteira."
+msgstr ""
 
 #: electrum_dash/gui/kivy/main_window.py:170
 msgid "Choose a server"
-msgstr "Escolha um servidor"
+msgstr "Válassz egy szervert"
 
 #: electrum_dash/gui/qt/bip39_recovery_dialog.py:60
 msgid "Choose an account to restore."
@@ -1000,17 +995,17 @@ msgid ""
 "Choose coin (UTXO) selection method.  The following are available:\n"
 "\n"
 msgstr ""
-"Escolha o método de seleção de moeda (UTXO). Estão disponíveis os "
-"seguintes:\n"
+"Válassza ki az érme (UTXO) választási módot. Az alábbiak állnak "
+"rendelkezésre:\n"
 "\n"
 
 #: electrum_dash/gui/kivy/uix/ui_screens/server.kv:30
 msgid "Choose from peers"
-msgstr "Escolher a partir da galeria"
+msgstr ""
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:245
 msgid "Choose how to initialize your Digital Bitbox:"
-msgstr "Escolha como inicializar o seu Digital Bitbox:"
+msgstr "Válassza ki a Digital Bitbox inicializálásának módját:"
 
 #: electrum_dash/plugins/trezor/trezor.py:214
 msgid "Choose how you want to initialize your {}."
@@ -1028,6 +1023,14 @@ msgid ""
 "to your {}, and so you should only do those on a computer you know to be "
 "trustworthy and free of malware."
 msgstr ""
+"Válassza ki, hogyan szeretné inicializálni {}.\n"
+"\n"
+"Az első két módszer biztonságos, mivel nem tartalmaz semmilyen titkos "
+"információt a számítógépen.\n"
+"\n"
+"Az utolsó két módszerrel titkokat vihet be a billentyűzetre, és feltöltheti "
+"őket a {} számára, így csak olyan számítógépen kell azokat megtennie, "
+"amelyről tudjátok, hogy megbízható és rosszindulatú programot tartalmaz."
 
 #: electrum_dash/plugins/trezor/clientbase.py:35
 #: electrum_dash/plugins/safe_t/clientbase.py:29
@@ -1037,8 +1040,8 @@ msgstr ""
 #: electrum_dash/gui/qt/installwizard.py:888
 msgid "Choose the number of signatures needed to unlock funds in your wallet:"
 msgstr ""
-"Escolha o número de assinaturas necessárias para desbloquear fundos na sua "
-"carteira:"
+"Válassza ki a pénztárában lévő források feloldásához szükséges aláírások "
+"számát:"
 
 #: electrum_dash/base_wizard.py:413
 msgid "Choose the type of addresses in your wallet."
@@ -1049,16 +1052,16 @@ msgid ""
 "Choose which online block explorer to use for functions that open a web "
 "browser"
 msgstr ""
-"Selecione qual o explorador de blocos online a usar para funções que abrem "
-"um navegador web"
+"Válassza ki azt az online blokk-felfedezőt, amelyet használni szeretne a "
+"webböngészőt megnyitó funkciókhoz"
 
 #: electrum_dash/gui/kivy/main_window.py:195
 msgid "Choose your chain"
-msgstr "Selecione a sua cadeia"
+msgstr ""
 
 #: electrum_dash/gui/qt/installwizard.py:221
 msgid "Choose..."
-msgstr "Selecionar..."
+msgstr ""
 
 #: electrum_dash/dash_ps_util.py:982
 msgid "Cleaning PS Data ..."
@@ -1068,7 +1071,7 @@ msgstr ""
 #: electrum_dash/gui/qt/main_window.py:1274
 #: electrum_dash/gui/qt/main_window.py:1559
 msgid "Clear"
-msgstr "Limpar"
+msgstr "Törlés"
 
 #: electrum_dash/gui/qt/privatesend_dialog.py:812
 msgid "Clear Log"
@@ -1090,6 +1093,9 @@ msgid ""
 "has timed out, your PIN and passphrase (if enabled) must be re-entered to "
 "use the device."
 msgstr ""
+"Törölje a munkamenetet a megadott inaktivitási idő után. Miután egy "
+"munkamenet időzített, PIN-kódját és jelszavát (ha engedélyezve van) újra be "
+"kell írni az eszköz használatához."
 
 #: electrum_dash/gui/qt/protx_qt.py:949
 msgid "Clearing of ProTxHash allow reuse of masternode."
@@ -1105,7 +1111,7 @@ msgstr ""
 
 #: electrum_dash/gui/kivy/uix/screens.py:444
 msgid "Clipboard is empty"
-msgstr ""
+msgstr "A vágólap üres"
 
 #: electrum_dash/gui/kivy/uix/ui_screens/about.kv:54
 #: electrum_dash/gui/kivy/uix/dialogs/qr_dialog.py:83
@@ -1119,7 +1125,7 @@ msgstr ""
 #: electrum_dash/gui/qt/privatesend_dialog.py:249
 #: electrum_dash/gui/qt/privatesend_dialog.py:280
 msgid "Close"
-msgstr "Fechar"
+msgstr "Bezárás"
 
 #: electrum_dash/gui/qt/dash_qt.py:72
 msgid "Close wallet"
@@ -1127,7 +1133,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:287
 msgid "Co&ins"
-msgstr "Mo&edas"
+msgstr ""
 
 #: electrum_dash/gui/qt/utxo_list.py:478
 msgid "Coin control active"
@@ -1144,7 +1150,7 @@ msgstr ""
 #: electrum_dash/gui/kivy/uix/dialogs/settings.py:169
 #: electrum_dash/gui/qt/settings_dialog.py:259
 msgid "Coin selection"
-msgstr "Seleção de moeda"
+msgstr ""
 
 #: electrum_dash/gui/qt/transaction_dialog.py:579
 msgid "Coin selection active ({} UTXOs selected)"
@@ -1201,37 +1207,37 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:290
 msgid "Con&sole"
-msgstr "Con&sola"
+msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:288
 msgid "Con&tacts"
-msgstr "Con&tactos"
+msgstr ""
 
 #: electrum_dash/plugins/trezor/qt.py:589
 #: electrum_dash/plugins/safe_t/qt.py:321
 #: electrum_dash/plugins/keepkey/qt.py:411
 msgid "Confirm Device Wipe"
-msgstr "Confirme a limpeza do dispositivo"
+msgstr "Erősítse meg az Eszköze Törlését"
 
 #: electrum_dash/gui/qt/password_dialog.py:90
 #: electrum_dash/plugins/trezor/qt.py:194
 msgid "Confirm Passphrase:"
-msgstr "Confirme Frase-passe:"
+msgstr "A jelszó megerősítése:"
 
 #: electrum_dash/gui/qt/password_dialog.py:105
 msgid "Confirm Password:"
-msgstr "Confirme Palavra-passe:"
+msgstr ""
 
 #: electrum_dash/gui/kivy/uix/dialogs/installwizard.py:1248
 #: electrum_dash/gui/qt/installwizard.py:518
 #: electrum_dash/gui/qt/privatesend_dialog.py:1135
 msgid "Confirm Seed"
-msgstr "Confirme Semente"
+msgstr ""
 
 #: electrum_dash/gui/qt/privatesend_dialog.py:1180
 #: electrum_dash/base_wizard.py:796
 msgid "Confirm Seed Extension"
-msgstr "Confirme a extensão da semente"
+msgstr ""
 
 #: electrum_dash/plugins/trezor/qt.py:527
 #: electrum_dash/plugins/safe_t/qt.py:259
@@ -1245,7 +1251,7 @@ msgstr ""
 
 #: electrum_dash/plugins/ledger/ledger.py:531
 msgid "Confirm Transaction on your Ledger device..."
-msgstr ""
+msgstr "A Tranzakció megerősítése az Ön Ledger eszközén..."
 
 #: electrum_dash/gui/kivy/main_window.py:1455
 msgid "Confirm action"
@@ -1254,11 +1260,11 @@ msgstr ""
 #: electrum_dash/plugins/safe_t/clientbase.py:22
 #: electrum_dash/plugins/keepkey/clientbase.py:21
 msgid "Confirm internal entropy on your {} device to begin"
-msgstr ""
+msgstr "Indítsa el a belső entrópia megerősítését az {} eszközén"
 
 #: electrum_dash/gui/kivy/uix/dialogs/password_dialog.py:300
 msgid "Confirm new PIN"
-msgstr "Confirme novo PIN"
+msgstr ""
 
 #: electrum_dash/gui/kivy/uix/dialogs/password_dialog.py:269
 msgid "Confirm new password"
@@ -1268,43 +1274,43 @@ msgstr ""
 #: electrum_dash/plugins/safe_t/clientbase.py:25
 #: electrum_dash/plugins/keepkey/clientbase.py:24
 msgid "Confirm on your {} device the message to sign"
-msgstr ""
+msgstr "Erősítse meg az {} eszközén az aláírandó üzenetet"
 
 #: electrum_dash/plugins/trezor/clientbase.py:175
 #: electrum_dash/plugins/safe_t/clientbase.py:205
 #: electrum_dash/plugins/keepkey/clientbase.py:203
 msgid "Confirm on your {} device to change your PIN"
-msgstr ""
+msgstr "Erősítse meg az {} eszközén a PIN kód módosítását"
 
 #: electrum_dash/plugins/trezor/clientbase.py:167
 #: electrum_dash/plugins/safe_t/clientbase.py:197
 #: electrum_dash/plugins/keepkey/clientbase.py:195
 msgid "Confirm on your {} device to change your home screen"
-msgstr ""
+msgstr "Erősítse meg az {} eszközén a kezdőképernyő módosítását"
 
 #: electrum_dash/plugins/trezor/clientbase.py:173
 #: electrum_dash/plugins/safe_t/clientbase.py:203
 #: electrum_dash/plugins/keepkey/clientbase.py:201
 msgid "Confirm on your {} device to disable PIN protection"
-msgstr ""
+msgstr "Erősítse meg az {} eszközén, hogy letiltja a PIN védelmet"
 
 #: electrum_dash/plugins/trezor/clientbase.py:153
 #: electrum_dash/plugins/safe_t/clientbase.py:184
 #: electrum_dash/plugins/keepkey/clientbase.py:182
 msgid "Confirm on your {} device to disable passphrases"
-msgstr ""
+msgstr "Erősítse meg az {} eszközén, hogy letiltja a jelszavakat"
 
 #: electrum_dash/plugins/trezor/clientbase.py:155
 #: electrum_dash/plugins/safe_t/clientbase.py:186
 #: electrum_dash/plugins/keepkey/clientbase.py:184
 msgid "Confirm on your {} device to enable passphrases"
-msgstr ""
+msgstr "Erősítse meg az {} eszközén a jelszavak engedélyezéséhez"
 
 #: electrum_dash/plugins/trezor/clientbase.py:177
 #: electrum_dash/plugins/safe_t/clientbase.py:207
 #: electrum_dash/plugins/keepkey/clientbase.py:205
 msgid "Confirm on your {} device to set a PIN"
-msgstr ""
+msgstr "Erősítse meg az {} eszközén a PIN kód beállítását"
 
 #: electrum_dash/plugins/trezor/clientbase.py:27
 #: electrum_dash/plugins/safe_t/clientbase.py:24
@@ -1316,7 +1322,7 @@ msgstr ""
 #: electrum_dash/plugins/safe_t/clientbase.py:192
 #: electrum_dash/plugins/keepkey/clientbase.py:190
 msgid "Confirm the new label on your {} device"
-msgstr ""
+msgstr "Erősítse meg az új címkét az {} eszközön"
 
 #: electrum_dash/plugins/trezor/clientbase.py:31
 #: electrum_dash/plugins/safe_t/clientbase.py:26
@@ -1324,18 +1330,19 @@ msgstr ""
 msgid ""
 "Confirm the total amount spent and the transaction fee on your {} device"
 msgstr ""
+"Erősítse meg a teljes eszközösszeget és a tranzakciós díjat a {} eszközön"
 
 #: electrum_dash/plugins/trezor/clientbase.py:21
 #: electrum_dash/plugins/safe_t/clientbase.py:21
 #: electrum_dash/plugins/keepkey/clientbase.py:20
 msgid "Confirm the transaction output on your {} device"
-msgstr ""
+msgstr "Erősítse meg a tranzakciós kimenetet az {} eszközön"
 
 #: electrum_dash/plugins/trezor/clientbase.py:33
 #: electrum_dash/plugins/safe_t/clientbase.py:28
 #: electrum_dash/plugins/keepkey/clientbase.py:27
 msgid "Confirm wallet address on your {} device"
-msgstr ""
+msgstr "A mobiltárca címének megerősítése {} eszközén"
 
 #: electrum_dash/gui/qt/installwizard.py:621
 msgid "Confirm wallet password"
@@ -1343,7 +1350,7 @@ msgstr ""
 
 #: electrum_dash/plugins/ledger/ledger.py:571
 msgid "Confirmed. Signing Transaction..."
-msgstr ""
+msgstr "Megerősített. Aláíró tranzakció..."
 
 #: electrum_dash/gui/qt/protx_wizards.py:108
 msgid "Connect to registered DIP3 Masternode"
@@ -1359,7 +1366,7 @@ msgstr ""
 
 #: electrum_dash/gui/kivy/uix/ui_screens/network.kv:65
 msgid "Connected nodes are on the same chain"
-msgstr ""
+msgstr "A csatlakoztatott csomópontok ugyanazon a láncon vannak"
 
 #: electrum_dash/gui/qt/network_dialog.py:367
 #, python-brace-format
@@ -1369,11 +1376,11 @@ msgstr ""
 #: electrum_dash/gui/qt/network_dialog.py:367
 #, python-brace-format
 msgid "Connected to {0} nodes."
-msgstr ""
+msgstr "Csatlakoztatva {0} csomópontokhoz."
 
 #: electrum_dash/gui/kivy/uix/ui_screens/network.kv:16
 msgid "Connections with Dash Electrum servers"
-msgstr ""
+msgstr "Kapcsolat az Dash Electrum szerverekkel"
 
 #: electrum_dash/network.py:203 electrum_dash/network.py:211
 #: electrum_dash/network.py:219
@@ -1383,7 +1390,7 @@ msgstr ""
 
 #: electrum_dash/gui/text.py:105 electrum_dash/gui/qt/main_window.py:876
 msgid "Contacts"
-msgstr "Contactos"
+msgstr "Partnerek"
 
 #: electrum_dash/gui/qt/installwizard.py:605
 msgid "Continue multisig wallet setup"
@@ -1401,7 +1408,7 @@ msgstr ""
 #: electrum_dash/gui/qt/address_list.py:495 electrum_dash/gui/qt/util.py:186
 #: electrum_dash/gui/qt/util.py:733 electrum_dash/gui/qt/utxo_list.py:485
 msgid "Copy"
-msgstr "Copiar"
+msgstr ""
 
 #: electrum_dash/gui/qt/invoice_list.py:169
 #: electrum_dash/gui/qt/request_list.py:202
@@ -1422,13 +1429,15 @@ msgstr ""
 
 #: electrum_dash/gui/qt/util.py:191
 msgid "Copy and Close"
-msgstr "Copiar e Fechar"
+msgstr ""
 
 #: electrum_dash/gui/kivy/uix/ui_screens/send.kv:97
 msgid ""
 "Copy and paste the recipient address using the Paste button, or use the "
 "camera to scan a QR code."
 msgstr ""
+"Másolja be és illessze be a címzett címét a Beillesztés gomb segítségével, "
+"vagy használja a fényképezőgépet egy QR-kód beolvasásához."
 
 #: electrum_dash/gui/qt/privatesend_dialog.py:73
 msgid "Copy filtered"
@@ -1437,15 +1446,15 @@ msgstr ""
 #: electrum_dash/gui/qt/transaction_dialog.py:289
 #: electrum_dash/gui/qt/util.py:816
 msgid "Copy to clipboard"
-msgstr "Copiar para a área de transferência"
+msgstr "Másolás vágólapra"
 
 #: electrum_dash/gui/qt/contact_list.py:84
 msgid "Copy {}"
-msgstr ""
+msgstr "Másol {}"
 
 #: electrum_dash/base_wizard.py:225
 msgid "Cosign with hardware device"
-msgstr ""
+msgstr "Aláírás a hardveres eszközzel"
 
 #: electrum_dash/plugins/cosigner_pool/__init__.py:2
 msgid "Cosigner Pool"
@@ -1459,12 +1468,12 @@ msgstr ""
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:497
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:510
 msgid "Could not sign message"
-msgstr ""
+msgstr "Nem sikerült aláírni az üzenetet"
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:474
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:487
 msgid "Could not sign message."
-msgstr ""
+msgstr "Nem sikerült aláírni az üzenetet."
 
 #: electrum_dash/dash_ps_util.py:806
 msgid "Count of PrivateSend mixing session"
@@ -1484,7 +1493,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/exception_window.py:110
 msgid "Crash report"
-msgstr ""
+msgstr "Hibajelentés"
 
 #: electrum_dash/gui/kivy/uix/dialogs/coins_dialog.py:288
 #: electrum_dash/gui/qt/utxo_list.py:543
@@ -1507,7 +1516,7 @@ msgstr ""
 #: electrum_dash/gui/qt/privatesend_dialog.py:1036
 #: electrum_dash/base_wizard.py:212
 msgid "Create a new seed"
-msgstr ""
+msgstr "Új seed létrehozása"
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:225
 msgid "Create a wallet using the current seed"
@@ -1545,15 +1554,15 @@ msgstr ""
 
 #: electrum_dash/gui/qt/util.py:244
 msgid "Critical Error"
-msgstr "Erro Crítico"
+msgstr "Hiba"
 
 #: electrum_dash/gui/qt/password_dialog.py:107
 msgid "Current Password:"
-msgstr "Palavra-passe Atual:"
+msgstr "Jelenlegi jelszó:"
 
 #: electrum_dash/gui/qt/fee_slider.py:58
 msgid "Current rate"
-msgstr "Taxa atual"
+msgstr "Aktuális árfolyam"
 
 #: electrum_dash/gui/qt/update_checker.py:50
 msgid "Current version: {}"
@@ -1570,7 +1579,7 @@ msgstr ""
 #: electrum_dash/gui/qt/history_list.py:740
 #: electrum_dash/gui/qt/history_list.py:767
 msgid "Custom"
-msgstr "Personalizar"
+msgstr "Egyéni"
 
 #: electrum_dash/gui/qt/settings_dialog.py:292
 msgid "Custom URL"
@@ -1578,11 +1587,11 @@ msgstr ""
 
 #: electrum_dash/plugins/revealer/qt.py:388
 msgid "Custom secret"
-msgstr ""
+msgstr "Egyedi titok"
 
 #: electrum_dash/i18n.py:53
 msgid "Czech"
-msgstr "Tcheco"
+msgstr "cseh"
 
 #: electrum_dash/gui/qt/protx_qt.py:599 electrum_dash/gui/qt/protx_qt.py:621
 msgid "DIP3 Masternodes is currently disabled."
@@ -1590,15 +1599,15 @@ msgstr ""
 
 #: electrum_dash/i18n.py:54
 msgid "Danish"
-msgstr ""
+msgstr "dán"
 
 #: electrum_dash/gui/qt/settings_dialog.py:160
 msgid "Dark"
-msgstr ""
+msgstr "Sötét"
 
 #: electrum_dash/gui/qt/__init__.py:180
 msgid "Dark/Light"
-msgstr "Escuro/Claro"
+msgstr "Sötét/Világos"
 
 #: electrum_dash/gui/kivy/uix/ui_screens/receive.kv:94
 msgid "Dash Address"
@@ -1614,7 +1623,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:3502
 msgid "Dash Electrum Plugins"
-msgstr "Plugins do Dash Electrum"
+msgstr "Dash Electrum Pluginek"
 
 #: electrum_dash/plugin.py:578
 msgid ""
@@ -1639,12 +1648,10 @@ msgid ""
 "Dash Electrum connects to several nodes in order to download block headers "
 "and find out the longest blockchain."
 msgstr ""
-"O Dash Electrum liga-se a vários nós de forma a descarregar os cabeçalhos de "
-"blocos e descobrir qual é a blockchain mais longa."
 
 #: electrum_dash/gui/qt/main_window.py:918
 msgid "Dash Electrum preferences"
-msgstr "Preferências do Dash Electrum"
+msgstr "Dash Electrum beállítások"
 
 #: electrum_dash/gui/kivy/uix/ui_screens/server.kv:9
 msgid ""
@@ -1658,19 +1665,16 @@ msgid ""
 "Dash Electrum sends your wallet addresses to a single server, in order to "
 "receive your transaction history."
 msgstr ""
-"O Dash Electrum envia os endereços da sua carteira para um único servidor, "
-"de forma a receber o seu histórico de transação."
 
 #: electrum_dash/gui/qt/installwizard.py:247
 msgid "Dash Electrum wallet"
-msgstr "Carteira Dash Electrum"
+msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:797
 msgid ""
 "Dash Electrum was unable to copy your wallet file to the specified location."
 msgstr ""
-"O Dash Electrum não conseguiu copiar os seu ficheiro de carteira para a "
-"localização especificada."
+"Az Dash Electrum nem tudja másolni a tárcafájlodat a választott helyre."
 
 #: electrum_dash/gui/qt/transaction_dialog.py:92
 #: electrum_dash/plugins/cosigner_pool/qt.py:254
@@ -1679,20 +1683,19 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:3110
 msgid "Dash Electrum was unable to open your transaction file"
-msgstr "O Dash Electrum não conseguiu abrir o seu ficheiro de transações"
+msgstr "Az Dash Electrum nem tudja megnyitni a tranzakciós fájlt"
 
 #: electrum_dash/gui/qt/main_window.py:3072
 msgid "Dash Electrum was unable to parse your transaction"
-msgstr "O Dash Electrum não conseguiu analisar a sua transação"
+msgstr "Az Dash Electrum nem tudja feldolgozni a tranzakciódat"
 
 #: electrum_dash/gui/qt/main_window.py:3246
 msgid "Dash Electrum was unable to produce a private key-export."
-msgstr ""
-"O Dash Electrum não conseguiu produzir uma exportação da chave privada."
+msgstr "Az Dash Electrum nem tudja exportálni a privát kulcsot."
 
 #: electrum_dash/gui/qt/history_list.py:1102
 msgid "Dash Electrum was unable to produce a transaction export."
-msgstr "O Dash Electrum não conseguiu produzir uma exportação da transação."
+msgstr "Az Dash Electrum nem tudja exportálni a tranzakciót."
 
 #: electrum_dash/gui/qt/main_window.py:3596
 msgid "Dash Electrum will now exit."
@@ -1739,11 +1742,11 @@ msgstr ""
 #: electrum_dash/gui/qt/history_list.py:840
 #: electrum_dash/gui/qt/request_list.py:59 electrum_dash/gui/qt/utxo_list.py:91
 msgid "Date"
-msgstr "Data"
+msgstr "Dátum"
 
 #: electrum_dash/gui/qt/transaction_dialog.py:466
 msgid "Date: {}"
-msgstr ""
+msgstr "Dátum: {}"
 
 #: electrum_dash/gui/qt/settings_dialog.py:209
 msgid ""
@@ -1752,11 +1755,11 @@ msgstr ""
 
 #: electrum_dash/base_wizard.py:346
 msgid "Debug message"
-msgstr ""
+msgstr "Debug üzenet"
 
 #: electrum_dash/gui/qt/main_window.py:3050
 msgid "Decrypt"
-msgstr "Desencriptar"
+msgstr "Dekódol"
 
 #: electrum_dash/gui/kivy/main_window.py:1610
 msgid "Decrypt your private key?"
@@ -1765,7 +1768,7 @@ msgstr ""
 #: electrum_dash/gui/kivy/uix/dialogs/dash_net.py:723
 #: electrum_dash/gui/qt/dash_net_dialog.py:147 electrum_dash/i18n.py:50
 msgid "Default"
-msgstr "Padrão"
+msgstr "Alapértelmezett"
 
 #: electrum_dash/gui/kivy/uix/ui_screens/status.kv:62
 #: electrum_dash/gui/qt/invoice_list.py:176
@@ -1773,11 +1776,11 @@ msgstr "Padrão"
 #: electrum_dash/gui/qt/contact_list.py:92
 #: electrum_dash/gui/qt/request_list.py:205
 msgid "Delete"
-msgstr "Apagar"
+msgstr "Törlés"
 
 #: electrum_dash/gui/kivy/uix/dialogs/invoice_dialog.py:141
 msgid "Delete invoice?"
-msgstr "Apagar fatura?"
+msgstr "Számla törlése?"
 
 #: electrum_dash/gui/qt/invoice_list.py:156
 msgid "Delete invoices"
@@ -1793,11 +1796,11 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:2820
 msgid "Delete wallet file?"
-msgstr "Apagar a carteira?"
+msgstr "Törli a mobiltárca fájlt?"
 
 #: electrum_dash/gui/kivy/main_window.py:1460
 msgid "Delete wallet?"
-msgstr "Apagar carteira?"
+msgstr "Törli a tárcát?"
 
 #: electrum_dash/dash_ps.py:581 electrum_dash/dash_ps.py:586
 msgid "Denominate workflow: {}"
@@ -1809,7 +1812,7 @@ msgstr ""
 
 #: electrum_dash/gui/kivy/uix/dialogs/settings.py:155
 msgid "Denomination"
-msgstr "Denominação"
+msgstr "Elnevezés"
 
 #: electrum_dash/gui/qt/privatesend_dialog.py:741
 msgid "Denoms"
@@ -1845,18 +1848,18 @@ msgstr ""
 #: electrum_dash/gui/qt/history_list.py:684
 #: electrum_dash/gui/qt/request_list.py:60
 msgid "Description"
-msgstr "Descrição"
+msgstr "Megjegyzés"
 
 #: electrum_dash/gui/qt/main_window.py:1511
 msgid "Description of the transaction (not mandatory)."
-msgstr "Descrição da transação (não obrigatório)."
+msgstr "Megjegyzés a tranzakcióhoz (opcionális)."
 
 #: electrum_dash/gui/qt/protx_qt.py:682 electrum_dash/gui/qt/protx_qt.py:818
 #: electrum_dash/gui/qt/invoice_list.py:170
 #: electrum_dash/gui/qt/address_list.py:541
 #: electrum_dash/gui/qt/utxo_list.py:551
 msgid "Details"
-msgstr "Detalhes"
+msgstr "Részletek"
 
 #: electrum_dash/gui/qt/installwizard.py:745
 msgid "Detect Existing Accounts"
@@ -1872,13 +1875,13 @@ msgstr ""
 
 #: electrum_dash/gui/kivy/uix/ui_screens/about.kv:35
 msgid "Developers"
-msgstr "Desenvolvedores"
+msgstr ""
 
 #: electrum_dash/plugins/trezor/qt.py:623
 #: electrum_dash/plugins/safe_t/qt.py:355
 #: electrum_dash/plugins/keepkey/qt.py:447
 msgid "Device ID"
-msgstr "ID do dispositivo"
+msgstr "Eszköz azonosító"
 
 #: electrum_dash/plugins/trezor/qt.py:619
 #: electrum_dash/plugins/trezor/qt.py:643
@@ -1887,12 +1890,14 @@ msgstr "ID do dispositivo"
 #: electrum_dash/plugins/keepkey/qt.py:443
 #: electrum_dash/plugins/keepkey/qt.py:468
 msgid "Device Label"
-msgstr "Etiqueta do dispositivo"
+msgstr "Eszköz címke"
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:128
 msgid ""
 "Device communication error. Please unplug and replug your Digital Bitbox."
 msgstr ""
+"Eszközkommunikációs hiba. Kérjük, húzza ki és dugja be újra a Digital Bitbox-"
+"ot."
 
 #: electrum_dash/plugins/ledger/ledger.py:313
 msgid "Device not in Dash mode"
@@ -1900,7 +1905,7 @@ msgstr ""
 
 #: electrum_dash/plugins/digitalbitbox/__init__.py:5
 msgid "Digital Bitbox wallet"
-msgstr ""
+msgstr "Digital Bitbox pénztárca"
 
 #: electrum_dash/plugins/revealer/qt.py:192
 msgid "Digital Revealer ({}_{}) saved as PNG and PDF at:"
@@ -1910,7 +1915,7 @@ msgstr ""
 #: electrum_dash/plugins/safe_t/qt.py:456
 #: electrum_dash/plugins/keepkey/qt.py:526
 msgid "Disable PIN"
-msgstr ""
+msgstr "PIN kód kikapcsolása"
 
 #: electrum_dash/plugins/trezor/qt.py:497
 #: electrum_dash/plugins/safe_t/qt.py:229
@@ -1922,7 +1927,7 @@ msgstr ""
 #: electrum_dash/plugins/safe_t/qt.py:230
 #: electrum_dash/plugins/keepkey/qt.py:352
 msgid "Disabled"
-msgstr ""
+msgstr "Kikapcsolt"
 
 #: electrum_dash/gui/qt/dash_net_dialog.py:55
 msgid "Disconnect"
@@ -1930,7 +1935,7 @@ msgstr ""
 
 #: electrum_dash/gui/kivy/main_window.py:1090
 msgid "Disconnected"
-msgstr "Desligado"
+msgstr "Lecsatlakoztatva"
 
 #: electrum_dash/gui/kivy/main_window.py:1485
 msgid "Display your seed?"
@@ -1948,13 +1953,15 @@ msgstr ""
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:287
 msgid "Do not pair"
-msgstr ""
+msgstr "Ne párosítson"
 
 #: electrum_dash/gui/qt/console.py:108
 msgid ""
 "Do not paste code here that you don't understand. Executing the wrong code "
 "could lead to your coins being irreversibly lost."
 msgstr ""
+"Ne másolj ide kódot ha nem érted, mert ez akár pénzed visszavonhatatlan "
+"elvesztéséhez is vezethet."
 
 #: electrum_dash/gui/qt/privatesend_dialog.py:389
 msgid "Do not show this on PrivateSend dialog open."
@@ -1963,7 +1970,7 @@ msgstr ""
 #: electrum_dash/gui/kivy/uix/dialogs/installwizard.py:908
 #: electrum_dash/gui/qt/seed_dialog.py:60
 msgid "Do not store it electronically."
-msgstr "Não a guarde eletronicamente."
+msgstr "Ne tárolja elektronikusan."
 
 #: electrum_dash/gui/kivy/uix/ui_screens/network.kv:39
 msgid "Do not use Tor proxy for Fiat rates network calls"
@@ -1971,7 +1978,7 @@ msgstr ""
 
 #: electrum_dash/plugins/revealer/__init__.py:5
 msgid "Do you have something to hide ?"
-msgstr ""
+msgstr "Van rejtegetnivalód?"
 
 #: electrum_dash/protx_list.py:95
 msgid ""
@@ -1990,6 +1997,8 @@ msgid ""
 "Do you want to create a new seed, or to restore a wallet using an existing "
 "seed?"
 msgstr ""
+"Új seed-et akarsz létrehozni, vagy egy létező pénztárcát helyreállítani "
+"meglévő seed-del?"
 
 #: electrum_dash/dash_ps_util.py:709
 msgid ""
@@ -2008,15 +2017,15 @@ msgstr ""
 
 #: electrum_dash/gui/qt/installwizard.py:397
 msgid "Do you want to delete '{}'?"
-msgstr ""
+msgstr "Szeretnéd törölni ezt: '{}'?"
 
 #: electrum_dash/gui/qt/installwizard.py:382
 msgid "Do you want to delete the old file"
-msgstr "Deseja apagar o ficheiro antigo"
+msgstr "Törölni akarod a régi fájlt"
 
 #: electrum_dash/plugins/cosigner_pool/qt.py:236
 msgid "Do you want to open it now?"
-msgstr ""
+msgstr "Meg akarod most nyitni?"
 
 #: electrum_dash/gui/qt/protx_qt.py:933
 #, python-format
@@ -2029,7 +2038,7 @@ msgstr ""
 
 #: electrum_dash/base_crash_reporter.py:57
 msgid "Do you want to send this report?"
-msgstr ""
+msgstr "El akarod küldeni ezt a jelentést?"
 
 #: electrum_dash/dash_ps.py:84
 msgid "Do you want to use other coins now?"
@@ -2037,7 +2046,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:1731
 msgid "Do you wish to continue?"
-msgstr "Deseja continuar?"
+msgstr "Folytatni szeretné?"
 
 #: electrum_dash/gui/qt/main_window.py:723
 #: electrum_dash/gui/qt/main_window.py:745
@@ -2062,11 +2071,11 @@ msgstr ""
 
 #: electrum_dash/i18n.py:71
 msgid "Dutch"
-msgstr ""
+msgstr "holland"
 
 #: electrum_dash/util.py:124
 msgid "Dynamic fee estimates not available"
-msgstr ""
+msgstr "Dinamikus tranzakciós költségek nem elérhetőek"
 
 #: electrum_dash/dash_msg.py:136
 msgid "ERROR"
@@ -2074,7 +2083,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/fee_slider.py:15
 msgid "ETA"
-msgstr ""
+msgstr "Becsült idő"
 
 #: electrum_dash/gui/qt/fee_slider.py:20
 msgid "ETA: fee rate is based on average confirmation time estimates"
@@ -2084,7 +2093,7 @@ msgstr ""
 #: electrum_dash/gui/qt/history_list.py:1024
 #: electrum_dash/gui/qt/address_list.py:545
 msgid "Edit {}"
-msgstr ""
+msgstr "{} szerkesztése"
 
 #: electrum_dash/gui/qt/seed_dialog.py:73
 msgid "Electrum"
@@ -2108,11 +2117,11 @@ msgstr ""
 
 #: electrum_dash/plugins/email_requests/__init__.py:3
 msgid "Email"
-msgstr "Endereço de e-mail"
+msgstr ""
 
 #: electrum_dash/plugins/email_requests/qt.py:217
 msgid "Email settings"
-msgstr "Configurações de Email"
+msgstr ""
 
 #: electrum_dash/gui/qt/dash_net_dialog.py:296
 msgid "Enable Dash Network"
@@ -2122,13 +2131,13 @@ msgstr ""
 #: electrum_dash/plugins/safe_t/qt.py:124
 #: electrum_dash/plugins/keepkey/qt.py:250
 msgid "Enable PIN protection"
-msgstr "Ativar proteção com PIN"
+msgstr ""
 
 #: electrum_dash/plugins/trezor/qt.py:497
 #: electrum_dash/plugins/safe_t/qt.py:229
 #: electrum_dash/plugins/keepkey/qt.py:351
 msgid "Enable Passphrases"
-msgstr "Habilitar Passphrases"
+msgstr ""
 
 #: electrum_dash/dash_ps_util.py:978
 msgid "Enable PrivateSend"
@@ -2156,11 +2165,11 @@ msgstr ""
 #: electrum_dash/plugins/safe_t/qt.py:230
 #: electrum_dash/plugins/keepkey/qt.py:352
 msgid "Enabled"
-msgstr "Ativado"
+msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:3046
 msgid "Encrypt"
-msgstr "Encriptar"
+msgstr "Titkosítás"
 
 #: electrum_dash/gui/qt/privatesend_dialog.py:1255
 msgid "Encrypt PrivateSend Keystore"
@@ -2173,7 +2182,7 @@ msgstr ""
 #: electrum_dash/gui/qt/password_dialog.py:128
 #: electrum_dash/gui/qt/password_dialog.py:218
 msgid "Encrypt wallet file"
-msgstr "Encriptar o ficheiro da carteira"
+msgstr ""
 
 #: electrum_dash/plugins/revealer/qt.py:248
 msgid "Encrypt {}'s seed"
@@ -2181,26 +2190,26 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:3018
 msgid "Encrypt/decrypt Message"
-msgstr "Encriptar/desencriptar Mensagem"
+msgstr "Az üzenet titkosítása/visszafejtése"
 
 #: electrum_dash/gui/qt/address_list.py:557
 msgid "Encrypt/decrypt message"
-msgstr ""
+msgstr "Titkosítás/visszafejtés"
 
 #: electrum_dash/gui/qt/main_window.py:3041
 msgid "Encrypted"
-msgstr "Encriptada"
+msgstr "Titkosított"
 
 #: electrum_dash/plugins/ledger/ledger.py:371
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:455
 msgid "Encryption and decryption are currently not supported for {}"
-msgstr ""
+msgstr "A titkosítás és a visszafejtés jelenleg nem támogatott {}"
 
 #: electrum_dash/plugins/trezor/trezor.py:78
 #: electrum_dash/plugins/safe_t/safe_t.py:37
 #: electrum_dash/plugins/keepkey/keepkey.py:39
 msgid "Encryption and decryption are not implemented by {}"
-msgstr ""
+msgstr "A titkosítást és a visszafejtést nem a {}"
 
 #: electrum_dash/gui/qt/history_list.py:838
 msgid "End"
@@ -2218,14 +2227,14 @@ msgstr ""
 #: electrum_dash/plugins/ledger/auth2fa.py:91
 #: electrum_dash/plugins/ledger/auth2fa.py:128
 msgid "Enter PIN:"
-msgstr ""
+msgstr "Adja meg a PIN kódot:"
 
 #: electrum_dash/gui/qt/password_dialog.py:63
 #: electrum_dash/plugins/trezor/qt.py:170
 #: electrum_dash/plugins/trezor/qt.py:172
 #: electrum_dash/plugins/hw_wallet/qt.py:136
 msgid "Enter Passphrase"
-msgstr "Introduza a Frase-passe"
+msgstr ""
 
 #: electrum_dash/plugins/trezor/qt.py:173
 msgid "Enter Passphrase on Device"
@@ -2235,22 +2244,22 @@ msgstr ""
 #: electrum_dash/gui/qt/password_dialog.py:63
 #: electrum_dash/gui/qt/password_dialog.py:306
 msgid "Enter Password"
-msgstr "Digite a palavra-passe"
+msgstr "Jelszó megadása"
 
 #: electrum_dash/gui/kivy/uix/dialogs/installwizard.py:948
 #: electrum_dash/gui/qt/installwizard.py:511
 #: electrum_dash/gui/qt/privatesend_dialog.py:1208
 msgid "Enter Seed"
-msgstr "Digite a Semente"
+msgstr ""
 
 #: electrum_dash/gui/kivy/uix/dialogs/tx_dialog.py:254
 msgid "Enter Transaction Label"
-msgstr ""
+msgstr "Adja meg a Tranzakciós Címkét"
 
 #: electrum_dash/plugins/trezor/qt.py:274 electrum_dash/plugins/safe_t/qt.py:98
 #: electrum_dash/plugins/keepkey/qt.py:222
 msgid "Enter a label to name your device:"
-msgstr ""
+msgstr "Adjon meg egy címkét a készülék megnevezéséhez:"
 
 #: electrum_dash/base_wizard.py:233
 msgid ""
@@ -2260,17 +2269,17 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:2427
 msgid "Enter a list of outputs in the 'Pay to' field."
-msgstr "Introduza uma lista de saídas no campo 'Pagar a\"."
+msgstr "Adja meg a kimenetek listáját a \"Fizetés\" mezőbe."
 
 #: electrum_dash/plugins/trezor/clientbase.py:278
 #: electrum_dash/plugins/safe_t/clientbase.py:55
 #: electrum_dash/plugins/keepkey/clientbase.py:53
 msgid "Enter a new PIN for your {}:"
-msgstr ""
+msgstr "Adjon meg egy új PIN-kódot a számára {}:"
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:182
 msgid "Enter a new password below."
-msgstr ""
+msgstr "Új jelszó."
 
 #: electrum_dash/plugins/trezor/clientbase.py:295
 #: electrum_dash/plugins/safe_t/clientbase.py:75
@@ -2283,7 +2292,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:3400
 msgid "Enter addresses"
-msgstr "Introduza os endereços"
+msgstr "Adja meg a címeket"
 
 #: electrum_dash/base_wizard.py:221
 msgid "Enter cosigner key"
@@ -2295,11 +2304,11 @@ msgstr ""
 
 #: electrum_dash/gui/kivy/main_window.py:1382
 msgid "Enter description"
-msgstr "Introduza a descrição"
+msgstr "Leírás megadása"
 
 #: electrum_dash/gui/kivy/uix/dialogs/password_dialog.py:299
 msgid "Enter new PIN"
-msgstr "Introduza o novo PIN"
+msgstr ""
 
 #: electrum_dash/gui/kivy/uix/dialogs/password_dialog.py:268
 msgid "Enter new password"
@@ -2318,30 +2327,30 @@ msgstr ""
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:161
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:164
 msgid "Enter password:"
-msgstr ""
+msgstr "Új jelszó:"
 
 #: electrum_dash/gui/qt/main_window.py:3409
 msgid "Enter private keys"
-msgstr "Introduza as chaves privadas"
+msgstr "Privát kulcsok beírása"
 
 #: electrum_dash/gui/qt/main_window.py:3304
 msgid "Enter private keys:"
-msgstr "Introduza as chaves privadas:"
+msgstr "Privát kulcsok megadása:"
 
 #: electrum_dash/plugins/safe_t/qt.py:132
 #: electrum_dash/plugins/keepkey/qt.py:258
 msgid "Enter the master private key beginning with xprv:"
-msgstr ""
+msgstr "Adja meg az xprv vel kezdődő mester magánkulcsot:"
 
 #: electrum_dash/plugins/trezor/clientbase.py:300
 #: electrum_dash/plugins/safe_t/clientbase.py:80
 #: electrum_dash/plugins/keepkey/clientbase.py:75
 msgid "Enter the passphrase to unlock this wallet:"
-msgstr ""
+msgstr "Adja meg a jelszót a mobiltárca zárolásának feloldásához:"
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:139
 msgid "Enter the password used when the backup was created:"
-msgstr ""
+msgstr "Adja meg a biztonsági mentés létrehozásakor használt jelszót:"
 
 #: electrum_dash/plugins/trezor/qt.py:38
 msgid ""
@@ -2355,22 +2364,23 @@ msgid ""
 "Enter their master private key (xprv) if you want to be able to sign for "
 "them."
 msgstr ""
-"Insira a chave mestra privada (xprv) se quiser poder assinar para eles."
+"Adja meg a fő privát kulcsot (xprv), ha képesnek kell lennie arra, hogy "
+"aláírhassa őket."
 
 #: electrum_dash/gui/kivy/uix/dialogs/wallets.py:71
 msgid "Enter wallet name"
-msgstr "Introduza o nome da carteira"
+msgstr ""
 
 #: electrum_dash/plugins/safe_t/qt.py:130
 #: electrum_dash/plugins/keepkey/qt.py:256
 msgid "Enter your BIP39 mnemonic:"
-msgstr ""
+msgstr "Írja be a BIP39 mnemonikus adatait:"
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:192
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:202
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:207
 msgid "Enter your Digital Bitbox password:"
-msgstr ""
+msgstr "Írja be Digital Bitbox jelszavát:"
 
 #: electrum_dash/gui/kivy/uix/dialogs/password_dialog.py:298
 msgid "Enter your PIN"
@@ -2379,11 +2389,11 @@ msgstr ""
 #: electrum_dash/plugins/safe_t/qt.py:145
 #: electrum_dash/plugins/keepkey/qt.py:271
 msgid "Enter your PIN (digits 1-9):"
-msgstr ""
+msgstr "Adja meg PIN kódját (1-9 Számjegy):"
 
 #: electrum_dash/gui/kivy/main_window.py:1434
 msgid "Enter your PIN code to proceed"
-msgstr ""
+msgstr "Adja meg PIN kódját a folytatáshoz"
 
 #: electrum_dash/gui/kivy/main_window.py:1006
 msgid "Enter your PIN code to sign new collateral transactions"
@@ -2397,7 +2407,7 @@ msgstr ""
 #: electrum_dash/plugins/safe_t/clientbase.py:60
 #: electrum_dash/plugins/keepkey/clientbase.py:58
 msgid "Enter your current {} PIN:"
-msgstr ""
+msgstr "Adja meg jelenlegi {} PIN kódját:"
 
 #: electrum_dash/gui/kivy/uix/dialogs/password_dialog.py:267
 msgid "Enter your password"
@@ -2405,11 +2415,11 @@ msgstr ""
 
 #: electrum_dash/gui/qt/installwizard.py:286
 msgid "Enter your password or choose another file."
-msgstr "Introduza a sua palavra-passe ou escolha outro ficheiro."
+msgstr "Adja meg jelszavát vagy válasszon másik fájlt."
 
 #: electrum_dash/gui/qt/confirm_tx_dialog.py:191
 msgid "Enter your password to proceed"
-msgstr "Introduza a sua palavra-passe para continuar"
+msgstr "Adja meg a jelszavát a folytatáshoz"
 
 #: electrum_dash/dash_msg.py:183
 msgid "Entries are full."
@@ -2421,7 +2431,7 @@ msgstr ""
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:227
 msgid "Erase the Digital Bitbox"
-msgstr ""
+msgstr "Törölje a Digital Bitbox-ot"
 
 #: electrum_dash/gui/qt/__init__.py:316 electrum_dash/gui/qt/__init__.py:328
 #: electrum_dash/gui/qt/__init__.py:343
@@ -2433,11 +2443,11 @@ msgstr ""
 #: electrum_dash/gui/qt/installwizard.py:636 electrum_dash/gui/qt/util.py:240
 #: electrum_dash/slip39.py:350
 msgid "Error"
-msgstr "Erro"
+msgstr "Hiba"
 
 #: electrum_dash/gui/qt/main_window.py:1423
 msgid "Error adding payment request"
-msgstr ""
+msgstr "Hiba történt a fizetési kérelem hozzáadásakor"
 
 #: electrum_dash/gui/qt/transaction_dialog.py:415
 msgid "Error combining partial transactions"
@@ -2525,7 +2535,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/__init__.py:182
 msgid "Exit Dash Electrum"
-msgstr "Sair do Dash Electrum"
+msgstr ""
 
 #: electrum_dash/gui/qt/history_list.py:1013
 msgid "Expand Tx Group"
@@ -2537,15 +2547,15 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:1259
 msgid "Expiration date of your request."
-msgstr "Data de expiração do seu pedido."
+msgstr ""
 
 #: electrum_dash/invoices.py:48
 msgid "Expired"
-msgstr "Caducou"
+msgstr "Lejárt"
 
 #: electrum_dash/invoices.py:88 electrum_dash/gui/qt/main_window.py:2491
 msgid "Expires"
-msgstr "Caduca"
+msgstr "Lejárat"
 
 #: electrum_dash/gui/qt/main_window.py:1266
 msgid "Expires after"
@@ -2559,7 +2569,7 @@ msgstr ""
 #: electrum_dash/gui/qt/transaction_dialog.py:191
 #: electrum_dash/gui/qt/history_list.py:1090
 msgid "Export"
-msgstr "Exportar"
+msgstr "Exportálás"
 
 #: electrum_dash/gui/kivy/uix/ui_screens/status.kv:69
 msgid "Export Backup"
@@ -2567,7 +2577,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/history_list.py:1082
 msgid "Export History"
-msgstr "Exportar Histórico"
+msgstr "Előzmények exportálása"
 
 #: electrum_dash/gui/qt/privatesend_dialog.py:854
 msgid "Export Private Keys"
@@ -2579,7 +2589,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/contact_list.py:79
 msgid "Export file"
-msgstr "Exportar arquivo"
+msgstr ""
 
 #: electrum_dash/gui/qt/transaction_dialog.py:298
 msgid "Export to file"
@@ -2591,11 +2601,11 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:3176
 msgid "Exposing a single private key can compromise your entire wallet!"
-msgstr "Revelar uma só chave privada pode comprometer toda a sua carteira!"
+msgstr "A privát kulcsod publikálása az egész tárcád elvesztésével járhat!"
 
 #: electrum_dash/gui/qt/seed_dialog.py:82
 msgid "Extend this seed with custom words"
-msgstr "Alargar esta semente com palavras personalizadas"
+msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:1574
 msgid "Extra payload"
@@ -2611,11 +2621,11 @@ msgstr ""
 
 #: electrum_dash/plugins/hw_wallet/plugin.py:98
 msgid "Failed to create a client for this device."
-msgstr "Falha ao criar um usuário para este dispositivo."
+msgstr ""
 
 #: electrum_dash/gui/qt/installwizard.py:346
 msgid "Failed to decrypt using this hardware device."
-msgstr "Falha ao tentar decriptar usando esse dispositivo hardware."
+msgstr ""
 
 #: electrum_dash/gui/kivy/main_window.py:533
 #: electrum_dash/gui/qt/transaction_dialog.py:336
@@ -2625,11 +2635,11 @@ msgstr ""
 
 #: electrum_dash/util.py:159
 msgid "Failed to export to file."
-msgstr "Falha ao exportar para o arquivo."
+msgstr ""
 
 #: electrum_dash/util.py:151
 msgid "Failed to import from file."
-msgstr "Falha ao importar do arquivo."
+msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:1717
 msgid "Failed to parse 'Pay to' line"
@@ -2645,7 +2655,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:2690
 msgid "Failed to update password"
-msgstr "Erro ao atualizar a palavra-passe"
+msgstr "Jelszó frissítése sikertelen"
 
 #: electrum_dash/gui/qt/main_window.py:2734
 msgid "False"
@@ -2654,7 +2664,7 @@ msgstr ""
 #: electrum_dash/gui/text.py:263 electrum_dash/gui/qt/transaction_dialog.py:510
 #: electrum_dash/gui/qt/transaction_dialog.py:512
 msgid "Fee"
-msgstr "Comissão"
+msgstr "Tranzakciós díj"
 
 #: electrum_dash/gui/qt/confirm_tx_dialog.py:166
 msgid "Fee rate"
@@ -2667,7 +2677,7 @@ msgstr ""
 #: electrum_dash/gui/qt/address_list.py:153
 #: electrum_dash/gui/qt/settings_dialog.py:434
 msgid "Fiat"
-msgstr "Moeda Fiduciária"
+msgstr "Fiat"
 
 #: electrum_dash/gui/qt/history_list.py:852
 msgid "Fiat balance"
@@ -2675,7 +2685,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/settings_dialog.py:425
 msgid "Fiat currency"
-msgstr "Moeda Fiduciária"
+msgstr "Fiat pénznem"
 
 #: electrum_dash/gui/qt/history_list.py:867
 msgid "Fiat incoming"
@@ -2688,7 +2698,7 @@ msgstr ""
 #: electrum_dash/gui/qt/protx_qt.py:691 electrum_dash/gui/qt/protx_qt.py:780
 #: electrum_dash/gui/qt/protx_qt.py:822 electrum_dash/gui/qt/util.py:458
 msgid "File"
-msgstr "Ficheiro"
+msgstr "Fájl"
 
 #: electrum_dash/gui/qt/main_window.py:774
 msgid "File Backup"
@@ -2712,7 +2722,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:890
 msgid "Find"
-msgstr "Procurar"
+msgstr "Keresés"
 
 #: electrum_dash/gui/qt/privatesend_dialog.py:788
 msgid "Find untracked PS txs"
@@ -2726,7 +2736,7 @@ msgstr ""
 #: electrum_dash/plugins/safe_t/qt.py:354
 #: electrum_dash/plugins/keepkey/qt.py:446
 msgid "Firmware Version"
-msgstr "Versão do firmware"
+msgstr "Firmware-verzió"
 
 #: electrum_dash/plugins/trezor/qt.py:427
 msgid "Firmware version too old."
@@ -2734,15 +2744,15 @@ msgstr ""
 
 #: electrum_dash/plugins/ledger/ledger.py:53
 msgid "Firmware version too old. Please update at"
-msgstr "Versão de Firmware muito antiga. Por favor atualize"
+msgstr ""
 
 #: electrum_dash/gui/qt/fee_slider.py:60
 msgid "Fixed rate"
-msgstr "Taxa fixa"
+msgstr "Fix összeg"
 
 #: electrum_dash/gui/qt/network_dialog.py:125
 msgid "Follow this branch"
-msgstr "Seguir este ramo"
+msgstr ""
 
 #: electrum_dash/gui/qt/transaction_dialog.py:182
 msgid "For CoinJoin; strip privates"
@@ -2779,11 +2789,11 @@ msgstr ""
 
 #: electrum_dash/gui/qt/util.py:428
 msgid "Format"
-msgstr "Formato"
+msgstr "Formátum"
 
 #: electrum_dash/gui/qt/main_window.py:2429
 msgid "Format: address, amount"
-msgstr "Formato: endereço, quantia"
+msgstr ""
 
 #: electrum_dash/gui/qt/protx_qt.py:604
 #: electrum_dash/plugins/scan_over_gap/scan_over_gap.py:110
@@ -2792,7 +2802,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/address_list.py:571
 msgid "Freeze"
-msgstr ""
+msgstr "Fagyaszt"
 
 #: electrum_dash/gui/qt/utxo_list.py:577
 msgid "Freeze Address"
@@ -2812,11 +2822,11 @@ msgstr ""
 
 #: electrum_dash/i18n.py:62
 msgid "French"
-msgstr ""
+msgstr "francia"
 
 #: electrum_dash/gui/qt/history_list.py:755
 msgid "From"
-msgstr "De"
+msgstr "Feladó"
 
 #: electrum_dash/gui/qt/installwizard.py:880
 #, python-brace-format
@@ -2862,11 +2872,11 @@ msgstr ""
 
 #: electrum_dash/i18n.py:55
 msgid "German"
-msgstr ""
+msgstr "német"
 
 #: electrum_dash/i18n.py:56
 msgid "Greek"
-msgstr "Grego"
+msgstr "görög"
 
 #: electrum_dash/dash_ps_util.py:745
 msgid "Group PrivateSend mixing transactions in wallet history"
@@ -2891,7 +2901,7 @@ msgstr ""
 
 #: electrum_dash/base_wizard.py:285
 msgid "Hardware Keystore"
-msgstr ""
+msgstr "Hardver kulcstár"
 
 #: electrum_dash/gui/kivy/uix/dialogs/installwizard.py:1086
 #: electrum_dash/gui/qt/installwizard.py:816
@@ -2901,11 +2911,11 @@ msgstr ""
 #: electrum_dash/gui/qt/network_dialog.py:104
 #: electrum_dash/gui/qt/utxo_list.py:97
 msgid "Height"
-msgstr "Altura"
+msgstr "Magasság"
 
 #: electrum_dash/gui/kivy/main_window.py:1247
 msgid "Hello World"
-msgstr "Olá Mundo"
+msgstr "Hello World"
 
 #: electrum_dash/gui/qt/util.py:121 electrum_dash/gui/qt/util.py:149
 msgid "Help"
@@ -2921,7 +2931,7 @@ msgstr ""
 #: electrum_dash/gui/qt/installwizard.py:581
 #: electrum_dash/gui/qt/installwizard.py:820
 msgid "Here is your master public key."
-msgstr "Aqui está a sua chave pública mestra."
+msgstr ""
 
 #: electrum_dash/gui/kivy/uix/dialogs/installwizard.py:1089
 #: electrum_dash/gui/qt/installwizard.py:819
@@ -2930,7 +2940,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:894
 msgid "Hide"
-msgstr "Esconder"
+msgstr "Elrejt"
 
 #: electrum_dash/gui/qt/main_window.py:432
 msgid "Hide {}"
@@ -2940,24 +2950,24 @@ msgstr ""
 #: electrum_dash/gui/qt/address_dialog.py:103
 #: electrum_dash/gui/qt/main_window.py:273
 msgid "History"
-msgstr "Histórico"
+msgstr "Előzmények"
 
 #: electrum_dash/gui/kivy/uix/ui_screens/about.kv:25
 msgid "Homepage"
-msgstr "Página inicial"
+msgstr ""
 
 #: electrum_dash/plugins/trezor/qt.py:670
 #: electrum_dash/plugins/safe_t/qt.py:402
 msgid "Homescreen"
-msgstr "Tela inicial"
+msgstr ""
 
 #: electrum_dash/gui/kivy/uix/ui_screens/proxy.kv:19
 msgid "Host"
-msgstr "Servidor anfitrião"
+msgstr ""
 
 #: electrum_dash/gui/qt/installwizard.py:843
 msgid "How do you want to connect to a server? "
-msgstr "Como deseja ligar-se a um servidor? "
+msgstr ""
 
 #: electrum_dash/plugins/cosigner_pool/qt.py:225
 msgid ""
@@ -2977,12 +2987,12 @@ msgstr ""
 
 #: electrum_dash/i18n.py:63
 msgid "Hungarian"
-msgstr "Húngaro"
+msgstr ""
 
 #: electrum_dash/gui/qt/privatesend_dialog.py:1037
 #: electrum_dash/base_wizard.py:213
 msgid "I already have a seed"
-msgstr "Eu já tenho a semente"
+msgstr ""
 
 #: electrum_dash/gui/qt/protx_wizards.py:125
 msgid "I am an operator of this Masternode"
@@ -3001,8 +3011,6 @@ msgid ""
 "If auto-connect is enabled, Dash Electrum will always use a server that is "
 "on the longest blockchain."
 msgstr ""
-"Se 'ligar automaticamente' estiver ligado, o Dash Electrum tentará sempre "
-"utilizar um servidor que estiver na blockchain mais longa."
 
 #: electrum_dash/gui/qt/settings_dialog.py:286
 msgid ""
@@ -3014,8 +3022,6 @@ msgid ""
 "If it is disabled, you have to choose a server you want to use. Dash "
 "Electrum will warn you if your server is lagging."
 msgstr ""
-"Se estiver desativado, terá de selecionar um servidor que queira usar. O "
-"Dash Electrum vai aviscaso o seu servidor esteja atrasado."
 
 #: electrum_dash/base_wizard.py:416
 msgid "If you are not sure what this is, leave this field unchanged."
@@ -3062,7 +3068,7 @@ msgstr ""
 #: electrum_dash/gui/qt/installwizard.py:521
 #: electrum_dash/gui/qt/privatesend_dialog.py:1138
 msgid "If you lose your seed, your money will be permanently lost."
-msgstr "Se perder a sua semente, o seu dinheiro será perdido permanentemente."
+msgstr ""
 
 #: electrum_dash/gui/qt/installwizard.py:347
 msgid "If you use a passphrase, make sure it is correct."
@@ -3072,7 +3078,6 @@ msgstr ""
 msgid ""
 "If you want to create new addresses, use a deterministic wallet instead."
 msgstr ""
-"Se quiser criar novos endereços utilize antes uma carteira determinística."
 
 #: electrum_dash/base_wizard.py:340
 msgid ""
@@ -3110,7 +3115,7 @@ msgstr ""
 #: electrum_dash/gui/qt/main_window.py:886
 #: electrum_dash/gui/qt/main_window.py:3376
 msgid "Import"
-msgstr "Importar"
+msgstr "Importálás"
 
 #: electrum_dash/base_wizard.py:232
 msgid "Import Dash Addresses"
@@ -3127,7 +3132,7 @@ msgstr ""
 #: electrum_dash/gui/qt/main_window.py:861
 #: electrum_dash/gui/qt/main_window.py:3400
 msgid "Import addresses"
-msgstr "Importar endereços"
+msgstr ""
 
 #: electrum_dash/gui/qt/protx_wizards.py:105
 msgid "Import and register legacy masternode.conf as DIP3 Masternode"
@@ -3135,7 +3140,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/contact_list.py:78
 msgid "Import file"
-msgstr "Importar ficheiro"
+msgstr ""
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:288
 msgid "Import pairing from the Digital Bitbox desktop app"
@@ -3143,7 +3148,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:3407
 msgid "Import private keys"
-msgstr "Importar chaves privadas"
+msgstr "Privát kulcsok importálása"
 
 #: electrum_dash/dash_ps_util.py:928
 msgid "In new mix transactions group origin coins by address"
@@ -3154,8 +3159,7 @@ msgid ""
 "In particular, DO NOT use 'redeem private key' services proposed by third "
 "parties."
 msgstr ""
-"Especialmente, NÃO UTILIZE serviços para 'resgatar as chaves privadas "
-"('redeem private key') propostas por terceiros."
+"SOHA NE használd a 'privát kulcs beváltása' szolgáltatást harmadik félnél."
 
 #: electrum_dash/invoices.py:49
 msgid "In progress"
@@ -3174,12 +3178,10 @@ msgid ""
 "In some cases, use up to 3 change addresses in order to break up large coin "
 "amounts and obfuscate the recipient address."
 msgstr ""
-"Em alguns casos, utiliza até três endereços de troco de forma a dividir "
-"grandes quantias de ofuscar o endereço do destinatário."
 
 #: electrum_dash/simple_config.py:430
 msgid "In the next block"
-msgstr "No próximo bloco"
+msgstr ""
 
 #: electrum_dash/gui/qt/console.py:34
 msgid "Inactivity timeout in minutes"
@@ -3199,15 +3201,15 @@ msgstr ""
 
 #: electrum_dash/util.py:134
 msgid "Incorrect password"
-msgstr "Senha incorreta"
+msgstr "Hibás jelszó"
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:200
 msgid "Incorrect password entered."
-msgstr "Senha incorreta inserida."
+msgstr "Helytelen jelszó."
 
 #: electrum_dash/i18n.py:65
 msgid "Indonesian"
-msgstr "Indonésio"
+msgstr "indonéz"
 
 #: electrum_dash/gui/qt/util.py:164
 #: electrum_dash/gui/qt/privatesend_dialog.py:802
@@ -3222,7 +3224,7 @@ msgstr ""
 #: electrum_dash/plugins/safe_t/qt.py:496
 #: electrum_dash/plugins/keepkey/qt.py:566
 msgid "Information"
-msgstr "Informação"
+msgstr "Információ"
 
 #: electrum_dash/plugins/ledger/qt.py:83
 msgid "Initialization of Ledger HW devices is currently disabled."
@@ -3238,7 +3240,7 @@ msgstr ""
 #: electrum_dash/plugins/safe_t/qt.py:358
 #: electrum_dash/plugins/keepkey/qt.py:451
 msgid "Initialized"
-msgstr "Iniciado"
+msgstr ""
 
 #: electrum_dash/dash_ps_util.py:980
 msgid "Initializing ..."
@@ -3251,11 +3253,11 @@ msgstr ""
 #: electrum_dash/gui/qt/main_window.py:3118
 #: electrum_dash/gui/qt/transaction_dialog.py:402
 msgid "Input raw transaction"
-msgstr "Introduza uma transação em bruto"
+msgstr "Nyers tranzakció bevitel"
 
 #: electrum_dash/gui/qt/transaction_dialog.py:575
 msgid "Inputs"
-msgstr "Entradas"
+msgstr "Bevitelek"
 
 #: electrum_dash/dash_msg.py:206
 msgid "Inputs vs outputs size mismatch."
@@ -3263,11 +3265,11 @@ msgstr ""
 
 #: electrum_dash/gui/qt/installwizard.py:159
 msgid "Install Wizard"
-msgstr "Assistente de Instalação"
+msgstr "Telepítési Varázsló"
 
 #: electrum_dash/gui/qt/settings_dialog.py:146
 msgid "Install the zbar package to enable this."
-msgstr "Instale o pacote zbar para ativar esta função."
+msgstr ""
 
 #: electrum_dash/wallet.py:554 electrum_dash/wallet.py:562
 msgid "InstantSend"
@@ -3275,11 +3277,11 @@ msgstr ""
 
 #: electrum_dash/plugins/revealer/qt.py:453
 msgid "Instructions:"
-msgstr "Instruções:"
+msgstr "Utasítások:"
 
 #: electrum_dash/util.py:119
 msgid "Insufficient funds"
-msgstr "Fundos insuficientes"
+msgstr "Nincs elegendő fedezet"
 
 #: electrum_dash/dash_ps_wallet.py:78
 msgid ""
@@ -3289,12 +3291,12 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:2447
 msgid "Invalid Address"
-msgstr "Endereço Inválido"
+msgstr "Érvénytelen cím"
 
 #: electrum_dash/gui/stdio.py:248 electrum_dash/gui/text.py:430
 #: electrum_dash/gui/qt/main_window.py:1697
 msgid "Invalid Amount"
-msgstr "Quantia Inválida"
+msgstr "Érvénytelen összeg"
 
 #: electrum_dash/gui/kivy/uix/screens.py:480
 #: electrum_dash/plugins/hw_wallet/plugin.py:129
@@ -3312,28 +3314,28 @@ msgstr ""
 
 #: electrum_dash/gui/stdio.py:253 electrum_dash/gui/text.py:435
 msgid "Invalid Fee"
-msgstr "Taxa Inválida"
+msgstr "Érvénytelen tranzakciós díj"
 
 #: electrum_dash/util.py:1049
 msgid "Invalid JSON code."
-msgstr "Código JSON inválido."
+msgstr "Érvénytelen JSON kód."
 
 #: electrum_dash/gui/qt/main_window.py:1721
 msgid "Invalid Lines found:"
-msgstr "Linhas inválidas encontradas:"
+msgstr "Hibás sorok:"
 
 #: electrum_dash/gui/kivy/main_window.py:1317
 #: electrum_dash/gui/kivy/uix/dialogs/tx_dialog.py:218
 msgid "Invalid PIN"
-msgstr "PIN inválido"
+msgstr "Érvénytelen PIN"
 
 #: electrum_dash/gui/qt/main_window.py:3012
 msgid "Invalid Public key"
-msgstr ""
+msgstr "Hibás publikus kulcs"
 
 #: electrum_dash/gui/kivy/uix/screens.py:472
 msgid "Invalid amount"
-msgstr "Quantia inválida"
+msgstr "Hibás összeg"
 
 #: electrum_dash/dash_net.py:266 electrum_dash/dash_net.py:268
 msgid "Invalid hostname: \"{}\""
@@ -3374,7 +3376,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:880
 msgid "Invoices"
-msgstr "Faturas"
+msgstr "Számlák"
 
 #: electrum_dash/gui/qt/main_window.py:573
 msgid "Is Idle"
@@ -3431,7 +3433,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:1541
 msgid "Keyboard shortcut: type \"!\" to send all your coins."
-msgstr "Atalho do teclado: pressione \"!\" para enviar todas as suas moedas."
+msgstr ""
 
 #: electrum_dash/dash_ps_util.py:842
 msgid "Keypairs cache timeout"
@@ -3470,7 +3472,7 @@ msgstr ""
 
 #: electrum_dash/plugins/labels/qt.py:44
 msgid "Label Settings"
-msgstr "Definições de Etiquetas"
+msgstr ""
 
 #: electrum_dash/plugins/labels/__init__.py:3
 msgid "LabelSync"
@@ -3488,7 +3490,7 @@ msgstr ""
 #: electrum_dash/plugins/safe_t/qt.py:357
 #: electrum_dash/plugins/keepkey/qt.py:450
 msgid "Language"
-msgstr "Língua"
+msgstr "Nyelv"
 
 #: electrum_dash/dash_msg.py:198
 msgid "Last PrivateSend was too recent."
@@ -3505,7 +3507,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/installwizard.py:43
 msgid "Leave this field empty if you want to disable encryption."
-msgstr "Deixe este campo em branco se quiser desativar a encriptação."
+msgstr ""
 
 #: electrum_dash/plugins/ledger/qt.py:53
 msgid "Ledger Status"
@@ -3539,7 +3541,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:1722
 msgid "Line #"
-msgstr "Linha #"
+msgstr ""
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:248
 msgid "Load a wallet from the micro SD card"
@@ -3556,7 +3558,7 @@ msgstr ""
 #: electrum_dash/gui/qt/main_window.py:3120
 #: electrum_dash/gui/qt/transaction_dialog.py:404
 msgid "Load transaction"
-msgstr "Carregar uma transação"
+msgstr "Tranzakció betöltése"
 
 #: electrum_dash/gui/qt/protx_qt.py:164 electrum_dash/gui/qt/protx_qt.py:604
 msgid "Loading"
@@ -3573,7 +3575,7 @@ msgstr ""
 
 #: electrum_dash/wallet.py:99 electrum_dash/wallet.py:573
 msgid "Local"
-msgstr ""
+msgstr "Lokális"
 
 #: electrum_dash/gui/qt/privatesend_dialog.py:819
 msgid "Log"
@@ -3581,11 +3583,11 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:3136
 msgid "Lookup transaction"
-msgstr "Consultar transação"
+msgstr "Tranzakció betöltése"
 
 #: electrum_dash/simple_config.py:428
 msgid "Low fee"
-msgstr ""
+msgstr "Alacsony díj"
 
 #: electrum_dash/gui/qt/address_list.py:98
 #: electrum_dash/gui/qt/address_list.py:249
@@ -3628,7 +3630,7 @@ msgstr ""
 #: electrum_dash/gui/qt/installwizard.py:817
 #: electrum_dash/gui/qt/privatesend_dialog.py:829
 msgid "Master Public Key"
-msgstr "Chave Pública Mestra"
+msgstr ""
 
 #: electrum_dash/gui/qt/protx_qt.py:613
 msgid "Masternode"
@@ -3657,7 +3659,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:1553
 msgid "Max"
-msgstr "Máx"
+msgstr ""
 
 #: electrum_dash/gui/qt/dash_net_dialog.py:356
 msgid "Max Peers:"
@@ -3679,11 +3681,11 @@ msgstr ""
 #: electrum_dash/gui/qt/main_window.py:3025
 #: electrum_dash/gui/qt/dash_net_dialog.py:164
 msgid "Message"
-msgstr "Mensagem"
+msgstr "Üzenet"
 
 #: electrum_dash/plugins/ledger/auth2fa.py:70
 msgid "Method:"
-msgstr ""
+msgstr "Módszer:"
 
 #: electrum_dash/gui/qt/dash_net_dialog.py:247
 msgid "Min time"
@@ -3691,7 +3693,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/confirm_tx_dialog.py:154
 msgid "Mining fee"
-msgstr "Taxa de mineração"
+msgstr "Bányász tranzakciós díj"
 
 #: electrum_dash/gui/qt/main_window.py:1656
 msgid "Mining fee: {} (can be adjusted on next screen)"
@@ -3759,7 +3761,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/installwizard.py:897
 msgid "Multi-Signature Wallet"
-msgstr "Carteira Multi-assinaturas"
+msgstr ""
 
 #: electrum_dash/base_wizard.py:156
 msgid "Multi-signature wallet"
@@ -3774,7 +3776,7 @@ msgstr ""
 #: electrum_dash/gui/qt/main_window.py:2720
 #: electrum_dash/gui/qt/contact_list.py:47
 msgid "Name"
-msgstr "Nome"
+msgstr "Név"
 
 #: electrum_dash/plugins/trezor/qt.py:639
 #: electrum_dash/plugins/safe_t/qt.py:371
@@ -3786,7 +3788,7 @@ msgstr ""
 
 #: electrum_dash/gui/text.py:233 electrum_dash/gui/qt/__init__.py:174
 msgid "Network"
-msgstr "Rede"
+msgstr "Hálózat"
 
 #: electrum_dash/dash_ps.py:75
 msgid "Network is not available"
@@ -3798,17 +3800,17 @@ msgstr ""
 
 #: electrum_dash/invoices.py:57 electrum_dash/gui/qt/exception_window.py:92
 msgid "Never"
-msgstr "Nunca"
+msgstr "Soha"
 
 #: electrum_dash/gui/kivy/uix/dialogs/installwizard.py:906
 #: electrum_dash/gui/qt/seed_dialog.py:58
 msgid "Never disclose your seed."
-msgstr "Nunca revele a sua semente."
+msgstr ""
 
 #: electrum_dash/gui/kivy/uix/dialogs/installwizard.py:907
 #: electrum_dash/gui/qt/seed_dialog.py:59
 msgid "Never type it on a website."
-msgstr "Nunca a escreva num website."
+msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:1276
 msgid "New Address"
@@ -3821,11 +3823,11 @@ msgstr ""
 #: electrum_dash/gui/qt/main_window.py:2710
 #: electrum_dash/gui/qt/main_window.py:2712
 msgid "New Contact"
-msgstr "Novo Contacto"
+msgstr "Új partner"
 
 #: electrum_dash/gui/qt/password_dialog.py:104
 msgid "New Password:"
-msgstr "Nova palavra-passe:"
+msgstr "Új jelszó:"
 
 #: electrum_dash/dash_ps.py:517
 msgid "New collateral workflow: {}"
@@ -3833,7 +3835,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/contact_list.py:77
 msgid "New contact"
-msgstr "Novo contacto"
+msgstr "Új névjegy"
 
 #: electrum_dash/dash_ps.py:552
 msgid "New denoms workflow: {}"
@@ -3846,7 +3848,7 @@ msgstr ""
 #: electrum_dash/gui/qt/installwizard.py:171
 #: electrum_dash/plugins/revealer/qt.py:127
 msgid "Next"
-msgstr "Próximo"
+msgstr "Következő"
 
 #: electrum_dash/gui/qt/seed_dialog.py:202
 msgid "Next share"
@@ -3857,7 +3859,7 @@ msgstr ""
 #: electrum_dash/plugins/safe_t/qt.py:228
 #: electrum_dash/plugins/keepkey/qt.py:350
 msgid "No"
-msgstr "Não"
+msgstr "Nem"
 
 #: electrum_dash/util.py:232 electrum_dash/util.py:238
 msgid "No Data"
@@ -3871,7 +3873,7 @@ msgstr ""
 
 #: electrum_dash/gui/kivy/main_window.py:292
 msgid "No Wallet"
-msgstr "Sem Carteira"
+msgstr ""
 
 #: electrum_dash/gui/kivy/uix/screens.py:638
 msgid "No address available. Please remove some of your pending requests."
@@ -3883,7 +3885,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:965
 msgid "No donation address for this server"
-msgstr "Não há endereço de doação para este servidor"
+msgstr ""
 
 #: electrum_dash/dash_msg.py:203
 msgid "No errors detected."
@@ -3919,11 +3921,11 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:1406
 msgid "No more addresses in your wallet."
-msgstr "Não há mais endereços na sua carteira."
+msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:1689
 msgid "No outputs"
-msgstr "Não há saídas"
+msgstr ""
 
 #: electrum_dash/gui/kivy/uix/ui_screens/status.kv:48
 msgid "No seed stored for wallet"
@@ -3951,7 +3953,7 @@ msgstr ""
 #: electrum_dash/gui/qt/history_list.py:736
 #: electrum_dash/gui/qt/settings_dialog.py:343
 msgid "None"
-msgstr "Nenhum"
+msgstr ""
 
 #: electrum_dash/i18n.py:70
 msgid "Norwegian Bokmal"
@@ -3959,7 +3961,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/exception_window.py:96
 msgid "Not Now"
-msgstr "Agora Não"
+msgstr ""
 
 #: electrum_dash/dash_tx.py:566
 msgid "Not Specified"
@@ -3967,7 +3969,7 @@ msgstr ""
 
 #: electrum_dash/wallet.py:98
 msgid "Not Verified"
-msgstr "Não Verificado"
+msgstr ""
 
 #: electrum_dash/dash_msg.py:184
 msgid "Not compatible with existing transactions."
@@ -3977,12 +3979,12 @@ msgstr ""
 #: electrum_dash/gui/kivy/uix/ui_screens/network.kv:14
 #: electrum_dash/gui/qt/network_dialog.py:367
 msgid "Not connected"
-msgstr "Não está ligado"
+msgstr "Nincs kapcsolat"
 
 #: electrum_dash/gui/kivy/uix/dialogs/confirm_tx_dialog.py:131
 #: electrum_dash/gui/qt/main_window.py:1980
 msgid "Not enough funds"
-msgstr "Não há fundos suficientes"
+msgstr "Nincs fedezet"
 
 #: electrum_dash/wallet.py:189 electrum_dash/wallet.py:191
 msgid "Not enough funds on address."
@@ -4001,8 +4003,6 @@ msgid ""
 "Note that if you have frozen some of your addresses, the available funds "
 "will be lower than your total balance."
 msgstr ""
-"Note que se tiver congelado alguns dos seus endereços, os fundos disponíveis "
-"serão mais baixos que o seu saldo total."
 
 #: electrum_dash/gui/qt/privatesend_dialog.py:1110
 #: electrum_dash/base_wizard.py:501
@@ -4030,7 +4030,7 @@ msgstr ""
 
 #: electrum_dash/gui/kivy/uix/dialogs/__init__.py:97
 msgid "Nothing set !"
-msgstr "Nada estabelecido !"
+msgstr ""
 
 #: electrum_dash/plot.py:15
 msgid "Nothing to plot."
@@ -4053,8 +4053,8 @@ msgid ""
 "Number of zeros displayed after the decimal point. For example, if this is "
 "set to 2, \"1.\" will be displayed as \"1.00\""
 msgstr ""
-"Número de zeros apresentados a seguir ao ponto decimal. Por exemplo, se isto "
-"estiver definido como 2, \"1.\" será apresentado como \"1.00\""
+"A tizedesjegy után megjelenő nullák száma. Ha a beállított érték 2, az \"1."
+"\" így fog megjelenni: \"1.00\""
 
 #: electrum_dash/gui/kivy/main_window.py:1453
 #: electrum_dash/gui/kivy/uix/ui_screens/proxy.kv:64
@@ -4089,7 +4089,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:2428
 msgid "One output per line."
-msgstr "Uma saída por linha."
+msgstr ""
 
 #: electrum_dash/gui/kivy/uix/ui_screens/network.kv:50
 msgid "One-server mode"
@@ -4097,7 +4097,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/settings_dialog.py:297
 msgid "Online Block Explorer"
-msgstr "Explorador de Blocos Online"
+msgstr ""
 
 #: electrum_dash/plugins/hw_wallet/plugin.py:345
 msgid "Only OP_RETURN scripts are supported."
@@ -4146,7 +4146,7 @@ msgstr ""
 #: electrum_dash/gui/qt/settings_dialog.py:112
 #: electrum_dash/gui/qt/settings_dialog.py:435
 msgid "OpenAlias"
-msgstr "OpenAlias"
+msgstr ""
 
 #: electrum_dash/gui/qt/settings_dialog.py:108
 msgid "OpenAlias record, used to receive coins and to sign payment requests."
@@ -4183,7 +4183,7 @@ msgstr ""
 #: electrum_dash/gui/kivy/uix/actiondropdown.py:32
 #: electrum_dash/gui/qt/seed_dialog.py:180
 msgid "Options"
-msgstr "Opções"
+msgstr "Opciók"
 
 #: electrum_dash/gui/qt/installwizard.py:756
 msgid "Or"
@@ -4223,11 +4223,11 @@ msgstr ""
 #: electrum_dash/gui/qt/main_window.py:2486
 #: electrum_dash/gui/qt/transaction_dialog.py:619
 msgid "Outputs"
-msgstr "Saídas"
+msgstr "Kimenetek"
 
 #: electrum_dash/gui/qt/network_dialog.py:215
 msgid "Overview"
-msgstr "Visão Geral"
+msgstr ""
 
 #: electrum_dash/gui/qt/protx_wizards.py:394
 msgid "Owner Address (P2PKH):"
@@ -4326,7 +4326,7 @@ msgstr ""
 
 #: electrum_dash/invoices.py:46
 msgid "Paid"
-msgstr "Pago"
+msgstr "Fizetve"
 
 #: electrum_dash/wallet.py:581
 msgid "Partially signed"
@@ -4334,12 +4334,12 @@ msgstr ""
 
 #: electrum_dash/gui/kivy/main_window.py:1495
 msgid "Passphrase"
-msgstr "Frase-passe"
+msgstr ""
 
 #: electrum_dash/gui/qt/password_dialog.py:90
 #: electrum_dash/plugins/trezor/qt.py:190
 msgid "Passphrase:"
-msgstr "Frase-passe:"
+msgstr ""
 
 #: electrum_dash/plugins/trezor/qt.py:621
 #: electrum_dash/plugins/safe_t/qt.py:353
@@ -4363,16 +4363,16 @@ msgstr ""
 #: electrum_dash/gui/qt/network_dialog.py:240
 #: electrum_dash/gui/qt/password_dialog.py:312
 msgid "Password"
-msgstr "Palavra-passe"
+msgstr "Jelszó"
 
 #: electrum_dash/gui/qt/password_dialog.py:159
 msgid "Password Strength"
-msgstr "Segurança da palavra-passe"
+msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:2692
 #: electrum_dash/gui/qt/privatesend_dialog.py:913
 msgid "Password is disabled, this wallet is not protected"
-msgstr "A palavra-passe está desativada, esta carteira não está protegida"
+msgstr ""
 
 #: electrum_dash/gui/kivy/uix/dialogs/password_dialog.py:290
 msgid "Password is too short (min {} characters)"
@@ -4411,11 +4411,11 @@ msgstr ""
 #: electrum_dash/gui/qt/main_window.py:2692
 #: electrum_dash/gui/qt/privatesend_dialog.py:910
 msgid "Password was updated successfully"
-msgstr "A palavra-passe foi atualizada com sucesso"
+msgstr ""
 
 #: electrum_dash/gui/qt/password_dialog.py:104
 msgid "Password:"
-msgstr "Palavra-passe:"
+msgstr ""
 
 #: electrum_dash/gui/qt/util.py:824
 msgid "Paste from clipboard"
@@ -4430,11 +4430,11 @@ msgstr ""
 #: electrum_dash/gui/text.py:260 electrum_dash/gui/qt/main_window.py:1502
 #: electrum_dash/gui/qt/contact_list.py:91
 msgid "Pay to"
-msgstr "Pagar a"
+msgstr "Pénzküldés ide"
 
 #: electrum_dash/gui/qt/main_window.py:2432
 msgid "Pay to many"
-msgstr "Pagar a vários"
+msgstr ""
 
 #: electrum_dash/gui/kivy/main_window.py:259
 msgid "Payment Received"
@@ -4442,7 +4442,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/qrwindow.py:39
 msgid "Payment Request"
-msgstr "Pedido de Pagamento"
+msgstr ""
 
 #: electrum_dash/gui/kivy/main_window.py:282
 #: electrum_dash/gui/qt/main_window.py:1767
@@ -4461,13 +4461,13 @@ msgstr ""
 #: electrum_dash/gui/kivy/main_window.py:430
 #: electrum_dash/gui/qt/main_window.py:1709
 msgid "Payment request has expired"
-msgstr "O pedido de pagamento caducou"
+msgstr ""
 
 #: electrum_dash/gui/stdio.py:290 electrum_dash/gui/text.py:466
 #: electrum_dash/gui/kivy/main_window.py:1363
 #: electrum_dash/gui/qt/main_window.py:2228
 msgid "Payment sent."
-msgstr "Pagamento enviado."
+msgstr "Fizetés elküldve"
 
 #: electrum_dash/gui/kivy/main_window.py:278
 #: electrum_dash/gui/qt/main_window.py:1763
@@ -4496,7 +4496,7 @@ msgstr ""
 
 #: electrum_dash/i18n.py:60
 msgid "Persian"
-msgstr ""
+msgstr "perzsa"
 
 #: electrum_dash/gui/qt/dash_net_dialog.py:36
 msgid "Ping time (ms)"
@@ -4520,7 +4520,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/history_list.py:1063
 msgid "Please confirm"
-msgstr ""
+msgstr "Erősítse meg"
 
 #: electrum_dash/gui/kivy/uix/screens.py:464
 msgid "Please enter an amount"
@@ -4529,7 +4529,6 @@ msgstr ""
 #: electrum_dash/gui/qt/installwizard.py:497
 msgid "Please enter the master public key (xpub) of your cosigner."
 msgstr ""
-"Por favor introduza a chave pública mestra (xpub) do seu cossignatário."
 
 #: electrum_dash/gui/kivy/uix/dialogs/installwizard.py:1297
 #: electrum_dash/gui/qt/installwizard.py:611
@@ -4543,7 +4542,7 @@ msgstr ""
 #: electrum_dash/gui/qt/main_window.py:1362 electrum_dash/gui/qt/console.py:28
 #: electrum_dash/gui/qt/password_dialog.py:305
 msgid "Please enter your password"
-msgstr "Por favor, digite a sua palavra-passe"
+msgstr "Írd be a jelszavadat"
 
 #: electrum_dash/plugins/cosigner_pool/qt.py:230
 msgid "Please enter your password to decrypt it."
@@ -4552,7 +4551,7 @@ msgstr ""
 #: electrum_dash/gui/qt/installwizard.py:512
 #: electrum_dash/gui/qt/privatesend_dialog.py:1209
 msgid "Please enter your seed phrase in order to restore your wallet."
-msgstr "Por favor introduza a sua frase semente para restaurar a sua carteira."
+msgstr ""
 
 #: electrum_dash/plugin.py:633
 msgid "Please insert your {}"
@@ -4563,12 +4562,10 @@ msgid ""
 "Please paste your cosigners master public key, or scan it using the camera "
 "button."
 msgstr ""
-"Por favor introduza a chave pública mestra dos cossignatários, ou leia-a "
-"usando o botão da câmara."
 
 #: electrum_dash/gui/qt/main_window.py:994
 msgid "Please report any bugs as issues on github:<br/>"
-msgstr "Por favor relate qualquer bug ou problema no github:<br/>"
+msgstr ""
 
 #: electrum_dash/gui/qt/exception_window.py:120
 msgid "Please report this issue manually"
@@ -4580,14 +4577,11 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:3432
 msgid "Please restart Dash Electrum to activate the new GUI settings"
-msgstr ""
-"Por favor reinicie o Dash Electrum para ativar as novas definições de GUI"
+msgstr "Indítsd újra az Dash Electrumot az új GUI beállítások aktiválásához."
 
 #: electrum_dash/gui/kivy/uix/dialogs/installwizard.py:1249
 msgid "Please retype your seed phrase, to confirm that you properly saved it"
 msgstr ""
-"Por favor reescreva a sua frase semente, para confirmar que a guardou "
-"adequadamente"
 
 #: electrum_dash/gui/qt/seed_dialog.py:52
 #, python-brace-format
@@ -4611,24 +4605,24 @@ msgstr ""
 #: electrum_dash/gui/qt/installwizard.py:582
 #: electrum_dash/gui/qt/installwizard.py:821
 msgid "Please share it with your cosigners."
-msgstr "Por favor partilhe com os seus cossignatários."
+msgstr ""
 
 #: electrum_dash/base_wizard.py:374
 msgid "Please try again."
-msgstr ""
+msgstr "Kérjük próbálja újra."
 
 #: electrum_dash/gui/qt/privatesend_dialog.py:1183
 #: electrum_dash/base_wizard.py:799
 msgid "Please type it here."
-msgstr ""
+msgstr "Kérjük írja ide."
 
 #: electrum_dash/gui/kivy/uix/dialogs/installwizard.py:947
 msgid "Please type your seed phrase using the virtual keyboard."
-msgstr "Por favor escreva a sua frase semente usando o teclado virtual."
+msgstr ""
 
 #: electrum_dash/gui/qt/util.py:306
 msgid "Please wait"
-msgstr "Por favor aguarde"
+msgstr "Kérjük várjon"
 
 #: electrum_dash/gui/qt/update_checker.py:94
 msgid "Please wait while Dash Electrum checks for available updates."
@@ -4640,7 +4634,7 @@ msgstr ""
 #: electrum_dash/gui/qt/installwizard.py:174
 #: electrum_dash/gui/qt/installwizard.py:690
 msgid "Please wait..."
-msgstr "Aguarde, por favor..."
+msgstr "Kérjük várjon..."
 
 #: electrum_dash/gui/kivy/main.kv:521
 msgid "Plugins"
@@ -4652,15 +4646,15 @@ msgstr ""
 
 #: electrum_dash/i18n.py:72
 msgid "Polish"
-msgstr ""
+msgstr "lengyel"
 
 #: electrum_dash/gui/kivy/uix/ui_screens/proxy.kv:28
 msgid "Port"
-msgstr "Porta"
+msgstr "Port"
 
 #: electrum_dash/i18n.py:74
 msgid "Portuguese"
-msgstr ""
+msgstr "portugál"
 
 #: electrum_dash/gui/qt/transaction_dialog.py:470
 msgid "Position in mempool: {} from tip"
@@ -4671,7 +4665,7 @@ msgstr ""
 #: electrum_dash/gui/qt/transaction_dialog.py:821
 #: electrum_dash/gui/qt/settings_dialog.py:54
 msgid "Preferences"
-msgstr "Preferências"
+msgstr "Tulajdonságok"
 
 #: electrum_dash/gui/qt/main_window.py:3366
 msgid "Preparing sweep transaction..."
@@ -4690,7 +4684,6 @@ msgstr ""
 #: electrum_dash/gui/qt/installwizard.py:282
 msgid "Press 'Next' to create this wallet, or choose another file."
 msgstr ""
-"Clique em \"Próximo\" para criar esta carteira, ou selecione outro ficheiro."
 
 #: electrum_dash/gui/qt/installwizard.py:295
 msgid "Press 'Next' to create/focus window."
@@ -4703,11 +4696,11 @@ msgstr ""
 
 #: electrum_dash/gui/qt/installwizard.py:292
 msgid "Press 'Next' to open this wallet."
-msgstr "Clique em \"Próximo\" para abrir esta carteira."
+msgstr ""
 
 #: electrum_dash/plugins/ledger/auth2fa.py:124
 msgid "Press Enter"
-msgstr ""
+msgstr "Nyomjon Enter-t"
 
 #: electrum_dash/gui/kivy/uix/dialogs/password_dialog.py:349
 msgid "Press Next to create"
@@ -4720,7 +4713,7 @@ msgstr ""
 #: electrum_dash/gui/kivy/main_window.py:756
 #: electrum_dash/gui/kivy/uix/dialogs/installwizard.py:682
 msgid "Press again to exit"
-msgstr "Pressione novamente para sair"
+msgstr "Nyomja meg mégegyszer a kilépéshez"
 
 #: electrum_dash/gui/qt/seed_dialog.py:199
 msgid "Previous share"
@@ -4745,15 +4738,15 @@ msgstr ""
 #: electrum_dash/gui/qt/main_window.py:2884
 #: electrum_dash/gui/qt/address_list.py:552
 msgid "Private key"
-msgstr "Chave privada"
+msgstr "Privát kulcs"
 
 #: electrum_dash/gui/qt/main_window.py:3171
 msgid "Private keys"
-msgstr "Chaves privadas"
+msgstr "Privát kulcsok"
 
 #: electrum_dash/gui/qt/main_window.py:3255
 msgid "Private keys exported."
-msgstr "Chaves privadas exportadas ."
+msgstr "Privát kulcsok exportálva."
 
 #: electrum_dash/gui/kivy/main_window.py:942
 #: electrum_dash/gui/kivy/uix/dialogs/invoice_dialog.py:104
@@ -4903,7 +4896,7 @@ msgstr ""
 #: electrum_dash/gui/kivy/uix/ui_screens/proxy.kv:3
 #: electrum_dash/gui/qt/network_dialog.py:216
 msgid "Proxy"
-msgstr "Proxy"
+msgstr ""
 
 #: electrum_dash/gui/kivy/uix/ui_screens/network.kv:27
 msgid "Proxy configuration"
@@ -4921,7 +4914,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/network_dialog.py:238
 msgid "Proxy user"
-msgstr "Utilizador do Proxy"
+msgstr ""
 
 #: electrum_dash/gui/qt/protx_wizards.py:838
 msgid "PubKeyOperator:"
@@ -4929,11 +4922,11 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:3036
 msgid "Public key"
-msgstr "Chave pública"
+msgstr ""
 
 #: electrum_dash/gui/qt/address_dialog.py:79
 msgid "Public keys"
-msgstr "Chaves públicas"
+msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:1316
 msgid "QR Code"
@@ -4945,15 +4938,15 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:2853
 msgid "QR code"
-msgstr "Código QR"
+msgstr "QR kód"
 
 #: electrum_dash/gui/qt/qrcodewidget.py:144
 msgid "QR code copied to clipboard"
-msgstr "Código QR copiado para a área de transferência"
+msgstr ""
 
 #: electrum_dash/gui/qt/qrcodewidget.py:139
 msgid "QR code saved to file"
-msgstr "Código QR guardado para ficheiro"
+msgstr ""
 
 #: electrum_dash/gui/qt/qrreader/qtmultimedia/video_surface.py:59
 msgid "QR code scanner failed to map video frame"
@@ -5004,11 +4997,11 @@ msgstr ""
 
 #: electrum_dash/gui/qt/qrtextedit.py:52 electrum_dash/gui/qt/qrtextedit.py:96
 msgid "Read QR code"
-msgstr "Ler código QR"
+msgstr ""
 
 #: electrum_dash/gui/qt/qrtextedit.py:50
 msgid "Read file"
-msgstr "Ler ficheiro"
+msgstr "Fájl olvasása"
 
 #: electrum_dash/plugins/audio_modem/qt.py:91
 msgid "Read from microphone"
@@ -5025,7 +5018,7 @@ msgstr ""
 #: electrum_dash/gui/text.py:105 electrum_dash/gui/kivy/main.kv:440
 #: electrum_dash/gui/qt/main_window.py:275
 msgid "Receive"
-msgstr "Receber"
+msgstr "Fogadás"
 
 #: electrum_dash/gui/qt/main_window.py:1308
 msgid "Receive queue"
@@ -5033,7 +5026,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/dash_net_dialog.py:417
 msgid "Received"
-msgstr ""
+msgstr "Beérkezett"
 
 #: electrum_dash/gui/qt/dash_net_dialog.py:37
 msgid "Received KiB"
@@ -5041,7 +5034,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/address_list.py:71
 msgid "Receiving"
-msgstr ""
+msgstr "Beérkező"
 
 #: electrum_dash/gui/qt/transaction_dialog.py:143
 msgid "Receiving Address"
@@ -5049,19 +5042,19 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:1304
 msgid "Receiving address"
-msgstr "Endereço de recebimento"
+msgstr "Beérkező cím"
 
 #: electrum_dash/gui/kivy/uix/ui_screens/send.kv:95
 msgid "Recipient"
-msgstr ""
+msgstr "Címzett"
 
 #: electrum_dash/gui/kivy/uix/screens.py:461
 msgid "Recipient not specified."
-msgstr ""
+msgstr "Címzett nincs megadva."
 
 #: electrum_dash/gui/qt/main_window.py:1500
 msgid "Recipient of the funds."
-msgstr "Destinatário dos fundos."
+msgstr "Pénz címzettje"
 
 #: electrum_dash/plugins/trezor/trezor.py:218
 #: electrum_dash/plugins/safe_t/safe_t.py:176
@@ -5071,7 +5064,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/address_dialog.py:88
 msgid "Redeem Script"
-msgstr "Resgatar Script"
+msgstr ""
 
 #: electrum_dash/gui/qt/protx_wizards.py:716
 msgid "Regenerate BLS keypair, setup dashd"
@@ -5109,11 +5102,11 @@ msgstr ""
 #: electrum_dash/gui/qt/history_list.py:1015
 #: electrum_dash/gui/qt/dash_net_dialog.py:180
 msgid "Remove"
-msgstr "Remover"
+msgstr "Törlés"
 
 #: electrum_dash/gui/qt/address_list.py:560
 msgid "Remove from wallet"
-msgstr ""
+msgstr "Eltávolítás a tárcából"
 
 #: electrum_dash/gui/qt/main_window.py:2457
 msgid "Remove {} from your list of contacts?"
@@ -5133,36 +5126,36 @@ msgstr ""
 
 #: electrum_dash/gui/kivy/uix/dialogs/crash_reporter.py:130
 msgid "Report sent"
-msgstr ""
+msgstr "Jelentés elküldve"
 
 #: electrum_dash/gui/qt/main_window.py:999
 msgid "Reporting Bugs"
-msgstr "A relatar Bugs"
+msgstr "Hibák jelentése"
 
 #: electrum_dash/gui/kivy/uix/ui_screens/receive.kv:147
 #: electrum_dash/gui/qt/main_window.py:1315
 msgid "Request"
-msgstr ""
+msgstr "Kérés"
 
 #: electrum_dash/gui/kivy/uix/screens.py:626
 msgid "Request copied to clipboard"
-msgstr ""
+msgstr "Kérés vágólapra másolva"
 
 #: electrum_dash/plugins/email_requests/qt.py:208
 msgid "Request sent."
-msgstr ""
+msgstr "Kérés elküldve."
 
 #: electrum_dash/gui/qt/main_window.py:1232
 msgid "Requested amount"
-msgstr "Quantia pedida"
+msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:2502
 msgid "Requestor"
-msgstr "Requerente"
+msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:885
 msgid "Requests"
-msgstr "Pedidos"
+msgstr ""
 
 #: electrum_dash/gui/qt/installwizard.py:876
 #, python-brace-format
@@ -5182,13 +5175,13 @@ msgstr ""
 #: electrum_dash/gui/kivy/uix/dialogs/plugins.py:154
 #: electrum_dash/gui/qt/main_window.py:3562
 msgid "Requires"
-msgstr "Requer"
+msgstr "Szükséges"
 
 #: electrum_dash/gui/qt/main_window.py:2634
 #: electrum_dash/plugins/trezor/qt.py:672
 #: electrum_dash/plugins/safe_t/qt.py:404
 msgid "Reset"
-msgstr ""
+msgstr "Reset"
 
 #: electrum_dash/plugins/scan_over_gap/scan_over_gap.py:98
 msgid "Reset all scans?"
@@ -5237,11 +5230,11 @@ msgstr ""
 
 #: electrum_dash/i18n.py:75
 msgid "Romanian"
-msgstr ""
+msgstr "román"
 
 #: electrum_dash/i18n.py:76
 msgid "Russian"
-msgstr ""
+msgstr "orosz"
 
 #: electrum_dash/dash_msg.py:135
 msgid "SIGNING"
@@ -5269,7 +5262,7 @@ msgstr ""
 #: electrum_dash/gui/qt/transaction_dialog.py:172
 #: electrum_dash/gui/qt/qrcodewidget.py:159
 msgid "Save"
-msgstr "Guardar"
+msgstr "Mentés"
 
 #: electrum_dash/gui/qt/installwizard.py:167
 msgid "Save and exit"
@@ -5277,7 +5270,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:2511
 msgid "Save invoice to file"
-msgstr "Guardar fatura para ficheiro"
+msgstr "Számla mentése fájlként"
 
 #: electrum_dash/gui/qt/transaction_dialog.py:552
 msgid "Save transaction offline"
@@ -5357,7 +5350,7 @@ msgstr ""
 #: electrum_dash/gui/qt/privatesend_dialog.py:190
 #: electrum_dash/gui/qt/privatesend_dialog.py:1322
 msgid "Seed"
-msgstr "Semente"
+msgstr "Emlékeztető"
 
 #: electrum_dash/plugins/keepkey/qt.py:82
 msgid "Seed Entered"
@@ -5369,7 +5362,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/seed_dialog.py:285
 msgid "Seed Type"
-msgstr "Tipo de Semente"
+msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:2749
 msgid "Seed available"
@@ -5406,11 +5399,11 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:3185
 msgid "Select file to export your private keys to"
-msgstr "Selecione um ficheiro para onde sexportar as suas chaves privadas"
+msgstr "Melyik fájlba exportálja a privát kulcsokat"
 
 #: electrum_dash/gui/qt/history_list.py:1086
 msgid "Select file to export your wallet transactions to"
-msgstr "Selecione um ficheiro para onde exportar as transações da sua carteira"
+msgstr "Tárca tranzakcióinak exportálása ebbe a fájlba"
 
 #: electrum_dash/gui/qt/util.py:1041
 msgid "Select file to save your {}"
@@ -5451,11 +5444,11 @@ msgstr ""
 
 #: electrum_dash/gui/qt/network_dialog.py:294
 msgid "Select server automatically"
-msgstr "Selecionar servidor automaticamente"
+msgstr ""
 
 #: electrum_dash/gui/qt/installwizard.py:842
 msgid "Select server manually"
-msgstr "Selecionar servidor manualmente"
+msgstr ""
 
 #: electrum_dash/plugins/trezor/qt.py:348
 msgid "Select share length:"
@@ -5471,8 +5464,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/settings_dialog.py:69
 msgid "Select which language is used in the GUI (after restart)."
-msgstr ""
-"Selecione qual o idioma que é usado na interface gráfica (após reiniciar)."
+msgstr "A felhasználói felület nyelve (újraindítás után)."
 
 #: electrum_dash/plugins/safe_t/qt.py:115
 #: electrum_dash/plugins/keepkey/qt.py:241
@@ -5485,13 +5477,13 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:3100
 msgid "Select your transaction file"
-msgstr "Selecione o seu ficheiro de transação"
+msgstr "Válassz egy tranzakciós fájlt"
 
 #: electrum_dash/gui/text.py:105 electrum_dash/gui/kivy/main.kv:432
 #: electrum_dash/gui/qt/main_window.py:274
 #: electrum_dash/gui/qt/confirm_tx_dialog.py:179
 msgid "Send"
-msgstr "Enviar"
+msgstr "Küldés"
 
 #: electrum_dash/gui/qt/exception_window.py:87
 msgid "Send Bug Report"
@@ -5548,7 +5540,7 @@ msgstr ""
 
 #: electrum_dash/gui/kivy/main_window.py:1371
 msgid "Sending"
-msgstr "A enviar"
+msgstr "Küldés"
 
 #: electrum_dash/gui/qt/exception_window.py:126
 msgid "Sending crash report..."
@@ -5560,7 +5552,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/dash_net_dialog.py:418
 msgid "Sent"
-msgstr ""
+msgstr "Elküldve"
 
 #: electrum_dash/gui/qt/dash_net_dialog.py:37
 msgid "Sent KiB"
@@ -5572,7 +5564,7 @@ msgstr ""
 #: electrum_dash/gui/qt/network_dialog.py:104
 #: electrum_dash/gui/qt/network_dialog.py:309
 msgid "Server"
-msgstr "Servidor"
+msgstr "Szerver"
 
 #: electrum_dash/plugins/email_requests/qt.py:221
 msgid "Server hosting your email account"
@@ -5627,7 +5619,7 @@ msgstr ""
 #: electrum_dash/plugins/safe_t/qt.py:231
 #: electrum_dash/plugins/keepkey/qt.py:353
 msgid "Set a PIN"
-msgstr ""
+msgstr "PIN beállítása"
 
 #: electrum_dash/gui/qt/protx_wizards.py:133
 msgid "Set ownership type"
@@ -5641,7 +5633,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/installwizard.py:44
 msgid "Set wallet file encryption."
-msgstr ""
+msgstr "Tárca fájl titkosítása."
 
 #: electrum_dash/gui/text.py:233 electrum_dash/gui/kivy/main.kv:514
 #: electrum_dash/plugins/trezor/qt.py:765
@@ -5650,7 +5642,7 @@ msgstr ""
 #: electrum_dash/plugins/keepkey/qt.py:567
 #: electrum_dash/plugins/email_requests/qt.py:214
 msgid "Settings"
-msgstr "Definições"
+msgstr "Beállítások"
 
 #: electrum_dash/plugins/trezor/qt.py:298
 msgid "Shamir"
@@ -5670,7 +5662,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:894
 msgid "Show"
-msgstr "Mostrar"
+msgstr "Mutat"
 
 #: electrum_dash/gui/qt/settings_dialog.py:429
 msgid "Show Fiat balance for addresses"
@@ -5678,7 +5670,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/address_dialog.py:67
 msgid "Show QR Code"
-msgstr "Mostrar Código QR"
+msgstr "QR kód megjelenítése"
 
 #: electrum_dash/gui/qt/privatesend_dialog.py:838
 msgid "Show Seed"
@@ -5693,7 +5685,7 @@ msgstr ""
 #: electrum_dash/gui/qt/transaction_dialog.py:129
 #: electrum_dash/gui/qt/transaction_dialog.py:294
 msgid "Show as QR code"
-msgstr "Mostrar como Código QR"
+msgstr "QR kód megjelenítése"
 
 #: electrum_dash/gui/qt/settings_dialog.py:428
 msgid "Show capital gains in history"
@@ -5705,7 +5697,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/settings_dialog.py:427
 msgid "Show history rates"
-msgstr "Mostrar histórico de preços"
+msgstr ""
 
 #: electrum_dash/plugins/ledger/qt.py:32
 msgid "Show on Ledger"
@@ -5716,7 +5708,7 @@ msgstr ""
 #: electrum_dash/plugins/hw_wallet/qt.py:309
 #: electrum_dash/plugins/keepkey/qt.py:208
 msgid "Show on {}"
-msgstr ""
+msgstr "Megjelenítés {}-on"
 
 #: electrum_dash/dash_ps_util.py:1092
 msgid "Show privacy warning about ElectrumX servers usage"
@@ -5744,7 +5736,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/__init__.py:178
 msgid "Show/Hide"
-msgstr "Mostrar/Esconder"
+msgstr "Megjelenítés/Elrejtés"
 
 #: electrum_dash/plugins/ledger/ledger.py:605
 msgid "Showing address ..."
@@ -5754,7 +5746,7 @@ msgstr ""
 #: electrum_dash/gui/qt/main_window.py:2973
 #: electrum_dash/gui/qt/transaction_dialog.py:166
 msgid "Sign"
-msgstr "Assinar"
+msgstr "Aláírás"
 
 #: electrum_dash/gui/kivy/uix/dialogs/tx_dialog.py:208
 msgid "Sign this transaction?"
@@ -5766,7 +5758,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:2949
 msgid "Sign/verify Message"
-msgstr "Assinar/verificar Mensagem"
+msgstr ""
 
 #: electrum_dash/gui/qt/address_list.py:555
 msgid "Sign/verify message"
@@ -5775,19 +5767,19 @@ msgstr ""
 #: electrum_dash/gui/qt/main_window.py:2504
 #: electrum_dash/gui/qt/main_window.py:2967
 msgid "Signature"
-msgstr "Assinatura"
+msgstr "Aláírás"
 
 #: electrum_dash/gui/qt/main_window.py:2944
 msgid "Signature verified"
-msgstr "Assinatura verificada"
+msgstr ""
 
 #: electrum_dash/wallet.py:576
 msgid "Signed"
-msgstr ""
+msgstr "Aláírva"
 
 #: electrum_dash/gui/kivy/uix/dialogs/tx_dialog.py:211
 msgid "Signing"
-msgstr ""
+msgstr "Aláírás"
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:604
 msgid "Signing large transaction. Please be patient ..."
@@ -5800,7 +5792,7 @@ msgstr ""
 #: electrum_dash/gui/qt/main_window.py:2184
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:609
 msgid "Signing transaction..."
-msgstr "A assinar transação..."
+msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:2892
 msgid ""
@@ -5816,15 +5808,15 @@ msgstr ""
 
 #: electrum_dash/gui/qt/transaction_dialog.py:508
 msgid "Size:"
-msgstr "Tamanho:"
+msgstr "Méret:"
 
 #: electrum_dash/i18n.py:77
 msgid "Slovak"
-msgstr ""
+msgstr "szlovák"
 
 #: electrum_dash/i18n.py:78
 msgid "Slovenian"
-msgstr ""
+msgstr "szlovén"
 
 #: electrum_dash/gui/qt/main_window.py:1662
 msgid ""
@@ -5856,7 +5848,7 @@ msgstr ""
 
 #: electrum_dash/base_crash_reporter.py:53
 msgid "Sorry!"
-msgstr ""
+msgstr "Sajnáljuk!"
 
 #: electrum_dash/gui/qt/update_checker.py:73
 msgid "Sorry, but we were unable to check for updates. Please try again later."
@@ -5864,7 +5856,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/settings_dialog.py:426
 msgid "Source"
-msgstr "Fonte"
+msgstr ""
 
 #: electrum_dash/i18n.py:59
 msgid "Spanish"
@@ -5884,11 +5876,11 @@ msgstr ""
 
 #: electrum_dash/gui/qt/settings_dialog.py:273
 msgid "Spend only confirmed coins"
-msgstr "Gastar apenas moedas confirmadas"
+msgstr ""
 
 #: electrum_dash/gui/qt/settings_dialog.py:274
 msgid "Spend only confirmed inputs."
-msgstr "Gastar apenas entradas confirmadas."
+msgstr ""
 
 #: electrum_dash/gui/qt/dash_net_dialog.py:131
 msgid "Spork"
@@ -5942,11 +5934,11 @@ msgstr ""
 #: electrum_dash/gui/qt/network_dialog.py:290
 #: electrum_dash/gui/qt/request_list.py:62
 msgid "Status"
-msgstr "Estado"
+msgstr ""
 
 #: electrum_dash/gui/qt/transaction_dialog.py:457
 msgid "Status:"
-msgstr "Estado:"
+msgstr ""
 
 #: electrum_dash/plugins/trezor/clientbase.py:333
 #: electrum_dash/plugins/safe_t/clientbase.py:98
@@ -5980,7 +5972,7 @@ msgstr ""
 #: electrum_dash/gui/qt/exception_window.py:194
 #: electrum_dash/gui/qt/privatesend_dialog.py:915
 msgid "Success"
-msgstr "Concluído"
+msgstr "Sikeres"
 
 #: electrum_dash/gui/qt/history_list.py:831
 msgid "Summary"
@@ -6008,17 +6000,17 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:3321
 msgid "Sweep"
-msgstr "Varrer"
+msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:3300
 msgid "Sweep private keys"
-msgstr "Varrer chaves privadas"
+msgstr ""
 
 #: electrum_dash/gui/stdio.py:185 electrum_dash/gui/text.py:217
 #: electrum_dash/gui/kivy/main_window.py:1084
 #: electrum_dash/gui/qt/main_window.py:1144
 msgid "Synchronizing..."
-msgstr "A sincronizar..."
+msgstr "Szinkronizáció..."
 
 #: electrum_dash/i18n.py:80
 msgid "Tamil"
@@ -6030,7 +6022,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/fee_slider.py:58
 msgid "Target"
-msgstr ""
+msgstr "Cél"
 
 #: electrum_dash/gui/qt/transaction_dialog.py:835
 msgid "Target fee:"
@@ -6055,7 +6047,7 @@ msgstr ""
 #: electrum_dash/gui/qt/main_window.py:1431
 #: electrum_dash/gui/qt/qrcodewidget.py:148 electrum_dash/gui/qt/util.py:820
 msgid "Text copied to clipboard"
-msgstr ""
+msgstr "Szöveg vágólapra másolva"
 
 #: electrum_dash/gui/kivy/main_window.py:535
 #: electrum_dash/gui/kivy/uix/dialogs/qr_dialog.py:91
@@ -6066,7 +6058,7 @@ msgstr ""
 
 #: electrum_dash/i18n.py:81
 msgid "Thai"
-msgstr ""
+msgstr "thai"
 
 #: electrum_dash/gui/qt/main_window.py:1263
 msgid ""
@@ -6095,24 +6087,22 @@ msgid ""
 "The amount of fee can be decided freely by the sender. However, transactions "
 "with low fees take more time to be processed."
 msgstr ""
-"O valor da taxa pode ser decidido livremente pelo remetente. Contudo, "
-"transações com taxas baixas podem demorar mais tempo a ser processadas."
+"A tranzakciós díj összege a küldő által választható. Minél alacsonyabb, "
+"annál később kerül feldolgozásra a tranzakció."
 
 #: electrum_dash/gui/qt/main_window.py:1539
 msgid ""
 "The amount will be displayed in red if you do not have enough funds in your "
 "wallet."
 msgstr ""
-"O valor será mostrado a vermelho se não tiver fundos suficientes na sua "
-"carteira."
 
 #: electrum_dash/gui/qt/main_window.py:1512
 msgid ""
 "The description is not sent to the recipient of the funds. It is stored in "
 "your wallet file, and displayed in the 'History' tab."
 msgstr ""
-"A descrição não é enviada para o destinatário dos fundos. É guardada no "
-"ficheiro da sua carteira, e apresentada no separador \"Histórico\"."
+"A megjegyzést nem küldi el a címzett számára. A saját tárcádban fog "
+"tárolódni és az 'Előzmények' fülön jelenik meg."
 
 #: electrum_dash/plugins/trezor/qt.py:267
 #: electrum_dash/plugins/trezor/trezor.py:261
@@ -6130,7 +6120,7 @@ msgstr ""
 
 #: electrum_dash/wallet.py:2224 electrum_dash/wallet.py:2229
 msgid "The fee for this transaction seems unusually high."
-msgstr "A taxa para esta transação parece extraordinariamente alta."
+msgstr ""
 
 #: electrum_dash/gui/qt/installwizard.py:394
 msgid ""
@@ -6141,7 +6131,7 @@ msgstr ""
 #: electrum_dash/gui/qt/installwizard.py:385
 #: electrum_dash/gui/qt/installwizard.py:399
 msgid "The file was removed"
-msgstr "O ficheiro foi removido"
+msgstr "Fájl eltávolítva"
 
 #: electrum_dash/plugins/hw_wallet/plugin.py:389
 msgid ""
@@ -6152,15 +6142,15 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:3387
 msgid "The following addresses were added"
-msgstr "Os seguintes endereços foram adicionados"
+msgstr "A következő címek hozzáadva"
 
 #: electrum_dash/gui/qt/settings_dialog.py:109
 msgid "The following alias providers are available:"
-msgstr "Estão disponíveis os seguintes fornecedores de pseudónimos:"
+msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:3392
 msgid "The following inputs could not be imported"
-msgstr "Não foi possível importar as seguintes entradas"
+msgstr "A következő bemenetek nem lettek importálva"
 
 #: electrum_dash/wallet.py:2197
 msgid ""
@@ -6275,12 +6265,10 @@ msgid ""
 "This blockchain is used to verify the transactions sent by your transaction "
 "server."
 msgstr ""
-"Esta blockchain é utilizada para verificar as transações enviadas pelo seu "
-"servidor de transações."
 
 #: electrum_dash/gui/qt/installwizard.py:281
 msgid "This file does not exist."
-msgstr "Este ficheiro não existe."
+msgstr ""
 
 #: electrum_dash/gui/qt/installwizard.py:294
 msgid "This file is already open in memory."
@@ -6313,12 +6301,10 @@ msgid ""
 "This information is seen by the recipient if you send them a signed payment "
 "request."
 msgstr ""
-"Esta informação é vista pelo destinatário se lhe enviar um pedido de "
-"pagamento assinado."
 
 #: electrum_dash/gui/qt/main_window.py:3164 electrum_dash/wallet.py:500
 msgid "This is a watching-only wallet"
-msgstr "Esta é uma carteira de apenas-visualização"
+msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:2907
 #: electrum_dash/gui/qt/main_window.py:2991
@@ -6343,11 +6329,11 @@ msgstr ""
 
 #: electrum_dash/gui/qt/network_dialog.py:314
 msgid "This is the height of your local copy of the blockchain."
-msgstr "Esta é a altura da sua cópia local do blockchain."
+msgstr ""
 
 #: electrum_dash/gui/qt/settings_dialog.py:244
 msgid "This may result in higher transactions fees."
-msgstr "Isto poderá resultar em taxas de transação mais altas."
+msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:720
 msgid "This means you will not be able to spend Dash coins with it."
@@ -6365,7 +6351,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:1362
 msgid "This payment request will be signed."
-msgstr "Este pedido de pagamento será assinado."
+msgstr ""
 
 #: electrum_dash/plugins/revealer/__init__.py:6
 msgid ""
@@ -6385,8 +6371,8 @@ msgstr ""
 msgid ""
 "This seed will allow you to recover your wallet in case of computer failure."
 msgstr ""
-"Esta semente vai permitir-lhe recuperar a sua carteira em caso de falha do "
-"computador."
+"Az elmékeztető lehetővé teszi, hogy adatvesztés esetén is visszaállíthatsd a "
+"tárcádat."
 
 #: electrum_dash/gui/qt/settings_dialog.py:123
 msgid "This setting affects the Send tab, and all balance related fields."
@@ -6401,7 +6387,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/transaction_dialog.py:272
 msgid "This transaction is not saved. Close anyway?"
-msgstr "Esta transação não foi guardada. Fechar na mesma?"
+msgstr ""
 
 #: electrum_dash/gui/qt/history_list.py:341
 msgid ""
@@ -6431,7 +6417,7 @@ msgstr ""
 #: electrum_dash/gui/qt/main_window.py:2840
 #: electrum_dash/plugins/revealer/qt.py:291
 msgid "This wallet has no seed"
-msgstr "Esta carteira não tem semente"
+msgstr ""
 
 #: electrum_dash/gui/kivy/uix/dialogs/installwizard.py:749
 msgid ""
@@ -6464,7 +6450,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:719
 msgid "This wallet is watching-only."
-msgstr "Esta carteira é apenas-visualização."
+msgstr ""
 
 #: electrum_dash/plugins/ledger/ledger.py:499
 msgid "This {} device can only send to base58 addresses."
@@ -6478,7 +6464,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/history_list.py:756
 msgid "To"
-msgstr ""
+msgstr "Címzett"
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:479
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:607
@@ -6540,8 +6526,6 @@ msgstr ""
 msgid ""
 "To make sure that you have properly saved your seed, please retype it here."
 msgstr ""
-"Para garantir que guardou corretamente a sua semente, por favor volte a "
-"introduzi-la aqui."
 
 #: electrum_dash/gui/qt/transaction_dialog.py:819
 msgid ""
@@ -6559,7 +6543,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/password_dialog.py:224
 msgid "Toggle Encryption"
-msgstr ""
+msgstr "Titkosítás ki/be"
 
 #: electrum_dash/gui/qt/qrreader/qtmultimedia/validator.py:157
 msgid "Too few QR codes detected."
@@ -6608,17 +6592,17 @@ msgstr ""
 #: electrum_dash/gui/qt/transaction_dialog.py:327
 #: electrum_dash/gui/qt/transaction_dialog.py:710
 msgid "Transaction"
-msgstr "Transação"
+msgstr "Tranzakció"
 
 #: electrum_dash/gui/qt/main_window.py:3136
 #: electrum_dash/gui/qt/history_list.py:1017
 msgid "Transaction ID"
-msgstr "ID da transação"
+msgstr "Tranzakció azonosító"
 
 #: electrum_dash/gui/qt/transaction_dialog.py:124
 #: electrum_dash/gui/qt/transaction_dialog.py:570
 msgid "Transaction ID:"
-msgstr "ID da Transação:"
+msgstr "Tranzakció ID:"
 
 #: electrum_dash/gui/qt/main_window.py:3584
 msgid "Transaction added to wallet history."
@@ -6671,7 +6655,7 @@ msgstr ""
 #: electrum_dash/gui/kivy/uix/dialogs/tx_dialog.py:171
 #: electrum_dash/gui/qt/transaction_dialog.py:491
 msgid "Transaction unrelated to your wallet"
-msgstr "Transação não relacionada com a sua carteira"
+msgstr ""
 
 #: electrum_dash/network.py:920
 msgid "Transaction uses non-standard version."
@@ -6679,11 +6663,11 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:3119
 msgid "Transaction:"
-msgstr "Transação:"
+msgstr "Tranzakció:"
 
 #: electrum_dash/gui/qt/settings_dialog.py:433
 msgid "Transactions"
-msgstr "Transações"
+msgstr "Tranzakciók"
 
 #: electrum_dash/plugins/cosigner_pool/__init__.py:6
 msgid "Transactions are encrypted and stored on a remote server."
@@ -6711,7 +6695,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:997
 msgid "Try to explain not only what the bug is, but how it occurs."
-msgstr "Tente explicar não só qual é o bug, mas também como ocorre."
+msgstr ""
 
 #: electrum_dash/wallet.py:2219
 msgid ""
@@ -6732,7 +6716,7 @@ msgstr ""
 #: electrum_dash/gui/qt/history_list.py:683
 #: electrum_dash/gui/qt/address_list.py:155
 msgid "Type"
-msgstr ""
+msgstr "Típus"
 
 #: electrum_dash/gui/qt/protx_wizards.py:824
 msgid "Type:"
@@ -6754,19 +6738,19 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:797
 msgid "Unable to create backup"
-msgstr "Incapaz de criar cópia de segurança"
+msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:3249
 msgid "Unable to create csv"
-msgstr "Incapaz de criar csv"
+msgstr "Nem lehet csv-t létrehozni"
 
 #: electrum_dash/gui/qt/history_list.py:1103
 msgid "Unable to export history"
-msgstr "Incapaz de exportar histórico"
+msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:3111
 msgid "Unable to read file or no transaction found"
-msgstr "Incapaz de ler ficheiro ou nenhuma transação encontrada"
+msgstr ""
 
 #: electrum_dash/gui/kivy/uix/dialogs/crash_reporter.py:128
 msgid "Unable to send report"
@@ -6775,15 +6759,15 @@ msgstr ""
 #: electrum_dash/invoices.py:52 electrum_dash/wallet.py:96
 #: electrum_dash/wallet.py:565
 msgid "Unconfirmed"
-msgstr ""
+msgstr "Nem megerősített"
 
 #: electrum_dash/wallet.py:97
 msgid "Unconfirmed parent"
-msgstr ""
+msgstr "Nem megerősített szülő"
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:205
 msgid "Unexpected error occurred."
-msgstr ""
+msgstr "Váratlan hiba történt."
 
 #: electrum_dash/crypto.py:188
 msgid "Unexpected password hash version"
@@ -6791,7 +6775,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/address_list.py:574
 msgid "Unfreeze"
-msgstr ""
+msgstr "Kiolvasztás"
 
 #: electrum_dash/gui/qt/utxo_list.py:583
 msgid "Unfreeze Address"
@@ -6813,7 +6797,7 @@ msgstr ""
 #: electrum_dash/gui/qt/transaction_dialog.py:451
 #: electrum_dash/dash_ps_util.py:145 electrum_dash/util.py:734
 msgid "Unknown"
-msgstr "Desconhecido"
+msgstr ""
 
 #: electrum_dash/network.py:1166
 msgid "Unknown error"
@@ -6912,7 +6896,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/network_dialog.py:255
 msgid "Use Tor Proxy"
-msgstr "Usar Proxy TOR"
+msgstr "Tor proxy használata"
 
 #: electrum_dash/base_wizard.py:217
 msgid "Use a hardware device"
@@ -6929,11 +6913,11 @@ msgstr ""
 #: electrum_dash/gui/qt/network_dialog.py:116
 #: electrum_dash/gui/qt/network_dialog.py:122
 msgid "Use as server"
-msgstr "Usar como servidor"
+msgstr "Használd szerverként"
 
 #: electrum_dash/gui/qt/settings_dialog.py:220
 msgid "Use change addresses"
-msgstr "Utilizar endereços de troco"
+msgstr "Cserecímek használata"
 
 #: electrum_dash/dash_ps_util.py:598
 msgid "Use default denoms count"
@@ -6941,15 +6925,15 @@ msgstr ""
 
 #: electrum_dash/gui/qt/settings_dialog.py:239
 msgid "Use multiple change addresses"
-msgstr "Utilizar múltiplos endereços de troco"
+msgstr ""
 
 #: electrum_dash/gui/qt/network_dialog.py:226
 msgid "Use proxy"
-msgstr ""
+msgstr "Proxy használata"
 
 #: electrum_dash/gui/kivy/uix/dialogs/installwizard.py:1275
 msgid "Use the camera button to scan a QR code."
-msgstr "Use o botão da câmara para ler um código QR."
+msgstr ""
 
 #: electrum_dash/gui/qt/privatesend_dialog.py:208
 msgid "Use this dialog to add a password to it."
@@ -6957,7 +6941,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/password_dialog.py:260
 msgid "Use this dialog to add a password to your wallet."
-msgstr "Use este diálogo para adicionar uma palavra-passe à sua carteira."
+msgstr ""
 
 #: electrum_dash/gui/qt/privatesend_dialog.py:212
 msgid "Use this dialog to change password on it."
@@ -6965,7 +6949,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/password_dialog.py:266
 msgid "Use this dialog to change your password."
-msgstr "Use este diálogo para alterar a sua palavra-passe."
+msgstr ""
 
 #: electrum_dash/gui/qt/password_dialog.py:293
 msgid "Use this dialog to toggle encryption."
@@ -6974,7 +6958,7 @@ msgstr ""
 #: electrum_dash/gui/kivy/uix/dialogs/addresses.py:277
 #: electrum_dash/gui/qt/address_list.py:58
 msgid "Used"
-msgstr ""
+msgstr "Használt"
 
 #: electrum_dash/gui/kivy/uix/dialogs/dash_net.py:460
 #: electrum_dash/gui/kivy/uix/dialogs/dash_net.py:594
@@ -6985,19 +6969,19 @@ msgstr ""
 
 #: electrum_dash/gui/kivy/uix/ui_screens/proxy.kv:38
 msgid "Username"
-msgstr ""
+msgstr "Felhasználónév"
 
 #: electrum_dash/gui/qt/main_window.py:975
 msgid "Uses icons from the Icons8 icon pack (icons8.com)."
-msgstr "Usa ícones do conjunto Icons8 (icons8.com)."
+msgstr ""
 
 #: electrum_dash/gui/qt/settings_dialog.py:230
 msgid ""
 "Using change addresses makes it more difficult for other people to track "
 "your transactions."
 msgstr ""
-"Utilizar endereços de troco faz com que seja mais difícil para outras "
-"pessoas rastrear as suas transações."
+"Cserecímek használatával nehezebben követhetik le a tranzakcióidat más "
+"emberek."
 
 #: electrum_dash/gui/qt/protx_qt.py:140 electrum_dash/gui/qt/protx_qt.py:167
 msgid "Valid"
@@ -7011,7 +6995,7 @@ msgstr ""
 #: electrum_dash/gui/qt/history_list.py:677
 #: electrum_dash/gui/qt/dash_net_dialog.py:131
 msgid "Value"
-msgstr ""
+msgstr "Érték"
 
 #: electrum_dash/gui/kivy/uix/dialogs/privatesend.py:814
 #: electrum_dash/gui/kivy/uix/dialogs/privatesend.py:1075
@@ -7032,7 +7016,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:2977
 msgid "Verify"
-msgstr "Verificar"
+msgstr "Megerősítés"
 
 #: electrum_dash/plugins/ledger/auth2fa.py:30
 msgid ""
@@ -7048,15 +7032,15 @@ msgstr ""
 #: electrum_dash/gui/kivy/uix/ui_screens/about.kv:13
 #: electrum_dash/gui/qt/main_window.py:969
 msgid "Version"
-msgstr "Versão"
+msgstr "Verzió"
 
 #: electrum_dash/gui/qt/settings_dialog.py:147
 msgid "Video Device"
-msgstr "Dispositivo de Vídeo"
+msgstr ""
 
 #: electrum_dash/i18n.py:84
 msgid "Vietnamese"
-msgstr ""
+msgstr "vietnámi"
 
 #: electrum_dash/gui/qt/history_list.py:1025
 msgid "View Transaction"
@@ -7065,13 +7049,13 @@ msgstr ""
 #: electrum_dash/gui/qt/history_list.py:1029
 #: electrum_dash/gui/qt/history_list.py:1033
 msgid "View invoice"
-msgstr "Ver Fatura"
+msgstr "Számla megtekintése"
 
 #: electrum_dash/gui/qt/contact_list.py:95
 #: electrum_dash/gui/qt/history_list.py:1035
 #: electrum_dash/gui/qt/address_list.py:564
 msgid "View on block explorer"
-msgstr "Ver no explorador de blocos"
+msgstr ""
 
 #: electrum_dash/plugins/revealer/qt.py:65
 msgid "Visual Cryptography Plugin"
@@ -7089,11 +7073,11 @@ msgstr ""
 #: electrum_dash/gui/kivy/uix/dialogs/installwizard.py:905
 #: electrum_dash/gui/qt/seed_dialog.py:56
 msgid "WARNING"
-msgstr "AVISO"
+msgstr "FIGYELEM"
 
 #: electrum_dash/gui/qt/main_window.py:3175
 msgid "WARNING: ALL your private keys are secret."
-msgstr "AVISO: TODAS as suas chaves privadas são secretas."
+msgstr "FIGYELEM: Az ÖSSZES privát kulcsod titkos."
 
 #: electrum_dash/gui/qt/main_window.py:3168
 msgid "WARNING: This is a multi-signature wallet."
@@ -7117,7 +7101,7 @@ msgstr ""
 #: electrum_dash/gui/qt/protx_qt.py:1174
 #: electrum_dash/gui/qt/installwizard.py:218
 msgid "Wallet"
-msgstr "Carteira"
+msgstr "Pénztárca"
 
 #: electrum_dash/gui/qt/main_window.py:2728
 msgid "Wallet Information"
@@ -7134,15 +7118,15 @@ msgstr ""
 
 #: electrum_dash/gui/kivy/uix/ui_screens/status.kv:27
 msgid "Wallet Name"
-msgstr ""
+msgstr "Tárca neve"
 
 #: electrum_dash/gui/qt/main_window.py:800
 msgid "Wallet backup created"
-msgstr "Cópia de segurança da carteira criada"
+msgstr ""
 
 #: electrum_dash/gui/qt/transaction_dialog.py:145
 msgid "Wallet change address"
-msgstr "Endereço de troco da carteira"
+msgstr ""
 
 #: electrum_dash/gui/qt/protx_qt.py:614
 #, python-format
@@ -7165,7 +7149,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:2743
 msgid "Wallet name"
-msgstr ""
+msgstr "Tárca neve"
 
 #: electrum_dash/gui/kivy/uix/dialogs/password_dialog.py:375
 msgid "Wallet not encrypted"
@@ -7178,7 +7162,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/transaction_dialog.py:143
 msgid "Wallet receive address"
-msgstr "Endereço de recebimento da carteira"
+msgstr ""
 
 #: electrum_dash/gui/kivy/main_window.py:1480
 #: electrum_dash/gui/qt/main_window.py:2833
@@ -7195,7 +7179,7 @@ msgstr ""
 
 #: electrum_dash/gui/kivy/main.kv:499
 msgid "Wallets"
-msgstr ""
+msgstr "Tárcák"
 
 #: electrum_dash/gui/kivy/uix/dialogs/request_dialog.py:114
 #: electrum_dash/gui/qt/installwizard.py:52
@@ -7208,7 +7192,7 @@ msgstr ""
 #: electrum_dash/wallet.py:2229 electrum_dash/plugins/revealer/qt.py:184
 #: electrum_dash/plugins/revealer/qt.py:217
 msgid "Warning"
-msgstr "Aviso"
+msgstr "Figyelmeztetés"
 
 #: electrum_dash/plugins/revealer/qt.py:274
 msgid "Warning "
@@ -7216,7 +7200,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/console.py:107
 msgid "Warning!"
-msgstr ""
+msgstr "Figyelem!"
 
 #: electrum_dash/gui/qt/main_window.py:1415
 msgid ""
@@ -7228,13 +7212,6 @@ msgid ""
 "\n"
 "Create anyway?"
 msgstr ""
-"Aviso: O endereço seguinte não será recuperado automaticamente se restaurar "
-"a sua carteira a partir da semente; pode ter que o adicionar manualmente.\n"
-"\n"
-"Isto ocorre porque você tem demasiados endereços não usados na sua carteira. "
-"Para evitar esta situação, use primeiro os endereços existentes.\n"
-"\n"
-"Ainda assim criar?"
 
 #: electrum_dash/network.py:239
 msgid "Warning: Tor proxy is not detected, to enable it read the docs:"
@@ -7259,8 +7236,6 @@ msgid ""
 "We do not guarantee that BIP39 imports will always be supported in Dash "
 "Electrum."
 msgstr ""
-"Não garantimos que importações BIP39 sejam sempre suportados no Dash "
-"Electrum."
 
 #: electrum_dash/base_wizard.py:371
 msgid "We encountered an error while connecting to your device:"
@@ -7280,7 +7255,7 @@ msgstr ""
 #: electrum_dash/plugins/safe_t/qt.py:477
 #: electrum_dash/plugins/keepkey/qt.py:547
 msgid "Wipe Device"
-msgstr ""
+msgstr "Az eszköz törlése"
 
 #: electrum_dash/plugins/trezor/qt.py:748
 #: electrum_dash/plugins/safe_t/qt.py:480
@@ -7335,7 +7310,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:2946
 msgid "Wrong signature"
-msgstr "Assinatura errada"
+msgstr ""
 
 #: electrum_dash/gui/kivy/uix/dialogs/question.py:53
 #: electrum_dash/plugins/trezor/qt.py:496
@@ -7351,7 +7326,7 @@ msgstr ""
 #: electrum_dash/gui/kivy/uix/ui_screens/network.kv:64
 #: electrum_dash/gui/qt/network_dialog.py:375
 msgid "You are following branch"
-msgstr "Está a seguir ramo"
+msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:741
 msgid "You are in testnet mode."
@@ -7373,8 +7348,6 @@ msgstr ""
 msgid ""
 "You are using a non-deterministic wallet, which cannot create new addresses."
 msgstr ""
-"Está a usar uma carteira não-determinística, que não permite a criação de "
-"novos endereços."
 
 #: electrum_dash/dash_ps_util.py:896
 msgid ""
@@ -7463,7 +7436,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:2430
 msgid "You may load a CSV file using the file icon."
-msgstr "Pode carregar um ficheiro CSV usando o ícone de ficheiro."
+msgstr ""
 
 #: electrum_dash/network.py:1049
 msgid ""
@@ -7535,7 +7508,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/installwizard.py:382
 msgid "Your accounts have been moved to"
-msgstr "As suas contas foram movidas para"
+msgstr ""
 
 #: electrum_dash/plugins/trezor/qt.py:537
 #: electrum_dash/plugins/safe_t/qt.py:269
@@ -7561,11 +7534,11 @@ msgstr ""
 
 #: electrum_dash/plugins/labels/qt.py:69
 msgid "Your labels have been synchronised."
-msgstr "As suas etiquetas foram sincronizadas."
+msgstr ""
 
 #: electrum_dash/gui/qt/seed_dialog.py:188
 msgid "Your seed extension is"
-msgstr "A extensão da sua semente é"
+msgstr ""
 
 #: electrum_dash/gui/qt/privatesend_dialog.py:1104
 #: electrum_dash/gui/qt/privatesend_dialog.py:1182
@@ -7576,12 +7549,12 @@ msgstr ""
 #: electrum_dash/gui/qt/installwizard.py:520
 #: electrum_dash/gui/qt/privatesend_dialog.py:1137
 msgid "Your seed is important!"
-msgstr "A sua semente é importante!"
+msgstr ""
 
 #: electrum_dash/gui/kivy/uix/ui_screens/network.kv:64
 #: electrum_dash/gui/qt/network_dialog.py:375
 msgid "Your server is on branch"
-msgstr "O seu servidor está no ramo"
+msgstr ""
 
 #: electrum_dash/network.py:992
 msgid ""
@@ -7617,19 +7590,19 @@ msgstr ""
 #: electrum_dash/gui/qt/privatesend_dialog.py:193
 #: electrum_dash/gui/qt/privatesend_dialog.py:1065
 msgid "Your wallet generation seed is:"
-msgstr "A semente de geração da sua carteira é:"
+msgstr ""
 
 #: electrum_dash/gui/qt/history_list.py:1105
 msgid "Your wallet history has been successfully exported."
-msgstr "O histórico da sua carteira foi exportado com sucesso."
+msgstr ""
 
 #: electrum_dash/gui/qt/password_dialog.py:259
 msgid "Your wallet is not protected."
-msgstr "A sua carteira não está protegida."
+msgstr ""
 
 #: electrum_dash/gui/qt/password_dialog.py:265
 msgid "Your wallet is password protected and encrypted."
-msgstr "A sua carteira está encriptada e protegida com palavra-passe."
+msgstr ""
 
 #: electrum_dash/gui/qt/util.py:1053
 #, python-brace-format
@@ -7642,7 +7615,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/settings_dialog.py:91
 msgid "Zeros after decimal point"
-msgstr "Zeros depois do ponto decimal"
+msgstr ""
 
 #: electrum_dash/gui/text.py:265
 msgid "[Clear]"
@@ -7710,7 +7683,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:1984
 msgid "are frozen"
-msgstr "estão congelados"
+msgstr ""
 
 #: electrum_dash/wallet.py:2220
 msgid "below relay fee"
@@ -7719,7 +7692,7 @@ msgstr ""
 #: electrum_dash/gui/qt/network_dialog.py:364
 #: electrum_dash/gui/qt/network_dialog.py:376
 msgid "blocks"
-msgstr "blocos"
+msgstr ""
 
 #: electrum_dash/gui/qt/address_list.py:235
 msgid "change"
@@ -7781,7 +7754,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/util.py:434
 msgid "json"
-msgstr "json"
+msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:2773
 msgid "keystore"
@@ -7814,7 +7787,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:2258
 msgid "please wait..."
-msgstr "Por favor, aguarde…"
+msgstr ""
 
 #: electrum_dash/plugins/revealer/qt.py:726
 msgid "print the calibration pdf and follow the instructions "
@@ -7888,7 +7861,7 @@ msgstr ""
 #: electrum_dash/gui/qt/transaction_dialog.py:510
 #: electrum_dash/gui/qt/utxo_list.py:184 electrum_dash/wallet.py:1205
 msgid "unknown"
-msgstr "desconhecido"
+msgstr "ismeretlen"
 
 #: electrum_dash/commands.py:1154
 msgid "unknown parser {!r} (choices: {})"
@@ -7904,7 +7877,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:707
 msgid "watching only"
-msgstr "apenas visualização"
+msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:2733
 msgid "watching-only"

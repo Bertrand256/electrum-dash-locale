@@ -5,6 +5,7 @@
 #
 # Translators:
 # Leon White <leon.white@dash.org>, 2018
+# JZA <jza@oooes.org>, 2021
 #
 #, fuzzy
 msgid ""
@@ -13,23 +14,22 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-09-09 19:20+0300\n"
 "PO-Revision-Date: 2018-12-09 13:08+0000\n"
-"Last-Translator: Leon White <leon.white@dash.org>, 2018\n"
-"Language-Team: Portuguese (Portugal) (https://app.transifex.com/dash/"
-"teams/37570/pt_PT/)\n"
-"Language: pt_PT\n"
+"Last-Translator: JZA <jza@oooes.org>, 2021\n"
+"Language-Team: Spanish (https://app.transifex.com/dash/teams/37570/es/)\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % "
-"1000000 == 0 ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? "
+"1 : 2;\n"
 
 #: electrum_dash/exchange_rate.py:457
 msgid "  (No FX rate available)"
-msgstr "  (Sem a taxa FX disponível)"
+msgstr "  (No hay tasa de cambio disponible)"
 
 #: electrum_dash/gui/qt/history_list.py:345
 msgid " confirmation"
-msgstr ""
+msgstr "confirmación"
 
 #: electrum_dash/gui/qt/protx_qt.py:605
 #, python-format
@@ -48,12 +48,12 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:938
 msgid "&About"
-msgstr "&Sobre"
+msgstr "&Acerca de"
 
 #: electrum_dash/gui/qt/main_window.py:286
 #: electrum_dash/gui/qt/main_window.py:864
 msgid "&Addresses"
-msgstr "&Endereços"
+msgstr "Direcciones"
 
 #: electrum_dash/gui/qt/main_window.py:943
 msgid "&Automated Crash Reports"
@@ -81,15 +81,15 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:942
 msgid "&Documentation"
-msgstr "&Documentação"
+msgstr "&Documentación"
 
 #: electrum_dash/gui/qt/main_window.py:951
 msgid "&Donate to server"
-msgstr "&Doar ao servidor"
+msgstr "Donar al servidor"
 
 #: electrum_dash/gui/qt/main_window.py:924
 msgid "&Encrypt/decrypt message"
-msgstr "&Encriptar/desencriptar mensagem"
+msgstr "&Cifrar/descifrar mensaje"
 
 #: electrum_dash/gui/qt/main_window.py:859
 #: electrum_dash/gui/qt/main_window.py:870
@@ -99,13 +99,13 @@ msgstr "&Exportar"
 
 #: electrum_dash/gui/qt/main_window.py:839
 msgid "&File"
-msgstr "&Ficheiro"
+msgstr "&Archivo"
 
 #: electrum_dash/gui/qt/main_window.py:865
 #: electrum_dash/gui/qt/main_window.py:867
 #: electrum_dash/gui/qt/main_window.py:872
 msgid "&Filter"
-msgstr "&Filtro"
+msgstr "&Filtrar"
 
 #: electrum_dash/gui/qt/qrreader/qtmultimedia/camera_dialog.py:138
 msgid "&Flip horizontally"
@@ -113,27 +113,27 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:933
 msgid "&From QR code"
-msgstr "&De código QR"
+msgstr "&Desde código QR"
 
 #: electrum_dash/gui/qt/main_window.py:930
 msgid "&From file"
-msgstr "&De um ficheiro"
+msgstr "&Desde archivo"
 
 #: electrum_dash/gui/qt/main_window.py:931
 msgid "&From text"
-msgstr "&De texto"
+msgstr "&Desde texto"
 
 #: electrum_dash/gui/qt/main_window.py:932
 msgid "&From the blockchain"
-msgstr "&Da blockchain"
+msgstr "&De la cadena de bloques"
 
 #: electrum_dash/gui/qt/main_window.py:937
 msgid "&Help"
-msgstr "&Ajuda"
+msgstr "&Ayuda"
 
 #: electrum_dash/gui/qt/main_window.py:871
 msgid "&History"
-msgstr "&Histórico"
+msgstr "&Historial"
 
 #: electrum_dash/gui/qt/main_window.py:855
 #: electrum_dash/gui/qt/main_window.py:869
@@ -142,7 +142,7 @@ msgstr "&Importar"
 
 #: electrum_dash/gui/qt/main_window.py:849
 msgid "&Information"
-msgstr "&Informações"
+msgstr "&Información"
 
 #: electrum_dash/gui/qt/main_window.py:868
 msgid "&Labels"
@@ -150,23 +150,23 @@ msgstr "&Etiquetas"
 
 #: electrum_dash/gui/qt/main_window.py:929
 msgid "&Load transaction"
-msgstr "&Carregar transação"
+msgstr "&Cargar transacción"
 
 #: electrum_dash/gui/qt/main_window.py:920
 msgid "&Network"
-msgstr "&Rede"
+msgstr "&Red"
 
 #: electrum_dash/gui/qt/main_window.py:877
 msgid "&New"
-msgstr "&Novo"
+msgstr "&Nuevo"
 
 #: electrum_dash/gui/qt/main_window.py:842
 msgid "&New/Restore"
-msgstr "&Nova/Restaurar"
+msgstr "&Nueva/Restaurar"
 
 #: electrum_dash/gui/qt/main_window.py:940
 msgid "&Official website"
-msgstr "&Site oficial"
+msgstr "&Web oficial"
 
 #: electrum_dash/gui/qt/main_window.py:841
 msgid "&Open"
@@ -174,35 +174,35 @@ msgstr "&Abrir"
 
 #: electrum_dash/gui/qt/main_window.py:851
 msgid "&Password"
-msgstr "&Palavra-passe"
+msgstr "&Contraseña"
 
 #: electrum_dash/gui/qt/main_window.py:927
 msgid "&Pay to many"
-msgstr "&Pagar a vários"
+msgstr "&Pagar a varios"
 
 #: electrum_dash/gui/qt/main_window.py:874
 msgid "&Plot"
-msgstr "&Enredo"
+msgstr "Trazar"
 
 #: electrum_dash/gui/qt/main_window.py:921
 msgid "&Plugins"
-msgstr "&Plugins"
+msgstr "&Complementos"
 
 #: electrum_dash/gui/qt/main_window.py:853
 msgid "&Private keys"
-msgstr "&Chaves privadas"
+msgstr "&Llaves privadas"
 
 #: electrum_dash/gui/qt/main_window.py:846
 msgid "&Quit"
-msgstr "&Sair"
+msgstr "&Salir"
 
 #: electrum_dash/gui/qt/main_window.py:840
 msgid "&Recently open"
-msgstr "&Aberto recentemente"
+msgstr "&Recientemente abierto"
 
 #: electrum_dash/gui/qt/main_window.py:949
 msgid "&Report Bug"
-msgstr "&Relatar uma falha"
+msgstr "&Reportar error"
 
 #: electrum_dash/gui/qt/main_window.py:843
 msgid "&Save backup"
@@ -210,23 +210,23 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:852
 msgid "&Seed"
-msgstr "&Semente"
+msgstr "&Semilla"
 
 #: electrum_dash/gui/qt/main_window.py:923
 msgid "&Sign/verify message"
-msgstr "&Assinar/verificar a mensagem"
+msgstr "&Firmar/verificar mensaje"
 
 #: electrum_dash/gui/qt/main_window.py:873
 msgid "&Summary"
-msgstr "&Resumo"
+msgstr "&Resumen"
 
 #: electrum_dash/gui/qt/main_window.py:854
 msgid "&Sweep"
-msgstr "&Varrimento"
+msgstr "&Barrer"
 
 #: electrum_dash/gui/qt/main_window.py:909
 msgid "&Tools"
-msgstr "&Ferramentas"
+msgstr "&Herramientas"
 
 #: electrum_dash/gui/qt/main_window.py:897
 msgid "&View"
@@ -234,11 +234,11 @@ msgstr "&Ver"
 
 #: electrum_dash/gui/qt/main_window.py:848
 msgid "&Wallet"
-msgstr "&Carteira"
+msgstr "&Cartera"
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:606
 msgid "(Touch {} of {})"
-msgstr "(Touch {} of {})"
+msgstr "(Toque {} de {})"
 
 #: electrum_dash/plugins/virtualkeyboard/qt.py:15
 msgid "+"
@@ -246,7 +246,7 @@ msgstr "+"
 
 #: electrum_dash/invoices.py:60
 msgid "1 day"
-msgstr "1 dia"
+msgstr "1 día"
 
 #: electrum_dash/invoices.py:59
 msgid "1 hour"
@@ -258,7 +258,7 @@ msgstr "1 semana"
 
 #: electrum_dash/plugins/revealer/qt.py:456
 msgid "1. Place this paper on a flat and well iluminated surface."
-msgstr "1. Coloque esse papel em uma superfície reta e bem iluminada."
+msgstr "1. Ubique este papel en una superficie plana y bien iluminada."
 
 #: electrum_dash/invoices.py:58
 msgid "10 minutes"
@@ -268,8 +268,8 @@ msgstr ""
 msgid ""
 "2. Align your Revealer borderlines to the dashed lines on the top and left."
 msgstr ""
-"2. Alinhe as linhas de borda do Revealer com as linhas tracejadas na parte "
-"superior e esquerda."
+"2. Alinee los bordes de Revealer con las líneas punteadas en la parte "
+"superior e izquierda."
 
 #: electrum_dash/gui/qt/main_window.py:1659
 msgid "2fa fee: {} (for the next batch of transactions)"
@@ -280,36 +280,38 @@ msgid ""
 "3. Press slightly the Revealer against the paper and read the numbers that "
 "best match on the opposite sides. "
 msgstr ""
-"3. Pressione levemente o Revealer contra o papel e leia os números que "
-"melhor combinam com os lados opostos. "
+"3. Presione suavemente el Revealer contra el papel y lea los números que "
+"mejor coincidan en los lados opuestos. "
 
 #: electrum_dash/plugins/revealer/qt.py:460
 msgid "4. Type the numbers in the software"
-msgstr "4. Digite os números no software"
+msgstr "4. Escriba los números en el programa"
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:185
 msgid "A backup is saved automatically when generating a new wallet."
-msgstr "Um backup é salvo automaticamente quando gerado uma nova carteira."
+msgstr ""
+"Una copia es guardada automáticamente cuando se genera una nueva cartera."
 
 #: electrum_dash/gui/qt/main_window.py:799
 msgid "A copy of your wallet file was created in"
-msgstr "Uma cópia dos seu ficheiro de carteira foi criado em"
+msgstr "Una copia del archivo de tu cartera fue creado en"
 
 #: electrum_dash/gui/qt/installwizard.py:49
 msgid "A few examples"
-msgstr ""
+msgstr "Ejemplos"
 
 #: electrum_dash/plugin.py:518
 msgid "A library is probably missing."
-msgstr "Uma library provavelmente está faltando."
+msgstr "Falta probablemente una librería."
 
 #: electrum_dash/gui/qt/confirm_tx_dialog.py:152
 msgid ""
 "A suggested fee is automatically added to this field. You may override it. "
 "The suggested fee increases with the size of the transaction."
 msgstr ""
-"Uma taxa de transação sugerida será adicionada a este campo. Pode alterar a "
-"sugestão. A taxa sugerida aumenta com o tamanho da transação."
+"Una comisión recomendada es añadida automáticamente a este campo. Puede "
+"cambiarla. La comisión recomendada incrementa con el tamaño de la "
+"transacción."
 
 #: electrum_dash/dash_msg.py:134
 msgid "ACCEPTING_ENTRIES"
@@ -317,11 +319,11 @@ msgstr ""
 
 #: electrum_dash/gui/kivy/main.kv:496
 msgid "About"
-msgstr "Sobre"
+msgstr "Acerca de"
 
 #: electrum_dash/gui/kivy/uix/ui_screens/about.kv:4
 msgid "About Dash Electrum"
-msgstr "Sobre a Dash Electrum"
+msgstr "Acerca de Dash Electrum"
 
 #: electrum_dash/gui/kivy/uix/dialogs/privatesend.py:972
 #: electrum_dash/gui/qt/privatesend_dialog.py:709
@@ -330,12 +332,12 @@ msgstr ""
 
 #: electrum_dash/plugins/keepkey/qt.py:75
 msgid "Accept Word"
-msgstr "Palavra Aceita"
+msgstr "Aceptar Palabra"
 
 #: electrum_dash/gui/qt/history_list.py:678
 #: electrum_dash/gui/qt/history_list.py:856
 msgid "Acquisition price"
-msgstr "Preço de aquisição"
+msgstr "Precio de adquisición"
 
 #: electrum_dash/gui/kivy/uix/dialogs/dash_net.py:545
 #: electrum_dash/gui/qt/dash_net_dialog.py:131
@@ -350,7 +352,7 @@ msgstr ""
 #: electrum_dash/gui/kivy/uix/dialogs/installwizard.py:1279
 #: electrum_dash/gui/qt/installwizard.py:495
 msgid "Add Cosigner"
-msgstr "Adicionar cossignatário"
+msgstr "Añadir Cosigner"
 
 #: electrum_dash/gui/qt/protx_wizards.py:1722
 msgid "Add DIP3 Masternode - {}"
@@ -358,15 +360,16 @@ msgstr ""
 
 #: electrum_dash/base_wizard.py:219
 msgid "Add a cosigner to your multi-sig wallet"
-msgstr "Adicione um cosigner para sua carteira de multi assinatura"
+msgstr "Agregue un Cosigner a su cartera multifirma"
 
 #: electrum_dash/plugins/virtualkeyboard/__init__.py:4
 msgid "Add an optional virtual keyboard to the password dialog."
-msgstr "Adicione um teclado virtual opcional quando for digitar a senha."
+msgstr ""
+"Agregue un teclado virtual opcional al cuadro de diálogo de contraseña."
 
 #: electrum_dash/base_wizard.py:207
 msgid "Add cosigner"
-msgstr "Adicione um cosigner"
+msgstr "Agregar Cosigner"
 
 #: electrum_dash/plugins/scan_over_gap/scan_over_gap.py:99
 msgid "Add found coins to wallet"
@@ -378,7 +381,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/confirm_tx_dialog.py:157
 msgid "Additional fees"
-msgstr "Taxas adicionais"
+msgstr "Comisiones adicionales"
 
 #: electrum_dash/gui/qt/transaction_dialog.py:879
 msgid "Additional {} duffs are going to be added."
@@ -396,7 +399,7 @@ msgstr ""
 #: electrum_dash/gui/qt/address_list.py:156 electrum_dash/gui/qt/util.py:418
 #: electrum_dash/gui/qt/utxo_list.py:92
 msgid "Address"
-msgstr "Endereço"
+msgstr "Dirección"
 
 #: electrum_dash/gui/kivy/uix/dialogs/addresses.py:238
 msgid "Address Details"
@@ -404,7 +407,7 @@ msgstr ""
 
 #: electrum_dash/gui/kivy/main.kv:154
 msgid "Address copied to clipboard"
-msgstr "O endereço foi copiado para a área de transferência"
+msgstr "Dirección copiada al portapapeles"
 
 #: electrum_dash/gui/qt/utxo_list.py:200 electrum_dash/gui/qt/utxo_list.py:581
 msgid "Address is frozen"
@@ -417,19 +420,19 @@ msgstr ""
 #: electrum_dash/gui/qt/main_window.py:2910 electrum_dash/wallet.py:504
 #: electrum_dash/wallet.py:1917 electrum_dash/plugins/hw_wallet/plugin.py:132
 msgid "Address not in wallet."
-msgstr "Endereço não está na carteira."
+msgstr "La dirección no está en la cartera."
 
 #: electrum_dash/gui/text.py:105 electrum_dash/gui/kivy/main.kv:511
 #: electrum_dash/plugins/scan_over_gap/scan_over_gap.py:110
 msgid "Addresses"
-msgstr "Endereços"
+msgstr "Direcciones"
 
 #: electrum_dash/gui/qt/confirm_tx_dialog.py:176
 #: electrum_dash/plugins/trezor/qt.py:766
 #: electrum_dash/plugins/safe_t/qt.py:498
 #: electrum_dash/plugins/keepkey/qt.py:568
 msgid "Advanced"
-msgstr "Avançado"
+msgstr "Avanzado"
 
 #: electrum_dash/gui/qt/settings_dialog.py:212
 msgid "Advanced preview"
@@ -444,11 +447,6 @@ msgid ""
 "to create a new wallet with the install wizard.  You can use this wallet "
 "again at any time by re-enabling passphrases and entering its passphrase."
 msgstr ""
-"Depois de desabilitar as passphrases você só pode emparelhar essa carteira "
-"Dash Electrum se tiver uma passphrase vazia. Se a passphrase não estiver "
-"vazia, você precisará criar uma nova carteira com o assistente de "
-"instalação. Você pode usar essa carteira novamente a qualquer momento, "
-"reativando as passphrases e digitando sua passphrase."
 
 #: electrum_dash/gui/qt/protx_qt.py:200
 msgid "Alias"
@@ -462,7 +460,7 @@ msgstr ""
 #: electrum_dash/gui/qt/address_list.py:96 electrum_dash/gui/qt/utxo_list.py:59
 #: electrum_dash/gui/qt/utxo_list.py:73
 msgid "All"
-msgstr "Tudo"
+msgstr "Todo"
 
 #: electrum_dash/dash_ps_util.py:913
 msgid "Allow spend other PS coins"
@@ -482,7 +480,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/transaction_dialog.py:822
 msgid "Also, dust is not kept as change, but added to the fee."
-msgstr "Além disso, o dust não é mantido como change, mas adicionada à taxa."
+msgstr ""
 
 #: electrum_dash/gui/qt/installwizard.py:238
 msgid "Alternatively"
@@ -505,7 +503,7 @@ msgstr ""
 #: electrum_dash/gui/qt/history_list.py:685
 #: electrum_dash/gui/qt/request_list.py:61 electrum_dash/gui/qt/utxo_list.py:96
 msgid "Amount"
-msgstr "Quantia"
+msgstr "Cantidad"
 
 #: electrum_dash/gui/qt/main_window.py:1521
 msgid "Amount available for current send options"
@@ -521,37 +519,37 @@ msgstr ""
 
 #: electrum_dash/gui/qt/transaction_dialog.py:496
 msgid "Amount received:"
-msgstr "Quantia recebida:"
+msgstr "Cantidad recibida"
 
 #: electrum_dash/gui/qt/transaction_dialog.py:498
 msgid "Amount sent:"
-msgstr "Quantia enviada:"
+msgstr "Cantidad enviada"
 
 #: electrum_dash/gui/qt/confirm_tx_dialog.py:147
 msgid "Amount to be sent"
-msgstr "Quantia a enviar"
+msgstr "Cantidad a enviar"
 
 #: electrum_dash/gui/qt/main_window.py:1538
 msgid "Amount to be sent."
-msgstr "Quantia a ser enviada."
+msgstr "Cantidad a enviar."
 
 #: electrum_dash/gui/qt/exception_window.py:55
 msgid "An Error Occurred"
-msgstr "Ocorreu Um Erro"
+msgstr "Se ha producido un error"
 
 #: electrum_dash/plugins/cosigner_pool/qt.py:224
 #: electrum_dash/plugins/cosigner_pool/qt.py:229
 #: electrum_dash/plugins/cosigner_pool/qt.py:235
 msgid "An encrypted transaction was retrieved from cosigning pool."
-msgstr "Uma transação criptografada foi recuperada do cosigning pool."
+msgstr ""
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:181
 msgid "An uninitialized Digital Bitbox is detected."
-msgstr "Um Digital Bitbox não inicializado, foi detectado."
+msgstr ""
 
 #: electrum_dash/plugin.py:671 electrum_dash/base_wizard.py:355
 msgid "An unnamed {}"
-msgstr "Um sem nome {}"
+msgstr ""
 
 #: electrum_dash/plugins/trezor/qt.py:647
 #: electrum_dash/plugins/safe_t/qt.py:379
@@ -583,29 +581,28 @@ msgstr ""
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:314
 msgid "Are you sure you want to erase the Digital Bitbox?"
-msgstr "Você tem certeza que deseja apagar o Digital Bitbox?"
+msgstr ""
 
 #: electrum_dash/plugins/trezor/qt.py:541
 #: electrum_dash/plugins/safe_t/qt.py:273
 #: electrum_dash/plugins/keepkey/qt.py:397
 msgid "Are you sure you want to proceed?"
-msgstr "Tem certeza que deseja prosseguir?"
+msgstr "¿Está seguro que desea proceder?"
 
 #: electrum_dash/gui/kivy/uix/dialogs/tx_dialog.py:234
 #: electrum_dash/gui/qt/history_list.py:1060
 msgid ""
 "Are you sure you want to remove this transaction and {} child transactions?"
 msgstr ""
-"Você tem certeza que deseja remover esta transação e {} as transações filhas?"
 
 #: electrum_dash/gui/kivy/uix/dialogs/tx_dialog.py:232
 #: electrum_dash/gui/qt/history_list.py:1058
 msgid "Are you sure you want to remove this transaction?"
-msgstr "Tem certeza que deseja remover esta transação?"
+msgstr "¿Seguro que quieres borrar esta transacción?"
 
 #: electrum_dash/i18n.py:64
 msgid "Armenian"
-msgstr "Armênio"
+msgstr "Armenio"
 
 #: electrum_dash/gui/qt/transaction_dialog.py:485
 msgid "At block height: {}"
@@ -621,19 +618,19 @@ msgstr ""
 
 #: electrum_dash/plugins/audio_modem/__init__.py:3
 msgid "Audio MODEM"
-msgstr ""
+msgstr "Audio MODEM"
 
 #: electrum_dash/plugins/audio_modem/qt.py:55
 msgid "Audio Modem Settings"
-msgstr ""
+msgstr "Opciones del Audio Modem"
 
 #: electrum_dash/gui/qt/installwizard.py:842
 msgid "Auto connect"
-msgstr "Ligar automaticamente"
+msgstr "Conectar automáticamente"
 
 #: electrum_dash/gui/kivy/uix/ui_screens/network.kv:44
 msgid "Auto-connect"
-msgstr "Ligar automaticamente"
+msgstr "Conectar automáticamente"
 
 #: electrum_dash/gui/qt/settings_dialog.py:189
 msgid "Automatically check for software updates"
@@ -649,19 +646,23 @@ msgstr ""
 
 #: electrum_dash/gui/qt/seed_dialog.py:74
 msgid "BIP39 seed"
-msgstr "Semente BIP39"
+msgstr "Semilla BIP39"
 
 #: electrum_dash/gui/qt/seed_dialog.py:95
 msgid ""
 "BIP39 seeds can be imported in Dash Electrum, so that users can access funds "
 "locked in other wallets."
 msgstr ""
+"Las semillas BIP39 se pueden importar en Dash Electrum, de forma que los "
+"usuarios pueden acceder a fondos bloqueados en otras billeteras."
 
 #: electrum_dash/gui/qt/seed_dialog.py:97
 msgid ""
 "BIP39 seeds do not include a version number, which compromises compatibility "
 "with future software."
 msgstr ""
+"No obstante, las semillas BIP39 no incluyen un número de versión, esto "
+"compromete la compatibilidad con futuras actualizaciones del programa."
 
 #: electrum_dash/gui/qt/main_window.py:2520
 msgid "BIP70 invoice saved as {}"
@@ -693,7 +694,7 @@ msgstr ""
 #: electrum_dash/gui/qt/installwizard.py:169
 #: electrum_dash/gui/qt/installwizard.py:170
 msgid "Back"
-msgstr "Voltar"
+msgstr "Atrás"
 
 #: electrum_dash/gui/kivy/main_window.py:1572
 msgid "Backup NOT saved. Backup directory not configured."
@@ -744,11 +745,11 @@ msgstr "Banner"
 
 #: electrum_dash/gui/qt/settings_dialog.py:124
 msgid "Base unit"
-msgstr "Unidade base"
+msgstr "Unidad base"
 
 #: electrum_dash/gui/qt/settings_dialog.py:121
 msgid "Base unit of your wallet."
-msgstr "Unidade base da sua carteira."
+msgstr "Unidad base de tu cartera."
 
 #: electrum_dash/gui/qt/invoice_list.py:155
 msgid "Batch pay invoices"
@@ -759,9 +760,9 @@ msgid ""
 "Before reporting a bug, upgrade to the most recent version of Dash Electrum "
 "(latest release or git HEAD), and include the version number in your report."
 msgstr ""
-"Antes de reportar um erro, atualize para a versão mais recente do Dash "
-"Electrum (versão mais recente ou git HEAD) e inclua o número da versão no "
-"seu relatório."
+"Antes de informar de un error, actualice a la versión más reciente de Dash "
+"Electrum (última versión o git HEAD), e incluya el número de versión en el "
+"informe."
 
 #: electrum_dash/gui/qt/history_list.py:837
 msgid "Begin"
@@ -769,7 +770,7 @@ msgstr ""
 
 #: electrum_dash/plugins/audio_modem/qt.py:58
 msgid "Bit rate [kbps]: "
-msgstr ""
+msgstr "Bit rate [kbps]: "
 
 #: electrum_dash/gui/qt/locktimeedit.py:36
 msgid "Block height"
@@ -778,21 +779,21 @@ msgstr ""
 #: electrum_dash/gui/kivy/uix/ui_screens/network.kv:58
 #: electrum_dash/gui/qt/network_dialog.py:315
 msgid "Blockchain"
-msgstr "Blockchain"
+msgstr "Cadena de bloques"
 
 #: electrum_dash/plugins/trezor/qt.py:624
 #: electrum_dash/plugins/safe_t/qt.py:356
 #: electrum_dash/plugins/keepkey/qt.py:448
 msgid "Bootloader Hash"
-msgstr ""
+msgstr "Bootloader Hash"
 
 #: electrum_dash/plugins/revealer/qt.py:742
 msgid "Bottom"
-msgstr "Inferior"
+msgstr "Parte inferior"
 
 #: electrum_dash/i18n.py:73
 msgid "Brasilian"
-msgstr "Brasileiro"
+msgstr "Brasileño"
 
 #: electrum_dash/gui/kivy/uix/dialogs/tx_dialog.py:202
 #: electrum_dash/gui/qt/transaction_dialog.py:169
@@ -801,7 +802,7 @@ msgstr "Transmitir"
 
 #: electrum_dash/gui/qt/main_window.py:2234
 msgid "Broadcasting transaction..."
-msgstr "A transmitir a transação..."
+msgstr "Transmitiendo la transacción..."
 
 #: electrum_dash/i18n.py:52
 msgid "Bulgarian"
@@ -817,11 +818,11 @@ msgstr "CSV"
 
 #: electrum_dash/plugins/revealer/qt.py:450
 msgid "Calibration sheet"
-msgstr ""
+msgstr "Hoja de calibraciones"
 
 #: electrum_dash/plugins/revealer/qt.py:734
 msgid "Calibration values:"
-msgstr ""
+msgstr "Valores de calibración:"
 
 #: electrum_dash/dash_ps_util.py:1259
 msgid ""
@@ -853,7 +854,7 @@ msgstr "Cancelar"
 #: electrum_dash/plugins/ledger/ledger.py:404
 #: electrum_dash/plugins/ledger/ledger.py:583
 msgid "Cancelled by user"
-msgstr ""
+msgstr "Cancelado por el usuario"
 
 #: electrum_dash/base_wizard.py:629
 msgid "Cannot add this cosigner:"
@@ -861,21 +862,21 @@ msgstr ""
 
 #: electrum_dash/gui/kivy/main_window.py:1374
 msgid "Cannot broadcast transaction"
-msgstr "Não é possivel transmitir transacção"
+msgstr "No se puede transmitir la transacción"
 
 #: electrum_dash/gui/qt/__init__.py:344
 msgid "Cannot create window for wallet"
-msgstr ""
+msgstr "No se puede crear la ventana para la cartera"
 
 #: electrum_dash/gui/qt/__init__.py:317 electrum_dash/gui/qt/__init__.py:329
 msgid "Cannot load wallet"
-msgstr ""
+msgstr "No se puede cargar la cartera"
 
 #: electrum_dash/gui/qt/installwizard.py:271
 #: electrum_dash/gui/qt/installwizard.py:274
 #: electrum_dash/gui/qt/installwizard.py:297
 msgid "Cannot read file"
-msgstr "Não é possível ler o ficheiro"
+msgstr "No se puede leer el archivo"
 
 #: electrum_dash/gui/kivy/main_window.py:1578
 msgid "Cannot save backup without STORAGE permission"
@@ -883,7 +884,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:2917
 msgid "Cannot sign messages with this type of address:"
-msgstr ""
+msgstr "No se puede firmar mensajes con este tipo de dirección:"
 
 #: electrum_dash/gui/qt/qrreader/qtmultimedia/camera_dialog.py:335
 msgid "Cannot start QR scanner, camera is unavailable."
@@ -903,7 +904,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/history_list.py:679
 msgid "Capital Gains"
-msgstr ""
+msgstr "Incrementos de Capital"
 
 #: electrum_dash/gui/qt/history_list.py:877
 msgid "Cash flow"
@@ -921,7 +922,7 @@ msgstr ""
 #: electrum_dash/gui/qt/address_list.py:72
 #: electrum_dash/plugins/scan_over_gap/scan_over_gap.py:74
 msgid "Change"
-msgstr "Troco"
+msgstr "Cambio"
 
 #: electrum_dash/gui/qt/transaction_dialog.py:145
 msgid "Change Address"
@@ -931,13 +932,13 @@ msgstr ""
 #: electrum_dash/plugins/safe_t/qt.py:231
 #: electrum_dash/plugins/keepkey/qt.py:353
 msgid "Change PIN"
-msgstr "Alterar PIN"
+msgstr "Cambiar el código PIN"
 
 #: electrum_dash/gui/qt/privatesend_dialog.py:847
 #: electrum_dash/gui/qt/privatesend_dialog.py:911
 #: electrum_dash/gui/qt/password_dialog.py:63
 msgid "Change Password"
-msgstr "Mudar senha"
+msgstr "Cambiar Contraseña"
 
 #: electrum_dash/dash_tx.py:572
 msgid "Change of Keys"
@@ -946,7 +947,7 @@ msgstr ""
 #: electrum_dash/plugins/trezor/qt.py:671
 #: electrum_dash/plugins/safe_t/qt.py:403
 msgid "Change..."
-msgstr "Trocar..."
+msgstr "Cambiando..."
 
 #: electrum_dash/dash_ps_util.py:984
 msgid "Check Log For Errors"
@@ -964,20 +965,20 @@ msgstr ""
 
 #: electrum_dash/i18n.py:85
 msgid "Chinese Simplified"
-msgstr "Chinês (Simplificado)"
+msgstr "Chino (simplificado)"
 
 #: electrum_dash/i18n.py:86
 msgid "Chinese Traditional"
-msgstr "Chinês (Tradicional)"
+msgstr "Chino (tradicional)"
 
 #: electrum_dash/plugins/trezor/qt.py:549
 #: electrum_dash/plugins/safe_t/qt.py:281
 msgid "Choose Homescreen"
-msgstr "Escolha a Tela Inicial"
+msgstr "Elige la pantalla de inicio"
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:330
 msgid "Choose a backup file:"
-msgstr "Escolha o arquivo de backup:"
+msgstr "Selecciona el archivo de respaldo:"
 
 #: electrum_dash/gui/kivy/uix/dialogs/installwizard.py:1322
 msgid "Choose a password"
@@ -985,11 +986,11 @@ msgstr ""
 
 #: electrum_dash/gui/qt/installwizard.py:42
 msgid "Choose a password to encrypt your wallet keys."
-msgstr "Escolha uma palavra-passe para encriptar as chaves da sua carteira."
+msgstr "Elija una contraseña para cifrar las llaves de su cartera."
 
 #: electrum_dash/gui/kivy/main_window.py:170
 msgid "Choose a server"
-msgstr "Escolha um servidor"
+msgstr "Elige un servidor"
 
 #: electrum_dash/gui/qt/bip39_recovery_dialog.py:60
 msgid "Choose an account to restore."
@@ -1000,17 +1001,17 @@ msgid ""
 "Choose coin (UTXO) selection method.  The following are available:\n"
 "\n"
 msgstr ""
-"Escolha o método de seleção de moeda (UTXO). Estão disponíveis os "
-"seguintes:\n"
+"Elija el método de selección de monedas (UTXO). Los siguientes están "
+"disponibles:\n"
 "\n"
 
 #: electrum_dash/gui/kivy/uix/ui_screens/server.kv:30
 msgid "Choose from peers"
-msgstr "Escolher a partir da galeria"
+msgstr "Elija de la lista"
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:245
 msgid "Choose how to initialize your Digital Bitbox:"
-msgstr "Escolha como inicializar o seu Digital Bitbox:"
+msgstr ""
 
 #: electrum_dash/plugins/trezor/trezor.py:214
 msgid "Choose how you want to initialize your {}."
@@ -1037,8 +1038,7 @@ msgstr ""
 #: electrum_dash/gui/qt/installwizard.py:888
 msgid "Choose the number of signatures needed to unlock funds in your wallet:"
 msgstr ""
-"Escolha o número de assinaturas necessárias para desbloquear fundos na sua "
-"carteira:"
+"Elija el número de firmas necesarias para desbloquear fondos en su cartera:"
 
 #: electrum_dash/base_wizard.py:413
 msgid "Choose the type of addresses in your wallet."
@@ -1049,16 +1049,16 @@ msgid ""
 "Choose which online block explorer to use for functions that open a web "
 "browser"
 msgstr ""
-"Selecione qual o explorador de blocos online a usar para funções que abrem "
-"um navegador web"
+"Elija cual explorador de bloques en línea utilizar para funciones que abren "
+"un navegador web"
 
 #: electrum_dash/gui/kivy/main_window.py:195
 msgid "Choose your chain"
-msgstr "Selecione a sua cadeia"
+msgstr "Elige tu cadena"
 
 #: electrum_dash/gui/qt/installwizard.py:221
 msgid "Choose..."
-msgstr "Selecionar..."
+msgstr "Elegir..."
 
 #: electrum_dash/dash_ps_util.py:982
 msgid "Cleaning PS Data ..."
@@ -1068,7 +1068,7 @@ msgstr ""
 #: electrum_dash/gui/qt/main_window.py:1274
 #: electrum_dash/gui/qt/main_window.py:1559
 msgid "Clear"
-msgstr "Limpar"
+msgstr "Borrar"
 
 #: electrum_dash/gui/qt/privatesend_dialog.py:812
 msgid "Clear Log"
@@ -1105,7 +1105,7 @@ msgstr ""
 
 #: electrum_dash/gui/kivy/uix/screens.py:444
 msgid "Clipboard is empty"
-msgstr ""
+msgstr "El portapapeles está vacío"
 
 #: electrum_dash/gui/kivy/uix/ui_screens/about.kv:54
 #: electrum_dash/gui/kivy/uix/dialogs/qr_dialog.py:83
@@ -1119,7 +1119,7 @@ msgstr ""
 #: electrum_dash/gui/qt/privatesend_dialog.py:249
 #: electrum_dash/gui/qt/privatesend_dialog.py:280
 msgid "Close"
-msgstr "Fechar"
+msgstr "Cerrar"
 
 #: electrum_dash/gui/qt/dash_qt.py:72
 msgid "Close wallet"
@@ -1127,7 +1127,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:287
 msgid "Co&ins"
-msgstr "Mo&edas"
+msgstr "Monedas"
 
 #: electrum_dash/gui/qt/utxo_list.py:478
 msgid "Coin control active"
@@ -1144,7 +1144,7 @@ msgstr ""
 #: electrum_dash/gui/kivy/uix/dialogs/settings.py:169
 #: electrum_dash/gui/qt/settings_dialog.py:259
 msgid "Coin selection"
-msgstr "Seleção de moeda"
+msgstr "Selección de moneda"
 
 #: electrum_dash/gui/qt/transaction_dialog.py:579
 msgid "Coin selection active ({} UTXOs selected)"
@@ -1177,7 +1177,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/settings_dialog.py:163
 msgid "Color theme"
-msgstr ""
+msgstr "Color del tema"
 
 #: electrum_dash/gui/qt/transaction_dialog.py:204
 msgid "Combine"
@@ -1201,37 +1201,37 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:290
 msgid "Con&sole"
-msgstr "Con&sola"
+msgstr "Consola"
 
 #: electrum_dash/gui/qt/main_window.py:288
 msgid "Con&tacts"
-msgstr "Con&tactos"
+msgstr "Contactos"
 
 #: electrum_dash/plugins/trezor/qt.py:589
 #: electrum_dash/plugins/safe_t/qt.py:321
 #: electrum_dash/plugins/keepkey/qt.py:411
 msgid "Confirm Device Wipe"
-msgstr "Confirme a limpeza do dispositivo"
+msgstr ""
 
 #: electrum_dash/gui/qt/password_dialog.py:90
 #: electrum_dash/plugins/trezor/qt.py:194
 msgid "Confirm Passphrase:"
-msgstr "Confirme Frase-passe:"
+msgstr "Confirmar contraseña:"
 
 #: electrum_dash/gui/qt/password_dialog.py:105
 msgid "Confirm Password:"
-msgstr "Confirme Palavra-passe:"
+msgstr "Confirmar contraseña:"
 
 #: electrum_dash/gui/kivy/uix/dialogs/installwizard.py:1248
 #: electrum_dash/gui/qt/installwizard.py:518
 #: electrum_dash/gui/qt/privatesend_dialog.py:1135
 msgid "Confirm Seed"
-msgstr "Confirme Semente"
+msgstr "Confirmar semilla"
 
 #: electrum_dash/gui/qt/privatesend_dialog.py:1180
 #: electrum_dash/base_wizard.py:796
 msgid "Confirm Seed Extension"
-msgstr "Confirme a extensão da semente"
+msgstr ""
 
 #: electrum_dash/plugins/trezor/qt.py:527
 #: electrum_dash/plugins/safe_t/qt.py:259
@@ -1258,7 +1258,7 @@ msgstr ""
 
 #: electrum_dash/gui/kivy/uix/dialogs/password_dialog.py:300
 msgid "Confirm new PIN"
-msgstr "Confirme novo PIN"
+msgstr "Confirmar nuevo PIN"
 
 #: electrum_dash/gui/kivy/uix/dialogs/password_dialog.py:269
 msgid "Confirm new password"
@@ -1359,7 +1359,7 @@ msgstr ""
 
 #: electrum_dash/gui/kivy/uix/ui_screens/network.kv:65
 msgid "Connected nodes are on the same chain"
-msgstr ""
+msgstr "Nodos conectados en la misma cadena"
 
 #: electrum_dash/gui/qt/network_dialog.py:367
 #, python-brace-format
@@ -1373,7 +1373,7 @@ msgstr ""
 
 #: electrum_dash/gui/kivy/uix/ui_screens/network.kv:16
 msgid "Connections with Dash Electrum servers"
-msgstr ""
+msgstr "Conexiones a servidores Dash Electrum"
 
 #: electrum_dash/network.py:203 electrum_dash/network.py:211
 #: electrum_dash/network.py:219
@@ -1422,13 +1422,15 @@ msgstr ""
 
 #: electrum_dash/gui/qt/util.py:191
 msgid "Copy and Close"
-msgstr "Copiar e Fechar"
+msgstr "Copiar y cerrar"
 
 #: electrum_dash/gui/kivy/uix/ui_screens/send.kv:97
 msgid ""
 "Copy and paste the recipient address using the Paste button, or use the "
 "camera to scan a QR code."
 msgstr ""
+"Copiar y pegar la dirección del destinatario usando el botón de pegar, o usa "
+"la cámara para escanear el código QR."
 
 #: electrum_dash/gui/qt/privatesend_dialog.py:73
 msgid "Copy filtered"
@@ -1437,7 +1439,7 @@ msgstr ""
 #: electrum_dash/gui/qt/transaction_dialog.py:289
 #: electrum_dash/gui/qt/util.py:816
 msgid "Copy to clipboard"
-msgstr "Copiar para a área de transferência"
+msgstr "Copiar al portapapeles"
 
 #: electrum_dash/gui/qt/contact_list.py:84
 msgid "Copy {}"
@@ -1459,12 +1461,12 @@ msgstr ""
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:497
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:510
 msgid "Could not sign message"
-msgstr ""
+msgstr "No se pudo firmar el mensaje"
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:474
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:487
 msgid "Could not sign message."
-msgstr ""
+msgstr "No se pudo firmar el mensaje."
 
 #: electrum_dash/dash_ps_util.py:806
 msgid "Count of PrivateSend mixing session"
@@ -1484,7 +1486,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/exception_window.py:110
 msgid "Crash report"
-msgstr ""
+msgstr "Informe de fallo"
 
 #: electrum_dash/gui/kivy/uix/dialogs/coins_dialog.py:288
 #: electrum_dash/gui/qt/utxo_list.py:543
@@ -1507,7 +1509,7 @@ msgstr ""
 #: electrum_dash/gui/qt/privatesend_dialog.py:1036
 #: electrum_dash/base_wizard.py:212
 msgid "Create a new seed"
-msgstr ""
+msgstr "Crear nueva semilla"
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:225
 msgid "Create a wallet using the current seed"
@@ -1545,15 +1547,15 @@ msgstr ""
 
 #: electrum_dash/gui/qt/util.py:244
 msgid "Critical Error"
-msgstr "Erro Crítico"
+msgstr "Error crítico"
 
 #: electrum_dash/gui/qt/password_dialog.py:107
 msgid "Current Password:"
-msgstr "Palavra-passe Atual:"
+msgstr "Contraseña actual:"
 
 #: electrum_dash/gui/qt/fee_slider.py:58
 msgid "Current rate"
-msgstr "Taxa atual"
+msgstr "Tasa actual"
 
 #: electrum_dash/gui/qt/update_checker.py:50
 msgid "Current version: {}"
@@ -1570,7 +1572,7 @@ msgstr ""
 #: electrum_dash/gui/qt/history_list.py:740
 #: electrum_dash/gui/qt/history_list.py:767
 msgid "Custom"
-msgstr "Personalizar"
+msgstr "Personalizado"
 
 #: electrum_dash/gui/qt/settings_dialog.py:292
 msgid "Custom URL"
@@ -1578,11 +1580,11 @@ msgstr ""
 
 #: electrum_dash/plugins/revealer/qt.py:388
 msgid "Custom secret"
-msgstr ""
+msgstr "Secreto personalizado"
 
 #: electrum_dash/i18n.py:53
 msgid "Czech"
-msgstr "Tcheco"
+msgstr "Checo (Čeština)"
 
 #: electrum_dash/gui/qt/protx_qt.py:599 electrum_dash/gui/qt/protx_qt.py:621
 msgid "DIP3 Masternodes is currently disabled."
@@ -1590,15 +1592,15 @@ msgstr ""
 
 #: electrum_dash/i18n.py:54
 msgid "Danish"
-msgstr ""
+msgstr "Danés"
 
 #: electrum_dash/gui/qt/settings_dialog.py:160
 msgid "Dark"
-msgstr ""
+msgstr "Oscuro"
 
 #: electrum_dash/gui/qt/__init__.py:180
 msgid "Dark/Light"
-msgstr "Escuro/Claro"
+msgstr "Luz/Oscuridad"
 
 #: electrum_dash/gui/kivy/uix/ui_screens/receive.kv:94
 msgid "Dash Address"
@@ -1614,7 +1616,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:3502
 msgid "Dash Electrum Plugins"
-msgstr "Plugins do Dash Electrum"
+msgstr "Complementos de Dash Electrum"
 
 #: electrum_dash/plugin.py:578
 msgid ""
@@ -1633,18 +1635,23 @@ msgid ""
 "pick one at random.  However if you prefer feel free to select a server "
 "manually."
 msgstr ""
+"Dash Electrum se comunica con servidores remotos para recibir información "
+"acerca de tus transacciones y direcciones. Los servidores todos cumplen la "
+"misma función y sólo se diferencian en el hardware. En la mayoría de los "
+"casos simplemente podrás dejar a Dash Electrum elegir uno al azar. Aunque si "
+"lo prefieres puedes elegir un servidor manualmente."
 
 #: electrum_dash/gui/qt/network_dialog.py:286
 msgid ""
 "Dash Electrum connects to several nodes in order to download block headers "
 "and find out the longest blockchain."
 msgstr ""
-"O Dash Electrum liga-se a vários nós de forma a descarregar os cabeçalhos de "
-"blocos e descobrir qual é a blockchain mais longa."
+"Dash Electrum se conecta a varios nodos con el fin de descargar las "
+"cabezeras de bloques y encontrar la cadena de bloques más larga."
 
 #: electrum_dash/gui/qt/main_window.py:918
 msgid "Dash Electrum preferences"
-msgstr "Preferências do Dash Electrum"
+msgstr "Preferencias de Dash Electrum"
 
 #: electrum_dash/gui/kivy/uix/ui_screens/server.kv:9
 msgid ""
@@ -1652,47 +1659,51 @@ msgid ""
 "returned history is checked against blockchain headers sent by other nodes, "
 "using Simple Payment Verification (SPV)."
 msgstr ""
+"Dash Electrum solicita tu historial de transacciones a un único servidor. El "
+"historial que te envía éste es verificado con las cabeceras de la cadena de "
+"bloques que son enviadas por otros nodos usando Simple Payment Verification "
+"(SPV)."
 
 #: electrum_dash/gui/qt/network_dialog.py:308
 msgid ""
 "Dash Electrum sends your wallet addresses to a single server, in order to "
 "receive your transaction history."
 msgstr ""
-"O Dash Electrum envia os endereços da sua carteira para um único servidor, "
-"de forma a receber o seu histórico de transação."
+"Dash Electrum envía las direcciones de tu cartera a un único servidor, para "
+"poder recibir tu historial de transacciones."
 
 #: electrum_dash/gui/qt/installwizard.py:247
 msgid "Dash Electrum wallet"
-msgstr "Carteira Dash Electrum"
+msgstr "Cartera Dash Electrum"
 
 #: electrum_dash/gui/qt/main_window.py:797
 msgid ""
 "Dash Electrum was unable to copy your wallet file to the specified location."
 msgstr ""
-"O Dash Electrum não conseguiu copiar os seu ficheiro de carteira para a "
-"localização especificada."
+"Dash Electrum no ha podido copiar el archivo de tu cartera en la "
+"localización especificada."
 
 #: electrum_dash/gui/qt/transaction_dialog.py:92
 #: electrum_dash/plugins/cosigner_pool/qt.py:254
 msgid "Dash Electrum was unable to deserialize the transaction:"
-msgstr ""
+msgstr "Dash Electrum no ha podido analizar la transacción:"
 
 #: electrum_dash/gui/qt/main_window.py:3110
 msgid "Dash Electrum was unable to open your transaction file"
-msgstr "O Dash Electrum não conseguiu abrir o seu ficheiro de transações"
+msgstr "Dash Electrum no ha podido abrir tu archivo de transacción"
 
 #: electrum_dash/gui/qt/main_window.py:3072
 msgid "Dash Electrum was unable to parse your transaction"
-msgstr "O Dash Electrum não conseguiu analisar a sua transação"
+msgstr "Dash Electrum no ha podido analizar tu transacción"
 
 #: electrum_dash/gui/qt/main_window.py:3246
 msgid "Dash Electrum was unable to produce a private key-export."
 msgstr ""
-"O Dash Electrum não conseguiu produzir uma exportação da chave privada."
+"Dash Electrum no ha podido reproducir una llave de exportación privada."
 
 #: electrum_dash/gui/qt/history_list.py:1102
 msgid "Dash Electrum was unable to produce a transaction export."
-msgstr "O Dash Electrum não conseguiu produzir uma exportação da transação."
+msgstr "Dash Electrum no ha podido exportar tus transacciones."
 
 #: electrum_dash/gui/qt/main_window.py:3596
 msgid "Dash Electrum will now exit."
@@ -1739,7 +1750,7 @@ msgstr ""
 #: electrum_dash/gui/qt/history_list.py:840
 #: electrum_dash/gui/qt/request_list.py:59 electrum_dash/gui/qt/utxo_list.py:91
 msgid "Date"
-msgstr "Data"
+msgstr "Fecha"
 
 #: electrum_dash/gui/qt/transaction_dialog.py:466
 msgid "Date: {}"
@@ -1752,11 +1763,11 @@ msgstr ""
 
 #: electrum_dash/base_wizard.py:346
 msgid "Debug message"
-msgstr ""
+msgstr "Mensaje de depuración"
 
 #: electrum_dash/gui/qt/main_window.py:3050
 msgid "Decrypt"
-msgstr "Desencriptar"
+msgstr "Descifrar"
 
 #: electrum_dash/gui/kivy/main_window.py:1610
 msgid "Decrypt your private key?"
@@ -1765,7 +1776,7 @@ msgstr ""
 #: electrum_dash/gui/kivy/uix/dialogs/dash_net.py:723
 #: electrum_dash/gui/qt/dash_net_dialog.py:147 electrum_dash/i18n.py:50
 msgid "Default"
-msgstr "Padrão"
+msgstr "Predeterminado"
 
 #: electrum_dash/gui/kivy/uix/ui_screens/status.kv:62
 #: electrum_dash/gui/qt/invoice_list.py:176
@@ -1773,11 +1784,11 @@ msgstr "Padrão"
 #: electrum_dash/gui/qt/contact_list.py:92
 #: electrum_dash/gui/qt/request_list.py:205
 msgid "Delete"
-msgstr "Apagar"
+msgstr "Eliminar"
 
 #: electrum_dash/gui/kivy/uix/dialogs/invoice_dialog.py:141
 msgid "Delete invoice?"
-msgstr "Apagar fatura?"
+msgstr "¿Borrar factura?"
 
 #: electrum_dash/gui/qt/invoice_list.py:156
 msgid "Delete invoices"
@@ -1793,11 +1804,11 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:2820
 msgid "Delete wallet file?"
-msgstr "Apagar a carteira?"
+msgstr "¿Borrar el archivo de la cartera?"
 
 #: electrum_dash/gui/kivy/main_window.py:1460
 msgid "Delete wallet?"
-msgstr "Apagar carteira?"
+msgstr "¿Eliminar cartera?"
 
 #: electrum_dash/dash_ps.py:581 electrum_dash/dash_ps.py:586
 msgid "Denominate workflow: {}"
@@ -1809,7 +1820,7 @@ msgstr ""
 
 #: electrum_dash/gui/kivy/uix/dialogs/settings.py:155
 msgid "Denomination"
-msgstr "Denominação"
+msgstr "Denominación"
 
 #: electrum_dash/gui/qt/privatesend_dialog.py:741
 msgid "Denoms"
@@ -1845,18 +1856,18 @@ msgstr ""
 #: electrum_dash/gui/qt/history_list.py:684
 #: electrum_dash/gui/qt/request_list.py:60
 msgid "Description"
-msgstr "Descrição"
+msgstr "Descripción"
 
 #: electrum_dash/gui/qt/main_window.py:1511
 msgid "Description of the transaction (not mandatory)."
-msgstr "Descrição da transação (não obrigatório)."
+msgstr "Descripción de la transacción (opcional)."
 
 #: electrum_dash/gui/qt/protx_qt.py:682 electrum_dash/gui/qt/protx_qt.py:818
 #: electrum_dash/gui/qt/invoice_list.py:170
 #: electrum_dash/gui/qt/address_list.py:541
 #: electrum_dash/gui/qt/utxo_list.py:551
 msgid "Details"
-msgstr "Detalhes"
+msgstr "Detalles"
 
 #: electrum_dash/gui/qt/installwizard.py:745
 msgid "Detect Existing Accounts"
@@ -1872,13 +1883,13 @@ msgstr ""
 
 #: electrum_dash/gui/kivy/uix/ui_screens/about.kv:35
 msgid "Developers"
-msgstr "Desenvolvedores"
+msgstr "Desarrolladores"
 
 #: electrum_dash/plugins/trezor/qt.py:623
 #: electrum_dash/plugins/safe_t/qt.py:355
 #: electrum_dash/plugins/keepkey/qt.py:447
 msgid "Device ID"
-msgstr "ID do dispositivo"
+msgstr "ID de dispositivo"
 
 #: electrum_dash/plugins/trezor/qt.py:619
 #: electrum_dash/plugins/trezor/qt.py:643
@@ -1887,7 +1898,7 @@ msgstr "ID do dispositivo"
 #: electrum_dash/plugins/keepkey/qt.py:443
 #: electrum_dash/plugins/keepkey/qt.py:468
 msgid "Device Label"
-msgstr "Etiqueta do dispositivo"
+msgstr "Etiqueta del dispositivo"
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:128
 msgid ""
@@ -1910,19 +1921,19 @@ msgstr ""
 #: electrum_dash/plugins/safe_t/qt.py:456
 #: electrum_dash/plugins/keepkey/qt.py:526
 msgid "Disable PIN"
-msgstr ""
+msgstr "Desactivar PIN"
 
 #: electrum_dash/plugins/trezor/qt.py:497
 #: electrum_dash/plugins/safe_t/qt.py:229
 #: electrum_dash/plugins/keepkey/qt.py:351
 msgid "Disable Passphrases"
-msgstr ""
+msgstr "Desactivar Passphrases"
 
 #: electrum_dash/plugins/trezor/qt.py:498
 #: electrum_dash/plugins/safe_t/qt.py:230
 #: electrum_dash/plugins/keepkey/qt.py:352
 msgid "Disabled"
-msgstr ""
+msgstr "Desactivado"
 
 #: electrum_dash/gui/qt/dash_net_dialog.py:55
 msgid "Disconnect"
@@ -1930,7 +1941,7 @@ msgstr ""
 
 #: electrum_dash/gui/kivy/main_window.py:1090
 msgid "Disconnected"
-msgstr "Desligado"
+msgstr "Desconectado"
 
 #: electrum_dash/gui/kivy/main_window.py:1485
 msgid "Display your seed?"
@@ -1948,13 +1959,15 @@ msgstr ""
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:287
 msgid "Do not pair"
-msgstr ""
+msgstr "No enlazar"
 
 #: electrum_dash/gui/qt/console.py:108
 msgid ""
 "Do not paste code here that you don't understand. Executing the wrong code "
 "could lead to your coins being irreversibly lost."
 msgstr ""
+"No pegues código aquí que no entiendas. Ejecutar un código erróneo podría "
+"ocasionar la pérdida de tus fondos de forma irremediable."
 
 #: electrum_dash/gui/qt/privatesend_dialog.py:389
 msgid "Do not show this on PrivateSend dialog open."
@@ -1963,7 +1976,7 @@ msgstr ""
 #: electrum_dash/gui/kivy/uix/dialogs/installwizard.py:908
 #: electrum_dash/gui/qt/seed_dialog.py:60
 msgid "Do not store it electronically."
-msgstr "Não a guarde eletronicamente."
+msgstr "No la almacene electrónicamente en su PC."
 
 #: electrum_dash/gui/kivy/uix/ui_screens/network.kv:39
 msgid "Do not use Tor proxy for Fiat rates network calls"
@@ -1971,7 +1984,7 @@ msgstr ""
 
 #: electrum_dash/plugins/revealer/__init__.py:5
 msgid "Do you have something to hide ?"
-msgstr ""
+msgstr "¿Tienes algo que ocultar?"
 
 #: electrum_dash/protx_list.py:95
 msgid ""
@@ -1990,6 +2003,8 @@ msgid ""
 "Do you want to create a new seed, or to restore a wallet using an existing "
 "seed?"
 msgstr ""
+"¿Quieres crear una nueva semilla, ó restaurar una cartera desde una semilla "
+"existente?"
 
 #: electrum_dash/dash_ps_util.py:709
 msgid ""
@@ -2008,15 +2023,15 @@ msgstr ""
 
 #: electrum_dash/gui/qt/installwizard.py:397
 msgid "Do you want to delete '{}'?"
-msgstr ""
+msgstr "¿Quires eliminar '{}'?"
 
 #: electrum_dash/gui/qt/installwizard.py:382
 msgid "Do you want to delete the old file"
-msgstr "Deseja apagar o ficheiro antigo"
+msgstr "¿Desea eliminar el archivo viejo"
 
 #: electrum_dash/plugins/cosigner_pool/qt.py:236
 msgid "Do you want to open it now?"
-msgstr ""
+msgstr "¿Quieres abrirlo ahora?"
 
 #: electrum_dash/gui/qt/protx_qt.py:933
 #, python-format
@@ -2025,11 +2040,11 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:2413
 msgid "Do you want to remove {} from your wallet?"
-msgstr ""
+msgstr "¿Quieres quitar {} de tu cartera?"
 
 #: electrum_dash/base_crash_reporter.py:57
 msgid "Do you want to send this report?"
-msgstr ""
+msgstr "¿Desea enviar este reporte?"
 
 #: electrum_dash/dash_ps.py:84
 msgid "Do you want to use other coins now?"
@@ -2037,7 +2052,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:1731
 msgid "Do you wish to continue?"
-msgstr "Deseja continuar?"
+msgstr "¿Desea continuar?"
 
 #: electrum_dash/gui/qt/main_window.py:723
 #: electrum_dash/gui/qt/main_window.py:745
@@ -2062,11 +2077,11 @@ msgstr ""
 
 #: electrum_dash/i18n.py:71
 msgid "Dutch"
-msgstr ""
+msgstr "Holandés"
 
 #: electrum_dash/util.py:124
 msgid "Dynamic fee estimates not available"
-msgstr ""
+msgstr "Tarifas dinámicas estimadas no están disponibles"
 
 #: electrum_dash/dash_msg.py:136
 msgid "ERROR"
@@ -2074,7 +2089,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/fee_slider.py:15
 msgid "ETA"
-msgstr ""
+msgstr "Tiempo estimado"
 
 #: electrum_dash/gui/qt/fee_slider.py:20
 msgid "ETA: fee rate is based on average confirmation time estimates"
@@ -2084,7 +2099,7 @@ msgstr ""
 #: electrum_dash/gui/qt/history_list.py:1024
 #: electrum_dash/gui/qt/address_list.py:545
 msgid "Edit {}"
-msgstr ""
+msgstr "Editar {}"
 
 #: electrum_dash/gui/qt/seed_dialog.py:73
 msgid "Electrum"
@@ -2108,11 +2123,11 @@ msgstr ""
 
 #: electrum_dash/plugins/email_requests/__init__.py:3
 msgid "Email"
-msgstr "Endereço de e-mail"
+msgstr "Email"
 
 #: electrum_dash/plugins/email_requests/qt.py:217
 msgid "Email settings"
-msgstr "Configurações de Email"
+msgstr "Configuración de email"
 
 #: electrum_dash/gui/qt/dash_net_dialog.py:296
 msgid "Enable Dash Network"
@@ -2122,7 +2137,7 @@ msgstr ""
 #: electrum_dash/plugins/safe_t/qt.py:124
 #: electrum_dash/plugins/keepkey/qt.py:250
 msgid "Enable PIN protection"
-msgstr "Ativar proteção com PIN"
+msgstr "Habilitar la protección con PIN"
 
 #: electrum_dash/plugins/trezor/qt.py:497
 #: electrum_dash/plugins/safe_t/qt.py:229
@@ -2140,13 +2155,13 @@ msgstr ""
 
 #: electrum_dash/gui/qt/settings_dialog.py:282
 msgid "Enable output value rounding"
-msgstr ""
+msgstr "Habilitar redondeo en el valor de salida"
 
 #: electrum_dash/plugins/trezor/qt.py:388
 #: electrum_dash/plugins/safe_t/qt.py:158
 #: electrum_dash/plugins/keepkey/qt.py:284
 msgid "Enable passphrases"
-msgstr ""
+msgstr "Habilitar Passphrases"
 
 #: electrum_dash/gui/qt/main_window.py:373
 msgid "Enable update check"
@@ -2156,11 +2171,11 @@ msgstr ""
 #: electrum_dash/plugins/safe_t/qt.py:230
 #: electrum_dash/plugins/keepkey/qt.py:352
 msgid "Enabled"
-msgstr "Ativado"
+msgstr "Activado"
 
 #: electrum_dash/gui/qt/main_window.py:3046
 msgid "Encrypt"
-msgstr "Encriptar"
+msgstr "Cifrar"
 
 #: electrum_dash/gui/qt/privatesend_dialog.py:1255
 msgid "Encrypt PrivateSend Keystore"
@@ -2173,7 +2188,7 @@ msgstr ""
 #: electrum_dash/gui/qt/password_dialog.py:128
 #: electrum_dash/gui/qt/password_dialog.py:218
 msgid "Encrypt wallet file"
-msgstr "Encriptar o ficheiro da carteira"
+msgstr "Cifrar archivo de la cartera"
 
 #: electrum_dash/plugins/revealer/qt.py:248
 msgid "Encrypt {}'s seed"
@@ -2181,51 +2196,51 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:3018
 msgid "Encrypt/decrypt Message"
-msgstr "Encriptar/desencriptar Mensagem"
+msgstr "Cifrar/descifrar mensaje"
 
 #: electrum_dash/gui/qt/address_list.py:557
 msgid "Encrypt/decrypt message"
-msgstr ""
+msgstr "Cifrar/descifrar mensaje"
 
 #: electrum_dash/gui/qt/main_window.py:3041
 msgid "Encrypted"
-msgstr "Encriptada"
+msgstr "Cifrado"
 
 #: electrum_dash/plugins/ledger/ledger.py:371
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:455
 msgid "Encryption and decryption are currently not supported for {}"
-msgstr ""
+msgstr "Cifrar y descifrar no están soportados en este momento para {}"
 
 #: electrum_dash/plugins/trezor/trezor.py:78
 #: electrum_dash/plugins/safe_t/safe_t.py:37
 #: electrum_dash/plugins/keepkey/keepkey.py:39
 msgid "Encryption and decryption are not implemented by {}"
-msgstr ""
+msgstr "Cifrar y descifrar no están implementados por {}"
 
 #: electrum_dash/gui/qt/history_list.py:838
 msgid "End"
-msgstr ""
+msgstr "Fin"
 
 #: electrum_dash/i18n.py:58
 msgid "English"
-msgstr ""
+msgstr "Inglés"
 
 #: electrum_dash/plugins/trezor/qt.py:150 electrum_dash/plugins/safe_t/qt.py:57
 #: electrum_dash/plugins/keepkey/qt.py:174
 msgid "Enter PIN"
-msgstr ""
+msgstr "Introduzca PIN"
 
 #: electrum_dash/plugins/ledger/auth2fa.py:91
 #: electrum_dash/plugins/ledger/auth2fa.py:128
 msgid "Enter PIN:"
-msgstr ""
+msgstr "Introduzca PIN:"
 
 #: electrum_dash/gui/qt/password_dialog.py:63
 #: electrum_dash/plugins/trezor/qt.py:170
 #: electrum_dash/plugins/trezor/qt.py:172
 #: electrum_dash/plugins/hw_wallet/qt.py:136
 msgid "Enter Passphrase"
-msgstr "Introduza a Frase-passe"
+msgstr "Introducir Passphrase"
 
 #: electrum_dash/plugins/trezor/qt.py:173
 msgid "Enter Passphrase on Device"
@@ -2235,22 +2250,22 @@ msgstr ""
 #: electrum_dash/gui/qt/password_dialog.py:63
 #: electrum_dash/gui/qt/password_dialog.py:306
 msgid "Enter Password"
-msgstr "Digite a palavra-passe"
+msgstr "Introduce la Contraseña"
 
 #: electrum_dash/gui/kivy/uix/dialogs/installwizard.py:948
 #: electrum_dash/gui/qt/installwizard.py:511
 #: electrum_dash/gui/qt/privatesend_dialog.py:1208
 msgid "Enter Seed"
-msgstr "Digite a Semente"
+msgstr "Introducir Semilla"
 
 #: electrum_dash/gui/kivy/uix/dialogs/tx_dialog.py:254
 msgid "Enter Transaction Label"
-msgstr ""
+msgstr "Introduzca descripción de la transacción"
 
 #: electrum_dash/plugins/trezor/qt.py:274 electrum_dash/plugins/safe_t/qt.py:98
 #: electrum_dash/plugins/keepkey/qt.py:222
 msgid "Enter a label to name your device:"
-msgstr ""
+msgstr "Introduzca un nombre para tu dispositivo:"
 
 #: electrum_dash/base_wizard.py:233
 msgid ""
@@ -2260,17 +2275,17 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:2427
 msgid "Enter a list of outputs in the 'Pay to' field."
-msgstr "Introduza uma lista de saídas no campo 'Pagar a\"."
+msgstr "Introducir una lista de salidas en el campo 'Pagar a'."
 
 #: electrum_dash/plugins/trezor/clientbase.py:278
 #: electrum_dash/plugins/safe_t/clientbase.py:55
 #: electrum_dash/plugins/keepkey/clientbase.py:53
 msgid "Enter a new PIN for your {}:"
-msgstr ""
+msgstr "Introduce un nuevo PIN para tu {}:"
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:182
 msgid "Enter a new password below."
-msgstr ""
+msgstr "Introduzca abajo la nueva contraseña."
 
 #: electrum_dash/plugins/trezor/clientbase.py:295
 #: electrum_dash/plugins/safe_t/clientbase.py:75
@@ -2283,23 +2298,23 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:3400
 msgid "Enter addresses"
-msgstr "Introduza os endereços"
+msgstr "Introducir direcciones"
 
 #: electrum_dash/base_wizard.py:221
 msgid "Enter cosigner key"
-msgstr ""
+msgstr "Ingrese llave de Cosigner"
 
 #: electrum_dash/base_wizard.py:222
 msgid "Enter cosigner seed"
-msgstr ""
+msgstr "Ingrese semilla de Cosigner"
 
 #: electrum_dash/gui/kivy/main_window.py:1382
 msgid "Enter description"
-msgstr "Introduza a descrição"
+msgstr "Introducir descripción"
 
 #: electrum_dash/gui/kivy/uix/dialogs/password_dialog.py:299
 msgid "Enter new PIN"
-msgstr "Introduza o novo PIN"
+msgstr "Introducir nuevo PIN"
 
 #: electrum_dash/gui/kivy/uix/dialogs/password_dialog.py:268
 msgid "Enter new password"
@@ -2318,30 +2333,30 @@ msgstr ""
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:161
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:164
 msgid "Enter password:"
-msgstr ""
+msgstr "Introduzca la contraseña:"
 
 #: electrum_dash/gui/qt/main_window.py:3409
 msgid "Enter private keys"
-msgstr "Introduza as chaves privadas"
+msgstr "Introduce las llaves privadas"
 
 #: electrum_dash/gui/qt/main_window.py:3304
 msgid "Enter private keys:"
-msgstr "Introduza as chaves privadas:"
+msgstr "Introducir llaves privadas:"
 
 #: electrum_dash/plugins/safe_t/qt.py:132
 #: electrum_dash/plugins/keepkey/qt.py:258
 msgid "Enter the master private key beginning with xprv:"
-msgstr ""
+msgstr "Introduce la llave privada maestra que empieza por xprv:"
 
 #: electrum_dash/plugins/trezor/clientbase.py:300
 #: electrum_dash/plugins/safe_t/clientbase.py:80
 #: electrum_dash/plugins/keepkey/clientbase.py:75
 msgid "Enter the passphrase to unlock this wallet:"
-msgstr ""
+msgstr "Introduce la passphrase para abrir esta cartera:"
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:139
 msgid "Enter the password used when the backup was created:"
-msgstr ""
+msgstr "Introduce la contraseña usada cuando la copia de seguridad fue creada:"
 
 #: electrum_dash/plugins/trezor/qt.py:38
 msgid ""
@@ -2349,28 +2364,32 @@ msgid ""
 "device shows on its display.  You can also use your NUMPAD.\n"
 "Press BACKSPACE to go back a choice or word.\n"
 msgstr ""
+"Introduce las palabras de recuperación presionando los botones de acuerdo "
+"con lo que el dispositivo muestra en su pantalla. Puedes también user tu "
+"NUMPAD.\n"
+"Presiona BACKSPACE para retroceder una opción ó palabra.\n"
 
 #: electrum_dash/gui/qt/installwizard.py:498
 msgid ""
 "Enter their master private key (xprv) if you want to be able to sign for "
 "them."
 msgstr ""
-"Insira a chave mestra privada (xprv) se quiser poder assinar para eles."
+"Introduzca la llave privada maestra (xprv) si desea poder firmar por ellos."
 
 #: electrum_dash/gui/kivy/uix/dialogs/wallets.py:71
 msgid "Enter wallet name"
-msgstr "Introduza o nome da carteira"
+msgstr "Introducir nombre de la cartera"
 
 #: electrum_dash/plugins/safe_t/qt.py:130
 #: electrum_dash/plugins/keepkey/qt.py:256
 msgid "Enter your BIP39 mnemonic:"
-msgstr ""
+msgstr "Introduce tu frase de recuperación BIP39:"
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:192
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:202
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:207
 msgid "Enter your Digital Bitbox password:"
-msgstr ""
+msgstr "Introduce la contraseña de tu Digital Bitbox:"
 
 #: electrum_dash/gui/kivy/uix/dialogs/password_dialog.py:298
 msgid "Enter your PIN"
@@ -2379,11 +2398,11 @@ msgstr ""
 #: electrum_dash/plugins/safe_t/qt.py:145
 #: electrum_dash/plugins/keepkey/qt.py:271
 msgid "Enter your PIN (digits 1-9):"
-msgstr ""
+msgstr "Ingrese su PIN (dígitos 1-9):"
 
 #: electrum_dash/gui/kivy/main_window.py:1434
 msgid "Enter your PIN code to proceed"
-msgstr ""
+msgstr "Introduzca su contraseña para continuar"
 
 #: electrum_dash/gui/kivy/main_window.py:1006
 msgid "Enter your PIN code to sign new collateral transactions"
@@ -2397,7 +2416,7 @@ msgstr ""
 #: electrum_dash/plugins/safe_t/clientbase.py:60
 #: electrum_dash/plugins/keepkey/clientbase.py:58
 msgid "Enter your current {} PIN:"
-msgstr ""
+msgstr "Introduce el PIN de {} actual:"
 
 #: electrum_dash/gui/kivy/uix/dialogs/password_dialog.py:267
 msgid "Enter your password"
@@ -2405,11 +2424,11 @@ msgstr ""
 
 #: electrum_dash/gui/qt/installwizard.py:286
 msgid "Enter your password or choose another file."
-msgstr "Introduza a sua palavra-passe ou escolha outro ficheiro."
+msgstr "Introduzca su cotraseña o elija otro archivo."
 
 #: electrum_dash/gui/qt/confirm_tx_dialog.py:191
 msgid "Enter your password to proceed"
-msgstr "Introduza a sua palavra-passe para continuar"
+msgstr "Introduzca su contraseña para continuar"
 
 #: electrum_dash/dash_msg.py:183
 msgid "Entries are full."
@@ -2421,7 +2440,7 @@ msgstr ""
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:227
 msgid "Erase the Digital Bitbox"
-msgstr ""
+msgstr "Elimina el Digital Bitbox"
 
 #: electrum_dash/gui/qt/__init__.py:316 electrum_dash/gui/qt/__init__.py:328
 #: electrum_dash/gui/qt/__init__.py:343
@@ -2433,11 +2452,11 @@ msgstr ""
 #: electrum_dash/gui/qt/installwizard.py:636 electrum_dash/gui/qt/util.py:240
 #: electrum_dash/slip39.py:350
 msgid "Error"
-msgstr "Erro"
+msgstr "Error"
 
 #: electrum_dash/gui/qt/main_window.py:1423
 msgid "Error adding payment request"
-msgstr ""
+msgstr "Error agregando solicitud de pagos"
 
 #: electrum_dash/gui/qt/transaction_dialog.py:415
 msgid "Error combining partial transactions"
@@ -2459,7 +2478,7 @@ msgstr ""
 
 #: electrum_dash/plugins/cosigner_pool/qt.py:247
 msgid "Error decrypting message"
-msgstr ""
+msgstr "Error descifrando mensaje"
 
 #: electrum_dash/gui/qt/main_window.py:3154
 #: electrum_dash/gui/qt/main_window.py:3157
@@ -2472,7 +2491,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/qrtextedit.py:72
 msgid "Error opening file"
-msgstr ""
+msgstr "Error al abrir el archivo"
 
 #: electrum_dash/gui/kivy/uix/screens.py:367
 #: electrum_dash/gui/qt/main_window.py:2320
@@ -2481,15 +2500,15 @@ msgstr ""
 
 #: electrum_dash/base_wizard.py:305
 msgid "Error scanning devices"
-msgstr ""
+msgstr "Error al escanear los dispositivos"
 
 #: electrum_dash/plugins/ledger/ledger.py:615
 msgid "Error showing address"
-msgstr ""
+msgstr "Error al mostrar la direccion"
 
 #: electrum_dash/plugins/labels/qt.py:73
 msgid "Error synchronising labels"
-msgstr ""
+msgstr "Error al sincronizar las etiquetas"
 
 #: electrum_dash/gui/qt/protx_wizards.py:200
 #: electrum_dash/gui/qt/protx_wizards.py:402
@@ -2508,15 +2527,15 @@ msgstr ""
 
 #: electrum_dash/base_wizard.py:623
 msgid "Error: duplicate master public key"
-msgstr ""
+msgstr "Error: llave pública maestra duplicada"
 
 #: electrum_dash/i18n.py:57
 msgid "Esperanto"
-msgstr ""
+msgstr "Esperanto"
 
 #: electrum_dash/gui/qt/fee_slider.py:60
 msgid "Estimate"
-msgstr ""
+msgstr "Estimación"
 
 #: electrum_dash/gui/kivy/uix/dialogs/privatesend.py:968
 #: electrum_dash/gui/qt/privatesend_dialog.py:707
@@ -2525,7 +2544,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/__init__.py:182
 msgid "Exit Dash Electrum"
-msgstr "Sair do Dash Electrum"
+msgstr "Salir de Dash Electrum"
 
 #: electrum_dash/gui/qt/history_list.py:1013
 msgid "Expand Tx Group"
@@ -2537,15 +2556,15 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:1259
 msgid "Expiration date of your request."
-msgstr "Data de expiração do seu pedido."
+msgstr "Fecha de expiración de su solicitud."
 
 #: electrum_dash/invoices.py:48
 msgid "Expired"
-msgstr "Caducou"
+msgstr "Caducado"
 
 #: electrum_dash/invoices.py:88 electrum_dash/gui/qt/main_window.py:2491
 msgid "Expires"
-msgstr "Caduca"
+msgstr "Expira"
 
 #: electrum_dash/gui/qt/main_window.py:1266
 msgid "Expires after"
@@ -2567,7 +2586,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/history_list.py:1082
 msgid "Export History"
-msgstr "Exportar Histórico"
+msgstr "Exportar Historial"
 
 #: electrum_dash/gui/qt/privatesend_dialog.py:854
 msgid "Export Private Keys"
@@ -2579,7 +2598,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/contact_list.py:79
 msgid "Export file"
-msgstr "Exportar arquivo"
+msgstr "Exportar archivo"
 
 #: electrum_dash/gui/qt/transaction_dialog.py:298
 msgid "Export to file"
@@ -2591,11 +2610,12 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:3176
 msgid "Exposing a single private key can compromise your entire wallet!"
-msgstr "Revelar uma só chave privada pode comprometer toda a sua carteira!"
+msgstr ""
+"¡Al exponer una sola llave privada podrías comprometer toda tu cartera!"
 
 #: electrum_dash/gui/qt/seed_dialog.py:82
 msgid "Extend this seed with custom words"
-msgstr "Alargar esta semente com palavras personalizadas"
+msgstr "Extender esta semilla con palabras personalizadas"
 
 #: electrum_dash/gui/qt/main_window.py:1574
 msgid "Extra payload"
@@ -2611,25 +2631,25 @@ msgstr ""
 
 #: electrum_dash/plugins/hw_wallet/plugin.py:98
 msgid "Failed to create a client for this device."
-msgstr "Falha ao criar um usuário para este dispositivo."
+msgstr "Fallo al crear un cliente para este dispositivo."
 
 #: electrum_dash/gui/qt/installwizard.py:346
 msgid "Failed to decrypt using this hardware device."
-msgstr "Falha ao tentar decriptar usando esse dispositivo hardware."
+msgstr "Fallo al descifrar usando este dispositivo físico."
 
 #: electrum_dash/gui/kivy/main_window.py:533
 #: electrum_dash/gui/qt/transaction_dialog.py:336
 #: electrum_dash/gui/qt/transaction_dialog.py:339
 msgid "Failed to display QR code."
-msgstr ""
+msgstr "Error al guardar el código QR."
 
 #: electrum_dash/util.py:159
 msgid "Failed to export to file."
-msgstr "Falha ao exportar para o arquivo."
+msgstr "Falló al exportar el archivo."
 
 #: electrum_dash/util.py:151
 msgid "Failed to import from file."
-msgstr "Falha ao importar do arquivo."
+msgstr "Falló al importar el archivo."
 
 #: electrum_dash/gui/qt/main_window.py:1717
 msgid "Failed to parse 'Pay to' line"
@@ -2637,7 +2657,7 @@ msgstr ""
 
 #: electrum_dash/plugins/cosigner_pool/qt.py:189
 msgid "Failed to send transaction to cosigning pool"
-msgstr ""
+msgstr "Fallo al enviar la transacción al cosigning pool"
 
 #: electrum_dash/gui/qt/privatesend_dialog.py:907
 msgid "Failed to update PS Keystore password"
@@ -2645,7 +2665,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:2690
 msgid "Failed to update password"
-msgstr "Erro ao atualizar a palavra-passe"
+msgstr "Fallo al actualizar contraseña"
 
 #: electrum_dash/gui/qt/main_window.py:2734
 msgid "False"
@@ -2654,7 +2674,7 @@ msgstr ""
 #: electrum_dash/gui/text.py:263 electrum_dash/gui/qt/transaction_dialog.py:510
 #: electrum_dash/gui/qt/transaction_dialog.py:512
 msgid "Fee"
-msgstr "Comissão"
+msgstr "Comisión"
 
 #: electrum_dash/gui/qt/confirm_tx_dialog.py:166
 msgid "Fee rate"
@@ -2667,7 +2687,7 @@ msgstr ""
 #: electrum_dash/gui/qt/address_list.py:153
 #: electrum_dash/gui/qt/settings_dialog.py:434
 msgid "Fiat"
-msgstr "Moeda Fiduciária"
+msgstr "Fiat"
 
 #: electrum_dash/gui/qt/history_list.py:852
 msgid "Fiat balance"
@@ -2675,7 +2695,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/settings_dialog.py:425
 msgid "Fiat currency"
-msgstr "Moeda Fiduciária"
+msgstr "Moneda fiat"
 
 #: electrum_dash/gui/qt/history_list.py:867
 msgid "Fiat incoming"
@@ -2688,7 +2708,7 @@ msgstr ""
 #: electrum_dash/gui/qt/protx_qt.py:691 electrum_dash/gui/qt/protx_qt.py:780
 #: electrum_dash/gui/qt/protx_qt.py:822 electrum_dash/gui/qt/util.py:458
 msgid "File"
-msgstr "Ficheiro"
+msgstr "Archivo"
 
 #: electrum_dash/gui/qt/main_window.py:774
 msgid "File Backup"
@@ -2712,7 +2732,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:890
 msgid "Find"
-msgstr "Procurar"
+msgstr "Buscar"
 
 #: electrum_dash/gui/qt/privatesend_dialog.py:788
 msgid "Find untracked PS txs"
@@ -2726,7 +2746,7 @@ msgstr ""
 #: electrum_dash/plugins/safe_t/qt.py:354
 #: electrum_dash/plugins/keepkey/qt.py:446
 msgid "Firmware Version"
-msgstr "Versão do firmware"
+msgstr "Versión del firmware"
 
 #: electrum_dash/plugins/trezor/qt.py:427
 msgid "Firmware version too old."
@@ -2734,15 +2754,15 @@ msgstr ""
 
 #: electrum_dash/plugins/ledger/ledger.py:53
 msgid "Firmware version too old. Please update at"
-msgstr "Versão de Firmware muito antiga. Por favor atualize"
+msgstr ""
 
 #: electrum_dash/gui/qt/fee_slider.py:60
 msgid "Fixed rate"
-msgstr "Taxa fixa"
+msgstr "Tarifa fija"
 
 #: electrum_dash/gui/qt/network_dialog.py:125
 msgid "Follow this branch"
-msgstr "Seguir este ramo"
+msgstr "Siga este ramal"
 
 #: electrum_dash/gui/qt/transaction_dialog.py:182
 msgid "For CoinJoin; strip privates"
@@ -2783,7 +2803,7 @@ msgstr "Formato"
 
 #: electrum_dash/gui/qt/main_window.py:2429
 msgid "Format: address, amount"
-msgstr "Formato: endereço, quantia"
+msgstr "Formato: dirección, cantidad"
 
 #: electrum_dash/gui/qt/protx_qt.py:604
 #: electrum_dash/plugins/scan_over_gap/scan_over_gap.py:110
@@ -2792,7 +2812,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/address_list.py:571
 msgid "Freeze"
-msgstr ""
+msgstr "Congelar"
 
 #: electrum_dash/gui/qt/utxo_list.py:577
 msgid "Freeze Address"
@@ -2812,7 +2832,7 @@ msgstr ""
 
 #: electrum_dash/i18n.py:62
 msgid "French"
-msgstr ""
+msgstr "Francés"
 
 #: electrum_dash/gui/qt/history_list.py:755
 msgid "From"
@@ -2830,7 +2850,7 @@ msgstr ""
 #: electrum_dash/gui/kivy/uix/dialogs/addresses.py:277
 #: electrum_dash/gui/qt/address_list.py:57
 msgid "Funded"
-msgstr ""
+msgstr "Financiado"
 
 #: electrum_dash/gui/qt/address_list.py:59
 msgid "Funded or Unused"
@@ -2866,7 +2886,7 @@ msgstr ""
 
 #: electrum_dash/i18n.py:56
 msgid "Greek"
-msgstr "Grego"
+msgstr ""
 
 #: electrum_dash/dash_ps_util.py:745
 msgid "Group PrivateSend mixing transactions in wallet history"
@@ -2905,7 +2925,7 @@ msgstr "Altura"
 
 #: electrum_dash/gui/kivy/main_window.py:1247
 msgid "Hello World"
-msgstr "Olá Mundo"
+msgstr "Hola mundo"
 
 #: electrum_dash/gui/qt/util.py:121 electrum_dash/gui/qt/util.py:149
 msgid "Help"
@@ -2921,7 +2941,7 @@ msgstr ""
 #: electrum_dash/gui/qt/installwizard.py:581
 #: electrum_dash/gui/qt/installwizard.py:820
 msgid "Here is your master public key."
-msgstr "Aqui está a sua chave pública mestra."
+msgstr "Aquí está su llave maestra pública."
 
 #: electrum_dash/gui/kivy/uix/dialogs/installwizard.py:1089
 #: electrum_dash/gui/qt/installwizard.py:819
@@ -2930,7 +2950,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:894
 msgid "Hide"
-msgstr "Esconder"
+msgstr "Ocultar"
 
 #: electrum_dash/gui/qt/main_window.py:432
 msgid "Hide {}"
@@ -2940,24 +2960,24 @@ msgstr ""
 #: electrum_dash/gui/qt/address_dialog.py:103
 #: electrum_dash/gui/qt/main_window.py:273
 msgid "History"
-msgstr "Histórico"
+msgstr "Historial"
 
 #: electrum_dash/gui/kivy/uix/ui_screens/about.kv:25
 msgid "Homepage"
-msgstr "Página inicial"
+msgstr "Página Principal"
 
 #: electrum_dash/plugins/trezor/qt.py:670
 #: electrum_dash/plugins/safe_t/qt.py:402
 msgid "Homescreen"
-msgstr "Tela inicial"
+msgstr "Pantalla de inicio"
 
 #: electrum_dash/gui/kivy/uix/ui_screens/proxy.kv:19
 msgid "Host"
-msgstr "Servidor anfitrião"
+msgstr "Servidor"
 
 #: electrum_dash/gui/qt/installwizard.py:843
 msgid "How do you want to connect to a server? "
-msgstr "Como deseja ligar-se a um servidor? "
+msgstr "¿Cómo quiere conectarse al servidor? "
 
 #: electrum_dash/plugins/cosigner_pool/qt.py:225
 msgid ""
@@ -2982,7 +3002,7 @@ msgstr "Húngaro"
 #: electrum_dash/gui/qt/privatesend_dialog.py:1037
 #: electrum_dash/base_wizard.py:213
 msgid "I already have a seed"
-msgstr "Eu já tenho a semente"
+msgstr "Ya tengo un una semilla"
 
 #: electrum_dash/gui/qt/protx_wizards.py:125
 msgid "I am an operator of this Masternode"
@@ -3001,8 +3021,8 @@ msgid ""
 "If auto-connect is enabled, Dash Electrum will always use a server that is "
 "on the longest blockchain."
 msgstr ""
-"Se 'ligar automaticamente' estiver ligado, o Dash Electrum tentará sempre "
-"utilizar um servidor que estiver na blockchain mais longa."
+"Si conectar automáticamente está habilitado, Dash Electrum siempre usará un "
+"servidor que está en la cadena de bloques más larga."
 
 #: electrum_dash/gui/qt/settings_dialog.py:286
 msgid ""
@@ -3014,8 +3034,8 @@ msgid ""
 "If it is disabled, you have to choose a server you want to use. Dash "
 "Electrum will warn you if your server is lagging."
 msgstr ""
-"Se estiver desativado, terá de selecionar um servidor que queira usar. O "
-"Dash Electrum vai aviscaso o seu servidor esteja atrasado."
+"Si es deshabilitado, tendrás que elegir un servidor que quieras usar. Dash "
+"Electrum te avisará si tu servidor está lento."
 
 #: electrum_dash/base_wizard.py:416
 msgid "If you are not sure what this is, leave this field unchanged."
@@ -3062,7 +3082,7 @@ msgstr ""
 #: electrum_dash/gui/qt/installwizard.py:521
 #: electrum_dash/gui/qt/privatesend_dialog.py:1138
 msgid "If you lose your seed, your money will be permanently lost."
-msgstr "Se perder a sua semente, o seu dinheiro será perdido permanentemente."
+msgstr "Si pierde su semilla, su dinero se perderá para siempre."
 
 #: electrum_dash/gui/qt/installwizard.py:347
 msgid "If you use a passphrase, make sure it is correct."
@@ -3072,7 +3092,8 @@ msgstr ""
 msgid ""
 "If you want to create new addresses, use a deterministic wallet instead."
 msgstr ""
-"Se quiser criar novos endereços utilize antes uma carteira determinística."
+"Si desea crear nuevas direcciones, use una cartera determinística en su "
+"lugar."
 
 #: electrum_dash/base_wizard.py:340
 msgid ""
@@ -3127,7 +3148,7 @@ msgstr ""
 #: electrum_dash/gui/qt/main_window.py:861
 #: electrum_dash/gui/qt/main_window.py:3400
 msgid "Import addresses"
-msgstr "Importar endereços"
+msgstr "Importar direcciones"
 
 #: electrum_dash/gui/qt/protx_wizards.py:105
 msgid "Import and register legacy masternode.conf as DIP3 Masternode"
@@ -3135,7 +3156,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/contact_list.py:78
 msgid "Import file"
-msgstr "Importar ficheiro"
+msgstr "Importar archivo"
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:288
 msgid "Import pairing from the Digital Bitbox desktop app"
@@ -3143,7 +3164,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:3407
 msgid "Import private keys"
-msgstr "Importar chaves privadas"
+msgstr "Importar llaves privadas"
 
 #: electrum_dash/dash_ps_util.py:928
 msgid "In new mix transactions group origin coins by address"
@@ -3154,8 +3175,8 @@ msgid ""
 "In particular, DO NOT use 'redeem private key' services proposed by third "
 "parties."
 msgstr ""
-"Especialmente, NÃO UTILIZE serviços para 'resgatar as chaves privadas "
-"('redeem private key') propostas por terceiros."
+"En particular, NO USES servicios para 'canjear llave privada' propuestos por "
+"terceros."
 
 #: electrum_dash/invoices.py:49
 msgid "In progress"
@@ -3174,12 +3195,12 @@ msgid ""
 "In some cases, use up to 3 change addresses in order to break up large coin "
 "amounts and obfuscate the recipient address."
 msgstr ""
-"Em alguns casos, utiliza até três endereços de troco de forma a dividir "
-"grandes quantias de ofuscar o endereço do destinatário."
+"En algunos casos, utilizar hasta 3 direcciones de cambio con el fin de "
+"romper grandes cantidades de monedas y ofuscar la dirección del destinatario."
 
 #: electrum_dash/simple_config.py:430
 msgid "In the next block"
-msgstr "No próximo bloco"
+msgstr "En el siguiente bloque"
 
 #: electrum_dash/gui/qt/console.py:34
 msgid "Inactivity timeout in minutes"
@@ -3199,15 +3220,15 @@ msgstr ""
 
 #: electrum_dash/util.py:134
 msgid "Incorrect password"
-msgstr "Senha incorreta"
+msgstr "Contraseña incorrecta"
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:200
 msgid "Incorrect password entered."
-msgstr "Senha incorreta inserida."
+msgstr "Contraseña incorrecta."
 
 #: electrum_dash/i18n.py:65
 msgid "Indonesian"
-msgstr "Indonésio"
+msgstr "Indonesio"
 
 #: electrum_dash/gui/qt/util.py:164
 #: electrum_dash/gui/qt/privatesend_dialog.py:802
@@ -3222,7 +3243,7 @@ msgstr ""
 #: electrum_dash/plugins/safe_t/qt.py:496
 #: electrum_dash/plugins/keepkey/qt.py:566
 msgid "Information"
-msgstr "Informação"
+msgstr "Información"
 
 #: electrum_dash/plugins/ledger/qt.py:83
 msgid "Initialization of Ledger HW devices is currently disabled."
@@ -3232,13 +3253,13 @@ msgstr ""
 #: electrum_dash/plugins/safe_t/safe_t.py:192
 #: electrum_dash/plugins/keepkey/keepkey.py:234
 msgid "Initialize Device"
-msgstr ""
+msgstr "Dispositivo inicializado"
 
 #: electrum_dash/plugins/trezor/qt.py:626
 #: electrum_dash/plugins/safe_t/qt.py:358
 #: electrum_dash/plugins/keepkey/qt.py:451
 msgid "Initialized"
-msgstr "Iniciado"
+msgstr "Inicializar"
 
 #: electrum_dash/dash_ps_util.py:980
 msgid "Initializing ..."
@@ -3251,7 +3272,7 @@ msgstr ""
 #: electrum_dash/gui/qt/main_window.py:3118
 #: electrum_dash/gui/qt/transaction_dialog.py:402
 msgid "Input raw transaction"
-msgstr "Introduza uma transação em bruto"
+msgstr "Transacción pura de entrada"
 
 #: electrum_dash/gui/qt/transaction_dialog.py:575
 msgid "Inputs"
@@ -3263,11 +3284,11 @@ msgstr ""
 
 #: electrum_dash/gui/qt/installwizard.py:159
 msgid "Install Wizard"
-msgstr "Assistente de Instalação"
+msgstr "Asistente de instalación"
 
 #: electrum_dash/gui/qt/settings_dialog.py:146
 msgid "Install the zbar package to enable this."
-msgstr "Instale o pacote zbar para ativar esta função."
+msgstr "Instale el paquete zbar para habilitarlo."
 
 #: electrum_dash/wallet.py:554 electrum_dash/wallet.py:562
 msgid "InstantSend"
@@ -3275,11 +3296,11 @@ msgstr ""
 
 #: electrum_dash/plugins/revealer/qt.py:453
 msgid "Instructions:"
-msgstr "Instruções:"
+msgstr "Instrucciones:"
 
 #: electrum_dash/util.py:119
 msgid "Insufficient funds"
-msgstr "Fundos insuficientes"
+msgstr "Fondos insuficientes"
 
 #: electrum_dash/dash_ps_wallet.py:78
 msgid ""
@@ -3289,12 +3310,12 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:2447
 msgid "Invalid Address"
-msgstr "Endereço Inválido"
+msgstr "Dirección inválida"
 
 #: electrum_dash/gui/stdio.py:248 electrum_dash/gui/text.py:430
 #: electrum_dash/gui/qt/main_window.py:1697
 msgid "Invalid Amount"
-msgstr "Quantia Inválida"
+msgstr "Cantidad inválida"
 
 #: electrum_dash/gui/kivy/uix/screens.py:480
 #: electrum_dash/plugins/hw_wallet/plugin.py:129
@@ -3312,15 +3333,15 @@ msgstr ""
 
 #: electrum_dash/gui/stdio.py:253 electrum_dash/gui/text.py:435
 msgid "Invalid Fee"
-msgstr "Taxa Inválida"
+msgstr "Tarifa inválida"
 
 #: electrum_dash/util.py:1049
 msgid "Invalid JSON code."
-msgstr "Código JSON inválido."
+msgstr "Código JSON no válido."
 
 #: electrum_dash/gui/qt/main_window.py:1721
 msgid "Invalid Lines found:"
-msgstr "Linhas inválidas encontradas:"
+msgstr "Líneas inválidas conseguidas:"
 
 #: electrum_dash/gui/kivy/main_window.py:1317
 #: electrum_dash/gui/kivy/uix/dialogs/tx_dialog.py:218
@@ -3329,11 +3350,11 @@ msgstr "PIN inválido"
 
 #: electrum_dash/gui/qt/main_window.py:3012
 msgid "Invalid Public key"
-msgstr ""
+msgstr "Llàve publica valida"
 
 #: electrum_dash/gui/kivy/uix/screens.py:472
 msgid "Invalid amount"
-msgstr "Quantia inválida"
+msgstr "Cantidad inválida"
 
 #: electrum_dash/dash_net.py:266 electrum_dash/dash_net.py:268
 msgid "Invalid hostname: \"{}\""
@@ -3374,7 +3395,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:880
 msgid "Invoices"
-msgstr "Faturas"
+msgstr "Facturas"
 
 #: electrum_dash/gui/qt/main_window.py:573
 msgid "Is Idle"
@@ -3415,11 +3436,11 @@ msgstr ""
 
 #: electrum_dash/i18n.py:66
 msgid "Italian"
-msgstr ""
+msgstr "Italiano"
 
 #: electrum_dash/i18n.py:67
 msgid "Japanese"
-msgstr ""
+msgstr "Japones"
 
 #: electrum_dash/plugins/keepkey/qt.py:59
 msgid "KeepKey Seed Recovery"
@@ -3427,11 +3448,11 @@ msgstr ""
 
 #: electrum_dash/plugins/keepkey/__init__.py:6
 msgid "KeepKey wallet"
-msgstr ""
+msgstr "Cartera KeepKey"
 
 #: electrum_dash/gui/qt/main_window.py:1541
 msgid "Keyboard shortcut: type \"!\" to send all your coins."
-msgstr "Atalho do teclado: pressione \"!\" para enviar todas as suas moedas."
+msgstr "Acceso directo de teclado: teclea \"!\" para enviar todos tus fondos."
 
 #: electrum_dash/dash_ps_util.py:842
 msgid "Keypairs cache timeout"
@@ -3444,7 +3465,7 @@ msgstr ""
 #: electrum_dash/gui/qt/address_list.py:162
 #: electrum_dash/gui/qt/utxo_list.py:95 electrum_dash/base_wizard.py:207
 msgid "Keystore"
-msgstr ""
+msgstr "Almacén de claves"
 
 #: electrum_dash/gui/qt/main_window.py:2752
 msgid "Keystore type"
@@ -3457,7 +3478,7 @@ msgstr ""
 
 #: electrum_dash/i18n.py:68
 msgid "Kyrgyz"
-msgstr ""
+msgstr "Kirguizo"
 
 #: electrum_dash/dash_ps.py:58
 msgid "LLMQ quorums data is not fully loaded."
@@ -3466,15 +3487,15 @@ msgstr ""
 #: electrum_dash/gui/qt/address_list.py:157
 #: electrum_dash/gui/qt/utxo_list.py:93
 msgid "Label"
-msgstr ""
+msgstr "Etiqueta"
 
 #: electrum_dash/plugins/labels/qt.py:44
 msgid "Label Settings"
-msgstr "Definições de Etiquetas"
+msgstr "Configuración de etiquetas"
 
 #: electrum_dash/plugins/labels/__init__.py:3
 msgid "LabelSync"
-msgstr ""
+msgstr "LabelSync"
 
 #: electrum_dash/plugins/labels/__init__.py:6
 msgid ""
@@ -3488,7 +3509,7 @@ msgstr ""
 #: electrum_dash/plugins/safe_t/qt.py:357
 #: electrum_dash/plugins/keepkey/qt.py:450
 msgid "Language"
-msgstr "Língua"
+msgstr "Idioma"
 
 #: electrum_dash/dash_msg.py:198
 msgid "Last PrivateSend was too recent."
@@ -3501,23 +3522,23 @@ msgstr ""
 
 #: electrum_dash/i18n.py:69
 msgid "Latvian"
-msgstr ""
+msgstr "Letón"
 
 #: electrum_dash/gui/qt/installwizard.py:43
 msgid "Leave this field empty if you want to disable encryption."
-msgstr "Deixe este campo em branco se quiser desativar a encriptação."
+msgstr "Deje este campo vacío si desea desactivar el cifrado."
 
 #: electrum_dash/plugins/ledger/qt.py:53
 msgid "Ledger Status"
-msgstr ""
+msgstr "Estado del registro"
 
 #: electrum_dash/plugins/ledger/auth2fa.py:43
 msgid "Ledger Wallet Authentication"
-msgstr ""
+msgstr "Autenticación de la Ledger Wallet"
 
 #: electrum_dash/plugins/ledger/__init__.py:6
 msgid "Ledger wallet"
-msgstr ""
+msgstr "Ledger wallet"
 
 #: electrum_dash/plugins/trezor/trezor.py:217
 #: electrum_dash/plugins/safe_t/safe_t.py:175
@@ -3531,15 +3552,15 @@ msgstr ""
 
 #: electrum_dash/gui/kivy/uix/ui_screens/about.kv:19
 msgid "Licence"
-msgstr ""
+msgstr "Licencia"
 
 #: electrum_dash/gui/qt/settings_dialog.py:159
 msgid "Light"
-msgstr ""
+msgstr "Ligero"
 
 #: electrum_dash/gui/qt/main_window.py:1722
 msgid "Line #"
-msgstr "Linha #"
+msgstr "Línea #"
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:248
 msgid "Load a wallet from the micro SD card"
@@ -3556,7 +3577,7 @@ msgstr ""
 #: electrum_dash/gui/qt/main_window.py:3120
 #: electrum_dash/gui/qt/transaction_dialog.py:404
 msgid "Load transaction"
-msgstr "Carregar uma transação"
+msgstr "Cargar transacción"
 
 #: electrum_dash/gui/qt/protx_qt.py:164 electrum_dash/gui/qt/protx_qt.py:604
 msgid "Loading"
@@ -3569,11 +3590,11 @@ msgstr ""
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:338
 msgid "Loading backup..."
-msgstr ""
+msgstr "Cargando el respaldo..."
 
 #: electrum_dash/wallet.py:99 electrum_dash/wallet.py:573
 msgid "Local"
-msgstr ""
+msgstr "Local"
 
 #: electrum_dash/gui/qt/privatesend_dialog.py:819
 msgid "Log"
@@ -3581,11 +3602,11 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:3136
 msgid "Lookup transaction"
-msgstr "Consultar transação"
+msgstr "Buscar transacción"
 
 #: electrum_dash/simple_config.py:428
 msgid "Low fee"
-msgstr ""
+msgstr "Comisión baja"
 
 #: electrum_dash/gui/qt/address_list.py:98
 #: electrum_dash/gui/qt/address_list.py:249
@@ -3599,7 +3620,7 @@ msgstr ""
 
 #: electrum_dash/plugins/hw_wallet/plugin.py:99
 msgid "Make sure it is in the correct state."
-msgstr ""
+msgstr "Asegurese que esta en el estado correcto."
 
 #: electrum_dash/qrscanner.py:73
 msgid "Make sure you have a camera connected and enabled."
@@ -3628,7 +3649,7 @@ msgstr ""
 #: electrum_dash/gui/qt/installwizard.py:817
 #: electrum_dash/gui/qt/privatesend_dialog.py:829
 msgid "Master Public Key"
-msgstr "Chave Pública Mestra"
+msgstr "Llave Pública Maestra"
 
 #: electrum_dash/gui/qt/protx_qt.py:613
 msgid "Masternode"
@@ -3653,11 +3674,11 @@ msgstr ""
 
 #: electrum_dash/plugins/trezor/qt.py:412
 msgid "Matrix"
-msgstr ""
+msgstr "Matriz"
 
 #: electrum_dash/gui/qt/main_window.py:1553
 msgid "Max"
-msgstr "Máx"
+msgstr "Máximo"
 
 #: electrum_dash/gui/qt/dash_net_dialog.py:356
 msgid "Max Peers:"
@@ -3679,7 +3700,7 @@ msgstr ""
 #: electrum_dash/gui/qt/main_window.py:3025
 #: electrum_dash/gui/qt/dash_net_dialog.py:164
 msgid "Message"
-msgstr "Mensagem"
+msgstr "Mensaje"
 
 #: electrum_dash/plugins/ledger/auth2fa.py:70
 msgid "Method:"
@@ -3691,7 +3712,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/confirm_tx_dialog.py:154
 msgid "Mining fee"
-msgstr "Taxa de mineração"
+msgstr "Comisión de minado"
 
 #: electrum_dash/gui/qt/main_window.py:1656
 msgid "Mining fee: {} (can be adjusted on next screen)"
@@ -3759,7 +3780,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/installwizard.py:897
 msgid "Multi-Signature Wallet"
-msgstr "Carteira Multi-assinaturas"
+msgstr "Cartera multifirma"
 
 #: electrum_dash/base_wizard.py:156
 msgid "Multi-signature wallet"
@@ -3774,7 +3795,7 @@ msgstr ""
 #: electrum_dash/gui/qt/main_window.py:2720
 #: electrum_dash/gui/qt/contact_list.py:47
 msgid "Name"
-msgstr "Nome"
+msgstr "Nombre"
 
 #: electrum_dash/plugins/trezor/qt.py:639
 #: electrum_dash/plugins/safe_t/qt.py:371
@@ -3786,7 +3807,7 @@ msgstr ""
 
 #: electrum_dash/gui/text.py:233 electrum_dash/gui/qt/__init__.py:174
 msgid "Network"
-msgstr "Rede"
+msgstr "Red"
 
 #: electrum_dash/dash_ps.py:75
 msgid "Network is not available"
@@ -3803,12 +3824,12 @@ msgstr "Nunca"
 #: electrum_dash/gui/kivy/uix/dialogs/installwizard.py:906
 #: electrum_dash/gui/qt/seed_dialog.py:58
 msgid "Never disclose your seed."
-msgstr "Nunca revele a sua semente."
+msgstr "Nunca revele su semilla."
 
 #: electrum_dash/gui/kivy/uix/dialogs/installwizard.py:907
 #: electrum_dash/gui/qt/seed_dialog.py:59
 msgid "Never type it on a website."
-msgstr "Nunca a escreva num website."
+msgstr "Nunca la escriba en un sitio web."
 
 #: electrum_dash/gui/qt/main_window.py:1276
 msgid "New Address"
@@ -3821,11 +3842,11 @@ msgstr ""
 #: electrum_dash/gui/qt/main_window.py:2710
 #: electrum_dash/gui/qt/main_window.py:2712
 msgid "New Contact"
-msgstr "Novo Contacto"
+msgstr "Nuevo contacto"
 
 #: electrum_dash/gui/qt/password_dialog.py:104
 msgid "New Password:"
-msgstr "Nova palavra-passe:"
+msgstr "Nueva contraseña:"
 
 #: electrum_dash/dash_ps.py:517
 msgid "New collateral workflow: {}"
@@ -3833,7 +3854,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/contact_list.py:77
 msgid "New contact"
-msgstr "Novo contacto"
+msgstr "Nuevo contacto"
 
 #: electrum_dash/dash_ps.py:552
 msgid "New denoms workflow: {}"
@@ -3846,7 +3867,7 @@ msgstr ""
 #: electrum_dash/gui/qt/installwizard.py:171
 #: electrum_dash/plugins/revealer/qt.py:127
 msgid "Next"
-msgstr "Próximo"
+msgstr "Siguiente"
 
 #: electrum_dash/gui/qt/seed_dialog.py:202
 msgid "Next share"
@@ -3857,7 +3878,7 @@ msgstr ""
 #: electrum_dash/plugins/safe_t/qt.py:228
 #: electrum_dash/plugins/keepkey/qt.py:350
 msgid "No"
-msgstr "Não"
+msgstr ""
 
 #: electrum_dash/util.py:232 electrum_dash/util.py:238
 msgid "No Data"
@@ -3871,7 +3892,7 @@ msgstr ""
 
 #: electrum_dash/gui/kivy/main_window.py:292
 msgid "No Wallet"
-msgstr "Sem Carteira"
+msgstr "Sin cartera"
 
 #: electrum_dash/gui/kivy/uix/screens.py:638
 msgid "No address available. Please remove some of your pending requests."
@@ -3883,7 +3904,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:965
 msgid "No donation address for this server"
-msgstr "Não há endereço de doação para este servidor"
+msgstr "Sin dirección de donaciones para este servidor"
 
 #: electrum_dash/dash_msg.py:203
 msgid "No errors detected."
@@ -3919,11 +3940,11 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:1406
 msgid "No more addresses in your wallet."
-msgstr "Não há mais endereços na sua carteira."
+msgstr "No hay más direcciones en tu cartera."
 
 #: electrum_dash/gui/qt/main_window.py:1689
 msgid "No outputs"
-msgstr "Não há saídas"
+msgstr "Sin salidas"
 
 #: electrum_dash/gui/kivy/uix/ui_screens/status.kv:48
 msgid "No seed stored for wallet"
@@ -3951,15 +3972,15 @@ msgstr ""
 #: electrum_dash/gui/qt/history_list.py:736
 #: electrum_dash/gui/qt/settings_dialog.py:343
 msgid "None"
-msgstr "Nenhum"
+msgstr "Ninguno"
 
 #: electrum_dash/i18n.py:70
 msgid "Norwegian Bokmal"
-msgstr ""
+msgstr "Bokmal Noruego"
 
 #: electrum_dash/gui/qt/exception_window.py:96
 msgid "Not Now"
-msgstr "Agora Não"
+msgstr "Ahora no"
 
 #: electrum_dash/dash_tx.py:566
 msgid "Not Specified"
@@ -3967,7 +3988,7 @@ msgstr ""
 
 #: electrum_dash/wallet.py:98
 msgid "Not Verified"
-msgstr "Não Verificado"
+msgstr "No confirmado"
 
 #: electrum_dash/dash_msg.py:184
 msgid "Not compatible with existing transactions."
@@ -3977,16 +3998,16 @@ msgstr ""
 #: electrum_dash/gui/kivy/uix/ui_screens/network.kv:14
 #: electrum_dash/gui/qt/network_dialog.py:367
 msgid "Not connected"
-msgstr "Não está ligado"
+msgstr "Desconectado"
 
 #: electrum_dash/gui/kivy/uix/dialogs/confirm_tx_dialog.py:131
 #: electrum_dash/gui/qt/main_window.py:1980
 msgid "Not enough funds"
-msgstr "Não há fundos suficientes"
+msgstr "No hay fondos suficientes"
 
 #: electrum_dash/wallet.py:189 electrum_dash/wallet.py:191
 msgid "Not enough funds on address."
-msgstr ""
+msgstr "Sin fondos suficientes en la dirección."
 
 #: electrum_dash/dash_msg.py:192
 msgid "Not in the Masternode list."
@@ -3994,15 +4015,15 @@ msgstr ""
 
 #: electrum_dash/wallet.py:559
 msgid "Not verified"
-msgstr ""
+msgstr "No confirmado"
 
 #: electrum_dash/gui/qt/main_window.py:1540
 msgid ""
 "Note that if you have frozen some of your addresses, the available funds "
 "will be lower than your total balance."
 msgstr ""
-"Note que se tiver congelado alguns dos seus endereços, os fundos disponíveis "
-"serão mais baixos que o seu saldo total."
+"Toma en cuenta que si tienes congelada alguna de tus cuentas, tu fondo "
+"disponible será menor que tu balance total."
 
 #: electrum_dash/gui/qt/privatesend_dialog.py:1110
 #: electrum_dash/base_wizard.py:501
@@ -4030,15 +4051,15 @@ msgstr ""
 
 #: electrum_dash/gui/kivy/uix/dialogs/__init__.py:97
 msgid "Nothing set !"
-msgstr "Nada estabelecido !"
+msgstr "¡Nada establecido!"
 
 #: electrum_dash/plot.py:15
 msgid "Nothing to plot."
-msgstr ""
+msgstr "No hay nada que actualizar."
 
 #: electrum_dash/gui/qt/history_list.py:821
 msgid "Nothing to summarize."
-msgstr ""
+msgstr "Nada que resumir."
 
 #: electrum_dash/dash_ps_util.py:768
 msgid "Notify on PrivateSend transactions"
@@ -4053,8 +4074,8 @@ msgid ""
 "Number of zeros displayed after the decimal point. For example, if this is "
 "set to 2, \"1.\" will be displayed as \"1.00\""
 msgstr ""
-"Número de zeros apresentados a seguir ao ponto decimal. Por exemplo, se isto "
-"estiver definido como 2, \"1.\" será apresentado como \"1.00\""
+"Número de ceros mostrados tras la coma decimal. Por ejemplo, si está "
+"configurada a 2, \"1,\" se mostrará como \"1,00\""
 
 #: electrum_dash/gui/kivy/main_window.py:1453
 #: electrum_dash/gui/kivy/uix/ui_screens/proxy.kv:64
@@ -4063,7 +4084,7 @@ msgstr ""
 #: electrum_dash/gui/qt/dash_qt.py:76 electrum_dash/gui/qt/util.py:198
 #: electrum_dash/plugins/audio_modem/qt.py:71
 msgid "OK"
-msgstr "OK"
+msgstr "Aceptar"
 
 #: electrum_dash/plugins/hw_wallet/plugin.py:347
 msgid "OP_RETURN payload too large.\n"
@@ -4077,7 +4098,7 @@ msgstr ""
 #: electrum_dash/gui/qt/protx_qt.py:595
 #: electrum_dash/gui/qt/main_window.py:1131
 msgid "Offline"
-msgstr "Offline"
+msgstr "Sin conexión"
 
 #: electrum_dash/base_wizard.py:344
 msgid "On Linux, you might have to add a new permission to your udev rules."
@@ -4089,7 +4110,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:2428
 msgid "One output per line."
-msgstr "Uma saída por linha."
+msgstr "Una salida por línea."
 
 #: electrum_dash/gui/kivy/uix/ui_screens/network.kv:50
 msgid "One-server mode"
@@ -4097,7 +4118,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/settings_dialog.py:297
 msgid "Online Block Explorer"
-msgstr "Explorador de Blocos Online"
+msgstr "Explorador de Bloques Online"
 
 #: electrum_dash/plugins/hw_wallet/plugin.py:345
 msgid "Only OP_RETURN scripts are supported."
@@ -4129,7 +4150,7 @@ msgstr ""
 
 #: electrum_dash/plugins/revealer/qt.py:730
 msgid "Open calibration pdf"
-msgstr ""
+msgstr "Abrir PDF de calibración"
 
 #: electrum_dash/gui/qt/protx_wizards.py:233
 msgid "Open masternode.conf"
@@ -4151,6 +4172,8 @@ msgstr "OpenAlias"
 #: electrum_dash/gui/qt/settings_dialog.py:108
 msgid "OpenAlias record, used to receive coins and to sign payment requests."
 msgstr ""
+"Registro de OpenAlias, utilizado para recibir monedas y firmar las "
+"solicitudes de pago."
 
 #: electrum_dash/gui/qt/protx_wizards.py:102
 msgid "Operation type"
@@ -4183,7 +4206,7 @@ msgstr ""
 #: electrum_dash/gui/kivy/uix/actiondropdown.py:32
 #: electrum_dash/gui/qt/seed_dialog.py:180
 msgid "Options"
-msgstr "Opções"
+msgstr "Opciones"
 
 #: electrum_dash/gui/qt/installwizard.py:756
 msgid "Or"
@@ -4223,11 +4246,11 @@ msgstr ""
 #: electrum_dash/gui/qt/main_window.py:2486
 #: electrum_dash/gui/qt/transaction_dialog.py:619
 msgid "Outputs"
-msgstr "Saídas"
+msgstr "Salidas"
 
 #: electrum_dash/gui/qt/network_dialog.py:215
 msgid "Overview"
-msgstr "Visão Geral"
+msgstr "Resumen"
 
 #: electrum_dash/gui/qt/protx_wizards.py:394
 msgid "Owner Address (P2PKH):"
@@ -4265,7 +4288,7 @@ msgstr ""
 #: electrum_dash/plugins/safe_t/qt.py:388
 #: electrum_dash/plugins/keepkey/qt.py:481
 msgid "PIN Protection"
-msgstr ""
+msgstr "Protección por PIN"
 
 #: electrum_dash/gui/kivy/main_window.py:1552
 msgid "PIN disabled"
@@ -4288,7 +4311,7 @@ msgstr ""
 #: electrum_dash/plugins/safe_t/qt.py:352
 #: electrum_dash/plugins/keepkey/qt.py:444
 msgid "PIN set"
-msgstr ""
+msgstr "PIN establecido"
 
 #: electrum_dash/gui/kivy/main_window.py:1552
 msgid "PIN updated"
@@ -4326,26 +4349,26 @@ msgstr ""
 
 #: electrum_dash/invoices.py:46
 msgid "Paid"
-msgstr "Pago"
+msgstr "Pagado"
 
 #: electrum_dash/wallet.py:581
 msgid "Partially signed"
-msgstr ""
+msgstr "Parcialmente firmada"
 
 #: electrum_dash/gui/kivy/main_window.py:1495
 msgid "Passphrase"
-msgstr "Frase-passe"
+msgstr "Clave de acceso"
 
 #: electrum_dash/gui/qt/password_dialog.py:90
 #: electrum_dash/plugins/trezor/qt.py:190
 msgid "Passphrase:"
-msgstr "Frase-passe:"
+msgstr "Contraseña:"
 
 #: electrum_dash/plugins/trezor/qt.py:621
 #: electrum_dash/plugins/safe_t/qt.py:353
 #: electrum_dash/plugins/keepkey/qt.py:445
 msgid "Passphrases"
-msgstr ""
+msgstr "Frase de contraseña"
 
 #: electrum_dash/plugins/trezor/qt.py:23 electrum_dash/plugins/safe_t/qt.py:23
 #: electrum_dash/plugins/keepkey/qt.py:23
@@ -4363,16 +4386,16 @@ msgstr ""
 #: electrum_dash/gui/qt/network_dialog.py:240
 #: electrum_dash/gui/qt/password_dialog.py:312
 msgid "Password"
-msgstr "Palavra-passe"
+msgstr "Contraseña"
 
 #: electrum_dash/gui/qt/password_dialog.py:159
 msgid "Password Strength"
-msgstr "Segurança da palavra-passe"
+msgstr "Seguridad de la Contraseña"
 
 #: electrum_dash/gui/qt/main_window.py:2692
 #: electrum_dash/gui/qt/privatesend_dialog.py:913
 msgid "Password is disabled, this wallet is not protected"
-msgstr "A palavra-passe está desativada, esta carteira não está protegida"
+msgstr "La contraseña está desactivada, esta cartera no está protegida"
 
 #: electrum_dash/gui/kivy/uix/dialogs/password_dialog.py:290
 msgid "Password is too short (min {} characters)"
@@ -4411,11 +4434,11 @@ msgstr ""
 #: electrum_dash/gui/qt/main_window.py:2692
 #: electrum_dash/gui/qt/privatesend_dialog.py:910
 msgid "Password was updated successfully"
-msgstr "A palavra-passe foi atualizada com sucesso"
+msgstr "Contraseña actualizada correctamente"
 
 #: electrum_dash/gui/qt/password_dialog.py:104
 msgid "Password:"
-msgstr "Palavra-passe:"
+msgstr "Contraseña:"
 
 #: electrum_dash/gui/qt/util.py:824
 msgid "Paste from clipboard"
@@ -4425,7 +4448,7 @@ msgstr ""
 #: electrum_dash/gui/qt/invoice_list.py:173
 #: electrum_dash/gui/qt/main_window.py:1558
 msgid "Pay"
-msgstr ""
+msgstr "Pagar"
 
 #: electrum_dash/gui/text.py:260 electrum_dash/gui/qt/main_window.py:1502
 #: electrum_dash/gui/qt/contact_list.py:91
@@ -4434,7 +4457,7 @@ msgstr "Pagar a"
 
 #: electrum_dash/gui/qt/main_window.py:2432
 msgid "Pay to many"
-msgstr "Pagar a vários"
+msgstr "Pagar a varios"
 
 #: electrum_dash/gui/kivy/main_window.py:259
 msgid "Payment Received"
@@ -4442,7 +4465,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/qrwindow.py:39
 msgid "Payment Request"
-msgstr "Pedido de Pagamento"
+msgstr "Solicitud de pago"
 
 #: electrum_dash/gui/kivy/main_window.py:282
 #: electrum_dash/gui/qt/main_window.py:1767
@@ -4456,18 +4479,18 @@ msgstr ""
 #: electrum_dash/gui/kivy/uix/screens.py:612
 #: electrum_dash/gui/qt/main_window.py:1744
 msgid "Payment received"
-msgstr ""
+msgstr "Pago recibido"
 
 #: electrum_dash/gui/kivy/main_window.py:430
 #: electrum_dash/gui/qt/main_window.py:1709
 msgid "Payment request has expired"
-msgstr "O pedido de pagamento caducou"
+msgstr "Solicitud de pago caducada"
 
 #: electrum_dash/gui/stdio.py:290 electrum_dash/gui/text.py:466
 #: electrum_dash/gui/kivy/main_window.py:1363
 #: electrum_dash/gui/qt/main_window.py:2228
 msgid "Payment sent."
-msgstr "Pagamento enviado."
+msgstr "Pago enviado."
 
 #: electrum_dash/gui/kivy/main_window.py:278
 #: electrum_dash/gui/qt/main_window.py:1763
@@ -4496,7 +4519,7 @@ msgstr ""
 
 #: electrum_dash/i18n.py:60
 msgid "Persian"
-msgstr ""
+msgstr "Persa"
 
 #: electrum_dash/gui/qt/dash_net_dialog.py:36
 msgid "Ping time (ms)"
@@ -4520,7 +4543,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/history_list.py:1063
 msgid "Please confirm"
-msgstr ""
+msgstr "Por favor confirme"
 
 #: electrum_dash/gui/kivy/uix/screens.py:464
 msgid "Please enter an amount"
@@ -4528,8 +4551,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/installwizard.py:497
 msgid "Please enter the master public key (xpub) of your cosigner."
-msgstr ""
-"Por favor introduza a chave pública mestra (xpub) do seu cossignatário."
+msgstr "Por favor, introduzca la llave pública maestra (xpub) de tu aval."
 
 #: electrum_dash/gui/kivy/uix/dialogs/installwizard.py:1297
 #: electrum_dash/gui/qt/installwizard.py:611
@@ -4543,7 +4565,7 @@ msgstr ""
 #: electrum_dash/gui/qt/main_window.py:1362 electrum_dash/gui/qt/console.py:28
 #: electrum_dash/gui/qt/password_dialog.py:305
 msgid "Please enter your password"
-msgstr "Por favor, digite a sua palavra-passe"
+msgstr "Por favor, introduzca su contraseña."
 
 #: electrum_dash/plugins/cosigner_pool/qt.py:230
 msgid "Please enter your password to decrypt it."
@@ -4552,7 +4574,8 @@ msgstr ""
 #: electrum_dash/gui/qt/installwizard.py:512
 #: electrum_dash/gui/qt/privatesend_dialog.py:1209
 msgid "Please enter your seed phrase in order to restore your wallet."
-msgstr "Por favor introduza a sua frase semente para restaurar a sua carteira."
+msgstr ""
+"Por favor, introduzca su frase semilla con el fin de restaurar su cartera."
 
 #: electrum_dash/plugin.py:633
 msgid "Please insert your {}"
@@ -4563,12 +4586,12 @@ msgid ""
 "Please paste your cosigners master public key, or scan it using the camera "
 "button."
 msgstr ""
-"Por favor introduza a chave pública mestra dos cossignatários, ou leia-a "
-"usando o botão da câmara."
+"Por favor, pegue su llave pública maestra de firmantes, o escaneela usando "
+"el botón de la cámara."
 
 #: electrum_dash/gui/qt/main_window.py:994
 msgid "Please report any bugs as issues on github:<br/>"
-msgstr "Por favor relate qualquer bug ou problema no github:<br/>"
+msgstr "Por favor, reporte cualquier error en github:<br/>"
 
 #: electrum_dash/gui/qt/exception_window.py:120
 msgid "Please report this issue manually"
@@ -4581,13 +4604,14 @@ msgstr ""
 #: electrum_dash/gui/qt/main_window.py:3432
 msgid "Please restart Dash Electrum to activate the new GUI settings"
 msgstr ""
-"Por favor reinicie o Dash Electrum para ativar as novas definições de GUI"
+"Por favor reinicie Dash Electrum para activar los nuevos ajustes de la "
+"interfaz"
 
 #: electrum_dash/gui/kivy/uix/dialogs/installwizard.py:1249
 msgid "Please retype your seed phrase, to confirm that you properly saved it"
 msgstr ""
-"Por favor reescreva a sua frase semente, para confirmar que a guardou "
-"adequadamente"
+"Por favor, vuelva a escribir la frase de semilla, para confirmar que se ha "
+"guardado correctamente"
 
 #: electrum_dash/gui/qt/seed_dialog.py:52
 #, python-brace-format
@@ -4611,11 +4635,11 @@ msgstr ""
 #: electrum_dash/gui/qt/installwizard.py:582
 #: electrum_dash/gui/qt/installwizard.py:821
 msgid "Please share it with your cosigners."
-msgstr "Por favor partilhe com os seus cossignatários."
+msgstr "Por favor, compartalo con sus compañeros firmantes."
 
 #: electrum_dash/base_wizard.py:374
 msgid "Please try again."
-msgstr ""
+msgstr "Por favor, inténtelo otra vez."
 
 #: electrum_dash/gui/qt/privatesend_dialog.py:1183
 #: electrum_dash/base_wizard.py:799
@@ -4624,11 +4648,11 @@ msgstr ""
 
 #: electrum_dash/gui/kivy/uix/dialogs/installwizard.py:947
 msgid "Please type your seed phrase using the virtual keyboard."
-msgstr "Por favor escreva a sua frase semente usando o teclado virtual."
+msgstr "Por favor escriba su frase de semillas usando el teclado virtual."
 
 #: electrum_dash/gui/qt/util.py:306
 msgid "Please wait"
-msgstr "Por favor aguarde"
+msgstr "Espere por favor"
 
 #: electrum_dash/gui/qt/update_checker.py:94
 msgid "Please wait while Dash Electrum checks for available updates."
@@ -4640,7 +4664,7 @@ msgstr ""
 #: electrum_dash/gui/qt/installwizard.py:174
 #: electrum_dash/gui/qt/installwizard.py:690
 msgid "Please wait..."
-msgstr "Aguarde, por favor..."
+msgstr "Espere por favor..."
 
 #: electrum_dash/gui/kivy/main.kv:521
 msgid "Plugins"
@@ -4656,7 +4680,7 @@ msgstr ""
 
 #: electrum_dash/gui/kivy/uix/ui_screens/proxy.kv:28
 msgid "Port"
-msgstr "Porta"
+msgstr "Puerto"
 
 #: electrum_dash/i18n.py:74
 msgid "Portuguese"
@@ -4671,7 +4695,7 @@ msgstr ""
 #: electrum_dash/gui/qt/transaction_dialog.py:821
 #: electrum_dash/gui/qt/settings_dialog.py:54
 msgid "Preferences"
-msgstr "Preferências"
+msgstr "Ajustes"
 
 #: electrum_dash/gui/qt/main_window.py:3366
 msgid "Preparing sweep transaction..."
@@ -4689,8 +4713,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/installwizard.py:282
 msgid "Press 'Next' to create this wallet, or choose another file."
-msgstr ""
-"Clique em \"Próximo\" para criar esta carteira, ou selecione outro ficheiro."
+msgstr "Presione \"Siguiente\" para crear esta cartera, o elija otro archivo."
 
 #: electrum_dash/gui/qt/installwizard.py:295
 msgid "Press 'Next' to create/focus window."
@@ -4703,7 +4726,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/installwizard.py:292
 msgid "Press 'Next' to open this wallet."
-msgstr "Clique em \"Próximo\" para abrir esta carteira."
+msgstr "Presione \"Siguiente\" para abrir esta cartera."
 
 #: electrum_dash/plugins/ledger/auth2fa.py:124
 msgid "Press Enter"
@@ -4720,7 +4743,7 @@ msgstr ""
 #: electrum_dash/gui/kivy/main_window.py:756
 #: electrum_dash/gui/kivy/uix/dialogs/installwizard.py:682
 msgid "Press again to exit"
-msgstr "Pressione novamente para sair"
+msgstr "Presione de nuevo para salir"
 
 #: electrum_dash/gui/qt/seed_dialog.py:199
 msgid "Previous share"
@@ -4745,15 +4768,15 @@ msgstr ""
 #: electrum_dash/gui/qt/main_window.py:2884
 #: electrum_dash/gui/qt/address_list.py:552
 msgid "Private key"
-msgstr "Chave privada"
+msgstr "Llave privada"
 
 #: electrum_dash/gui/qt/main_window.py:3171
 msgid "Private keys"
-msgstr "Chaves privadas"
+msgstr "Llaves privadas"
 
 #: electrum_dash/gui/qt/main_window.py:3255
 msgid "Private keys exported."
-msgstr "Chaves privadas exportadas ."
+msgstr "Llaves privadas exportadas."
 
 #: electrum_dash/gui/kivy/main_window.py:942
 #: electrum_dash/gui/kivy/uix/dialogs/invoice_dialog.py:104
@@ -4911,7 +4934,7 @@ msgstr ""
 
 #: electrum_dash/gui/kivy/uix/ui_screens/proxy.kv:11
 msgid "Proxy mode"
-msgstr ""
+msgstr "Modo proxy"
 
 #: electrum_dash/gui/qt/network_dialog.py:272
 msgid ""
@@ -4921,7 +4944,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/network_dialog.py:238
 msgid "Proxy user"
-msgstr "Utilizador do Proxy"
+msgstr "Usuario del proxy"
 
 #: electrum_dash/gui/qt/protx_wizards.py:838
 msgid "PubKeyOperator:"
@@ -4929,11 +4952,11 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:3036
 msgid "Public key"
-msgstr "Chave pública"
+msgstr "Llave pública"
 
 #: electrum_dash/gui/qt/address_dialog.py:79
 msgid "Public keys"
-msgstr "Chaves públicas"
+msgstr "Llaves públicas"
 
 #: electrum_dash/gui/qt/main_window.py:1316
 msgid "QR Code"
@@ -4949,11 +4972,11 @@ msgstr "Código QR"
 
 #: electrum_dash/gui/qt/qrcodewidget.py:144
 msgid "QR code copied to clipboard"
-msgstr "Código QR copiado para a área de transferência"
+msgstr "Código QR copiado al portapapeles"
 
 #: electrum_dash/gui/qt/qrcodewidget.py:139
 msgid "QR code saved to file"
-msgstr "Código QR guardado para ficheiro"
+msgstr "Código QR guardado en el archivo"
 
 #: electrum_dash/gui/qt/qrreader/qtmultimedia/video_surface.py:59
 msgid "QR code scanner failed to map video frame"
@@ -4975,11 +4998,11 @@ msgstr ""
 
 #: electrum_dash/gui/kivy/uix/dialogs/question.py:55
 msgid "Question"
-msgstr ""
+msgstr "Pregunta"
 
 #: electrum_dash/gui/text.py:233
 msgid "Quit"
-msgstr ""
+msgstr "Salir"
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:183
 msgid "REMEMBER THE PASSWORD!"
@@ -4991,7 +5014,7 @@ msgstr ""
 
 #: electrum_dash/gui/kivy/uix/dialogs/tx_dialog.py:227
 msgid "Raw Transaction"
-msgstr ""
+msgstr "Transacción bruta"
 
 #: electrum_dash/plugins/trezor/clientbase.py:280
 #: electrum_dash/plugins/safe_t/clientbase.py:57
@@ -5004,15 +5027,15 @@ msgstr ""
 
 #: electrum_dash/gui/qt/qrtextedit.py:52 electrum_dash/gui/qt/qrtextedit.py:96
 msgid "Read QR code"
-msgstr "Ler código QR"
+msgstr "Leer código QR"
 
 #: electrum_dash/gui/qt/qrtextedit.py:50
 msgid "Read file"
-msgstr "Ler ficheiro"
+msgstr "Leer archivo"
 
 #: electrum_dash/plugins/audio_modem/qt.py:91
 msgid "Read from microphone"
-msgstr ""
+msgstr "Leer del micrófono"
 
 #: electrum_dash/plugins/revealer/qt.py:241
 msgid "Ready to encrypt for revealer {}"
@@ -5025,7 +5048,7 @@ msgstr ""
 #: electrum_dash/gui/text.py:105 electrum_dash/gui/kivy/main.kv:440
 #: electrum_dash/gui/qt/main_window.py:275
 msgid "Receive"
-msgstr "Receber"
+msgstr "Recibir"
 
 #: electrum_dash/gui/qt/main_window.py:1308
 msgid "Receive queue"
@@ -5033,7 +5056,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/dash_net_dialog.py:417
 msgid "Received"
-msgstr ""
+msgstr "Recibido"
 
 #: electrum_dash/gui/qt/dash_net_dialog.py:37
 msgid "Received KiB"
@@ -5041,7 +5064,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/address_list.py:71
 msgid "Receiving"
-msgstr ""
+msgstr "Recibiendo"
 
 #: electrum_dash/gui/qt/transaction_dialog.py:143
 msgid "Receiving Address"
@@ -5049,19 +5072,19 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:1304
 msgid "Receiving address"
-msgstr "Endereço de recebimento"
+msgstr "Dirección de entrada"
 
 #: electrum_dash/gui/kivy/uix/ui_screens/send.kv:95
 msgid "Recipient"
-msgstr ""
+msgstr "Destinatario"
 
 #: electrum_dash/gui/kivy/uix/screens.py:461
 msgid "Recipient not specified."
-msgstr ""
+msgstr "Destinatario no especificado."
 
 #: electrum_dash/gui/qt/main_window.py:1500
 msgid "Recipient of the funds."
-msgstr "Destinatário dos fundos."
+msgstr "Destinatario de los fondos."
 
 #: electrum_dash/plugins/trezor/trezor.py:218
 #: electrum_dash/plugins/safe_t/safe_t.py:176
@@ -5071,7 +5094,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/address_dialog.py:88
 msgid "Redeem Script"
-msgstr "Resgatar Script"
+msgstr "Cargar script"
 
 #: electrum_dash/gui/qt/protx_wizards.py:716
 msgid "Regenerate BLS keypair, setup dashd"
@@ -5113,7 +5136,7 @@ msgstr "Remover"
 
 #: electrum_dash/gui/qt/address_list.py:560
 msgid "Remove from wallet"
-msgstr ""
+msgstr "Eliminar de la cartera"
 
 #: electrum_dash/gui/qt/main_window.py:2457
 msgid "Remove {} from your list of contacts?"
@@ -5129,20 +5152,20 @@ msgstr ""
 
 #: electrum_dash/gui/qt/exception_window.py:71
 msgid "Report contents"
-msgstr ""
+msgstr "Reportar contenidos"
 
 #: electrum_dash/gui/kivy/uix/dialogs/crash_reporter.py:130
 msgid "Report sent"
-msgstr ""
+msgstr "Reporte enviado"
 
 #: electrum_dash/gui/qt/main_window.py:999
 msgid "Reporting Bugs"
-msgstr "A relatar Bugs"
+msgstr "Reportar Errores"
 
 #: electrum_dash/gui/kivy/uix/ui_screens/receive.kv:147
 #: electrum_dash/gui/qt/main_window.py:1315
 msgid "Request"
-msgstr ""
+msgstr "Solicitud"
 
 #: electrum_dash/gui/kivy/uix/screens.py:626
 msgid "Request copied to clipboard"
@@ -5150,19 +5173,19 @@ msgstr ""
 
 #: electrum_dash/plugins/email_requests/qt.py:208
 msgid "Request sent."
-msgstr ""
+msgstr "Petición enviada."
 
 #: electrum_dash/gui/qt/main_window.py:1232
 msgid "Requested amount"
-msgstr "Quantia pedida"
+msgstr "Cantidad solicitada"
 
 #: electrum_dash/gui/qt/main_window.py:2502
 msgid "Requestor"
-msgstr "Requerente"
+msgstr "Solicitante"
 
 #: electrum_dash/gui/qt/main_window.py:885
 msgid "Requests"
-msgstr "Pedidos"
+msgstr "Solicitudes"
 
 #: electrum_dash/gui/qt/installwizard.py:876
 #, python-brace-format
@@ -5182,13 +5205,13 @@ msgstr ""
 #: electrum_dash/gui/kivy/uix/dialogs/plugins.py:154
 #: electrum_dash/gui/qt/main_window.py:3562
 msgid "Requires"
-msgstr "Requer"
+msgstr "Requiere"
 
 #: electrum_dash/gui/qt/main_window.py:2634
 #: electrum_dash/plugins/trezor/qt.py:672
 #: electrum_dash/plugins/safe_t/qt.py:404
 msgid "Reset"
-msgstr ""
+msgstr "Reiniciar"
 
 #: electrum_dash/plugins/scan_over_gap/scan_over_gap.py:98
 msgid "Reset all scans?"
@@ -5233,15 +5256,15 @@ msgstr ""
 
 #: electrum_dash/plugins/revealer/qt.py:737
 msgid "Right side"
-msgstr ""
+msgstr "Lado derecho"
 
 #: electrum_dash/i18n.py:75
 msgid "Romanian"
-msgstr ""
+msgstr "Rumano"
 
 #: electrum_dash/i18n.py:76
 msgid "Russian"
-msgstr ""
+msgstr "Ruso"
 
 #: electrum_dash/dash_msg.py:135
 msgid "SIGNING"
@@ -5277,11 +5300,11 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:2511
 msgid "Save invoice to file"
-msgstr "Guardar fatura para ficheiro"
+msgstr "Guardar factura como archivo"
 
 #: electrum_dash/gui/qt/transaction_dialog.py:552
 msgid "Save transaction offline"
-msgstr ""
+msgstr "Guardar transacciones desconectado"
 
 #: electrum_dash/plugins/labels/__init__.py:5
 msgid ""
@@ -5331,12 +5354,12 @@ msgstr ""
 
 #: electrum_dash/plugins/trezor/qt.py:405
 msgid "Scrambled words"
-msgstr ""
+msgstr "Palabras enredadas"
 
 #: electrum_dash/gui/qt/main_window.py:2747
 #: electrum_dash/gui/qt/main_window.py:2883
 msgid "Script type"
-msgstr ""
+msgstr "Tipo de Script"
 
 #: electrum_dash/base_wizard.py:445
 msgid "Script type and Derivation path"
@@ -5357,7 +5380,7 @@ msgstr ""
 #: electrum_dash/gui/qt/privatesend_dialog.py:190
 #: electrum_dash/gui/qt/privatesend_dialog.py:1322
 msgid "Seed"
-msgstr "Semente"
+msgstr "Semilla"
 
 #: electrum_dash/plugins/keepkey/qt.py:82
 msgid "Seed Entered"
@@ -5369,7 +5392,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/seed_dialog.py:285
 msgid "Seed Type"
-msgstr "Tipo de Semente"
+msgstr "Tipo de semilla"
 
 #: electrum_dash/gui/qt/main_window.py:2749
 msgid "Seed available"
@@ -5406,11 +5429,11 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:3185
 msgid "Select file to export your private keys to"
-msgstr "Selecione um ficheiro para onde sexportar as suas chaves privadas"
+msgstr "Selecciona donde exportar tus claves privadas"
 
 #: electrum_dash/gui/qt/history_list.py:1086
 msgid "Select file to export your wallet transactions to"
-msgstr "Selecione um ficheiro para onde exportar as transações da sua carteira"
+msgstr "Selecciona donde exportar las transacciones de tu cartera"
 
 #: electrum_dash/gui/qt/util.py:1041
 msgid "Select file to save your {}"
@@ -5451,11 +5474,11 @@ msgstr ""
 
 #: electrum_dash/gui/qt/network_dialog.py:294
 msgid "Select server automatically"
-msgstr "Selecionar servidor automaticamente"
+msgstr "Seleccionar servidor automáticamente"
 
 #: electrum_dash/gui/qt/installwizard.py:842
 msgid "Select server manually"
-msgstr "Selecionar servidor manualmente"
+msgstr "Seleccionar servidor manualmente"
 
 #: electrum_dash/plugins/trezor/qt.py:348
 msgid "Select share length:"
@@ -5471,8 +5494,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/settings_dialog.py:69
 msgid "Select which language is used in the GUI (after restart)."
-msgstr ""
-"Selecione qual o idioma que é usado na interface gráfica (após reiniciar)."
+msgstr "Seleccione cual idioma es usado en la interfaz (después de reiniciar)."
 
 #: electrum_dash/plugins/safe_t/qt.py:115
 #: electrum_dash/plugins/keepkey/qt.py:241
@@ -5485,7 +5507,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:3100
 msgid "Select your transaction file"
-msgstr "Selecione o seu ficheiro de transação"
+msgstr "Selecciona tu archivo de transacción"
 
 #: electrum_dash/gui/text.py:105 electrum_dash/gui/kivy/main.kv:432
 #: electrum_dash/gui/qt/main_window.py:274
@@ -5548,7 +5570,7 @@ msgstr ""
 
 #: electrum_dash/gui/kivy/main_window.py:1371
 msgid "Sending"
-msgstr "A enviar"
+msgstr "Enviando"
 
 #: electrum_dash/gui/qt/exception_window.py:126
 msgid "Sending crash report..."
@@ -5650,7 +5672,7 @@ msgstr ""
 #: electrum_dash/plugins/keepkey/qt.py:567
 #: electrum_dash/plugins/email_requests/qt.py:214
 msgid "Settings"
-msgstr "Definições"
+msgstr "Ajustes"
 
 #: electrum_dash/plugins/trezor/qt.py:298
 msgid "Shamir"
@@ -5674,11 +5696,11 @@ msgstr "Mostrar"
 
 #: electrum_dash/gui/qt/settings_dialog.py:429
 msgid "Show Fiat balance for addresses"
-msgstr ""
+msgstr "Mostrart el saldo fiat para las direcciones"
 
 #: electrum_dash/gui/qt/address_dialog.py:67
 msgid "Show QR Code"
-msgstr "Mostrar Código QR"
+msgstr "Mostrar código QR"
 
 #: electrum_dash/gui/qt/privatesend_dialog.py:838
 msgid "Show Seed"
@@ -5693,11 +5715,11 @@ msgstr ""
 #: electrum_dash/gui/qt/transaction_dialog.py:129
 #: electrum_dash/gui/qt/transaction_dialog.py:294
 msgid "Show as QR code"
-msgstr "Mostrar como Código QR"
+msgstr "Mostrar como código QR"
 
 #: electrum_dash/gui/qt/settings_dialog.py:428
 msgid "Show capital gains in history"
-msgstr ""
+msgstr "Mostrar los incrementos de capital en el historial"
 
 #: electrum_dash/plugins/trezor/qt.py:375
 msgid "Show expert settings"
@@ -5705,18 +5727,18 @@ msgstr ""
 
 #: electrum_dash/gui/qt/settings_dialog.py:427
 msgid "Show history rates"
-msgstr "Mostrar histórico de preços"
+msgstr "Mostrar historial de precios"
 
 #: electrum_dash/plugins/ledger/qt.py:32
 msgid "Show on Ledger"
-msgstr ""
+msgstr "Mostrar en Ledger"
 
 #: electrum_dash/plugins/trezor/qt.py:249 electrum_dash/plugins/safe_t/qt.py:84
 #: electrum_dash/plugins/digitalbitbox/qt.py:39
 #: electrum_dash/plugins/hw_wallet/qt.py:309
 #: electrum_dash/plugins/keepkey/qt.py:208
 msgid "Show on {}"
-msgstr ""
+msgstr "Mostrar en {}"
 
 #: electrum_dash/dash_ps_util.py:1092
 msgid "Show privacy warning about ElectrumX servers usage"
@@ -5724,7 +5746,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/exception_window.py:68
 msgid "Show report contents"
-msgstr ""
+msgstr "Mostrar el contenido del reporte"
 
 #: electrum_dash/gui/qt/settings_dialog.py:170
 msgid "Show transaction type in wallet history"
@@ -5744,17 +5766,17 @@ msgstr ""
 
 #: electrum_dash/gui/qt/__init__.py:178
 msgid "Show/Hide"
-msgstr "Mostrar/Esconder"
+msgstr "Mostrar/Ocultar"
 
 #: electrum_dash/plugins/ledger/ledger.py:605
 msgid "Showing address ..."
-msgstr ""
+msgstr "Mostrar dirección ..."
 
 #: electrum_dash/gui/kivy/uix/dialogs/tx_dialog.py:201
 #: electrum_dash/gui/qt/main_window.py:2973
 #: electrum_dash/gui/qt/transaction_dialog.py:166
 msgid "Sign"
-msgstr "Assinar"
+msgstr "Firmar"
 
 #: electrum_dash/gui/kivy/uix/dialogs/tx_dialog.py:208
 msgid "Sign this transaction?"
@@ -5766,28 +5788,28 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:2949
 msgid "Sign/verify Message"
-msgstr "Assinar/verificar Mensagem"
+msgstr "Firmar/verificar Mensaje"
 
 #: electrum_dash/gui/qt/address_list.py:555
 msgid "Sign/verify message"
-msgstr ""
+msgstr "Firmar/verificar mensaje"
 
 #: electrum_dash/gui/qt/main_window.py:2504
 #: electrum_dash/gui/qt/main_window.py:2967
 msgid "Signature"
-msgstr "Assinatura"
+msgstr "Firma"
 
 #: electrum_dash/gui/qt/main_window.py:2944
 msgid "Signature verified"
-msgstr "Assinatura verificada"
+msgstr "Firma verificada"
 
 #: electrum_dash/wallet.py:576
 msgid "Signed"
-msgstr ""
+msgstr "Firmado"
 
 #: electrum_dash/gui/kivy/uix/dialogs/tx_dialog.py:211
 msgid "Signing"
-msgstr ""
+msgstr "Firmando"
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:604
 msgid "Signing large transaction. Please be patient ..."
@@ -5795,12 +5817,12 @@ msgstr ""
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:477
 msgid "Signing message ..."
-msgstr ""
+msgstr "Firmando mensaje ..."
 
 #: electrum_dash/gui/qt/main_window.py:2184
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:609
 msgid "Signing transaction..."
-msgstr "A assinar transação..."
+msgstr "Firmando transacción..."
 
 #: electrum_dash/gui/qt/main_window.py:2892
 msgid ""
@@ -5816,7 +5838,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/transaction_dialog.py:508
 msgid "Size:"
-msgstr "Tamanho:"
+msgstr "Tamaño:"
 
 #: electrum_dash/i18n.py:77
 msgid "Slovak"
@@ -5824,7 +5846,7 @@ msgstr ""
 
 #: electrum_dash/i18n.py:78
 msgid "Slovenian"
-msgstr ""
+msgstr "Esloveno"
 
 #: electrum_dash/gui/qt/main_window.py:1662
 msgid ""
@@ -5856,7 +5878,7 @@ msgstr ""
 
 #: electrum_dash/base_crash_reporter.py:53
 msgid "Sorry!"
-msgstr ""
+msgstr "¡Lo siento!"
 
 #: electrum_dash/gui/qt/update_checker.py:73
 msgid "Sorry, but we were unable to check for updates. Please try again later."
@@ -5864,15 +5886,15 @@ msgstr ""
 
 #: electrum_dash/gui/qt/settings_dialog.py:426
 msgid "Source"
-msgstr "Fonte"
+msgstr "Codigo fuente"
 
 #: electrum_dash/i18n.py:59
 msgid "Spanish"
-msgstr ""
+msgstr "Español"
 
 #: electrum_dash/gui/qt/utxo_list.py:519
 msgid "Spend"
-msgstr ""
+msgstr "Gastar"
 
 #: electrum_dash/gui/qt/utxo_list.py:516
 msgid "Spend (select none)"
@@ -5880,15 +5902,15 @@ msgstr ""
 
 #: electrum_dash/gui/qt/address_list.py:579
 msgid "Spend from"
-msgstr ""
+msgstr "Gastar desde"
 
 #: electrum_dash/gui/qt/settings_dialog.py:273
 msgid "Spend only confirmed coins"
-msgstr "Gastar apenas moedas confirmadas"
+msgstr "Gastar sólo monedas confirmadas"
 
 #: electrum_dash/gui/qt/settings_dialog.py:274
 msgid "Spend only confirmed inputs."
-msgstr "Gastar apenas entradas confirmadas."
+msgstr "Gastar sólo monedas aportadas."
 
 #: electrum_dash/gui/qt/dash_net_dialog.py:131
 msgid "Spork"
@@ -5900,7 +5922,7 @@ msgstr ""
 
 #: electrum_dash/base_wizard.py:155
 msgid "Standard wallet"
-msgstr ""
+msgstr "Cartera estándar"
 
 #: electrum_dash/dash_ps_util.py:968
 msgid "Start Mixing"
@@ -5927,7 +5949,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/fee_slider.py:15
 msgid "Static"
-msgstr ""
+msgstr "Estático"
 
 #: electrum_dash/gui/qt/dash_net_dialog.py:312
 msgid "Static Peers:"
@@ -5980,11 +6002,11 @@ msgstr ""
 #: electrum_dash/gui/qt/exception_window.py:194
 #: electrum_dash/gui/qt/privatesend_dialog.py:915
 msgid "Success"
-msgstr "Concluído"
+msgstr "Completado"
 
 #: electrum_dash/gui/qt/history_list.py:831
 msgid "Summary"
-msgstr ""
+msgstr "Resumen"
 
 #: electrum_dash/plugins/ledger/auth2fa.py:145
 msgid "Summary Text PIN (requires dongle replugging)"
@@ -6000,29 +6022,29 @@ msgstr ""
 
 #: electrum_dash/plugins/keepkey/qt.py:449
 msgid "Supported Coins"
-msgstr ""
+msgstr "Monedas soportadas"
 
 #: electrum_dash/i18n.py:79
 msgid "Swedish"
-msgstr ""
+msgstr "Sueco"
 
 #: electrum_dash/gui/qt/main_window.py:3321
 msgid "Sweep"
-msgstr "Varrer"
+msgstr "Barrer"
 
 #: electrum_dash/gui/qt/main_window.py:3300
 msgid "Sweep private keys"
-msgstr "Varrer chaves privadas"
+msgstr "Barrer llaves privadas"
 
 #: electrum_dash/gui/stdio.py:185 electrum_dash/gui/text.py:217
 #: electrum_dash/gui/kivy/main_window.py:1084
 #: electrum_dash/gui/qt/main_window.py:1144
 msgid "Synchronizing..."
-msgstr "A sincronizar..."
+msgstr "Sincronizando..."
 
 #: electrum_dash/i18n.py:80
 msgid "Tamil"
-msgstr ""
+msgstr "Tamil"
 
 #: electrum_dash/gui/kivy/main.kv:192
 msgid "Tap to show"
@@ -6066,7 +6088,7 @@ msgstr ""
 
 #: electrum_dash/i18n.py:81
 msgid "Thai"
-msgstr ""
+msgstr "Tailandés"
 
 #: electrum_dash/gui/qt/main_window.py:1263
 msgid ""
@@ -6095,24 +6117,25 @@ msgid ""
 "The amount of fee can be decided freely by the sender. However, transactions "
 "with low fees take more time to be processed."
 msgstr ""
-"O valor da taxa pode ser decidido livremente pelo remetente. Contudo, "
-"transações com taxas baixas podem demorar mais tempo a ser processadas."
+"La cantidad de comisión puede ser decidida libremente por el remitente. Sin "
+"embargo, las transacciones con comisiones bajas tardan más tiempo en ser "
+"procesadas."
 
 #: electrum_dash/gui/qt/main_window.py:1539
 msgid ""
 "The amount will be displayed in red if you do not have enough funds in your "
 "wallet."
 msgstr ""
-"O valor será mostrado a vermelho se não tiver fundos suficientes na sua "
-"carteira."
+"El monto será mostrado en rojo si no posee los suficientes fondos en su "
+"cartera."
 
 #: electrum_dash/gui/qt/main_window.py:1512
 msgid ""
 "The description is not sent to the recipient of the funds. It is stored in "
 "your wallet file, and displayed in the 'History' tab."
 msgstr ""
-"A descrição não é enviada para o destinatário dos fundos. É guardada no "
-"ficheiro da sua carteira, e apresentada no separador \"Histórico\"."
+"La descripción no es enviada al destinatario de los fondos. Se guarda en su "
+"archivo de cartera y se muestra en la pestaña 'Historial'."
 
 #: electrum_dash/plugins/trezor/qt.py:267
 #: electrum_dash/plugins/trezor/trezor.py:261
@@ -6130,7 +6153,7 @@ msgstr ""
 
 #: electrum_dash/wallet.py:2224 electrum_dash/wallet.py:2229
 msgid "The fee for this transaction seems unusually high."
-msgstr "A taxa para esta transação parece extraordinariamente alta."
+msgstr "La comisión de esta transacción parece inusualmente alta."
 
 #: electrum_dash/gui/qt/installwizard.py:394
 msgid ""
@@ -6141,7 +6164,7 @@ msgstr ""
 #: electrum_dash/gui/qt/installwizard.py:385
 #: electrum_dash/gui/qt/installwizard.py:399
 msgid "The file was removed"
-msgstr "O ficheiro foi removido"
+msgstr "Este archivo ha sido eliminado"
 
 #: electrum_dash/plugins/hw_wallet/plugin.py:389
 msgid ""
@@ -6152,15 +6175,15 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:3387
 msgid "The following addresses were added"
-msgstr "Os seguintes endereços foram adicionados"
+msgstr "Las siguientes direcciones fueron añadidas"
 
 #: electrum_dash/gui/qt/settings_dialog.py:109
 msgid "The following alias providers are available:"
-msgstr "Estão disponíveis os seguintes fornecedores de pseudónimos:"
+msgstr "El siguiente apodo proporcionado está disponible:"
 
 #: electrum_dash/gui/qt/main_window.py:3392
 msgid "The following inputs could not be imported"
-msgstr "Não foi possível importar as seguintes entradas"
+msgstr "Las siguientes entradas no se han podido importar"
 
 #: electrum_dash/wallet.py:2197
 msgid ""
@@ -6275,12 +6298,12 @@ msgid ""
 "This blockchain is used to verify the transactions sent by your transaction "
 "server."
 msgstr ""
-"Esta blockchain é utilizada para verificar as transações enviadas pelo seu "
-"servidor de transações."
+"Esta cadena de bloques se utiliza para verificar las transacciones enviadas "
+"por tu servidor de transacciones."
 
 #: electrum_dash/gui/qt/installwizard.py:281
 msgid "This file does not exist."
-msgstr "Este ficheiro não existe."
+msgstr "Este archivo no existe."
 
 #: electrum_dash/gui/qt/installwizard.py:294
 msgid "This file is already open in memory."
@@ -6313,12 +6336,12 @@ msgid ""
 "This information is seen by the recipient if you send them a signed payment "
 "request."
 msgstr ""
-"Esta informação é vista pelo destinatário se lhe enviar um pedido de "
-"pagamento assinado."
+"Esta información es vista por el destinatario si le envía una solicitud de "
+"pago firmado."
 
 #: electrum_dash/gui/qt/main_window.py:3164 electrum_dash/wallet.py:500
 msgid "This is a watching-only wallet"
-msgstr "Esta é uma carteira de apenas-visualização"
+msgstr "Esta es una cartera de sólo lectura"
 
 #: electrum_dash/gui/qt/main_window.py:2907
 #: electrum_dash/gui/qt/main_window.py:2991
@@ -6343,11 +6366,11 @@ msgstr ""
 
 #: electrum_dash/gui/qt/network_dialog.py:314
 msgid "This is the height of your local copy of the blockchain."
-msgstr "Esta é a altura da sua cópia local do blockchain."
+msgstr "Este es el tamaño de tu copia local de la cadena de bloques."
 
 #: electrum_dash/gui/qt/settings_dialog.py:244
 msgid "This may result in higher transactions fees."
-msgstr "Isto poderá resultar em taxas de transação mais altas."
+msgstr "Esto puede resultar en mayores comisiones de transacción."
 
 #: electrum_dash/gui/qt/main_window.py:720
 msgid "This means you will not be able to spend Dash coins with it."
@@ -6365,7 +6388,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:1362
 msgid "This payment request will be signed."
-msgstr "Este pedido de pagamento será assinado."
+msgstr "Esta solicitud de pago será firmada."
 
 #: electrum_dash/plugins/revealer/__init__.py:6
 msgid ""
@@ -6385,8 +6408,8 @@ msgstr ""
 msgid ""
 "This seed will allow you to recover your wallet in case of computer failure."
 msgstr ""
-"Esta semente vai permitir-lhe recuperar a sua carteira em caso de falha do "
-"computador."
+"Esta semilla le permitirá recuperar su cartera en caso de un fallo del "
+"ordenador."
 
 #: electrum_dash/gui/qt/settings_dialog.py:123
 msgid "This setting affects the Send tab, and all balance related fields."
@@ -6401,7 +6424,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/transaction_dialog.py:272
 msgid "This transaction is not saved. Close anyway?"
-msgstr "Esta transação não foi guardada. Fechar na mesma?"
+msgstr "Esta transacción no está guardada. ¿Cerrar de todas formas?"
 
 #: electrum_dash/gui/qt/history_list.py:341
 msgid ""
@@ -6431,7 +6454,7 @@ msgstr ""
 #: electrum_dash/gui/qt/main_window.py:2840
 #: electrum_dash/plugins/revealer/qt.py:291
 msgid "This wallet has no seed"
-msgstr "Esta carteira não tem semente"
+msgstr "Esta cartera no tiene semilla"
 
 #: electrum_dash/gui/kivy/uix/dialogs/installwizard.py:749
 msgid ""
@@ -6464,7 +6487,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:719
 msgid "This wallet is watching-only."
-msgstr "Esta carteira é apenas-visualização."
+msgstr "Esta cartera es de sólo lectura."
 
 #: electrum_dash/plugins/ledger/ledger.py:499
 msgid "This {} device can only send to base58 addresses."
@@ -6478,7 +6501,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/history_list.py:756
 msgid "To"
-msgstr ""
+msgstr "Para"
 
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:479
 #: electrum_dash/plugins/digitalbitbox/digitalbitbox.py:607
@@ -6540,8 +6563,8 @@ msgstr ""
 msgid ""
 "To make sure that you have properly saved your seed, please retype it here."
 msgstr ""
-"Para garantir que guardou corretamente a sua semente, por favor volte a "
-"introduzi-la aqui."
+"Para estar seguros de que has guardado correctamente tu semilla, por favor "
+"escríbela aquí."
 
 #: electrum_dash/gui/qt/transaction_dialog.py:819
 msgid ""
@@ -6608,17 +6631,17 @@ msgstr ""
 #: electrum_dash/gui/qt/transaction_dialog.py:327
 #: electrum_dash/gui/qt/transaction_dialog.py:710
 msgid "Transaction"
-msgstr "Transação"
+msgstr "Transacción"
 
 #: electrum_dash/gui/qt/main_window.py:3136
 #: electrum_dash/gui/qt/history_list.py:1017
 msgid "Transaction ID"
-msgstr "ID da transação"
+msgstr "ID de la Transacción"
 
 #: electrum_dash/gui/qt/transaction_dialog.py:124
 #: electrum_dash/gui/qt/transaction_dialog.py:570
 msgid "Transaction ID:"
-msgstr "ID da Transação:"
+msgstr "ID de la transacción:"
 
 #: electrum_dash/gui/qt/main_window.py:3584
 msgid "Transaction added to wallet history."
@@ -6671,7 +6694,7 @@ msgstr ""
 #: electrum_dash/gui/kivy/uix/dialogs/tx_dialog.py:171
 #: electrum_dash/gui/qt/transaction_dialog.py:491
 msgid "Transaction unrelated to your wallet"
-msgstr "Transação não relacionada com a sua carteira"
+msgstr "Transacción no relacionada con tu cartera"
 
 #: electrum_dash/network.py:920
 msgid "Transaction uses non-standard version."
@@ -6679,11 +6702,11 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:3119
 msgid "Transaction:"
-msgstr "Transação:"
+msgstr "Transacción:"
 
 #: electrum_dash/gui/qt/settings_dialog.py:433
 msgid "Transactions"
-msgstr "Transações"
+msgstr "Transacciones"
 
 #: electrum_dash/plugins/cosigner_pool/__init__.py:6
 msgid "Transactions are encrypted and stored on a remote server."
@@ -6711,7 +6734,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:997
 msgid "Try to explain not only what the bug is, but how it occurs."
-msgstr "Tente explicar não só qual é o bug, mas também como ocorre."
+msgstr "Trata de explicar no sólo el error, sino la forma en que se produce."
 
 #: electrum_dash/wallet.py:2219
 msgid ""
@@ -6754,19 +6777,20 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:797
 msgid "Unable to create backup"
-msgstr "Incapaz de criar cópia de segurança"
+msgstr "No se puede crear copias de seguridad"
 
 #: electrum_dash/gui/qt/main_window.py:3249
 msgid "Unable to create csv"
-msgstr "Incapaz de criar csv"
+msgstr "No ha sido posible crear el CSV"
 
 #: electrum_dash/gui/qt/history_list.py:1103
 msgid "Unable to export history"
-msgstr "Incapaz de exportar histórico"
+msgstr "No ha sido posible exportar tu historial"
 
 #: electrum_dash/gui/qt/main_window.py:3111
 msgid "Unable to read file or no transaction found"
-msgstr "Incapaz de ler ficheiro ou nenhuma transação encontrada"
+msgstr ""
+"No ha sido posible leer el archivo o no fue encontrada ninguna transacción"
 
 #: electrum_dash/gui/kivy/uix/dialogs/crash_reporter.py:128
 msgid "Unable to send report"
@@ -6813,7 +6837,7 @@ msgstr ""
 #: electrum_dash/gui/qt/transaction_dialog.py:451
 #: electrum_dash/dash_ps_util.py:145 electrum_dash/util.py:734
 msgid "Unknown"
-msgstr "Desconhecido"
+msgstr "Desconocido"
 
 #: electrum_dash/network.py:1166
 msgid "Unknown error"
@@ -6912,7 +6936,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/network_dialog.py:255
 msgid "Use Tor Proxy"
-msgstr "Usar Proxy TOR"
+msgstr "Usar proxy Tor"
 
 #: electrum_dash/base_wizard.py:217
 msgid "Use a hardware device"
@@ -6933,7 +6957,7 @@ msgstr "Usar como servidor"
 
 #: electrum_dash/gui/qt/settings_dialog.py:220
 msgid "Use change addresses"
-msgstr "Utilizar endereços de troco"
+msgstr "Usar direcciones de cambio"
 
 #: electrum_dash/dash_ps_util.py:598
 msgid "Use default denoms count"
@@ -6941,7 +6965,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/settings_dialog.py:239
 msgid "Use multiple change addresses"
-msgstr "Utilizar múltiplos endereços de troco"
+msgstr "Usar varias direcciones de cambio"
 
 #: electrum_dash/gui/qt/network_dialog.py:226
 msgid "Use proxy"
@@ -6949,7 +6973,7 @@ msgstr ""
 
 #: electrum_dash/gui/kivy/uix/dialogs/installwizard.py:1275
 msgid "Use the camera button to scan a QR code."
-msgstr "Use o botão da câmara para ler um código QR."
+msgstr "Use el botón de la cámara para escanear el código QR."
 
 #: electrum_dash/gui/qt/privatesend_dialog.py:208
 msgid "Use this dialog to add a password to it."
@@ -6957,7 +6981,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/password_dialog.py:260
 msgid "Use this dialog to add a password to your wallet."
-msgstr "Use este diálogo para adicionar uma palavra-passe à sua carteira."
+msgstr "Use este cuadro de diálogo para agregar una contraseña a su cartera."
 
 #: electrum_dash/gui/qt/privatesend_dialog.py:212
 msgid "Use this dialog to change password on it."
@@ -6965,7 +6989,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/password_dialog.py:266
 msgid "Use this dialog to change your password."
-msgstr "Use este diálogo para alterar a sua palavra-passe."
+msgstr "Use este cuadro de diálogo para cambiar su contraseña."
 
 #: electrum_dash/gui/qt/password_dialog.py:293
 msgid "Use this dialog to toggle encryption."
@@ -6989,15 +7013,15 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:975
 msgid "Uses icons from the Icons8 icon pack (icons8.com)."
-msgstr "Usa ícones do conjunto Icons8 (icons8.com)."
+msgstr "Usar monedas desde el paquete de iconos Icons8 (icons8.com)."
 
 #: electrum_dash/gui/qt/settings_dialog.py:230
 msgid ""
 "Using change addresses makes it more difficult for other people to track "
 "your transactions."
 msgstr ""
-"Utilizar endereços de troco faz com que seja mais difícil para outras "
-"pessoas rastrear as suas transações."
+"El uso de direcciones de cambio dificulta que otras personas puedan rastrear "
+"sus transacciones."
 
 #: electrum_dash/gui/qt/protx_qt.py:140 electrum_dash/gui/qt/protx_qt.py:167
 msgid "Valid"
@@ -7048,7 +7072,7 @@ msgstr ""
 #: electrum_dash/gui/kivy/uix/ui_screens/about.kv:13
 #: electrum_dash/gui/qt/main_window.py:969
 msgid "Version"
-msgstr "Versão"
+msgstr "Versión"
 
 #: electrum_dash/gui/qt/settings_dialog.py:147
 msgid "Video Device"
@@ -7065,13 +7089,13 @@ msgstr ""
 #: electrum_dash/gui/qt/history_list.py:1029
 #: electrum_dash/gui/qt/history_list.py:1033
 msgid "View invoice"
-msgstr "Ver Fatura"
+msgstr "Ver factura"
 
 #: electrum_dash/gui/qt/contact_list.py:95
 #: electrum_dash/gui/qt/history_list.py:1035
 #: electrum_dash/gui/qt/address_list.py:564
 msgid "View on block explorer"
-msgstr "Ver no explorador de blocos"
+msgstr "Ver en explorador de bloques"
 
 #: electrum_dash/plugins/revealer/qt.py:65
 msgid "Visual Cryptography Plugin"
@@ -7089,11 +7113,11 @@ msgstr ""
 #: electrum_dash/gui/kivy/uix/dialogs/installwizard.py:905
 #: electrum_dash/gui/qt/seed_dialog.py:56
 msgid "WARNING"
-msgstr "AVISO"
+msgstr "ADVERTENCIA"
 
 #: electrum_dash/gui/qt/main_window.py:3175
 msgid "WARNING: ALL your private keys are secret."
-msgstr "AVISO: TODAS as suas chaves privadas são secretas."
+msgstr "ADVERTENCIA: TODAS sus llaves privadas son secretas."
 
 #: electrum_dash/gui/qt/main_window.py:3168
 msgid "WARNING: This is a multi-signature wallet."
@@ -7117,7 +7141,7 @@ msgstr ""
 #: electrum_dash/gui/qt/protx_qt.py:1174
 #: electrum_dash/gui/qt/installwizard.py:218
 msgid "Wallet"
-msgstr "Carteira"
+msgstr "Cartera"
 
 #: electrum_dash/gui/qt/main_window.py:2728
 msgid "Wallet Information"
@@ -7138,11 +7162,11 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:800
 msgid "Wallet backup created"
-msgstr "Cópia de segurança da carteira criada"
+msgstr "Copia de seguridad creada"
 
 #: electrum_dash/gui/qt/transaction_dialog.py:145
 msgid "Wallet change address"
-msgstr "Endereço de troco da carteira"
+msgstr "Dirección de cambio"
 
 #: electrum_dash/gui/qt/protx_qt.py:614
 #, python-format
@@ -7178,7 +7202,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/transaction_dialog.py:143
 msgid "Wallet receive address"
-msgstr "Endereço de recebimento da carteira"
+msgstr "Recibir dirección de monedero"
 
 #: electrum_dash/gui/kivy/main_window.py:1480
 #: electrum_dash/gui/qt/main_window.py:2833
@@ -7208,7 +7232,7 @@ msgstr ""
 #: electrum_dash/wallet.py:2229 electrum_dash/plugins/revealer/qt.py:184
 #: electrum_dash/plugins/revealer/qt.py:217
 msgid "Warning"
-msgstr "Aviso"
+msgstr "Advertencia"
 
 #: electrum_dash/plugins/revealer/qt.py:274
 msgid "Warning "
@@ -7228,13 +7252,14 @@ msgid ""
 "\n"
 "Create anyway?"
 msgstr ""
-"Aviso: O endereço seguinte não será recuperado automaticamente se restaurar "
-"a sua carteira a partir da semente; pode ter que o adicionar manualmente.\n"
+"Atención: La siguiente dirección no será restaurada automáticamente si "
+"restauras tu cartera desde la semilla; puede que necesites añadirla "
+"manualmente.\n"
 "\n"
-"Isto ocorre porque você tem demasiados endereços não usados na sua carteira. "
-"Para evitar esta situação, use primeiro os endereços existentes.\n"
+"Esto ocurre porque tienes demasiadas direcciones sin usar en tu cartera. "
+"para evitar esta situación, usa las direcciones existentes primero.\n"
 "\n"
-"Ainda assim criar?"
+"¿Crear de todas formas?"
 
 #: electrum_dash/network.py:239
 msgid "Warning: Tor proxy is not detected, to enable it read the docs:"
@@ -7259,7 +7284,7 @@ msgid ""
 "We do not guarantee that BIP39 imports will always be supported in Dash "
 "Electrum."
 msgstr ""
-"Não garantimos que importações BIP39 sejam sempre suportados no Dash "
+"No se garantiza que las importaciones BIP39 serán soportadas siempre en Dash "
 "Electrum."
 
 #: electrum_dash/base_wizard.py:371
@@ -7335,7 +7360,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:2946
 msgid "Wrong signature"
-msgstr "Assinatura errada"
+msgstr "Firma errónea"
 
 #: electrum_dash/gui/kivy/uix/dialogs/question.py:53
 #: electrum_dash/plugins/trezor/qt.py:496
@@ -7351,7 +7376,7 @@ msgstr ""
 #: electrum_dash/gui/kivy/uix/ui_screens/network.kv:64
 #: electrum_dash/gui/qt/network_dialog.py:375
 msgid "You are following branch"
-msgstr "Está a seguir ramo"
+msgstr "Estás siguiendo la brecha"
 
 #: electrum_dash/gui/qt/main_window.py:741
 msgid "You are in testnet mode."
@@ -7373,8 +7398,8 @@ msgstr ""
 msgid ""
 "You are using a non-deterministic wallet, which cannot create new addresses."
 msgstr ""
-"Está a usar uma carteira não-determinística, que não permite a criação de "
-"novos endereços."
+"Está usted usando un monedero no-determinístico, el cual no puede crear "
+"direcciones nuevas."
 
 #: electrum_dash/dash_ps_util.py:896
 msgid ""
@@ -7463,7 +7488,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:2430
 msgid "You may load a CSV file using the file icon."
-msgstr "Pode carregar um ficheiro CSV usando o ícone de ficheiro."
+msgstr "Puede cargar un archivo CSV usando el icono de archivo."
 
 #: electrum_dash/network.py:1049
 msgid ""
@@ -7535,7 +7560,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/installwizard.py:382
 msgid "Your accounts have been moved to"
-msgstr "As suas contas foram movidas para"
+msgstr "Sus cuentas han sido movidas a"
 
 #: electrum_dash/plugins/trezor/qt.py:537
 #: electrum_dash/plugins/safe_t/qt.py:269
@@ -7561,11 +7586,11 @@ msgstr ""
 
 #: electrum_dash/plugins/labels/qt.py:69
 msgid "Your labels have been synchronised."
-msgstr "As suas etiquetas foram sincronizadas."
+msgstr "Tus etiquetas han sido sincronizadas."
 
 #: electrum_dash/gui/qt/seed_dialog.py:188
 msgid "Your seed extension is"
-msgstr "A extensão da sua semente é"
+msgstr "La extensión de su semilla es"
 
 #: electrum_dash/gui/qt/privatesend_dialog.py:1104
 #: electrum_dash/gui/qt/privatesend_dialog.py:1182
@@ -7576,12 +7601,12 @@ msgstr ""
 #: electrum_dash/gui/qt/installwizard.py:520
 #: electrum_dash/gui/qt/privatesend_dialog.py:1137
 msgid "Your seed is important!"
-msgstr "A sua semente é importante!"
+msgstr "¡Tu semilla es importante!"
 
 #: electrum_dash/gui/kivy/uix/ui_screens/network.kv:64
 #: electrum_dash/gui/qt/network_dialog.py:375
 msgid "Your server is on branch"
-msgstr "O seu servidor está no ramo"
+msgstr "Tu servidor está en la brecha"
 
 #: electrum_dash/network.py:992
 msgid ""
@@ -7617,19 +7642,19 @@ msgstr ""
 #: electrum_dash/gui/qt/privatesend_dialog.py:193
 #: electrum_dash/gui/qt/privatesend_dialog.py:1065
 msgid "Your wallet generation seed is:"
-msgstr "A semente de geração da sua carteira é:"
+msgstr "Su semilla para generar la cartera es:"
 
 #: electrum_dash/gui/qt/history_list.py:1105
 msgid "Your wallet history has been successfully exported."
-msgstr "O histórico da sua carteira foi exportado com sucesso."
+msgstr "El historial de tu cartera ha sido exportado exitosamente."
 
 #: electrum_dash/gui/qt/password_dialog.py:259
 msgid "Your wallet is not protected."
-msgstr "A sua carteira não está protegida."
+msgstr "Su cartera no está protegida."
 
 #: electrum_dash/gui/qt/password_dialog.py:265
 msgid "Your wallet is password protected and encrypted."
-msgstr "A sua carteira está encriptada e protegida com palavra-passe."
+msgstr "Su cartera está protegida con contraseña y cifrada."
 
 #: electrum_dash/gui/qt/util.py:1053
 #, python-brace-format
@@ -7642,7 +7667,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/settings_dialog.py:91
 msgid "Zeros after decimal point"
-msgstr "Zeros depois do ponto decimal"
+msgstr "Ceros después del punto decimal"
 
 #: electrum_dash/gui/text.py:265
 msgid "[Clear]"
@@ -7710,7 +7735,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:1984
 msgid "are frozen"
-msgstr "estão congelados"
+msgstr "están congelados"
 
 #: electrum_dash/wallet.py:2220
 msgid "below relay fee"
@@ -7719,7 +7744,7 @@ msgstr ""
 #: electrum_dash/gui/qt/network_dialog.py:364
 #: electrum_dash/gui/qt/network_dialog.py:376
 msgid "blocks"
-msgstr "blocos"
+msgstr "bloques"
 
 #: electrum_dash/gui/qt/address_list.py:235
 msgid "change"
@@ -7765,7 +7790,7 @@ msgstr ""
 #: electrum_dash/gui/qt/main_window.py:3277
 #: electrum_dash/gui/qt/main_window.py:3280
 msgid "invoices"
-msgstr ""
+msgstr "facturas"
 
 #: electrum_dash/gui/qt/main_window.py:3283
 msgid "invoices_with_ext"
@@ -7814,7 +7839,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:2258
 msgid "please wait..."
-msgstr "Por favor, aguarde…"
+msgstr "espere, por favor..."
 
 #: electrum_dash/plugins/revealer/qt.py:726
 msgid "print the calibration pdf and follow the instructions "
@@ -7888,7 +7913,7 @@ msgstr ""
 #: electrum_dash/gui/qt/transaction_dialog.py:510
 #: electrum_dash/gui/qt/utxo_list.py:184 electrum_dash/wallet.py:1205
 msgid "unknown"
-msgstr "desconhecido"
+msgstr "desconocido"
 
 #: electrum_dash/commands.py:1154
 msgid "unknown parser {!r} (choices: {})"
@@ -7904,7 +7929,7 @@ msgstr ""
 
 #: electrum_dash/gui/qt/main_window.py:707
 msgid "watching only"
-msgstr "apenas visualização"
+msgstr "sólo lectura"
 
 #: electrum_dash/gui/qt/main_window.py:2733
 msgid "watching-only"
