@@ -3714,7 +3714,7 @@ msgstr "Низкая комиссия"
 #: electrum_dash/gui/qt/address_list.py:249
 #: electrum_dash/gui/qt/utxo_list.py:75 electrum_dash/gui/qt/utxo_list.py:242
 msgid "Main"
-msgstr "Главный"
+msgstr "Главное"
 
 #: electrum_dash/plugins/scan_over_gap/scan_over_gap.py:73
 msgid "Main Account"
@@ -6621,7 +6621,7 @@ msgstr ""
 
 #: electrum_dash/plugins/scan_over_gap/__init__.py:7
 msgid "This plugin does scan over gap limits to search lost coins."
-msgstr "Плагин выполняет сканирование для поиска потерянных."
+msgstr "Плагин выполняет сканирование для поиска потерянных монет."
 
 #: electrum_dash/plugins/cosigner_pool/__init__.py:4
 msgid "This plugin facilitates the use of multi-signatures wallets."
