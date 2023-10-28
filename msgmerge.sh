@@ -9,5 +9,5 @@ do
     ldir=${ldir##*/}
     msgmerge locale/${ldir}/electrum.po locale/messages.pot > electrum.po
     mv electrum.po locale/${ldir}/
-    msgfmt --output-file=locale/${ldir}/LC_MESSAGES/electrum.mo  locale/${ldir}/electrum.po
+    msgfmt --output-file=locale/${ldir}/electrum.mo  locale/${ldir}/electrum.po
 done
